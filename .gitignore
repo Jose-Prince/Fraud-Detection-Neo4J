@@ -1,1 +1,6 @@
+# ignores credentials to driver
 .env
+
+# Ignores build directories
+FraudApi/bin/
+FraudApi/obj/
