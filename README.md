@@ -1,20 +1,11 @@
-Pre-Requisites to install C#
+# Fraud Dectection Neo4J
 
-
-if you want to try it in Visual Studio code install it with version 8. versions
-Also for future reference install the visual studio code extension for c#
-
-will use the following commands
-
-### To allow https certificates will have to do the following command
+For running the project with all the depencies needed use:
 ```bash
-dotnet dev-certs https --trust
+nix develop
+```
 
-``` 
-
-
-### To run the project will do this command
-
+For building and run the project just use the command:
 ```bash
-dotnet run --launch-profile https
-``` 
+dotnet run
+```
