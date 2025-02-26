@@ -1,0 +1,11 @@
+cardID,type,issuer,limit,status,expiryDate
+C1,Credit,B7,17490.39,Blocked,2025-09
+C2,Credit,B9,19756.4,Blocked,2035-09
+C3,Credit,B6,8499.79,Expired,2026-09
+C4,Debit,B10,17146.13,Blocked,2025-03
+C5,Debit,B5,2127.73,Expired,2033-09
+C6,Credit,B2,7480.03,Blocked,2028-08
+C7,Credit,B3,6741.16,Blocked,2033-12
+C8,Debit,B4,14829.96,Blocked,2032-03
+C9,Debit,B10,15244.35,Expired,2026-07
+C10,Debit,B2,17850.74,Blocked,2033-07

@@ -1,0 +1,11 @@
+accountID,type,balance,limit,status,created
+ACC:1,Corporate,11979.84,3147.65,Active,2012-01-09
+ACC:2,Corporate,24661.34,3382.05,Active,2013-04-21
+ACC:3,Corporate,9324.26,8314.05,Frozen,2016-09-30
+ACC:4,Personal,34971.19,6007.05,Inactive,2014-04-02
+ACC:5,Corporate,48168.17,3328.99,Active,2016-12-21
+ACC:6,Personal,40385.5,4968.11,Frozen,2021-12-08
+ACC:7,Corporate,32003.57,2974.91,Frozen,2003-08-26
+ACC:8,Corporate,44178.38,5468.71,Inactive,2008-11-10
+ACC:9,Corporate,30622.28,6754.5,Frozen,2017-06-29
+ACC:10,Corporate,1770.75,1968.45,Frozen,2019-07-26

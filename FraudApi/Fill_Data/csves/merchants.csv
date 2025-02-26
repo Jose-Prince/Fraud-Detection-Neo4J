@@ -1,0 +1,11 @@
+merchantID,name,category,location,country
+M1,Merchant1,Electronics,San Francisco,USA
+M2,Merchant2,Electronics,Chicago,USA
+M3,Merchant3,Clothing,New York,USA
+M4,Merchant4,Electronics,New York,USA
+M5,Merchant5,Restaurant,Chicago,USA
+M6,Merchant6,Clothing,San Francisco,USA
+M7,Merchant7,Clothing,Los Angeles,USA
+M8,Merchant8,Restaurant,Los Angeles,USA
+M9,Merchant9,Grocery,Chicago,USA
+M10,Merchant10,Clothing,New York,USA

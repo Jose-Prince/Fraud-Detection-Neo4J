@@ -1,0 +1,11 @@
+deviceID,type,os,ip,location
+D:1,Tablet,MacOS,192.168.17.93,Miami
+D:2,Tablet,Android,192.168.107.126,LA
+D:3,Tablet,iOS,192.168.202.1,Chicago
+D:4,Tablet,MacOS,192.168.69.225,LA
+D:5,Laptop,iOS,192.168.200.195,Chicago
+D:6,Laptop,Android,192.168.5.125,Miami
+D:7,Tablet,Windows,192.168.150.140,Chicago
+D:8,Mobile,MacOS,192.168.183.54,LA
+D:9,Mobile,MacOS,192.168.103.175,LA
+D:10,Mobile,Windows,192.168.206.238,NYC

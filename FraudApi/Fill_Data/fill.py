@@ -1,214 +1,238 @@
 import random
 import csv
+import random
+from datetime import datetime, timedelta
 
 # Sample Data for Names
 names = ["Jose", "Juan", "Alberto", "Alan", "Carlos", "Berto", "Bebe", "Paulo", "Justo", "Kali", "Jessica", "Julia", "Marco", "Peter", "Panoca"]
 last_name = ["Cabra", "Aldama", "Jackson", "Johnson", "Hayes", "Payaso", "Lopez", "Obrador", "Karlee", "Redick", "Maccain", "Macdonalds", "King", "Davis"]
 
-# Class Definitions
-class company:
-    def __init__(self, companyID, name, industry, location, taxID, size):
-        self.companyID = companyID
-        self.name = name
-        self.industry = industry
-        self.location = location
-        self.taxId = taxID
-        self.size = size
 
-class transaction:
-    def __init__(self, transactionid, amount, timestamp, device, currency, location):
-        self.transactionID = transactionid
-        self.amount = amount
-        self.timestamp = timestamp
-        self.device = device
-        self.currency = currency
-        self.location = location
+# Sample names and last names for users
+names = ["Alice", "Bob", "Charlie", "David", "Eve"]
+last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones"]
+industries = ["Finance", "Retail", "Tech", "Healthcare"]
+currencies = ["USD", "EUR", "GBP", "JPY"]
+devices = ["Mobile", "Laptop", "Tablet"]
+os_types = ["Android", "iOS", "Windows", "MacOS"]
+merchant_categories = ["Restaurant", "Clothing", "Electronics", "Grocery"]
 
-class atm:
-    def __init__(self, atmid, bankid, location, status, provider):
-        self.atmID = atmid
-        self.bankID = bankid
-        self.location = location
-        self.status = status
-        self.provider = provider
+# Helper function to generate a random date
+def random_date(start_year=2000, end_year=2025):
+    start_date = datetime(start_year, 1, 1)
+    end_date = datetime(end_year, 12, 31)
+    return start_date + timedelta(days=random.randint(0, (end_date - start_date).days))
 
-class bank:
-    def __init__(self, bankid, location, code, branchCount, founded):
-        self.bankID = bankid
-        self.name = bankid
-        self.country = location
-        self.swiftCode = code
-        self.branchCount = branchCount
-        self.founded = founded
+# Function to save objects to CSV
+def save_to_csv(filename, data, fieldnames):
+    with open(filename, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(data)
 
-class account:
-    def __init__(self, accountid, typo, balance, limit, status, created):
-        self.accountid = accountid
-        self.typo = typo
-        self.balance = balance
-        self.limit = limit
-        self.status = status
-        self.created = created
+# Generate random company
+def generate_company(company_id):
+    return {
+        "companyID": "C:"+str(company_id),
+        "name": f"Company{company_id}",
+        "industry": random.choice(industries),
+        "location": random.choice(["New York", "Los Angeles", "San Francisco", "Chicago"]),
+        "taxID": "TAX" + str(random.randint(10000, 99999)),
+        "size": random.randint(10, 10000)
+    }
 
-class user:
-    def __init__(self, userid, name, lastname, email, phone, country, birthdate):
-        self.userID = userid
-        self.name = name
-        self.lastname = lastname
-        self.email = email
-        self.phone = phone
-        self.country = country
-        self.birthDate = birthdate
-
-class merchant:
-    def __init__(self, merchantid, name, category, location, country):
-        self.merchantID = merchantid
-        self.name = name
-        self.category = category
-        self.location = location
-        self.country = country
-
-class card:
-    def __init__(self, cardid, tipo, issuer, limit, status, expiryDate):
-        self.cardID = cardid
-        self.type = tipo
-        self.issuer = issuer
-        self.limit = limit
-        self.status = status
-        self.expiryDate = expiryDate
-
-class device:
-    def __init__(self, deviceid, tipo, os, ip, location):
-        self.deviceID = deviceid
-        self.tipo = tipo
-        self.os = os
-        self.ip = ip
-        self.location = location
-
-# Helper functions to generate random data for each class
+# Generate random transaction
 def generate_transaction(transaction_id):
-    return transaction(
-        transactionid=transaction_id,
-        amount=random.uniform(10.0, 1000.0),  # Floating point amount
-        timestamp="2025-02-18T14:30:00",
-        device="D" + str(random.randint(100, 999)),
-        currency="USD",
-        location=random.choice(["Chicago", "NYC", "LA", "Miami"])
-    )
+    return {
+        "transactionID": "T:"+str(transaction_id),
+        "amount": round(random.uniform(10.0, 5000.0), 2),
+        "timestamp": random_date().strftime("%Y-%m-%dT%H:%M:%S"),
+        "device": f"D:{random.randint(1, num_records)}",
+        "currency": random.choice(currencies),
+        "location": random.choice(["Chicago", "NYC", "LA", "Miami"])
+    }
 
-def generate_account(account_id):
-    return account(
-        accountid=account_id,
-        typo=random.choice(["Personal", "Corporate"]),
-        balance=random.uniform(1000.0, 10000.0),  # Floating point balance
-        limit=random.uniform(500.0, 5000.0),  # Floating point limit
-        status=random.choice(["Active", "Inactive"]),
-        created="2022-01-01"
-    )
-
+# Generate random user
 def generate_user(user_id):
-    return user(
-        userid=user_id,
-        name=random.choice(names),
-        lastname=random.choice(last_name),
-        email=f"{user_id}@example.com",
-        phone=f"+1-{random.randint(1000000000, 9999999999)}",
-        country="USA",
-        birthdate="1990-05-20"
-    )
+    return {
+        "userID": "USR:"+str(user_id),
+        "name": random.choice(names),
+        "lastname": random.choice(last_names),
+        "email": f"user{user_id}@example.com",
+        "phone": f"+1-{random.randint(1000000000, 9999999999)}",
+        "country": "USA",
+        "birthdate": random_date(1950, 2005).strftime("%Y-%m-%d")
+    }
 
+# Generate random bank
+def generate_bank(bank_id):
+    return {
+        "bankID": "B:"+str(bank_id),
+        "location": random.choice(["USA", "UK", "Germany", "France"]),
+        "code": "SWIFT" + str(random.randint(1000, 9999)),
+        "branchCount": random.randint(1, 500),
+        "founded": random.randint(1800, 2022)
+    }
+
+# Generate random merchant
+def generate_merchant(merchant_id):
+    return {
+        "merchantID": "M"+str(merchant_id),
+        "name": f"Merchant{merchant_id}",
+        "category": random.choice(merchant_categories),
+        "location": random.choice(["New York", "Los Angeles", "San Francisco", "Chicago"]),
+        "country": "USA"
+    }
+
+# Generate random account
+def generate_account(account_id):
+    return {
+        "accountID": "ACC:"+str(account_id),
+        "type": random.choice(["Personal", "Corporate"]),
+        "balance": round(random.uniform(1000.0, 50000.0), 2),
+        "limit": round(random.uniform(500.0, 10000.0), 2),
+        "status": random.choice(["Active", "Inactive", "Frozen"]),
+        "created": random_date(2000, 2022).strftime("%Y-%m-%d")
+    }
+
+# Generate random ATM
+def generate_atm(atm_id):
+    return {
+        "atmID": "A"+str(atm_id),
+        "location": random.choice(["Downtown", "Suburb", "Mall", "Airport"]),
+        "status": random.choice(["Active", "Inactive", "Maintenance"]),
+        "provider": f"Provider{random.randint(1, 5)}"
+    }
+
+# Generate random card
+def generate_card(card_id):
+    return {
+        "cardID": "C"+str(card_id),
+        "type": random.choice(["Credit", "Debit"]),
+        "issuer": f"B{random.randint(1, num_records)}",
+        "limit": round(random.uniform(1000.0, 20000.0), 2),
+        "status": random.choice(["Active", "Blocked", "Expired"]),
+        "expiryDate": random_date(2025, 2035).strftime("%Y-%m")
+    }
+
+# Generate random device
 def generate_device(device_id):
-    return device(
-        deviceid=device_id,
-        tipo="Mobile",
-        os="Android",
-        ip=f"192.168.{random.randint(0, 255)}.{random.randint(0, 255)}",
-        location=random.choice(["Chicago", "NYC", "LA", "Miami"])
-    )
-
-# Generate Random Relationships
-def generate_relationship(user_instance, account_instance, transaction_instance, bank_instance, device_instance, card_instance, merchant_instance, atm_instance):
-    relationships = [
-        "OWNS", "MAKES", "AUTHORIZES", "TO", "DEPOSITS", "WITHDRAWS", "LINKED_TO", "EMPLOYS", "HAS_ACCOUNT", "REFERS", "MANAGED_BY", "USES_DEVICE",
-        "USES", "LINKED_TO_ACCOUNT", "PROCESSED_BY", "OPERATED_BY", "ORIGINATES_FROM", "REGISTERED_WITH", "REPORTS"
-    ]
-    
-    relationship = random.choice(relationships)
-    
-    if relationship == "OWNS":
-        return f"(:User {{userID: '{user_instance.userID}'}})-[:OWNS {{since: '2022-01-01', accountType: '{account_instance.typo}', created: '2022-01-01'}}]->(:Account {{accountID: '{account_instance.accountid}', type: '{account_instance.typo}', balance: {account_instance.balance}, limit: {account_instance.limit}, status: '{account_instance.status}', created: '{account_instance.created}'}})"
-    
-    elif relationship == "MAKES":
-        return f"(:Account {{accountID: '{account_instance.accountid}', type: '{account_instance.typo}', balance: {account_instance.balance}, status: '{account_instance.status}'}})-[:MAKES {{timestamp: '{transaction_instance.timestamp}', channel: 'Online Banking', status: 'Approved'}}]->(:Transaction {{transactionID: '{transaction_instance.transactionID}', amount: {transaction_instance.amount}, timestamp: '{transaction_instance.timestamp}', device: '{transaction_instance.device}', currency: '{transaction_instance.currency}', location: '{transaction_instance.location}'}})"
-    
-    elif relationship == "TO":
-        return f"(:Transaction {{transactionID: '{transaction_instance.transactionID}', amount: {transaction_instance.amount}, timestamp: '{transaction_instance.timestamp}', device: '{transaction_instance.device}', currency: '{transaction_instance.currency}', location: '{transaction_instance.location}'}})-[:TO {{processingTime: '2s', medium: 'Online Transfer', channel: 'Web'}}]->(:Account {{accountID: '{account_instance.accountid}', type: '{account_instance.typo}', balance: {account_instance.balance}, status: '{account_instance.status}'}})"
-    
-    elif relationship == "DEPOSITS":
-        return f"(:User {{userID: '{user_instance.userID}'}})-[:DEPOSITS {{time: '{transaction_instance.timestamp}', origin: 'Cash Deposit', amount: {transaction_instance.amount}}}]->(:Account {{accountID: '{account_instance.accountid}', type: '{account_instance.typo}', balance: {account_instance.balance}, status: '{account_instance.status}'}})"
-    
-    elif relationship == "WITHDRAWS":
-        return f"(:User {{userID: '{user_instance.userID}'}})-[:WITHDRAWS {{time: '{transaction_instance.timestamp}', method: 'ATM', place: 'Zone 10'}}]->(:Account {{accountID: '{account_instance.accountid}', type: '{account_instance.typo}', balance: {account_instance.balance}, status: '{account_instance.status}'}})"
-    
-    elif relationship == "USES_DEVICE":
-        return f"(:User {{userID: '{user_instance.userID}'}})-[:USES_DEVICE {{timestamp: '{transaction_instance.timestamp}', location: '{device_instance.location}', appUsed: 'Banking App'}}]->(:Device {{deviceID: '{device_instance.deviceID}'}})"
-    
-    elif relationship == "USES":
-        return f"(:User {{userID: '{user_instance.userID}'}})-[:USES {{since: '2023-05-01', status: 'Active'}}]->(:Card {{cardID: '{card_instance.cardID}'}})"
-    
-    elif relationship == "LINKED_TO_ACCOUNT":
-        return f"(:Card {{cardID: '{card_instance.cardID}'}})-[:LINKED_TO {{linkedSince: '2023-06-10', type: 'Debit'}}]->(:Account {{accountID: '{account_instance.accountid}'}})"
-    
-    elif relationship == "PROCESSED_BY":
-        return f"(:Transaction {{transactionID: '{transaction_instance.transactionID}'}})-[:PROCESSED_BY {{time: '{transaction_instance.timestamp}', method: 'POS'}}]->(:Merchant {{merchantID: '{merchant_instance.merchantID}'}})"
-    
-    elif relationship == "OPERATED_BY":
-        return f"(:ATM {{atmID: '{atm_instance.atmID}'}})-[:OPERATED_BY {{since: '2018-07-15'}}]->(:Bank {{bankID: '{bank_instance.bankID}'}})"
-    
-    elif relationship == "ORIGINATES_FROM":
-        return f"(:Transaction {{transactionID: '{transaction_instance.transactionID}'}})-[:ORIGINATES_FROM {{ip: '192.168.1.10', method: 'Mobile App'}}]->(:Device {{deviceID: '{device_instance.deviceID}'}})"
-    
-    elif relationship == "REGISTERED_WITH":
-        return f"(:Merchant {{merchantID: '{merchant_instance.merchantID}'}})-[:REGISTERED_WITH {{since: '2020-04-15', accountType: 'Business'}}]->(:Bank {{bankID: '{bank_instance.bankID}'}})"
-    
-    elif relationship == "REPORTS":
-        return f"(:User {{userID: '{user_instance.userID}'}})-[:REPORTS {{reason: 'Unauthorized Charge', reportedAt: '{transaction_instance.timestamp}'}}]->(:Transaction {{transactionID: '{transaction_instance.transactionID}'}})"
-    
-    else:
-        return ""
+    return {
+        "deviceID": "D:"+str(device_id),
+        "type": random.choice(devices),
+        "os": random.choice(os_types),
+        "ip": f"192.168.{random.randint(0, 255)}.{random.randint(0, 255)}",
+        "location": random.choice(["Chicago", "NYC", "LA", "Miami"])
+    }
 
 
-# Generate Data and Cypher Queries
-cypher_queries = []
-for i in range(51):  # Adjust this for the number of nodes you want to generate
-    transaction_instance = generate_transaction(f"T{i}")
-    account_instance = generate_account(f"A{i}")
-    user_instance = generate_user(f"U{i}")
-    bank_instance = bank(bankid=f"B{i}", location="USA", code=f"SW{i}", branchCount=10, founded="2000")
-    device_instance = generate_device(f"D{i}")
-    card_instance = card(cardid=f"C{i}", tipo="Credit", issuer="BankX", limit=5000, status="Active", expiryDate="2027-12-31")
-    merchant_instance = merchant(merchantid=f"M{i}", name="StoreX", category="Retail", location="NYC", country="USA")
-    atm_instance = atm(atmid=f"ATM{i}", bankid=f"B{i}", location="Downtown", status="Active", provider="BankX")
-    
-    cypher_queries.append(generate_relationship(user_instance, account_instance, transaction_instance, bank_instance, device_instance, card_instance, merchant_instance, atm_instance))
-   
-# Path to your CSV file
-csv_file_path = 'cypher_queries.csv'
+def write_relationships_to_csv(relationships, filename):
+    """Writes relationships to a specified CSV file."""
+    with open(filename, mode='a', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=relationships[0].keys())
+        writer.writeheader()
+        writer.writerows(relationships)
 
-# Header for the CSV file
-header = ['P']
 
-# Open the CSV file in append mode
-with open(csv_file_path, mode='a', newline='') as file:
-    writer = csv.writer(file)
-    
-    # Write header if the file is empty
-    if file.tell() == 0:  # Check if the file is empty (tell() returns current position)
-        writer.writerow(header)
-    
-    # Append each query to the CSV file, only if it's not empty
-    for query in cypher_queries:
-        if query.strip():  # Ensure the query is not an empty string or just whitespace
-            writer.writerow([query])  # Each query is written as a single row
+def generate_relationships(users, accounts, banks, companies, devices):
+    for user in users:
+        account = random.choice(accounts)
 
-print("Cypher queries have been appended to the CSV file.")
+        # User owns an account
+        owns_relationship = {
+            "startNode": user["userID"],
+            "endNode": account["accountID"],
+            "relationship": "OWNS",
+            "since": random_date(2015, 2023).strftime("%Y-%m-%d")
+        }
+        write_relationships_to_csv([owns_relationship], 'Fill_Data/csves/owns_relation.csv')
+
+        # User deposits money
+        deposit_amount = round(random.uniform(100, 5000), 2)
+        deposits_relationship = {
+            "startNode": user["userID"],
+            "endNode": account["accountID"],
+            "relationship": "DEPOSITS",
+            "timestamp": random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
+            "amount": deposit_amount
+        }
+        write_relationships_to_csv([deposits_relationship], 'Fill_Data/csves/deposits_relation.csv')
+
+        # User withdraws money
+        withdrawal_amount = round(random.uniform(100, 2000), 2)
+        withdraws_relationship = {
+            "startNode": user["userID"],
+            "endNode": account["accountID"],
+            "relationship": "WITHDRAWS",
+            "timestamp": random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
+            "amount": withdrawal_amount
+        }
+        write_relationships_to_csv([withdraws_relationship], 'Fill_Data/csves/withdraws_relation.csv')
+
+    for account in accounts:
+        bank = random.choice(banks)
+
+        # Bank has an account
+        bank_relationship = {
+            "startNode": bank["bankID"],
+            "endNode": account["accountID"],
+            "relationship": "HAS_ACCOUNT",
+            "opened": account["created"],
+            "branch": "Main Office"
+        }
+        write_relationships_to_csv([bank_relationship], 'Fill_Data/csves/has_accs_relation.csv')
+
+    for company in companies:
+        user = random.choice(users)
+
+        # Company employs user
+        company_relationship = {
+            "startNode": company["companyID"],
+            "endNode": user["userID"],
+            "relationship": "EMPLOYS",
+            "since": random_date(2015, 2023).strftime("%Y-%m-%d"),
+            "position": "Software Engineer"
+        }
+        write_relationships_to_csv([company_relationship], 'Fill_Data/csves/company_relationships.csv')
+
+    for device in devices:
+        user = random.choice(users)
+
+        # User uses a device
+        device_relationship = {
+            "startNode": user["userID"],
+            "endNode": device["deviceID"],
+            "relationship": "USES_DEVICE",
+            "timestamp": random_date(2022, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
+            "location": device["location"]
+        }
+        write_relationships_to_csv([device_relationship], 'Fill_Data/csves/device_relationships.csv')
+
+
+# Generate random data and save to CSV
+num_records = 10  # Number of records per class
+
+companies = [generate_company(i) for i in range(1, num_records + 1)]
+transactions = [generate_transaction(i) for i in range(1, num_records + 1)]
+users = [generate_user(i) for i in range(1, num_records + 1)]
+banks = [generate_bank(i) for i in range(1, num_records + 1)]
+merchants = [generate_merchant(i) for i in range(1, num_records + 1)]
+accounts = [generate_account(i) for i in range(1, num_records + 1)]
+atms = [generate_atm(i) for i in range(1, num_records + 1)]
+cards = [generate_card(i) for i in range(1, num_records + 1)]
+devices = [generate_device(i) for i in range(1, num_records + 1)]
+
+save_to_csv("Fill_Data/csves/companies.csv", companies, companies[0].keys())
+save_to_csv("Fill_Data/csves/transactions.csv", transactions, transactions[0].keys())
+save_to_csv("Fill_Data/csves/users.csv", users, users[0].keys())
+save_to_csv("Fill_Data/csves/banks.csv", banks, banks[0].keys())
+save_to_csv("Fill_Data/csves/merchants.csv", merchants, merchants[0].keys())
+save_to_csv("Fill_Data/csves/accounts.csv", accounts, accounts[0].keys())
+save_to_csv("Fill_Data/csves/atms.csv", atms, atms[0].keys())
+save_to_csv("Fill_Data/csves/cards.csv", cards, cards[0].keys())
+save_to_csv("Fill_Data/csves/devices.csv", devices, devices[0].keys())
+
+# Call the function to generate relationships and write to CSV
+generate_relationships(users, accounts, banks, companies, devices)
+
+print("CSV files generated successfully!")

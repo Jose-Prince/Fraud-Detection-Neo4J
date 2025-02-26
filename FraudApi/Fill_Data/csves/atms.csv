@@ -1,0 +1,11 @@
+atmID,location,status,provider
+A1,Mall,Active,Provider4
+A2,Mall,Inactive,Provider3
+A3,Downtown,Maintenance,Provider2
+A4,Mall,Maintenance,Provider5
+A5,Mall,Inactive,Provider3
+A6,Airport,Maintenance,Provider3
+A7,Mall,Inactive,Provider4
+A8,Suburb,Inactive,Provider4
+A9,Airport,Maintenance,Provider4
+A10,Mall,Inactive,Provider3

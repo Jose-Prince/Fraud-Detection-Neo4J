@@ -1,0 +1,11 @@
+userID,name,lastname,email,phone,country,birthdate
+USR:1,Eve,Johnson,user1@example.com,+1-8328582695,USA,1953-07-21
+USR:2,Bob,Brown,user2@example.com,+1-3767097899,USA,1974-12-25
+USR:3,Eve,Smith,user3@example.com,+1-1138876309,USA,1971-10-17
+USR:4,Eve,Brown,user4@example.com,+1-2198305579,USA,1992-05-13
+USR:5,Alice,Jones,user5@example.com,+1-4869570422,USA,1991-05-03
+USR:6,Alice,Brown,user6@example.com,+1-3804663063,USA,1961-02-09
+USR:7,Bob,Brown,user7@example.com,+1-5073798786,USA,1956-11-02
+USR:8,Alice,Smith,user8@example.com,+1-8638719952,USA,1982-03-09
+USR:9,Charlie,Jones,user9@example.com,+1-7437756070,USA,1980-04-06
+USR:10,Charlie,Brown,user10@example.com,+1-9329691852,USA,2002-06-28

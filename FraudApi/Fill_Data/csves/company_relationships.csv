@@ -1,0 +1,20 @@
+startNode,endNode,relationship,since,position
+C:1,USR:4,EMPLOYS,2016-05-12,Software Engineer
+startNode,endNode,relationship,since,position
+C:2,USR:8,EMPLOYS,2022-03-27,Software Engineer
+startNode,endNode,relationship,since,position
+C:3,USR:10,EMPLOYS,2020-09-13,Software Engineer
+startNode,endNode,relationship,since,position
+C:4,USR:1,EMPLOYS,2016-06-05,Software Engineer
+startNode,endNode,relationship,since,position
+C:5,USR:1,EMPLOYS,2020-12-13,Software Engineer
+startNode,endNode,relationship,since,position
+C:6,USR:5,EMPLOYS,2020-02-18,Software Engineer
+startNode,endNode,relationship,since,position
+C:7,USR:9,EMPLOYS,2022-12-09,Software Engineer
+startNode,endNode,relationship,since,position
+C:8,USR:7,EMPLOYS,2017-02-14,Software Engineer
+startNode,endNode,relationship,since,position
+C:9,USR:3,EMPLOYS,2016-11-20,Software Engineer
+startNode,endNode,relationship,since,position
+C:10,USR:10,EMPLOYS,2020-03-07,Software Engineer

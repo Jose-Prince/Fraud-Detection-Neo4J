@@ -1,0 +1,20 @@
+startNode,endNode,relationship,opened,branch
+B:10,ACC:1,HAS_ACCOUNT,2012-01-09,Main Office
+startNode,endNode,relationship,opened,branch
+B:4,ACC:2,HAS_ACCOUNT,2013-04-21,Main Office
+startNode,endNode,relationship,opened,branch
+B:1,ACC:3,HAS_ACCOUNT,2016-09-30,Main Office
+startNode,endNode,relationship,opened,branch
+B:1,ACC:4,HAS_ACCOUNT,2014-04-02,Main Office
+startNode,endNode,relationship,opened,branch
+B:2,ACC:5,HAS_ACCOUNT,2016-12-21,Main Office
+startNode,endNode,relationship,opened,branch
+B:3,ACC:6,HAS_ACCOUNT,2021-12-08,Main Office
+startNode,endNode,relationship,opened,branch
+B:1,ACC:7,HAS_ACCOUNT,2003-08-26,Main Office
+startNode,endNode,relationship,opened,branch
+B:6,ACC:8,HAS_ACCOUNT,2008-11-10,Main Office
+startNode,endNode,relationship,opened,branch
+B:4,ACC:9,HAS_ACCOUNT,2017-06-29,Main Office
+startNode,endNode,relationship,opened,branch
+B:2,ACC:10,HAS_ACCOUNT,2019-07-26,Main Office

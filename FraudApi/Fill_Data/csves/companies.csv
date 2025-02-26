@@ -1,0 +1,11 @@
+companyID,name,industry,location,taxID,size
+C:1,Company1,Finance,San Francisco,TAX43462,8962
+C:2,Company2,Tech,Los Angeles,TAX68004,8994
+C:3,Company3,Finance,New York,TAX27893,941
+C:4,Company4,Tech,Los Angeles,TAX83880,4230
+C:5,Company5,Tech,Los Angeles,TAX62403,6557
+C:6,Company6,Healthcare,Los Angeles,TAX21751,789
+C:7,Company7,Finance,New York,TAX26594,6210
+C:8,Company8,Retail,Chicago,TAX53853,5684
+C:9,Company9,Healthcare,Los Angeles,TAX14370,5120
+C:10,Company10,Retail,Chicago,TAX29487,9742
