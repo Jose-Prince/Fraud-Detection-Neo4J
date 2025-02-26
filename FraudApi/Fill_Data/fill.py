@@ -210,7 +210,7 @@ def generate_relationships(users, accounts, banks, companies, devices):
 
 
 # Generate random data and save to CSV
-num_records = 5000  # Number of records per class
+num_records = 600  # Number of records per class
 
 companies = [generate_company(i) for i in range(1, num_records + 1)]
 transactions = [generate_transaction(i) for i in range(1, num_records + 1)]
