@@ -30,10 +30,36 @@ public class Controller : ControllerBase
             return Ok("Node created");
         }
     }
+
+    [HttpPost("relationCreation")]
+    public async Task<IActionResult> CreationRelQuery([FromBody] Rel relation) {
+        if (relation == null) {
+            return BadRequest("Invalid body in request");
+        } else {
+            await _neo4jConnector.CreateRelation(
+                    relation.nodeLabel1, 
+                    relation.nodeLabel2, 
+                    relation.attributes1, 
+                    relation.attributes2, 
+                    relation.relationName, 
+                    relation.relationAttributes
+                    );
+            return Ok("Relation created");
+        }
+    }
 }
 
 public class Node {
-    public string label { get; set;}
-    public Dictionary<string, object> attributes { get; set;}
+    public string label { get; set; }
+    public Dictionary<string, object> attributes { get; set; }
+}
+
+public class Rel {
+    public string nodeLabel1 { get; set; } 
+    public string nodeLabel2 {get; set; } 
+    public Dictionary<string, object> attributes1 { get; set; } 
+    public Dictionary<string, object> attributes2 { get; set; } 
+    public string relationName { get; set; } 
+    public Dictionary<string, object> relationAttributes { get; set; }
 }
 
