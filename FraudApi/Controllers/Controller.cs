@@ -26,7 +26,7 @@ public class Controller : ControllerBase
         if (node == null) {
             return BadRequest("Invalid body in request");
         } else {
-            await _neo4jConnector.CreateNode(node.label, node.attributes);
+            await _neo4jConnector.CreateNode(node.labels, node.attributes);
             return Ok("Node created");
         }
     }
@@ -50,7 +50,7 @@ public class Controller : ControllerBase
 }
 
 public class Node {
-    public string label { get; set; }
+    public string[] labels { get; set; }
     public Dictionary<string, object> attributes { get; set; }
 }
 

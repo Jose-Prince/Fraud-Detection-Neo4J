@@ -22,7 +22,13 @@ public class Neo4JConnector : IAsyncDisposable {
     }
 
     // Node Creation
-    public async Task CreateNode(string nodeLabel, Dictionary<string, object> attributes) {
+    public async Task CreateNode(string[] nodeLabels, Dictionary<string, object> attributes) {
+
+        var nodeLabelsList = new StringBuilder();
+
+        foreach (var item in nodeLabels) {
+            nodeLabelsList.Append($":{item}");
+        }
 
         var attributesList = new StringBuilder();
 
@@ -40,14 +46,21 @@ public class Neo4JConnector : IAsyncDisposable {
         await using var session = _driver.AsyncSession();
         
         try {
-            await session.RunAsync($"CREATE (n:{nodeLabel} {{ {attributesList} }} )");
+            await session.RunAsync($"CREATE (n{nodeLabelsList} {{ {attributesList} }} )");
         } finally {
             await session.CloseAsync();
         }
     }
 
     // Relation Creation
-    public async Task CreateRelation(string nodeLabel1, string nodeLabel2, Dictionary<string, object> attributes1, Dictionary<string, object> attributes2, string relationName, Dictionary<string, object> relationAttributes) {
+    public async Task CreateRelation(
+            string nodeLabel1, 
+            string nodeLabel2, 
+            Dictionary<string, object> attributes1, 
+            Dictionary<string, object> attributes2, 
+            string relationName, Dictionary<string, 
+            object> relationAttributes) 
+    {
         var attributesList1 = new StringBuilder();
         var attributesList2 = new StringBuilder();
         var attributesRelList = new StringBuilder();
