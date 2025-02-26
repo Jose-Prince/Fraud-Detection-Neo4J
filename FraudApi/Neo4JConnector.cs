@@ -47,6 +47,53 @@ public class Neo4JConnector : IAsyncDisposable {
     }
 
     // Relation Creation
+    public async Task CreateRelation(string nodeLabel1, string nodeLabel2, Dictionary<string, object> attributes1, Dictionary<string, object> attributes2, string relationName, Dictionary<string, object> relationAttributes) {
+        var attributesList1 = new StringBuilder();
+        var attributesList2 = new StringBuilder();
+        var attributesRelList = new StringBuilder();
+
+        foreach (var item in attributes1) {
+            string key = item.Key;
+            object value = item.Value;
+
+            string formattedValue = FormatValue(value);
+            attributesList1.Append($"{key}:{formattedValue}, ");
+        }
+
+        if (attributesList1.Length > 0) attributesList1.Length -= 2;
+
+        foreach (var item in attributes2) {
+            string key = item.Key;
+            object value = item.Value;
+
+            string formattedValue = FormatValue(value);
+            attributesList2.Append($"{key}:{formattedValue}, ");
+        }
+
+        if (attributesList2.Length > 0) attributesList2.Length -= 2;
+    
+        foreach (var item in relationAttributes) {
+            string key = item.Key;
+            object value = item.Value;
+
+            string formattedValue = FormatValue(value);
+            attributesRelList.Append($"{key}:{formattedValue}, ");
+        }
+
+        if (attributesRelList.Length > 0) attributesRelList.Length -= 2;
+
+        await using var session = _driver.AsyncSession();
+
+        try {
+            await session.RunAsync(
+                    $"MATCH (n:{nodeLabel1} {{ {attributesList1} }} )" +
+                    $"MATCH (p:{nodeLabel2} {{ {attributesList2} }} )" +
+                    $"CREATE (n)-[:{relationName} {{ {attributesRelList} }}]->(p)"
+                    );
+        } finally {
+            await session.CloseAsync();
+        }
+    }
 
     //Defines Querys
     public async Task<List<string>> QueryExample() {
