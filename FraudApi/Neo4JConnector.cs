@@ -4,6 +4,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Neo4j.Driver;
 using DotNetEnv;
+using System.Text.Json;
 
 //Driver configuration
 public class Neo4JConnector : IAsyncDisposable {
@@ -137,25 +138,59 @@ public class Neo4JConnector : IAsyncDisposable {
         var results = new List<Dictionary<string, object>>();
 
         try {
+            // Convertir los valores de los filtros a tipos primitivos
+            var convertedFilters = new Dictionary<string, object>();
+            foreach (var filter in filters) {
+                if (filter.Value is JsonElement jsonElement) {
+                    convertedFilters[filter.Key] = ConvertJsonElement(jsonElement);
+                } else {
+                    convertedFilters[filter.Key] = filter.Value;
+                }
+            }
+
             // Construir la consulta
             var filterClauses = new List<string>();
-            foreach (var filter in filters) {
-                filterClauses.Add($"{filter.Key} = ${filter.Key}");
+            foreach (var filter in convertedFilters) {
+                filterClauses.Add($"n.{filter.Key} = ${filter.Key}"); // Usar n.<propiedad> = $<parámetro>
             }
             var filterString = string.Join(" AND ", filterClauses);
-            
+
             var query = $"MATCH (n:{label}) WHERE {filterString} RETURN n";
 
-            var result = await session.RunAsync(query, filters);
+            var result = await session.RunAsync(query, convertedFilters);
 
             await foreach (var record in result) {
-                results.Add(record["n"].As<INode>().Properties);
+                var properties = record["n"].As<INode>().Properties;
+                results.Add(properties.ToDictionary(kvp => kvp.Key, kvp => kvp.Value));
             }
         } finally {
             await session.CloseAsync();
         }
 
         return results;
+    }
+
+    // Método para convertir JsonElement a tipos primitivos
+    private object ConvertJsonElement(JsonElement jsonElement) {
+        switch (jsonElement.ValueKind) {
+            case JsonValueKind.String:
+                return jsonElement.GetString();
+            case JsonValueKind.Number:
+                if (jsonElement.TryGetInt32(out int intValue)) {
+                    return intValue;
+                } else if (jsonElement.TryGetDouble(out double doubleValue)) {
+                    return doubleValue;
+                }
+                break;
+            case JsonValueKind.True:
+            case JsonValueKind.False:
+                return jsonElement.GetBoolean();
+            case JsonValueKind.Null:
+                return null;
+            default:
+                throw new NotSupportedException($"Unsupported JsonValueKind: {jsonElement.ValueKind}");
+        }
+        return null;
     }
 
     //Gets nodes by Id (only one)
@@ -168,7 +203,8 @@ public class Neo4JConnector : IAsyncDisposable {
             var result = await session.RunAsync(query, new { id });
 
             if (await result.FetchAsync()) {
-                resultNode = result.Current["n"].As<INode>().Properties;
+                var properties = result.Current["n"].As<INode>().Properties;
+                resultNode = properties.ToDictionary(kvp => kvp.Key, kvp => kvp.Value); // Convertir a Dictionary
             }
         } finally {
             await session.CloseAsync();
@@ -187,7 +223,8 @@ public class Neo4JConnector : IAsyncDisposable {
             var result = await session.RunAsync(query);
 
             await foreach (var record in result) {
-                results.Add(record["n"].As<INode>().Properties);
+                var properties = record["n"].As<INode>().Properties;
+                results.Add(properties.ToDictionary(kvp => kvp.Key, kvp => kvp.Value)); // Convertir a Dictionary
             }
         } finally {
             await session.CloseAsync();
