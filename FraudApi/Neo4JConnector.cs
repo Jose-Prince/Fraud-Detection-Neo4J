@@ -301,7 +301,23 @@ public class Neo4JConnector : IAsyncDisposable {
         }
     }
 
+    //Delate Relationships (1+)
+    public async Task DeleteRelations(List<FraudApi.Controllers.RelationToDelete> relations) {
+        await using var session = _driver.AsyncSession();
 
+        try {
+            // Ejecutar cada consulta dentro del mismo bucle
+            foreach (var rel in relations) {
+                var query = $@"
+                    MATCH (n1:{rel.label1} {{userID: $id1}})-[r:{rel.relationName}]->(n2:{rel.label2} {{userID: $id2}})
+                    DELETE r";
+
+                await session.RunAsync(query, new { id1 = rel.id1, id2 = rel.id2 });
+            }
+        } finally {
+            await session.CloseAsync();
+        }
+    }
 
     public string FormatValue(object value) {
         if (value == null)

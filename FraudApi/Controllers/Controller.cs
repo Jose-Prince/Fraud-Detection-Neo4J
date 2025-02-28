@@ -101,6 +101,17 @@ public class Controller : ControllerBase
         return Ok("Nodes deleted successfully");
     }
 
+    //Delete Relationships
+    [HttpPost("relations/delete")]
+    public async Task<IActionResult> DeleteRelations([FromBody] List<RelationToDelete> relations) {
+        if (relations == null || relations.Count == 0) {
+            return BadRequest("No relations provided for deletion.");
+        }
+
+        await _neo4jConnector.DeleteRelations(relations);
+        return Ok("Relations deleted successfully");
+    }
+
 }
 
 public class Node {
@@ -126,3 +137,12 @@ public class DeleteRequest {
     public string Label { get; set; }
     public Dictionary<string, object> Filters { get; set; }
 }
+
+public class RelationToDelete {
+    public string label1 { get; set; }
+    public string id1 { get; set; }
+    public string relationName { get; set; }
+    public string label2 { get; set; }
+    public string id2 { get; set; }
+}
+
