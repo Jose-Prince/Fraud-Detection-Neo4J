@@ -138,7 +138,6 @@ public class Neo4JConnector : IAsyncDisposable {
         var results = new List<Dictionary<string, object>>();
 
         try {
-            // Convertir los valores de los filtros a tipos primitivos
             var convertedFilters = new Dictionary<string, object>();
             foreach (var filter in filters) {
                 if (filter.Value is JsonElement jsonElement) {
@@ -148,10 +147,9 @@ public class Neo4JConnector : IAsyncDisposable {
                 }
             }
 
-            // Construir la consulta
             var filterClauses = new List<string>();
             foreach (var filter in convertedFilters) {
-                filterClauses.Add($"n.{filter.Key} = ${filter.Key}"); // Usar n.<propiedad> = $<parámetro>
+                filterClauses.Add($"n.{filter.Key} = ${filter.Key}");
             }
             var filterString = string.Join(" AND ", filterClauses);
 
@@ -193,21 +191,19 @@ public class Neo4JConnector : IAsyncDisposable {
         return null;
     }
 
-    //Gets nodes by Id (only one)
+    //Gets node by Id (only one)
     public async Task<Dictionary<string, object>> GetNodeById(string label, string id) {
         await using var session = _driver.AsyncSession();
         Dictionary<string, object> resultNode = null;
 
         try {
-            // Consulta corregida: usar parámetros en lugar de incluir el valor directamente
             var query = $"MATCH (n:{label}) WHERE n.userID = $id RETURN n";
             
-            // Pasar el parámetro correctamente
             var result = await session.RunAsync(query, new { id });
 
             if (await result.FetchAsync()) {
                 var properties = result.Current["n"].As<INode>().Properties;
-                resultNode = properties.ToDictionary(kvp => kvp.Key, kvp => kvp.Value); // Convertir a Dictionary
+                resultNode = properties.ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
             }
         } finally {
             await session.CloseAsync();
@@ -227,7 +223,7 @@ public class Neo4JConnector : IAsyncDisposable {
 
             await foreach (var record in result) {
                 var properties = record["n"].As<INode>().Properties;
-                results.Add(properties.ToDictionary(kvp => kvp.Key, kvp => kvp.Value)); // Convertir a Dictionary
+                results.Add(properties.ToDictionary(kvp => kvp.Key, kvp => kvp.Value));
             }
         } finally {
             await session.CloseAsync();
@@ -242,13 +238,10 @@ public class Neo4JConnector : IAsyncDisposable {
         object result = null;
 
         try {
-            // Construir la consulta
             string query;
             if (property != null) {
-                // Si se proporciona una propiedad, se usa en la función de agregación
                 query = $"MATCH (n:{label}) RETURN {aggregateFunction}(n.{property}) AS result";
             } else {
-                // Si no se proporciona una propiedad, se hace una agregación sobre los nodos
                 query = $"MATCH (n:{label}) RETURN {aggregateFunction}(n) AS result";
             }
 
@@ -264,7 +257,51 @@ public class Neo4JConnector : IAsyncDisposable {
         return result;
     }
 
-    
+    //Delete nodes
+    //Delete only one node
+    public async Task DeleteNode(string label, string id) {
+        await using var session = _driver.AsyncSession();
+        try {
+            var deleteRelationshipsQuery = $"MATCH (n:{label} {{userID: $id}}) DETACH DELETE n";
+            await session.RunAsync(deleteRelationshipsQuery, new { id });
+        } finally {
+            await session.CloseAsync();
+        }
+    }
+
+    //Delete too much nodes
+    public async Task DeleteManyNodes(string label, Dictionary<string, object> filters) {
+        await using var session = _driver.AsyncSession();
+
+        try {
+            var convertedFilters = new Dictionary<string, object>();
+            foreach (var filter in filters) {
+                if (filter.Value is JsonElement jsonElement) {
+                    convertedFilters[filter.Key] = ConvertJsonElement(jsonElement);
+                } else {
+                    convertedFilters[filter.Key] = filter.Value;
+                }
+            }
+
+            if (convertedFilters.Count == 0) {
+                throw new ArgumentException("No filters provided for deletion.");
+            }
+
+            var filterClauses = new List<string>();
+            foreach (var filter in convertedFilters) {
+                filterClauses.Add($"n.{filter.Key} = ${filter.Key}");
+            }
+            var filterString = string.Join(" AND ", filterClauses);
+
+            var query = $"MATCH (n:{label}) WHERE {filterString} DETACH DELETE n";
+            await session.RunAsync(query, convertedFilters);
+
+        } finally {
+            await session.CloseAsync();
+        }
+    }
+
+
 
     public string FormatValue(object value) {
         if (value == null)

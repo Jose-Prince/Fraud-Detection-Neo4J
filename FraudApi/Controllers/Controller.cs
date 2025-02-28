@@ -14,11 +14,11 @@ public class Controller : ControllerBase
         _neo4jConnector = neo4jConnector;
     }
 
-    [HttpGet("neo4")] // Route for endpoint
+    [HttpGet("neo4")]
     public async Task<IActionResult> QueryExample() 
     {
-        var nodes = await _neo4jConnector.QueryExample(); // Calls query for DB
-        return Ok(nodes); // returns result
+        var nodes = await _neo4jConnector.QueryExample();
+        return Ok(nodes);
     }
 
     [HttpPost("creation")]
@@ -84,6 +84,23 @@ public class Controller : ControllerBase
         return Ok(result);
     }
 
+    //Delete nodes
+    [HttpDelete("node/{label}/{id}")]
+    public async Task<IActionResult> DeleteNode(string label, string id) {
+        await _neo4jConnector.DeleteNode(label, id);
+        return Ok("Node deleted successfully");
+    }
+
+    [HttpPost("nodes/delete")]
+    public async Task<IActionResult> DeleteNodes([FromBody] DeleteRequest request) {
+        if (request == null || request.Filters == null || string.IsNullOrEmpty(request.Label)) {
+            return BadRequest("Invalid body in request");
+        }
+
+        await _neo4jConnector.DeleteManyNodes(request.Label, request.Filters);
+        return Ok("Nodes deleted successfully");
+    }
+
 }
 
 public class Node {
@@ -101,6 +118,11 @@ public class Rel {
 }
 
 public class FilterRequest {
+    public string Label { get; set; }
+    public Dictionary<string, object> Filters { get; set; }
+}
+
+public class DeleteRequest {
     public string Label { get; set; }
     public Dictionary<string, object> Filters { get; set; }
 }
