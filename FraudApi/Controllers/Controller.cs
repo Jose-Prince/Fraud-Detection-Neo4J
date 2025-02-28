@@ -47,6 +47,43 @@ public class Controller : ControllerBase
             return Ok("Relation created");
         }
     }
+
+    //Visualization endpoints
+    [HttpPost("nodes/filter")]
+    public async Task<IActionResult> GetNodesByFilter([FromBody] FilterRequest filterRequest) {
+        if (filterRequest == null || filterRequest.Filters == null || filterRequest.Label == null) {
+            return BadRequest("Invalid body in request");
+        }
+
+        var nodes = await _neo4jConnector.GetNodesByFilter(filterRequest.Label, filterRequest.Filters);
+        return Ok(nodes);
+    }
+
+    [HttpGet("node/{label}/{id}")]
+    public async Task<IActionResult> GetNodeById(string label, string id) {
+        var node = await _neo4jConnector.GetNodeById(label, id);
+        if (node == null) {
+            return NotFound("Node not found");
+        }
+        return Ok(node);
+    }
+
+    [HttpGet("nodes/{label}")]
+    public async Task<IActionResult> GetAllNodes(string label) {
+        var nodes = await _neo4jConnector.GetAllNodes(label);
+        return Ok(nodes);
+    }
+
+    [HttpGet("nodes/aggregate")]
+    public async Task<IActionResult> AggregateNodes([FromQuery] string label, [FromQuery] string aggregateFunction, [FromQuery] string property = null) {
+        if (string.IsNullOrEmpty(label) || string.IsNullOrEmpty(aggregateFunction)) {
+            return BadRequest("Label and aggregate function are required");
+        }
+
+        var result = await _neo4jConnector.AggregateNodes(label, aggregateFunction, property);
+        return Ok(result);
+    }
+
 }
 
 public class Node {
@@ -63,3 +100,7 @@ public class Rel {
     public Dictionary<string, object> relationAttributes { get; set; }
 }
 
+public class FilterRequest {
+    public string Label { get; set; }
+    public Dictionary<string, object> Filters { get; set; }
+}

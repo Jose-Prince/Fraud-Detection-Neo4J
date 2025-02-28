@@ -130,6 +130,102 @@ public class Neo4JConnector : IAsyncDisposable {
         await _driver.DisposeAsync();
     }
     
+    //Nodes Visualization
+    //Get nodes by filter
+    public async Task<List<Dictionary<string, object>>> GetNodesByFilter(string label, Dictionary<string, object> filters) {
+        await using var session = _driver.AsyncSession();
+        var results = new List<Dictionary<string, object>>();
+
+        try {
+            // Construir la consulta
+            var filterClauses = new List<string>();
+            foreach (var filter in filters) {
+                filterClauses.Add($"{filter.Key} = ${filter.Key}");
+            }
+            var filterString = string.Join(" AND ", filterClauses);
+            
+            var query = $"MATCH (n:{label}) WHERE {filterString} RETURN n";
+
+            var result = await session.RunAsync(query, filters);
+
+            await foreach (var record in result) {
+                results.Add(record["n"].As<INode>().Properties);
+            }
+        } finally {
+            await session.CloseAsync();
+        }
+
+        return results;
+    }
+
+    //Gets nodes by Id (only one)
+    public async Task<Dictionary<string, object>> GetNodeById(string label, string id) {
+        await using var session = _driver.AsyncSession();
+        Dictionary<string, object> resultNode = null;
+
+        try {
+            var query = $"MATCH (n:{label} {{id: $id}}) RETURN n";
+            var result = await session.RunAsync(query, new { id });
+
+            if (await result.FetchAsync()) {
+                resultNode = result.Current["n"].As<INode>().Properties;
+            }
+        } finally {
+            await session.CloseAsync();
+        }
+
+        return resultNode;
+    }
+
+    //gets nodes by Id (too much)
+    public async Task<List<Dictionary<string, object>>> GetAllNodes(string label) {
+        await using var session = _driver.AsyncSession();
+        var results = new List<Dictionary<string, object>>();
+
+        try {
+            var query = $"MATCH (n:{label}) RETURN n";
+            var result = await session.RunAsync(query);
+
+            await foreach (var record in result) {
+                results.Add(record["n"].As<INode>().Properties);
+            }
+        } finally {
+            await session.CloseAsync();
+        }
+
+        return results;
+    }
+
+    //Aggregate functions
+    public async Task<object> AggregateNodes(string label, string aggregateFunction, string property = null) {
+        await using var session = _driver.AsyncSession();
+        object result = null;
+
+        try {
+            // Construir la consulta
+            string query;
+            if (property != null) {
+                // Si se proporciona una propiedad, se usa en la función de agregación
+                query = $"MATCH (n:{label}) RETURN {aggregateFunction}(n.{property}) AS result";
+            } else {
+                // Si no se proporciona una propiedad, se hace una agregación sobre los nodos
+                query = $"MATCH (n:{label}) RETURN {aggregateFunction}(n) AS result";
+            }
+
+            var resultSet = await session.RunAsync(query);
+
+            if (await resultSet.FetchAsync()) {
+                result = resultSet.Current["result"];
+            }
+        } finally {
+            await session.CloseAsync();
+        }
+
+        return result;
+    }
+
+    
+
     public string FormatValue(object value) {
         if (value == null)
             return "null";
