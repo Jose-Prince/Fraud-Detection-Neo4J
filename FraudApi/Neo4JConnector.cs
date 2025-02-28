@@ -199,7 +199,10 @@ public class Neo4JConnector : IAsyncDisposable {
         Dictionary<string, object> resultNode = null;
 
         try {
-            var query = $"MATCH (n:{label} {{id: $id}}) RETURN n";
+            // Consulta corregida: usar parámetros en lugar de incluir el valor directamente
+            var query = $"MATCH (n:{label}) WHERE n.userID = $id RETURN n";
+            
+            // Pasar el parámetro correctamente
             var result = await session.RunAsync(query, new { id });
 
             if (await result.FetchAsync()) {
@@ -213,7 +216,7 @@ public class Neo4JConnector : IAsyncDisposable {
         return resultNode;
     }
 
-    //gets nodes by Id (too much)
+    //gets nodes(too much)
     public async Task<List<Dictionary<string, object>>> GetAllNodes(string label) {
         await using var session = _driver.AsyncSession();
         var results = new List<Dictionary<string, object>>();
