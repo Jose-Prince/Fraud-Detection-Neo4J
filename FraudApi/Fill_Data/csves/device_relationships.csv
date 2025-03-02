@@ -2398,3 +2398,1203 @@ startNode,endNode,relationship,timestamp,location,appUsed
 USR:164,D:599,USES_DEVICE,2022-01-01T00:00:00,Chicago,Phone Wallet
 startNode,endNode,relationship,timestamp,location,appUsed
 USR:516,D:600,USES_DEVICE,2022-12-11T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:540,D:1,USES_DEVICE,2025-05-17T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:56,D:2,USES_DEVICE,2023-05-13T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:218,D:3,USES_DEVICE,2024-07-13T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:209,D:4,USES_DEVICE,2025-08-11T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:461,D:5,USES_DEVICE,2023-11-20T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:339,D:6,USES_DEVICE,2022-02-11T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:506,D:7,USES_DEVICE,2024-05-01T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:445,D:8,USES_DEVICE,2023-02-28T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:33,D:9,USES_DEVICE,2023-02-03T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:9,D:10,USES_DEVICE,2024-10-15T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:504,D:11,USES_DEVICE,2022-06-24T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:70,D:12,USES_DEVICE,2025-10-13T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:328,D:13,USES_DEVICE,2024-06-30T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:457,D:14,USES_DEVICE,2023-02-22T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:485,D:15,USES_DEVICE,2025-08-31T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:175,D:16,USES_DEVICE,2025-01-24T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:552,D:17,USES_DEVICE,2023-10-22T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:219,D:18,USES_DEVICE,2025-01-20T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:501,D:19,USES_DEVICE,2025-06-14T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:577,D:20,USES_DEVICE,2022-08-27T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:463,D:21,USES_DEVICE,2022-08-06T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:281,D:22,USES_DEVICE,2024-08-07T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:149,D:23,USES_DEVICE,2025-01-05T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:329,D:24,USES_DEVICE,2022-11-15T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:274,D:25,USES_DEVICE,2022-09-18T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:39,D:26,USES_DEVICE,2023-07-11T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:227,D:27,USES_DEVICE,2024-03-17T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:155,D:28,USES_DEVICE,2025-01-19T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:138,D:29,USES_DEVICE,2022-10-20T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:564,D:30,USES_DEVICE,2023-07-23T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:174,D:31,USES_DEVICE,2025-03-15T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:50,D:32,USES_DEVICE,2024-11-26T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:88,D:33,USES_DEVICE,2023-08-05T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:540,D:34,USES_DEVICE,2023-07-15T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:69,D:35,USES_DEVICE,2025-11-03T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:348,D:36,USES_DEVICE,2023-07-22T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:520,D:37,USES_DEVICE,2025-03-28T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:254,D:38,USES_DEVICE,2024-02-04T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:50,D:39,USES_DEVICE,2025-07-27T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:30,D:40,USES_DEVICE,2023-09-24T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:19,D:41,USES_DEVICE,2023-04-24T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:487,D:42,USES_DEVICE,2024-07-22T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:14,D:43,USES_DEVICE,2023-10-27T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:456,D:44,USES_DEVICE,2023-12-23T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:236,D:45,USES_DEVICE,2023-12-31T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:133,D:46,USES_DEVICE,2025-02-04T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:9,D:47,USES_DEVICE,2024-04-27T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:50,D:48,USES_DEVICE,2025-04-19T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:591,D:49,USES_DEVICE,2023-02-08T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:593,D:50,USES_DEVICE,2024-11-30T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:266,D:51,USES_DEVICE,2024-08-28T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:189,D:52,USES_DEVICE,2022-05-01T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:529,D:53,USES_DEVICE,2023-04-07T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:171,D:54,USES_DEVICE,2024-10-28T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:116,D:55,USES_DEVICE,2023-12-12T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:522,D:56,USES_DEVICE,2024-01-31T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:238,D:57,USES_DEVICE,2024-10-26T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:170,D:58,USES_DEVICE,2023-10-10T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:19,D:59,USES_DEVICE,2023-04-22T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:475,D:60,USES_DEVICE,2023-12-10T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:387,D:61,USES_DEVICE,2024-09-16T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:196,D:62,USES_DEVICE,2024-10-26T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:151,D:63,USES_DEVICE,2023-09-07T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:2,D:64,USES_DEVICE,2023-02-06T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:589,D:65,USES_DEVICE,2024-10-03T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:315,D:66,USES_DEVICE,2022-06-24T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:361,D:67,USES_DEVICE,2023-06-29T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:225,D:68,USES_DEVICE,2023-09-01T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:436,D:69,USES_DEVICE,2025-05-10T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:320,D:70,USES_DEVICE,2022-12-05T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:102,D:71,USES_DEVICE,2025-12-17T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:368,D:72,USES_DEVICE,2025-07-23T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:438,D:73,USES_DEVICE,2024-11-29T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:201,D:74,USES_DEVICE,2023-02-24T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:3,D:75,USES_DEVICE,2024-03-11T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:166,D:76,USES_DEVICE,2023-03-04T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:267,D:77,USES_DEVICE,2024-08-01T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:151,D:78,USES_DEVICE,2022-06-02T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:167,D:79,USES_DEVICE,2022-07-13T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:397,D:80,USES_DEVICE,2024-09-13T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:305,D:81,USES_DEVICE,2024-03-25T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:36,D:82,USES_DEVICE,2024-02-26T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:368,D:83,USES_DEVICE,2023-07-25T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:27,D:84,USES_DEVICE,2025-07-13T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:258,D:85,USES_DEVICE,2022-10-28T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:210,D:86,USES_DEVICE,2024-03-10T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:178,D:87,USES_DEVICE,2023-07-20T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:283,D:88,USES_DEVICE,2024-03-03T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:291,D:89,USES_DEVICE,2023-09-15T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:555,D:90,USES_DEVICE,2025-02-18T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:182,D:91,USES_DEVICE,2024-07-30T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:163,D:92,USES_DEVICE,2023-03-22T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:364,D:93,USES_DEVICE,2024-08-05T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:150,D:94,USES_DEVICE,2023-06-01T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:515,D:95,USES_DEVICE,2025-03-05T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:333,D:96,USES_DEVICE,2025-06-20T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:408,D:97,USES_DEVICE,2023-05-19T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:135,D:98,USES_DEVICE,2025-03-13T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:541,D:99,USES_DEVICE,2022-05-21T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:319,D:100,USES_DEVICE,2024-03-04T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:320,D:101,USES_DEVICE,2023-02-19T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:460,D:102,USES_DEVICE,2023-02-04T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:238,D:103,USES_DEVICE,2022-02-11T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:572,D:104,USES_DEVICE,2022-12-11T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:333,D:105,USES_DEVICE,2025-11-22T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:529,D:106,USES_DEVICE,2025-02-25T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:122,D:107,USES_DEVICE,2024-06-05T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:486,D:108,USES_DEVICE,2023-02-20T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:295,D:109,USES_DEVICE,2025-06-29T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:79,D:110,USES_DEVICE,2023-08-18T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:90,D:111,USES_DEVICE,2025-03-27T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:113,D:112,USES_DEVICE,2022-09-29T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:166,D:113,USES_DEVICE,2022-02-03T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:500,D:114,USES_DEVICE,2024-05-24T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:110,D:115,USES_DEVICE,2025-04-28T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:351,D:116,USES_DEVICE,2022-12-23T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:197,D:117,USES_DEVICE,2025-04-05T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:537,D:118,USES_DEVICE,2023-06-25T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:303,D:119,USES_DEVICE,2022-04-19T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:441,D:120,USES_DEVICE,2023-11-03T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:142,D:121,USES_DEVICE,2025-01-20T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:213,D:122,USES_DEVICE,2023-06-02T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:379,D:123,USES_DEVICE,2025-05-25T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:52,D:124,USES_DEVICE,2024-08-05T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:225,D:125,USES_DEVICE,2023-06-23T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:536,D:126,USES_DEVICE,2023-07-28T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:125,D:127,USES_DEVICE,2025-04-15T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:550,D:128,USES_DEVICE,2022-11-08T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:513,D:129,USES_DEVICE,2025-03-05T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:8,D:130,USES_DEVICE,2023-02-21T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:68,D:131,USES_DEVICE,2023-10-10T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:445,D:132,USES_DEVICE,2025-08-09T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:337,D:133,USES_DEVICE,2022-06-10T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:33,D:134,USES_DEVICE,2025-05-22T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:161,D:135,USES_DEVICE,2025-04-28T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:296,D:136,USES_DEVICE,2022-09-06T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:215,D:137,USES_DEVICE,2023-03-07T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:371,D:138,USES_DEVICE,2024-08-11T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:559,D:139,USES_DEVICE,2024-11-11T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:26,D:140,USES_DEVICE,2023-08-12T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:543,D:141,USES_DEVICE,2022-10-10T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:200,D:142,USES_DEVICE,2023-02-18T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:545,D:143,USES_DEVICE,2024-07-17T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:335,D:144,USES_DEVICE,2022-08-15T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:23,D:145,USES_DEVICE,2025-12-24T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:26,D:146,USES_DEVICE,2024-01-14T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:196,D:147,USES_DEVICE,2025-01-12T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:465,D:148,USES_DEVICE,2022-02-13T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:256,D:149,USES_DEVICE,2024-02-10T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:593,D:150,USES_DEVICE,2024-08-04T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:504,D:151,USES_DEVICE,2023-08-12T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:339,D:152,USES_DEVICE,2024-05-27T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:466,D:153,USES_DEVICE,2025-06-22T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:392,D:154,USES_DEVICE,2022-04-11T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:564,D:155,USES_DEVICE,2024-10-11T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:401,D:156,USES_DEVICE,2024-05-05T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:431,D:157,USES_DEVICE,2025-07-08T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:392,D:158,USES_DEVICE,2024-02-14T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:416,D:159,USES_DEVICE,2024-03-24T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:188,D:160,USES_DEVICE,2022-01-31T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:195,D:161,USES_DEVICE,2022-03-29T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:170,D:162,USES_DEVICE,2022-10-22T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:71,D:163,USES_DEVICE,2022-03-13T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:379,D:164,USES_DEVICE,2024-08-24T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:479,D:165,USES_DEVICE,2022-01-16T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:410,D:166,USES_DEVICE,2022-09-25T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:3,D:167,USES_DEVICE,2024-07-04T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:331,D:168,USES_DEVICE,2023-12-07T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:454,D:169,USES_DEVICE,2025-08-16T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:474,D:170,USES_DEVICE,2023-03-23T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:243,D:171,USES_DEVICE,2023-11-24T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:357,D:172,USES_DEVICE,2023-11-30T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:491,D:173,USES_DEVICE,2023-11-20T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:34,D:174,USES_DEVICE,2022-12-12T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:468,D:175,USES_DEVICE,2025-12-07T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:128,D:176,USES_DEVICE,2023-12-19T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:229,D:177,USES_DEVICE,2023-05-29T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:460,D:178,USES_DEVICE,2022-10-22T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:518,D:179,USES_DEVICE,2022-05-15T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:429,D:180,USES_DEVICE,2023-09-24T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:422,D:181,USES_DEVICE,2023-08-23T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:470,D:182,USES_DEVICE,2025-11-07T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:425,D:183,USES_DEVICE,2022-02-15T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:368,D:184,USES_DEVICE,2023-10-09T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:180,D:185,USES_DEVICE,2024-11-14T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:187,D:186,USES_DEVICE,2022-05-08T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:482,D:187,USES_DEVICE,2022-03-30T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:535,D:188,USES_DEVICE,2023-01-27T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:24,D:189,USES_DEVICE,2022-07-28T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:528,D:190,USES_DEVICE,2022-09-24T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:270,D:191,USES_DEVICE,2024-06-20T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:435,D:192,USES_DEVICE,2025-12-22T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:467,D:193,USES_DEVICE,2022-01-04T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:163,D:194,USES_DEVICE,2025-11-19T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:264,D:195,USES_DEVICE,2023-06-24T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:499,D:196,USES_DEVICE,2024-02-27T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:466,D:197,USES_DEVICE,2022-06-17T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:311,D:198,USES_DEVICE,2022-02-02T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:326,D:199,USES_DEVICE,2023-09-18T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:140,D:200,USES_DEVICE,2023-04-12T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:324,D:201,USES_DEVICE,2025-07-07T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:261,D:202,USES_DEVICE,2024-02-03T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:542,D:203,USES_DEVICE,2022-07-26T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:575,D:204,USES_DEVICE,2024-02-04T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:191,D:205,USES_DEVICE,2022-04-25T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:151,D:206,USES_DEVICE,2022-08-12T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:535,D:207,USES_DEVICE,2024-03-20T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:222,D:208,USES_DEVICE,2023-04-10T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:535,D:209,USES_DEVICE,2025-10-27T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:592,D:210,USES_DEVICE,2022-05-21T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:494,D:211,USES_DEVICE,2023-06-07T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:162,D:212,USES_DEVICE,2023-01-08T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:361,D:213,USES_DEVICE,2024-07-26T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:316,D:214,USES_DEVICE,2022-02-10T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:432,D:215,USES_DEVICE,2024-09-23T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:342,D:216,USES_DEVICE,2024-10-14T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:473,D:217,USES_DEVICE,2025-01-05T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:270,D:218,USES_DEVICE,2025-11-11T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:534,D:219,USES_DEVICE,2025-07-27T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:593,D:220,USES_DEVICE,2023-09-28T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:241,D:221,USES_DEVICE,2023-10-29T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:488,D:222,USES_DEVICE,2023-08-01T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:294,D:223,USES_DEVICE,2024-05-07T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:513,D:224,USES_DEVICE,2024-02-18T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:390,D:225,USES_DEVICE,2025-10-18T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:129,D:226,USES_DEVICE,2023-10-20T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:597,D:227,USES_DEVICE,2024-02-04T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:248,D:228,USES_DEVICE,2025-03-02T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:211,D:229,USES_DEVICE,2024-12-30T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:220,D:230,USES_DEVICE,2025-12-17T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:283,D:231,USES_DEVICE,2024-04-14T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:186,D:232,USES_DEVICE,2022-09-04T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:34,D:233,USES_DEVICE,2025-02-20T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:438,D:234,USES_DEVICE,2024-12-08T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:424,D:235,USES_DEVICE,2025-05-12T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:553,D:236,USES_DEVICE,2022-06-13T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:558,D:237,USES_DEVICE,2022-04-20T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:203,D:238,USES_DEVICE,2022-06-07T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:390,D:239,USES_DEVICE,2023-04-24T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:378,D:240,USES_DEVICE,2024-12-06T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:535,D:241,USES_DEVICE,2022-08-20T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:67,D:242,USES_DEVICE,2022-07-22T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:130,D:243,USES_DEVICE,2025-06-18T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:356,D:244,USES_DEVICE,2023-02-09T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:589,D:245,USES_DEVICE,2025-12-01T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:443,D:246,USES_DEVICE,2023-02-10T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:25,D:247,USES_DEVICE,2023-02-11T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:354,D:248,USES_DEVICE,2024-08-08T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:74,D:249,USES_DEVICE,2024-10-06T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:303,D:250,USES_DEVICE,2022-01-20T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:135,D:251,USES_DEVICE,2023-06-23T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:580,D:252,USES_DEVICE,2023-01-31T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:110,D:253,USES_DEVICE,2022-03-26T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:233,D:254,USES_DEVICE,2022-06-05T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:469,D:255,USES_DEVICE,2024-10-16T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:567,D:256,USES_DEVICE,2024-05-17T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:180,D:257,USES_DEVICE,2024-01-03T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:434,D:258,USES_DEVICE,2022-05-10T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:229,D:259,USES_DEVICE,2022-07-08T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:376,D:260,USES_DEVICE,2023-12-26T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:594,D:261,USES_DEVICE,2022-03-07T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:57,D:262,USES_DEVICE,2023-05-26T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:369,D:263,USES_DEVICE,2023-11-10T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:346,D:264,USES_DEVICE,2025-12-17T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:87,D:265,USES_DEVICE,2022-03-23T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:552,D:266,USES_DEVICE,2025-05-02T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:493,D:267,USES_DEVICE,2024-08-17T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:272,D:268,USES_DEVICE,2025-09-28T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:305,D:269,USES_DEVICE,2023-04-24T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:498,D:270,USES_DEVICE,2022-06-03T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:77,D:271,USES_DEVICE,2024-10-01T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:46,D:272,USES_DEVICE,2022-08-13T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:482,D:273,USES_DEVICE,2022-01-07T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:517,D:274,USES_DEVICE,2023-09-11T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:451,D:275,USES_DEVICE,2023-10-08T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:43,D:276,USES_DEVICE,2024-05-31T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:266,D:277,USES_DEVICE,2023-06-01T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:260,D:278,USES_DEVICE,2025-02-08T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:512,D:279,USES_DEVICE,2022-12-08T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:402,D:280,USES_DEVICE,2024-08-29T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:277,D:281,USES_DEVICE,2024-08-18T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:264,D:282,USES_DEVICE,2022-11-20T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:183,D:283,USES_DEVICE,2025-08-20T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:387,D:284,USES_DEVICE,2022-11-28T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:426,D:285,USES_DEVICE,2022-03-06T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:575,D:286,USES_DEVICE,2024-01-25T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:81,D:287,USES_DEVICE,2024-06-30T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:327,D:288,USES_DEVICE,2024-01-23T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:26,D:289,USES_DEVICE,2024-09-12T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:66,D:290,USES_DEVICE,2023-04-02T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:275,D:291,USES_DEVICE,2023-12-04T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:573,D:292,USES_DEVICE,2023-10-03T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:422,D:293,USES_DEVICE,2022-07-25T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:50,D:294,USES_DEVICE,2023-04-19T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:83,D:295,USES_DEVICE,2023-07-10T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:598,D:296,USES_DEVICE,2022-05-11T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:518,D:297,USES_DEVICE,2024-03-27T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:18,D:298,USES_DEVICE,2025-06-16T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:179,D:299,USES_DEVICE,2022-12-02T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:70,D:300,USES_DEVICE,2024-02-06T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:466,D:301,USES_DEVICE,2024-02-08T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:461,D:302,USES_DEVICE,2022-02-02T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:391,D:303,USES_DEVICE,2025-01-31T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:134,D:304,USES_DEVICE,2025-03-14T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:590,D:305,USES_DEVICE,2025-11-23T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:413,D:306,USES_DEVICE,2023-05-05T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:349,D:307,USES_DEVICE,2024-05-23T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:5,D:308,USES_DEVICE,2022-04-21T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:183,D:309,USES_DEVICE,2022-05-24T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:276,D:310,USES_DEVICE,2022-11-13T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:207,D:311,USES_DEVICE,2024-02-08T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:585,D:312,USES_DEVICE,2025-12-06T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:520,D:313,USES_DEVICE,2025-05-05T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:494,D:314,USES_DEVICE,2025-05-23T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:7,D:315,USES_DEVICE,2024-05-29T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:199,D:316,USES_DEVICE,2023-10-20T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:552,D:317,USES_DEVICE,2025-07-28T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:477,D:318,USES_DEVICE,2024-08-26T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:438,D:319,USES_DEVICE,2025-05-27T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:46,D:320,USES_DEVICE,2022-04-04T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:402,D:321,USES_DEVICE,2022-11-03T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:211,D:322,USES_DEVICE,2023-11-02T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:92,D:323,USES_DEVICE,2024-01-24T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:16,D:324,USES_DEVICE,2023-11-15T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:378,D:325,USES_DEVICE,2024-04-30T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:181,D:326,USES_DEVICE,2023-05-20T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:482,D:327,USES_DEVICE,2025-05-16T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:74,D:328,USES_DEVICE,2023-11-07T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:176,D:329,USES_DEVICE,2023-01-23T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:581,D:330,USES_DEVICE,2023-12-15T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:591,D:331,USES_DEVICE,2023-03-05T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:160,D:332,USES_DEVICE,2022-11-27T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:543,D:333,USES_DEVICE,2025-02-20T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:128,D:334,USES_DEVICE,2025-08-02T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:542,D:335,USES_DEVICE,2024-09-08T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:148,D:336,USES_DEVICE,2024-03-13T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:513,D:337,USES_DEVICE,2025-11-12T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:188,D:338,USES_DEVICE,2022-01-20T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:394,D:339,USES_DEVICE,2024-12-25T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:78,D:340,USES_DEVICE,2023-08-22T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:550,D:341,USES_DEVICE,2024-03-20T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:551,D:342,USES_DEVICE,2024-10-10T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:533,D:343,USES_DEVICE,2023-10-20T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:211,D:344,USES_DEVICE,2024-05-02T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:439,D:345,USES_DEVICE,2024-11-11T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:85,D:346,USES_DEVICE,2023-01-22T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:343,D:347,USES_DEVICE,2024-09-25T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:43,D:348,USES_DEVICE,2022-04-15T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:354,D:349,USES_DEVICE,2022-06-14T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:242,D:350,USES_DEVICE,2024-06-24T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:80,D:351,USES_DEVICE,2023-02-25T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:155,D:352,USES_DEVICE,2024-09-09T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:590,D:353,USES_DEVICE,2025-03-13T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:558,D:354,USES_DEVICE,2025-04-28T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:481,D:355,USES_DEVICE,2023-07-11T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:49,D:356,USES_DEVICE,2022-06-04T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:115,D:357,USES_DEVICE,2025-04-02T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:142,D:358,USES_DEVICE,2022-06-02T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:329,D:359,USES_DEVICE,2023-02-01T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:462,D:360,USES_DEVICE,2025-05-31T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:173,D:361,USES_DEVICE,2022-06-29T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:532,D:362,USES_DEVICE,2025-06-02T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:58,D:363,USES_DEVICE,2023-05-09T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:278,D:364,USES_DEVICE,2023-07-16T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:484,D:365,USES_DEVICE,2025-08-20T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:416,D:366,USES_DEVICE,2023-06-12T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:273,D:367,USES_DEVICE,2023-11-08T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:440,D:368,USES_DEVICE,2024-09-27T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:319,D:369,USES_DEVICE,2024-07-03T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:116,D:370,USES_DEVICE,2023-08-28T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:286,D:371,USES_DEVICE,2024-10-17T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:67,D:372,USES_DEVICE,2023-09-30T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:63,D:373,USES_DEVICE,2024-03-16T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:305,D:374,USES_DEVICE,2025-09-05T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:138,D:375,USES_DEVICE,2022-01-16T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:589,D:376,USES_DEVICE,2022-02-20T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:51,D:377,USES_DEVICE,2022-01-29T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:298,D:378,USES_DEVICE,2025-09-15T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:291,D:379,USES_DEVICE,2025-08-17T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:398,D:380,USES_DEVICE,2022-06-07T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:594,D:381,USES_DEVICE,2024-05-26T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:25,D:382,USES_DEVICE,2023-06-19T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:47,D:383,USES_DEVICE,2023-08-23T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:359,D:384,USES_DEVICE,2022-05-01T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:132,D:385,USES_DEVICE,2023-02-07T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:406,D:386,USES_DEVICE,2022-12-09T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:291,D:387,USES_DEVICE,2024-06-16T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:108,D:388,USES_DEVICE,2022-07-31T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:479,D:389,USES_DEVICE,2024-04-03T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:242,D:390,USES_DEVICE,2024-08-25T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:156,D:391,USES_DEVICE,2025-02-27T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:441,D:392,USES_DEVICE,2025-04-28T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:23,D:393,USES_DEVICE,2025-03-29T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:16,D:394,USES_DEVICE,2025-11-16T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:150,D:395,USES_DEVICE,2024-02-27T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:30,D:396,USES_DEVICE,2025-10-25T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:128,D:397,USES_DEVICE,2023-02-08T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:372,D:398,USES_DEVICE,2023-01-25T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:99,D:399,USES_DEVICE,2025-08-12T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:553,D:400,USES_DEVICE,2025-03-16T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:73,D:401,USES_DEVICE,2023-07-28T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:255,D:402,USES_DEVICE,2023-03-15T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:253,D:403,USES_DEVICE,2022-01-05T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:117,D:404,USES_DEVICE,2024-07-31T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:469,D:405,USES_DEVICE,2023-02-24T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:170,D:406,USES_DEVICE,2022-01-07T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:29,D:407,USES_DEVICE,2022-01-15T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:378,D:408,USES_DEVICE,2022-03-04T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:288,D:409,USES_DEVICE,2022-04-28T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:14,D:410,USES_DEVICE,2023-02-17T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:475,D:411,USES_DEVICE,2025-08-01T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:519,D:412,USES_DEVICE,2022-09-01T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:338,D:413,USES_DEVICE,2025-06-09T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:247,D:414,USES_DEVICE,2022-10-26T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:120,D:415,USES_DEVICE,2024-06-22T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:545,D:416,USES_DEVICE,2023-07-17T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:504,D:417,USES_DEVICE,2025-10-31T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:57,D:418,USES_DEVICE,2024-07-04T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:325,D:419,USES_DEVICE,2023-08-03T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:345,D:420,USES_DEVICE,2023-04-16T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:555,D:421,USES_DEVICE,2023-01-15T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:80,D:422,USES_DEVICE,2022-01-09T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:198,D:423,USES_DEVICE,2022-04-18T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:438,D:424,USES_DEVICE,2022-12-26T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:315,D:425,USES_DEVICE,2023-01-18T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:217,D:426,USES_DEVICE,2023-12-31T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:403,D:427,USES_DEVICE,2025-03-13T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:75,D:428,USES_DEVICE,2025-09-23T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:69,D:429,USES_DEVICE,2025-05-02T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:159,D:430,USES_DEVICE,2024-01-06T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:276,D:431,USES_DEVICE,2023-07-10T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:85,D:432,USES_DEVICE,2025-10-21T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:63,D:433,USES_DEVICE,2025-01-31T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:180,D:434,USES_DEVICE,2024-07-18T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:143,D:435,USES_DEVICE,2022-07-03T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:349,D:436,USES_DEVICE,2023-02-21T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:352,D:437,USES_DEVICE,2025-01-23T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:60,D:438,USES_DEVICE,2025-07-17T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:85,D:439,USES_DEVICE,2024-04-17T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:235,D:440,USES_DEVICE,2024-08-16T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:109,D:441,USES_DEVICE,2023-11-16T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:556,D:442,USES_DEVICE,2024-07-02T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:366,D:443,USES_DEVICE,2024-08-30T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:462,D:444,USES_DEVICE,2024-05-18T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:238,D:445,USES_DEVICE,2022-04-16T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:482,D:446,USES_DEVICE,2022-08-13T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:184,D:447,USES_DEVICE,2023-03-27T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:157,D:448,USES_DEVICE,2025-11-11T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:281,D:449,USES_DEVICE,2024-08-13T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:573,D:450,USES_DEVICE,2024-08-28T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:313,D:451,USES_DEVICE,2022-10-15T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:391,D:452,USES_DEVICE,2023-03-14T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:454,D:453,USES_DEVICE,2024-03-11T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:407,D:454,USES_DEVICE,2022-09-14T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:261,D:455,USES_DEVICE,2024-05-17T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:519,D:456,USES_DEVICE,2024-02-05T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:17,D:457,USES_DEVICE,2025-12-14T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:484,D:458,USES_DEVICE,2025-03-27T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:448,D:459,USES_DEVICE,2025-04-30T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:225,D:460,USES_DEVICE,2024-09-28T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:304,D:461,USES_DEVICE,2024-04-24T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:488,D:462,USES_DEVICE,2025-04-07T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:353,D:463,USES_DEVICE,2025-06-30T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:264,D:464,USES_DEVICE,2024-09-04T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:74,D:465,USES_DEVICE,2023-08-28T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:338,D:466,USES_DEVICE,2022-02-21T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:451,D:467,USES_DEVICE,2023-06-02T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:108,D:468,USES_DEVICE,2022-12-12T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:186,D:469,USES_DEVICE,2024-10-02T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:496,D:470,USES_DEVICE,2024-04-09T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:322,D:471,USES_DEVICE,2025-10-23T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:529,D:472,USES_DEVICE,2025-05-21T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:138,D:473,USES_DEVICE,2024-02-11T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:445,D:474,USES_DEVICE,2022-10-23T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:85,D:475,USES_DEVICE,2022-11-08T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:178,D:476,USES_DEVICE,2022-06-26T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:240,D:477,USES_DEVICE,2023-12-29T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:228,D:478,USES_DEVICE,2025-11-29T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:19,D:479,USES_DEVICE,2025-02-09T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:210,D:480,USES_DEVICE,2024-11-14T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:195,D:481,USES_DEVICE,2025-03-27T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:234,D:482,USES_DEVICE,2023-01-03T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:564,D:483,USES_DEVICE,2023-07-02T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:596,D:484,USES_DEVICE,2025-12-24T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:137,D:485,USES_DEVICE,2025-02-11T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:179,D:486,USES_DEVICE,2024-08-02T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:193,D:487,USES_DEVICE,2023-01-19T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:361,D:488,USES_DEVICE,2025-01-11T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:132,D:489,USES_DEVICE,2024-02-03T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:387,D:490,USES_DEVICE,2022-09-07T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:436,D:491,USES_DEVICE,2022-02-05T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:391,D:492,USES_DEVICE,2022-11-29T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:328,D:493,USES_DEVICE,2024-01-26T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:198,D:494,USES_DEVICE,2023-07-25T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:120,D:495,USES_DEVICE,2022-04-22T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:273,D:496,USES_DEVICE,2025-06-03T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:1,D:497,USES_DEVICE,2025-05-16T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:325,D:498,USES_DEVICE,2022-11-12T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:501,D:499,USES_DEVICE,2022-08-20T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:153,D:500,USES_DEVICE,2022-12-24T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:514,D:501,USES_DEVICE,2023-05-06T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:281,D:502,USES_DEVICE,2024-04-13T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:263,D:503,USES_DEVICE,2024-07-19T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:185,D:504,USES_DEVICE,2022-02-11T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:291,D:505,USES_DEVICE,2022-05-25T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:266,D:506,USES_DEVICE,2025-10-20T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:577,D:507,USES_DEVICE,2022-11-11T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:71,D:508,USES_DEVICE,2025-04-14T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:102,D:509,USES_DEVICE,2023-08-11T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:148,D:510,USES_DEVICE,2025-09-20T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:139,D:511,USES_DEVICE,2024-11-01T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:172,D:512,USES_DEVICE,2024-07-21T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:438,D:513,USES_DEVICE,2022-06-30T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:551,D:514,USES_DEVICE,2022-10-27T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:112,D:515,USES_DEVICE,2023-05-10T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:267,D:516,USES_DEVICE,2022-05-21T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:303,D:517,USES_DEVICE,2025-06-20T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:119,D:518,USES_DEVICE,2022-04-09T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:475,D:519,USES_DEVICE,2022-03-28T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:182,D:520,USES_DEVICE,2025-05-02T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:206,D:521,USES_DEVICE,2022-07-05T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:252,D:522,USES_DEVICE,2024-04-07T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:156,D:523,USES_DEVICE,2023-03-19T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:123,D:524,USES_DEVICE,2025-04-09T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:238,D:525,USES_DEVICE,2023-04-13T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:337,D:526,USES_DEVICE,2025-08-19T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:299,D:527,USES_DEVICE,2025-06-08T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:398,D:528,USES_DEVICE,2023-12-21T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:66,D:529,USES_DEVICE,2025-03-28T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:154,D:530,USES_DEVICE,2025-08-06T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:122,D:531,USES_DEVICE,2023-09-14T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:286,D:532,USES_DEVICE,2022-09-28T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:259,D:533,USES_DEVICE,2022-11-30T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:25,D:534,USES_DEVICE,2024-03-07T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:254,D:535,USES_DEVICE,2025-01-25T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:119,D:536,USES_DEVICE,2022-01-09T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:205,D:537,USES_DEVICE,2023-07-16T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:42,D:538,USES_DEVICE,2022-05-22T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:493,D:539,USES_DEVICE,2024-10-09T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:132,D:540,USES_DEVICE,2025-05-04T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:510,D:541,USES_DEVICE,2024-06-08T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:384,D:542,USES_DEVICE,2023-03-28T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:538,D:543,USES_DEVICE,2023-07-03T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:468,D:544,USES_DEVICE,2025-02-13T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:105,D:545,USES_DEVICE,2022-03-15T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:253,D:546,USES_DEVICE,2023-11-01T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:490,D:547,USES_DEVICE,2024-08-13T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:313,D:548,USES_DEVICE,2025-08-23T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:468,D:549,USES_DEVICE,2022-08-05T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:456,D:550,USES_DEVICE,2025-02-08T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:87,D:551,USES_DEVICE,2023-02-04T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:106,D:552,USES_DEVICE,2025-09-28T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:542,D:553,USES_DEVICE,2023-06-17T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:522,D:554,USES_DEVICE,2023-08-13T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:376,D:555,USES_DEVICE,2025-04-20T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:430,D:556,USES_DEVICE,2025-11-21T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:80,D:557,USES_DEVICE,2023-04-06T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:186,D:558,USES_DEVICE,2025-11-27T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:500,D:559,USES_DEVICE,2022-05-06T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:109,D:560,USES_DEVICE,2024-03-03T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:220,D:561,USES_DEVICE,2023-01-03T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:443,D:562,USES_DEVICE,2022-02-24T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:149,D:563,USES_DEVICE,2022-03-18T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:566,D:564,USES_DEVICE,2022-10-14T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:331,D:565,USES_DEVICE,2023-09-01T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:158,D:566,USES_DEVICE,2023-07-02T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:45,D:567,USES_DEVICE,2025-12-09T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:514,D:568,USES_DEVICE,2025-01-31T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:431,D:569,USES_DEVICE,2022-04-19T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:203,D:570,USES_DEVICE,2024-04-02T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:397,D:571,USES_DEVICE,2024-04-01T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:377,D:572,USES_DEVICE,2024-11-30T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:597,D:573,USES_DEVICE,2024-08-01T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:511,D:574,USES_DEVICE,2023-10-06T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:421,D:575,USES_DEVICE,2024-07-24T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:599,D:576,USES_DEVICE,2023-04-30T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:437,D:577,USES_DEVICE,2024-04-24T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:301,D:578,USES_DEVICE,2022-08-13T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:230,D:579,USES_DEVICE,2024-11-27T00:00:00,Miami,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:192,D:580,USES_DEVICE,2022-08-05T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:395,D:581,USES_DEVICE,2025-06-08T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:54,D:582,USES_DEVICE,2024-12-27T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:462,D:583,USES_DEVICE,2025-05-04T00:00:00,Miami,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:278,D:584,USES_DEVICE,2025-12-21T00:00:00,Chicago,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:575,D:585,USES_DEVICE,2025-03-27T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:508,D:586,USES_DEVICE,2023-12-23T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:142,D:587,USES_DEVICE,2025-07-20T00:00:00,NYC,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:29,D:588,USES_DEVICE,2023-03-19T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:187,D:589,USES_DEVICE,2024-01-08T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:132,D:590,USES_DEVICE,2023-01-10T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:447,D:591,USES_DEVICE,2023-01-08T00:00:00,LA,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:472,D:592,USES_DEVICE,2024-05-11T00:00:00,LA,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:375,D:593,USES_DEVICE,2023-03-22T00:00:00,Chicago,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:232,D:594,USES_DEVICE,2022-03-29T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:511,D:595,USES_DEVICE,2023-01-12T00:00:00,NYC,Banking App
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:447,D:596,USES_DEVICE,2024-04-09T00:00:00,NYC,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:276,D:597,USES_DEVICE,2022-03-09T00:00:00,Chicago,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:354,D:598,USES_DEVICE,2023-08-05T00:00:00,LA,other
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:512,D:599,USES_DEVICE,2025-07-10T00:00:00,Miami,Phone Wallet
+startNode,endNode,relationship,timestamp,location,appUsed
+USR:114,D:600,USES_DEVICE,2024-04-04T00:00:00,Miami,other

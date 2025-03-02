@@ -68,6 +68,7 @@ def generate_user(user_id):
 def generate_bank(bank_id):
     return {
         "bankID": "B:"+str(bank_id),
+        "name": random.choice(["BANCO LA USA", "BANKO LE UK", "BANKS IL Germany", "FRANCE TOUR DE BANK"]) ,
         "location": random.choice(["USA", "UK", "Germany", "France"]),
         "code": "SWIFT" + str(random.randint(1000, 9999)),
         "branchCount": random.randint(1, 500),
@@ -81,7 +82,7 @@ def generate_merchant(merchant_id):
         "name": f"Merchant{merchant_id}",
         "category": random.choice(merchant_categories),
         "location": random.choice(["New York", "Los Angeles", "San Francisco", "Chicago"]),
-        "country": "USA"
+        "country": random.choice(["USA", "UK", "Germany", "France"]) 
     }
 
 # Generate random account
@@ -101,7 +102,8 @@ def generate_atm(atm_id):
         "atmID": "A"+str(atm_id),
         "location": random.choice(["Downtown", "Suburb", "Mall", "Airport"]),
         "status": random.choice(["Active", "Inactive", "Maintenance"]),
-        "provider": f"Provider{random.randint(1, 5)}"
+        "provider": f"Provider{random.randint(1, 5)}",
+        "Balance": round(random.uniform(0.0, 10000.0), 2)
     }
 
 # Generate random card
@@ -399,9 +401,6 @@ print("CSV files generated successfully!")
 #     a.phone = row.phone,
 #     a.country = row.country,
 #     a.birthdate = date(row.birthdate);
-
-
-
 
 
 
