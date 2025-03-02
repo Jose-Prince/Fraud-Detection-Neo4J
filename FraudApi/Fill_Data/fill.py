@@ -135,18 +135,26 @@ def write_relationships_to_csv(relationships, filename):
 
 
 def generate_relationships(users, accounts, banks, companies, devices):
-    for user in users:
-        account = random.choice(accounts)
-
+    contador = 0
+    for account in accounts:
+        
+        user = users[contador]
+        contador = contador + 1
+        same =  random_date(2015, 2023).strftime("%Y-%m-%d")
         # User owns an account
         owns_relationship = {
             "startNode": user["userID"],
             "endNode": account["accountID"],
             "relationship": "OWNS",
-            "since": random_date(2015, 2023).strftime("%Y-%m-%d")
+            "since":same,
+            "account_type": random.choice(["Personal","Savings","Current"]),
+            "created": random_date(2015, 2023).strftime("%Y-%m-%d")
+            
         }
         write_relationships_to_csv([owns_relationship], 'Fill_Data/csves/owns_relation.csv')
-
+        
+        
+        user = random.choice(users)
         # User deposits money
         deposit_amount = round(random.uniform(100, 5000), 2)
         deposits_relationship = {
@@ -154,10 +162,11 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "endNode": account["accountID"],
             "relationship": "DEPOSITS",
             "timestamp": random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
-            "amount": deposit_amount
+            "amount": deposit_amount,
+            "origin": random.choice(["Cash Deposits","Dividends","Tax Returns"])
         }
         write_relationships_to_csv([deposits_relationship], 'Fill_Data/csves/deposits_relation.csv')
-
+ 
         # User withdraws money
         withdrawal_amount = round(random.uniform(100, 2000), 2)
         withdraws_relationship = {
@@ -165,7 +174,8 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "endNode": account["accountID"],
             "relationship": "WITHDRAWS",
             "timestamp": random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
-            "amount": withdrawal_amount
+            "amount": withdrawal_amount,
+            "method":random.choice(["ATM","Bank","Phone"])
         }
         write_relationships_to_csv([withdraws_relationship], 'Fill_Data/csves/withdraws_relation.csv')
 
@@ -178,35 +188,84 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "endNode": account["accountID"],
             "relationship": "HAS_ACCOUNT",
             "opened": account["created"],
-            "branch": "Main Office"
+            "branch": "Main Office",
+            "status":   random.choice(["Active","Active","Inactive"])
         }
         write_relationships_to_csv([bank_relationship], 'Fill_Data/csves/has_accs_relation.csv')
 
-    for company in companies:
-        user = random.choice(users)
-
+    for user in users:
+        company = random.choice(companies)
         # Company employs user
         company_relationship = {
             "startNode": company["companyID"],
             "endNode": user["userID"],
             "relationship": "EMPLOYS",
             "since": random_date(2015, 2023).strftime("%Y-%m-%d"),
-            "position": "Software Engineer"
+            "position":  random.choice(["Manager", "Licenciado", "Entrepreneur", "Engineer"]),
+             "department":  random.choice(["N/A", "IT", "Sales", "HR"])
         }
         write_relationships_to_csv([company_relationship], 'Fill_Data/csves/company_relationships.csv')
 
+
     for device in devices:
         user = random.choice(users)
-
-        # User uses a device
         device_relationship = {
             "startNode": user["userID"],
             "endNode": device["deviceID"],
             "relationship": "USES_DEVICE",
             "timestamp": random_date(2022, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
-            "location": device["location"]
+            "location": device["location"],
+            "appUsed": random.choice(["Banking App", "Phone Wallet", "other"])
         }
         write_relationships_to_csv([device_relationship], 'Fill_Data/csves/device_relationships.csv')
+
+    for transaction in transactions:
+        bank = random.choice(banks)
+        auth_relationship = {
+            "startNode": bank["bankID"],
+            "endNode": transaction["transactionID"],
+            "relationship": "AUTHORIZES",
+            "authCode": f"AUTH{random.randint(100,999)}",
+            "approvalTime": random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
+            "riskScore": round(random.uniform(1, 10), 2)
+        }
+        write_relationships_to_csv([auth_relationship], 'Fill_Data/csves/auth_transactions.csv')
+
+    for _ in range(len(accounts) // 2):
+        acc1, acc2 = random.sample(accounts, 2)
+        linked_relationship = {
+            "startNode": acc1["accountID"],
+            "endNode": acc2["accountID"],
+            "relationship": "LINKED_TO",
+            "date": random_date(2020, 2025).strftime("%Y-%m-%d"),
+            "linkType": "Joint Account",
+            "reason": "Shared household expenses"
+        }
+        write_relationships_to_csv([linked_relationship], 'Fill_Data/csves/linked_accounts.csv')
+
+    for _ in range(len(users) // 3):
+        referrer, referee = random.sample(users, 2)
+        refers_relationship = {
+            "startNode": referrer["userID"],
+            "endNode": referee["userID"],
+            "relationship": "REFERS",
+            "referralDate": random_date(2022, 2025).strftime("%Y-%m-%d"),
+            "referralCode": f"REF{random.randint(10000,99999)}",
+            "rewardAmount": round(random.uniform(10, 100), 2)
+        }
+        write_relationships_to_csv([refers_relationship], 'Fill_Data/csves/refers_relation.csv')
+
+    for account in accounts:
+        company = random.choice(companies)
+        managed_relationship = {
+            "startNode": account["accountID"],
+            "endNode": company["companyID"],
+            "relationship": "MANAGED_BY",
+            "managementStart": random_date(2020, 2025).strftime("%Y-%m-%d"),
+            "accountPurpose": "Corporate Expenses",
+            "auditRating": random.choice(["A", "B", "C"])
+        }
+        write_relationships_to_csv([managed_relationship], 'Fill_Data/csves/managed_accounts.csv')
 
 
 # Generate random data and save to CSV
@@ -256,20 +315,13 @@ print("CSV files generated successfully!")
 #     a.provider = toString(row.provider);
 
 
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/banks.csv' AS row
 # MERGE (a:bank {bankID: toString(row.bankID)})
 # SET a.location = row.location,
 #     a.code = row.code,
 #     a.branchCount = toFloat(row.branchCount),
 #     a.founded = date(row.founded);
 
-
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
-# MERGE (a:bank {bankID: toString(row.bankID)})
-# SET a.location = row.location,
-#     a.code = row.code,
-#     a.branchCount = toFloat(row.branchCount),
-#     a.founded = date(row.founded);
 
 
 
@@ -339,3 +391,85 @@ print("CSV files generated successfully!")
 
 
 
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
+# Match
+# SET a.name = row.name,
+#     a.lastname = row.lastname,
+#     a.email = row.email,
+#     a.phone = row.phone,
+#     a.country = row.country,
+#     a.birthdate = date(row.birthdate);
+
+
+
+
+
+
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/company_relationships.csv' AS row
+# MATCH (c:company{companyID:row.startNode})
+# MATCH (usr:user{ userID:row.endNode})
+# MERGE (c)-[r:Employs{since:row.since, position:row.position}]->(usr)
+# return c, r ,usr
+
+
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/deposits_relation.csv' AS row
+# MATCH (c:user{userID:row.startNode})
+# MATCH (usr:Account{ accountID:row.endNode})
+# MERGE (c)-[r:row.relationship{timestamp:row.timestamp, amount:row.amount}]->(usr)
+# return c, r ,usr
+
+#Si se puede
+
+# WITHDRAWS
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/withdraws_relation.csv' AS row
+# MATCH (c:user{userID:row.startNode})
+# MATCH (usr:Account{ accountID:row.endNode})
+# MERGE (usr)-[r:WITHDRAWS{timestamp:row.timestamp, amount:row.amount}]->(c)
+# return c, r ,usr
+
+
+# OWNS
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/owns_relation.csv' AS row
+# MATCH (c:user{userID:row.startNode})
+# MATCH (usr:Account{ accountID:row.endNode})
+# MERGE (c)-[r:OWNS{since:row.since}]->(usr)
+# return c, r ,usr
+
+
+# HAS
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/hass_accs_relation.csv' AS row
+# MATCH (c:bank{bankID:row.startNode})
+# MATCH (usr:Account{ accountID:row.endNode})
+# MERGE (c)-[r:HAS{opened:row.opened branch:row.branch}]->(usr)
+# return c, r ,usr
+
+
+#Deposit
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/hass_accs_relation.csv' AS row
+# MATCH (c:bank{bankID:row.startNode})
+# MATCH (usr:Account{ accountID:row.endNode})
+# MERGE (c)-[r:HAS{opened:row.opened branch:row.branch}]->(usr)
+# return c, r ,usr
+
+
+#Linked to 
+
+
+#employs
+
+
+#authorizes 
+
+
+#refers
+
+
+#managed by
+
+
+#uses
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/hass_accs_relation.csv' AS row
+# MATCH (c:user{userID:row.startNode})
+# MATCH (usr:device{ deviceID:row.endNode})
+# MERGE (c)-[r:USES_DEVICE{timestamp:row.timestamp, location:row.location}]->(usr)
+# return c, r ,usr
