@@ -314,12 +314,14 @@ print("CSV files generated successfully!")
 # MERGE (a:atm {atmID: toString(row.atmID)})
 # SET a.location = row.location,
 #     a.status = toString(row.status),
-#     a.provider = toString(row.provider);
+#     a.provider = toString(row.provider),
+#     a.Balance = toFloat(row.Balance);
 
 
 # LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/banks.csv' AS row
 # MERGE (a:bank {bankID: toString(row.bankID)})
 # SET a.location = row.location,
+#     a.name = row.name,
 #     a.code = row.code,
 #     a.branchCount = toFloat(row.branchCount),
 #     a.founded = date(row.founded);
@@ -327,7 +329,7 @@ print("CSV files generated successfully!")
 
 
 
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/cards.csv' AS row
 # MERGE (a:cards {cardID: toString(row.cardID)})
 # SET a.type = row.type,
 #     a.issuer = row.issuer,
@@ -337,16 +339,16 @@ print("CSV files generated successfully!")
 
 
 
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/companies.csv' AS row
 # MERGE (a:company {companyID: toString(row.companyID)})
 # SET a.name = row.name,
 #     a.industry = row.industry,
 #     a.size = toFloat(row.size),
 #     a.location = row.location,
-#     a.expiryDate = row.taxID;
+#     a.taxID = row.taxID;
 
 
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/devices.csv' AS row
 # MERGE (a:device {deviceID: toString(row.deviceID)})
 # SET a.type = row.type,
 #     a.os = row.os,
@@ -354,7 +356,7 @@ print("CSV files generated successfully!")
 #     a.location = row.location;
 
 
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/merchants.csv' AS row
 # MERGE (a:merchant {merchanID: toString(row.merchantID)})
 # SET a.name = row.name,
 #     a.category = row.category,
@@ -362,16 +364,7 @@ print("CSV files generated successfully!")
 #     a.country = row.country;
 
 
-
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
-# MERGE (a:merchant {merchanID: toString(row.merchantID)})
-# SET a.name = row.name,
-#     a.category = row.category,
-#     a.location = row.location,
-#     a.country = row.country;
-
-
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/transactions.csv' AS row
 # MERGE (a:transaction {transactionID: toString(row.transactionID)})
 # SET a.amount = row.amount,
 #     a.timestamp = row.timestamp,
@@ -381,7 +374,7 @@ print("CSV files generated successfully!")
 
 
 
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/users.csv' AS row
 # MERGE (a:user {userID: toString(row.userID)})
 # SET a.name = row.name,
 #     a.lastname = row.lastname,
@@ -393,15 +386,13 @@ print("CSV files generated successfully!")
 
 
 
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/atms.csv' AS row
-# Match
-# SET a.name = row.name,
-#     a.lastname = row.lastname,
-#     a.email = row.email,
-#     a.phone = row.phone,
-#     a.country = row.country,
-#     a.birthdate = date(row.birthdate);
+#RELACIONES
 
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/auth_transactions.csv' AS row
+# MATCH (c:bank{bankID:row.startNode})
+# MATCH (usr:transaction{ transactionID:row.endNode})
+# MERGE (c)-[r:AUTHORIZES{authCode:row.authCode, approvalTime:row.approvalTime, riskScore:row.riskScore}]->(usr)
+# return c, r ,usr
 
 
 # LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/company_relationships.csv' AS row
