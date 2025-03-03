@@ -402,11 +402,6 @@ print("CSV files generated successfully!")
 # return c, r ,usr
 
 
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/deposits_relation.csv' AS row
-# MATCH (c:user{userID:row.startNode})
-# MATCH (usr:Account{ accountID:row.endNode})
-# MERGE (c)-[r:row.relationship{timestamp:row.timestamp, amount:row.amount}]->(usr)
-# return c, r ,usr
 
 #Si se puede
 
@@ -414,52 +409,81 @@ print("CSV files generated successfully!")
 # LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/withdraws_relation.csv' AS row
 # MATCH (c:user{userID:row.startNode})
 # MATCH (usr:Account{ accountID:row.endNode})
-# MERGE (usr)-[r:WITHDRAWS{timestamp:row.timestamp, amount:row.amount}]->(c)
+# MERGE (usr)-[r:WITHDRAWS{timestamp:row.timestamp, method:row.method ,amount:row.amount}]->(c)
 # return c, r ,usr
+
 
 
 # OWNS
 # LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/owns_relation.csv' AS row
 # MATCH (c:user{userID:row.startNode})
 # MATCH (usr:Account{ accountID:row.endNode})
-# MERGE (c)-[r:OWNS{since:row.since}]->(usr)
+# MERGE (c)-[r:OWNS{since:row.since, account_type:row.account_type, created:row.created}]->(usr)
 # return c, r ,usr
 
 
 # HAS
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/hass_accs_relation.csv' AS row
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/has_accs_relation.csv' AS row
 # MATCH (c:bank{bankID:row.startNode})
 # MATCH (usr:Account{ accountID:row.endNode})
-# MERGE (c)-[r:HAS{opened:row.opened branch:row.branch}]->(usr)
+# MERGE (c)-[r:HAS{opened:row.opened, branch:row.branch, status:row.status}]->(usr)
 # return c, r ,usr
+
 
 
 #Deposit
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/hass_accs_relation.csv' AS row
-# MATCH (c:bank{bankID:row.startNode})
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/deposits_relation.csv' AS row
+# MATCH (c:user{userID:row.startNode})
 # MATCH (usr:Account{ accountID:row.endNode})
-# MERGE (c)-[r:HAS{opened:row.opened branch:row.branch}]->(usr)
+# MERGE (c)-[r:DEPOSITS{timestamp:row.timestamp, amount:row.amount, origin:row.origin}]->(usr)
 # return c, r ,usr
+
 
 
 #Linked to 
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/linked_accounts.csv' AS row
+# MATCH (c:Account{accountID:row.startNode})
+# MATCH (usr:Account{ accountID:row.endNode})
+# MERGE (c)-[r:LINKED_TO{date:row.date, linkType:row.linkType, reason:row.reason}]->(usr)
+# return c, r ,usr
 
 
 #employs
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/company_relationships.csv' AS row
+# MATCH (c:company{companyID:row.startNode})
+# MATCH (usr:user{ userID:row.endNode})
+# MERGE (c)-[r:EMPLOYS{since:row.since, position:row.position, department:row.department}]->(usr)
+# return c, r ,usr
 
 
 #authorizes 
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/auth_transactions.csv' AS row
+# MATCH (c:bank{bankID:row.startNode})
+# MATCH (usr:transaction{ transactionID:row.endNode})
+# MERGE (c)-[r:AUTHORIZES{authCode:row.authCode, approvalTime:row.approvalTime, riskScore:row.riskScore}]->(usr)
+# return c, r ,usr
 
 
 #refers
-
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/refers_relation.csv' AS row
+# MATCH (c:user{userID:row.startNode})
+# MATCH (usr:user{ userID:row.endNode})
+# MERGE (c)-[r:REFERS{referralDate:row.referralDate, referralCode:row.referralCode, rewardAmount:row.rewardAmount}]->(usr)
+# return c, r ,usr
 
 #managed by
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/managed_accounts.csv' AS row
+# MATCH (c:Account{accountID:row.startNode})
+# MATCH (usr:company{ companyID:row.endNode})
+# MERGE (usr)-[r:MANAGED_BY{managementStart:row.managementStart, accountPurpose:row.accountPurpose, auditRating:row.auditRating}]->(c)
+# return c, r ,usr
+
 
 
 #uses
-# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/hass_accs_relation.csv' AS row
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/device_relationships.csv' AS row
 # MATCH (c:user{userID:row.startNode})
 # MATCH (usr:device{ deviceID:row.endNode})
-# MERGE (c)-[r:USES_DEVICE{timestamp:row.timestamp, location:row.location}]->(usr)
+# MERGE (c)-[r:USES_DEVICE{timestamp:row.timestamp, location:row.location, appUsed:row.appUsed}]->(usr)
 # return c, r ,usr
+
