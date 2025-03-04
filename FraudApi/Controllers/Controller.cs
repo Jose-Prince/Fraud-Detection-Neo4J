@@ -146,7 +146,7 @@ public class Controller : ControllerBase
         return Ok("Relations updated successfully");
     }
 
-    [HttpPut("relations/update/")]
+    [HttpPut("node/update/")]
     public async Task<IActionResult> SetNodes([FromBody] Rel_To_Change relations) {
         if (relations == null) {
             return BadRequest("No relations provided for deletion.");
