@@ -204,7 +204,7 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "relationship": "EMPLOYS",
             "since": random_date(2015, 2023).strftime("%Y-%m-%d"),
             "position":  random.choice(["Manager", "Licenciado", "Entrepreneur", "Engineer"]),
-             "department":  random.choice(["N/A", "IT", "Sales", "HR"])
+            "department":  random.choice(["N/A", "IT", "Sales", "HR"])
         }
         write_relationships_to_csv([company_relationship], 'Fill_Data/csves/company_relationships.csv')
 
@@ -220,6 +220,36 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "appUsed": random.choice(["Banking App", "Phone Wallet", "other"])
         }
         write_relationships_to_csv([device_relationship], 'Fill_Data/csves/device_relationships.csv')
+        
+        
+    for transaction in transactions:
+        merchant = random.choice(merchants)
+        purchased_at= { 
+        "startNode": transaction["transactionID"],
+        "endNode": merchant["merchantID"], 
+        "relationship": "PURCHASED_AT", 
+        "time":random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"), 
+        "appUsed": random.choice(["Banking App", "Phone Wallet", "other"]),
+        "reason": random.choice(["In need of product", "payment ", "sale", "fee"])
+        } 
+        write_relationships_to_csv([purchased_at], 'Fill_Data/csves/purchased_at.csv')
+        
+
+        
+    for user in users:
+        card = random.choice(cards)
+        uses_card= { 
+            "startNode": user["userID"], 
+            "endNode": card["cardID"], 
+            "relationship": "USES_CARD", 
+            "created":random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"), 
+            "type": random.choice(["credit", "Debit", "other"]),
+            "Restrictions": random.choice(["N/A", "NO LIMIT", "PAY BILLS"])
+            }
+        write_relationships_to_csv([uses_card], 'Fill_Data/csves/uses_card.csv')
+        
+
+
 
     for transaction in transactions:
         bank = random.choice(banks)
@@ -228,8 +258,8 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "endNode": transaction["transactionID"],
             "relationship": "AUTHORIZES",
             "authCode": f"AUTH{random.randint(100,999)}",
-            "approvalTime": random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
-            "riskScore": round(random.uniform(1, 10), 2)
+            "time": random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
+            "status": random.choice(["In Process", "Fail", "Success"])
         }
         write_relationships_to_csv([auth_relationship], 'Fill_Data/csves/auth_transactions.csv')
 
@@ -391,7 +421,7 @@ print("CSV files generated successfully!")
 # LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/auth_transactions.csv' AS row
 # MATCH (c:bank{bankID:row.startNode})
 # MATCH (usr:transaction{ transactionID:row.endNode})
-# MERGE (c)-[r:AUTHORIZES{authCode:row.authCode, approvalTime:row.approvalTime, riskScore:row.riskScore}]->(usr)
+# MERGE (c)-[r:AUTHORIZES{authCode:row.authCode, time:row.time, status:row.status}]->(usr)
 # return c, r ,usr
 
 
