@@ -1,1200 +1,2000 @@
 startNode,endNode,relationship,created,type,Restrictions
-USR:1,C213,USES_CARD,2025-02-26T00:00:00,Debit,NO LIMIT
+USR:1,C523,USES_CARD,2022-01-28T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:2,C531,USES_CARD,2023-06-25T00:00:00,credit,NO LIMIT
+USR:2,C126,USES_CARD,2023-04-15T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:3,C220,USES_CARD,2023-11-21T00:00:00,other,NO LIMIT
+USR:3,C196,USES_CARD,2022-10-09T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:4,C460,USES_CARD,2021-01-26T00:00:00,other,NO LIMIT
+USR:4,C688,USES_CARD,2022-04-12T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:5,C213,USES_CARD,2022-12-12T00:00:00,credit,PAY BILLS
+USR:5,C147,USES_CARD,2025-06-28T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:6,C426,USES_CARD,2023-08-08T00:00:00,credit,PAY BILLS
+USR:6,C806,USES_CARD,2023-09-03T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:7,C595,USES_CARD,2024-11-29T00:00:00,credit,PAY BILLS
+USR:7,C472,USES_CARD,2021-11-15T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:8,C66,USES_CARD,2024-12-01T00:00:00,Debit,PAY BILLS
+USR:8,C943,USES_CARD,2023-11-16T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:9,C311,USES_CARD,2024-11-01T00:00:00,other,PAY BILLS
+USR:9,C968,USES_CARD,2023-07-28T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:10,C573,USES_CARD,2025-12-10T00:00:00,other,N/A
+USR:10,C22,USES_CARD,2022-10-13T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:11,C17,USES_CARD,2025-06-10T00:00:00,other,PAY BILLS
+USR:11,C325,USES_CARD,2020-06-02T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:12,C577,USES_CARD,2022-03-17T00:00:00,Debit,N/A
+USR:12,C972,USES_CARD,2022-10-04T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:13,C107,USES_CARD,2021-09-06T00:00:00,Debit,N/A
+USR:13,C343,USES_CARD,2020-03-27T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:14,C421,USES_CARD,2023-06-18T00:00:00,Debit,NO LIMIT
+USR:14,C500,USES_CARD,2022-01-22T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:15,C422,USES_CARD,2021-10-04T00:00:00,credit,PAY BILLS
+USR:15,C801,USES_CARD,2021-11-12T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:16,C335,USES_CARD,2022-08-31T00:00:00,Debit,N/A
+USR:16,C718,USES_CARD,2023-05-11T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:17,C487,USES_CARD,2024-03-28T00:00:00,Debit,PAY BILLS
+USR:17,C132,USES_CARD,2022-06-25T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:18,C315,USES_CARD,2022-04-20T00:00:00,credit,PAY BILLS
+USR:18,C478,USES_CARD,2021-11-13T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:19,C370,USES_CARD,2020-03-24T00:00:00,credit,NO LIMIT
+USR:19,C655,USES_CARD,2024-11-10T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:20,C419,USES_CARD,2021-12-25T00:00:00,other,NO LIMIT
+USR:20,C560,USES_CARD,2024-12-20T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:21,C545,USES_CARD,2024-05-19T00:00:00,Debit,N/A
+USR:21,C143,USES_CARD,2022-11-25T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:22,C38,USES_CARD,2025-08-21T00:00:00,credit,N/A
+USR:22,C663,USES_CARD,2021-04-24T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:23,C95,USES_CARD,2020-12-05T00:00:00,Debit,PAY BILLS
+USR:23,C31,USES_CARD,2024-05-29T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:24,C550,USES_CARD,2023-06-09T00:00:00,Debit,PAY BILLS
+USR:24,C796,USES_CARD,2024-02-16T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:25,C401,USES_CARD,2023-06-04T00:00:00,other,NO LIMIT
+USR:25,C428,USES_CARD,2023-02-27T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:26,C449,USES_CARD,2024-07-16T00:00:00,other,N/A
+USR:26,C790,USES_CARD,2022-06-08T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:27,C252,USES_CARD,2023-07-02T00:00:00,Debit,N/A
+USR:27,C556,USES_CARD,2023-02-22T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:28,C142,USES_CARD,2023-02-08T00:00:00,Debit,PAY BILLS
+USR:28,C482,USES_CARD,2021-07-07T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:29,C67,USES_CARD,2021-08-16T00:00:00,other,NO LIMIT
+USR:29,C2,USES_CARD,2021-08-22T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:30,C30,USES_CARD,2023-01-25T00:00:00,Debit,PAY BILLS
+USR:30,C636,USES_CARD,2020-05-05T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:31,C384,USES_CARD,2024-10-22T00:00:00,credit,PAY BILLS
+USR:31,C842,USES_CARD,2024-11-27T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:32,C196,USES_CARD,2024-07-30T00:00:00,credit,PAY BILLS
+USR:32,C713,USES_CARD,2022-11-24T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:33,C325,USES_CARD,2020-06-19T00:00:00,credit,N/A
+USR:33,C773,USES_CARD,2021-11-08T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:34,C586,USES_CARD,2023-06-24T00:00:00,Debit,N/A
+USR:34,C845,USES_CARD,2023-10-08T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:35,C261,USES_CARD,2020-01-15T00:00:00,Debit,N/A
+USR:35,C434,USES_CARD,2021-08-11T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:36,C350,USES_CARD,2024-12-02T00:00:00,other,NO LIMIT
+USR:36,C501,USES_CARD,2023-06-22T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:37,C65,USES_CARD,2023-07-04T00:00:00,credit,N/A
+USR:37,C841,USES_CARD,2022-04-20T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:38,C592,USES_CARD,2024-06-17T00:00:00,Debit,NO LIMIT
+USR:38,C542,USES_CARD,2021-04-25T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:39,C48,USES_CARD,2023-03-18T00:00:00,Debit,N/A
+USR:39,C8,USES_CARD,2024-09-12T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:40,C565,USES_CARD,2023-11-29T00:00:00,Debit,NO LIMIT
+USR:40,C48,USES_CARD,2021-12-25T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:41,C496,USES_CARD,2022-04-22T00:00:00,credit,PAY BILLS
+USR:41,C534,USES_CARD,2020-12-13T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:42,C34,USES_CARD,2023-03-08T00:00:00,other,PAY BILLS
+USR:42,C717,USES_CARD,2020-06-07T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:43,C156,USES_CARD,2022-11-29T00:00:00,other,NO LIMIT
+USR:43,C426,USES_CARD,2021-02-05T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:44,C372,USES_CARD,2025-04-22T00:00:00,other,NO LIMIT
+USR:44,C793,USES_CARD,2024-11-22T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:45,C211,USES_CARD,2023-01-25T00:00:00,other,N/A
+USR:45,C774,USES_CARD,2021-03-23T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:46,C22,USES_CARD,2021-11-30T00:00:00,Debit,PAY BILLS
+USR:46,C947,USES_CARD,2024-10-03T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:47,C422,USES_CARD,2022-10-28T00:00:00,Debit,N/A
+USR:47,C895,USES_CARD,2025-07-08T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:48,C246,USES_CARD,2023-06-25T00:00:00,credit,PAY BILLS
+USR:48,C391,USES_CARD,2021-02-01T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:49,C198,USES_CARD,2020-06-26T00:00:00,credit,PAY BILLS
+USR:49,C337,USES_CARD,2020-03-27T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:50,C548,USES_CARD,2021-08-20T00:00:00,Debit,PAY BILLS
+USR:50,C317,USES_CARD,2025-08-18T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:51,C374,USES_CARD,2021-09-13T00:00:00,credit,NO LIMIT
+USR:51,C965,USES_CARD,2022-09-25T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:52,C458,USES_CARD,2025-08-31T00:00:00,Debit,PAY BILLS
+USR:52,C338,USES_CARD,2021-04-25T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:53,C166,USES_CARD,2020-10-19T00:00:00,credit,NO LIMIT
+USR:53,C479,USES_CARD,2023-11-18T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:54,C252,USES_CARD,2023-04-14T00:00:00,other,N/A
+USR:54,C791,USES_CARD,2020-03-31T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:55,C468,USES_CARD,2020-05-08T00:00:00,other,NO LIMIT
+USR:55,C285,USES_CARD,2021-06-25T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:56,C60,USES_CARD,2023-02-09T00:00:00,credit,PAY BILLS
+USR:56,C439,USES_CARD,2020-04-01T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:57,C206,USES_CARD,2022-01-05T00:00:00,credit,PAY BILLS
+USR:57,C501,USES_CARD,2023-09-02T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:58,C334,USES_CARD,2021-03-03T00:00:00,other,N/A
+USR:58,C709,USES_CARD,2022-07-25T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:59,C180,USES_CARD,2020-02-13T00:00:00,Debit,NO LIMIT
+USR:59,C921,USES_CARD,2025-04-20T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:60,C235,USES_CARD,2025-02-19T00:00:00,other,PAY BILLS
+USR:60,C27,USES_CARD,2022-09-21T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:61,C261,USES_CARD,2021-07-18T00:00:00,credit,N/A
+USR:61,C844,USES_CARD,2024-09-26T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:62,C381,USES_CARD,2023-06-16T00:00:00,other,PAY BILLS
+USR:62,C107,USES_CARD,2024-08-31T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:63,C40,USES_CARD,2024-11-23T00:00:00,credit,N/A
+USR:63,C25,USES_CARD,2022-12-25T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:64,C279,USES_CARD,2022-02-21T00:00:00,credit,N/A
+USR:64,C833,USES_CARD,2020-01-22T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:65,C231,USES_CARD,2022-07-14T00:00:00,Debit,PAY BILLS
+USR:65,C120,USES_CARD,2021-01-31T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:66,C359,USES_CARD,2022-05-19T00:00:00,other,NO LIMIT
+USR:66,C421,USES_CARD,2020-01-12T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:67,C208,USES_CARD,2021-01-18T00:00:00,Debit,NO LIMIT
+USR:67,C588,USES_CARD,2023-01-22T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:68,C169,USES_CARD,2020-01-03T00:00:00,credit,NO LIMIT
+USR:68,C860,USES_CARD,2025-03-02T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:69,C198,USES_CARD,2020-12-17T00:00:00,other,PAY BILLS
+USR:69,C971,USES_CARD,2022-01-05T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:70,C451,USES_CARD,2020-10-14T00:00:00,other,PAY BILLS
+USR:70,C72,USES_CARD,2025-03-14T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:71,C286,USES_CARD,2020-12-20T00:00:00,other,NO LIMIT
+USR:71,C115,USES_CARD,2025-12-20T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:72,C36,USES_CARD,2025-05-11T00:00:00,Debit,NO LIMIT
+USR:72,C899,USES_CARD,2022-01-10T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:73,C393,USES_CARD,2024-08-06T00:00:00,other,PAY BILLS
+USR:73,C262,USES_CARD,2025-02-07T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:74,C224,USES_CARD,2021-07-14T00:00:00,credit,N/A
+USR:74,C268,USES_CARD,2020-01-05T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:75,C426,USES_CARD,2021-01-27T00:00:00,Debit,PAY BILLS
+USR:75,C572,USES_CARD,2020-10-17T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:76,C100,USES_CARD,2024-05-23T00:00:00,other,NO LIMIT
+USR:76,C600,USES_CARD,2024-01-09T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:77,C93,USES_CARD,2024-11-14T00:00:00,Debit,PAY BILLS
+USR:77,C156,USES_CARD,2021-06-08T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:78,C579,USES_CARD,2024-10-09T00:00:00,other,PAY BILLS
+USR:78,C252,USES_CARD,2025-05-01T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:79,C125,USES_CARD,2025-04-12T00:00:00,other,PAY BILLS
+USR:79,C535,USES_CARD,2021-03-14T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:80,C592,USES_CARD,2023-06-15T00:00:00,Debit,PAY BILLS
+USR:80,C690,USES_CARD,2024-01-04T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:81,C507,USES_CARD,2020-04-12T00:00:00,Debit,PAY BILLS
+USR:81,C641,USES_CARD,2025-01-28T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:82,C449,USES_CARD,2022-10-14T00:00:00,Debit,NO LIMIT
+USR:82,C755,USES_CARD,2020-05-18T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:83,C200,USES_CARD,2024-02-19T00:00:00,credit,N/A
+USR:83,C882,USES_CARD,2022-01-03T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:84,C508,USES_CARD,2021-08-19T00:00:00,other,NO LIMIT
+USR:84,C894,USES_CARD,2020-12-21T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:85,C432,USES_CARD,2022-04-09T00:00:00,Debit,PAY BILLS
+USR:85,C254,USES_CARD,2025-08-29T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:86,C296,USES_CARD,2022-01-14T00:00:00,credit,PAY BILLS
+USR:86,C990,USES_CARD,2021-06-15T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:87,C6,USES_CARD,2024-09-22T00:00:00,other,NO LIMIT
+USR:87,C424,USES_CARD,2021-12-01T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:88,C350,USES_CARD,2023-11-20T00:00:00,Debit,N/A
+USR:88,C68,USES_CARD,2021-05-27T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:89,C431,USES_CARD,2020-02-03T00:00:00,credit,NO LIMIT
+USR:89,C970,USES_CARD,2023-07-06T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:90,C530,USES_CARD,2021-05-26T00:00:00,Debit,PAY BILLS
+USR:90,C759,USES_CARD,2024-12-05T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:91,C53,USES_CARD,2024-01-08T00:00:00,other,PAY BILLS
+USR:91,C569,USES_CARD,2024-01-26T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:92,C172,USES_CARD,2024-03-23T00:00:00,credit,NO LIMIT
+USR:92,C28,USES_CARD,2025-04-18T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:93,C556,USES_CARD,2020-07-08T00:00:00,other,PAY BILLS
+USR:93,C319,USES_CARD,2021-12-13T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:94,C425,USES_CARD,2023-08-15T00:00:00,credit,N/A
+USR:94,C179,USES_CARD,2025-10-26T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:95,C373,USES_CARD,2020-08-30T00:00:00,Debit,PAY BILLS
+USR:95,C68,USES_CARD,2023-06-04T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:96,C347,USES_CARD,2024-06-08T00:00:00,Debit,NO LIMIT
+USR:96,C7,USES_CARD,2022-03-06T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:97,C222,USES_CARD,2025-01-23T00:00:00,Debit,NO LIMIT
+USR:97,C684,USES_CARD,2022-07-21T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:98,C300,USES_CARD,2021-08-20T00:00:00,credit,N/A
+USR:98,C88,USES_CARD,2025-11-18T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:99,C99,USES_CARD,2025-01-01T00:00:00,other,PAY BILLS
+USR:99,C316,USES_CARD,2022-10-24T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:100,C456,USES_CARD,2021-03-26T00:00:00,other,PAY BILLS
+USR:100,C85,USES_CARD,2023-01-17T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:101,C476,USES_CARD,2023-07-09T00:00:00,Debit,N/A
+USR:101,C796,USES_CARD,2021-04-24T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:102,C415,USES_CARD,2025-06-13T00:00:00,Debit,PAY BILLS
+USR:102,C382,USES_CARD,2024-03-30T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:103,C456,USES_CARD,2022-01-25T00:00:00,Debit,PAY BILLS
+USR:103,C212,USES_CARD,2023-11-22T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:104,C504,USES_CARD,2021-12-19T00:00:00,Debit,NO LIMIT
+USR:104,C927,USES_CARD,2022-11-21T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:105,C99,USES_CARD,2025-04-08T00:00:00,credit,PAY BILLS
+USR:105,C372,USES_CARD,2023-05-27T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:106,C531,USES_CARD,2023-01-17T00:00:00,other,NO LIMIT
+USR:106,C218,USES_CARD,2020-03-22T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:107,C424,USES_CARD,2024-07-13T00:00:00,other,PAY BILLS
+USR:107,C578,USES_CARD,2023-03-10T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:108,C505,USES_CARD,2024-02-27T00:00:00,credit,NO LIMIT
+USR:108,C775,USES_CARD,2021-09-13T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:109,C278,USES_CARD,2020-10-19T00:00:00,Debit,NO LIMIT
+USR:109,C915,USES_CARD,2024-11-22T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:110,C283,USES_CARD,2021-03-12T00:00:00,credit,PAY BILLS
+USR:110,C101,USES_CARD,2023-04-13T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:111,C70,USES_CARD,2022-04-14T00:00:00,credit,PAY BILLS
+USR:111,C329,USES_CARD,2020-11-17T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:112,C119,USES_CARD,2021-03-19T00:00:00,Debit,N/A
+USR:112,C707,USES_CARD,2022-08-11T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:113,C597,USES_CARD,2022-11-22T00:00:00,other,N/A
+USR:113,C802,USES_CARD,2022-04-10T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:114,C402,USES_CARD,2020-05-15T00:00:00,other,PAY BILLS
+USR:114,C55,USES_CARD,2024-03-17T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:115,C496,USES_CARD,2022-01-10T00:00:00,Debit,NO LIMIT
+USR:115,C923,USES_CARD,2021-07-18T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:116,C157,USES_CARD,2025-11-11T00:00:00,other,PAY BILLS
+USR:116,C672,USES_CARD,2023-10-19T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:117,C589,USES_CARD,2021-12-22T00:00:00,Debit,NO LIMIT
+USR:117,C254,USES_CARD,2024-05-06T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:118,C357,USES_CARD,2023-01-03T00:00:00,credit,N/A
+USR:118,C183,USES_CARD,2024-02-10T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:119,C314,USES_CARD,2022-10-01T00:00:00,Debit,NO LIMIT
+USR:119,C431,USES_CARD,2021-06-22T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:120,C266,USES_CARD,2021-11-06T00:00:00,credit,N/A
+USR:120,C682,USES_CARD,2020-05-11T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:121,C463,USES_CARD,2025-08-08T00:00:00,other,PAY BILLS
+USR:121,C526,USES_CARD,2020-12-14T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:122,C92,USES_CARD,2024-01-14T00:00:00,other,N/A
+USR:122,C116,USES_CARD,2024-03-19T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:123,C520,USES_CARD,2020-09-18T00:00:00,credit,N/A
+USR:123,C621,USES_CARD,2020-11-23T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:124,C315,USES_CARD,2022-11-13T00:00:00,Debit,NO LIMIT
+USR:124,C194,USES_CARD,2021-03-17T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:125,C484,USES_CARD,2020-05-12T00:00:00,other,PAY BILLS
+USR:125,C637,USES_CARD,2021-09-25T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:126,C567,USES_CARD,2024-09-21T00:00:00,Debit,NO LIMIT
+USR:126,C550,USES_CARD,2023-02-13T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:127,C91,USES_CARD,2020-03-03T00:00:00,other,NO LIMIT
+USR:127,C451,USES_CARD,2020-06-09T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:128,C450,USES_CARD,2025-12-25T00:00:00,other,N/A
+USR:128,C686,USES_CARD,2022-07-03T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:129,C201,USES_CARD,2025-07-14T00:00:00,credit,NO LIMIT
+USR:129,C255,USES_CARD,2021-12-08T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:130,C80,USES_CARD,2025-04-30T00:00:00,Debit,N/A
+USR:130,C840,USES_CARD,2022-06-09T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:131,C320,USES_CARD,2023-08-14T00:00:00,Debit,NO LIMIT
+USR:131,C530,USES_CARD,2021-03-29T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:132,C323,USES_CARD,2020-08-20T00:00:00,other,NO LIMIT
+USR:132,C983,USES_CARD,2022-10-12T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:133,C473,USES_CARD,2025-01-25T00:00:00,credit,N/A
+USR:133,C662,USES_CARD,2024-10-22T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:134,C30,USES_CARD,2024-06-17T00:00:00,Debit,NO LIMIT
+USR:134,C228,USES_CARD,2025-12-01T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:135,C520,USES_CARD,2022-07-21T00:00:00,other,NO LIMIT
+USR:135,C141,USES_CARD,2022-04-26T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:136,C599,USES_CARD,2021-06-25T00:00:00,other,NO LIMIT
+USR:136,C144,USES_CARD,2021-04-07T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:137,C137,USES_CARD,2024-06-23T00:00:00,other,NO LIMIT
+USR:137,C352,USES_CARD,2022-03-19T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:138,C261,USES_CARD,2025-06-10T00:00:00,other,N/A
+USR:138,C688,USES_CARD,2021-06-15T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:139,C309,USES_CARD,2020-08-07T00:00:00,credit,N/A
+USR:139,C855,USES_CARD,2020-06-19T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:140,C120,USES_CARD,2025-08-05T00:00:00,other,N/A
+USR:140,C736,USES_CARD,2025-01-21T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:141,C541,USES_CARD,2025-09-09T00:00:00,credit,NO LIMIT
+USR:141,C975,USES_CARD,2022-04-14T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:142,C174,USES_CARD,2022-02-03T00:00:00,credit,PAY BILLS
+USR:142,C493,USES_CARD,2022-02-28T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:143,C14,USES_CARD,2024-04-25T00:00:00,credit,N/A
+USR:143,C901,USES_CARD,2022-08-21T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:144,C600,USES_CARD,2024-10-08T00:00:00,Debit,N/A
+USR:144,C754,USES_CARD,2024-02-01T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:145,C374,USES_CARD,2023-11-07T00:00:00,credit,PAY BILLS
+USR:145,C370,USES_CARD,2021-08-08T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:146,C105,USES_CARD,2020-05-30T00:00:00,other,NO LIMIT
+USR:146,C716,USES_CARD,2020-04-18T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:147,C130,USES_CARD,2024-01-13T00:00:00,credit,PAY BILLS
+USR:147,C870,USES_CARD,2024-05-26T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:148,C310,USES_CARD,2023-10-19T00:00:00,credit,PAY BILLS
+USR:148,C132,USES_CARD,2025-10-20T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:149,C228,USES_CARD,2025-12-31T00:00:00,Debit,PAY BILLS
+USR:149,C288,USES_CARD,2025-06-28T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:150,C433,USES_CARD,2023-11-14T00:00:00,other,PAY BILLS
+USR:150,C407,USES_CARD,2025-03-06T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:151,C308,USES_CARD,2025-03-11T00:00:00,Debit,PAY BILLS
+USR:151,C970,USES_CARD,2022-03-08T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:152,C144,USES_CARD,2025-08-05T00:00:00,other,N/A
+USR:152,C250,USES_CARD,2025-06-13T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:153,C494,USES_CARD,2023-05-19T00:00:00,Debit,N/A
+USR:153,C325,USES_CARD,2020-04-10T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:154,C431,USES_CARD,2020-10-13T00:00:00,Debit,NO LIMIT
+USR:154,C64,USES_CARD,2023-07-11T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:155,C347,USES_CARD,2023-11-15T00:00:00,Debit,NO LIMIT
+USR:155,C648,USES_CARD,2024-01-20T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:156,C208,USES_CARD,2022-10-19T00:00:00,other,N/A
+USR:156,C565,USES_CARD,2025-06-01T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:157,C6,USES_CARD,2020-07-01T00:00:00,other,PAY BILLS
+USR:157,C949,USES_CARD,2025-03-19T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:158,C11,USES_CARD,2021-07-25T00:00:00,Debit,PAY BILLS
+USR:158,C13,USES_CARD,2020-06-01T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:159,C521,USES_CARD,2025-06-16T00:00:00,credit,PAY BILLS
+USR:159,C386,USES_CARD,2025-09-09T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:160,C528,USES_CARD,2024-07-29T00:00:00,credit,N/A
+USR:160,C510,USES_CARD,2021-10-24T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:161,C374,USES_CARD,2025-09-16T00:00:00,other,PAY BILLS
+USR:161,C660,USES_CARD,2024-08-09T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:162,C455,USES_CARD,2025-11-25T00:00:00,Debit,PAY BILLS
+USR:162,C677,USES_CARD,2021-06-10T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:163,C55,USES_CARD,2023-02-23T00:00:00,credit,NO LIMIT
+USR:163,C983,USES_CARD,2024-06-03T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:164,C400,USES_CARD,2025-02-18T00:00:00,credit,N/A
+USR:164,C492,USES_CARD,2022-04-23T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:165,C434,USES_CARD,2021-10-08T00:00:00,credit,NO LIMIT
+USR:165,C67,USES_CARD,2022-01-28T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:166,C197,USES_CARD,2023-02-13T00:00:00,other,N/A
+USR:166,C143,USES_CARD,2022-02-27T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:167,C406,USES_CARD,2024-03-30T00:00:00,Debit,NO LIMIT
+USR:167,C684,USES_CARD,2024-06-20T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:168,C523,USES_CARD,2025-07-27T00:00:00,credit,N/A
+USR:168,C590,USES_CARD,2025-04-10T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:169,C221,USES_CARD,2020-08-10T00:00:00,credit,NO LIMIT
+USR:169,C865,USES_CARD,2021-11-19T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:170,C207,USES_CARD,2022-03-11T00:00:00,other,NO LIMIT
+USR:170,C726,USES_CARD,2020-07-19T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:171,C279,USES_CARD,2023-06-07T00:00:00,credit,NO LIMIT
+USR:171,C926,USES_CARD,2020-09-08T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:172,C422,USES_CARD,2024-11-28T00:00:00,Debit,NO LIMIT
+USR:172,C194,USES_CARD,2024-06-04T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:173,C533,USES_CARD,2022-04-21T00:00:00,other,NO LIMIT
+USR:173,C756,USES_CARD,2024-11-01T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:174,C430,USES_CARD,2023-10-05T00:00:00,other,NO LIMIT
+USR:174,C101,USES_CARD,2022-01-05T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:175,C456,USES_CARD,2020-04-16T00:00:00,Debit,NO LIMIT
+USR:175,C375,USES_CARD,2022-12-08T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:176,C353,USES_CARD,2021-12-14T00:00:00,Debit,NO LIMIT
+USR:176,C195,USES_CARD,2024-03-24T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:177,C375,USES_CARD,2024-11-16T00:00:00,other,NO LIMIT
+USR:177,C498,USES_CARD,2020-04-20T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:178,C495,USES_CARD,2023-11-13T00:00:00,Debit,N/A
+USR:178,C527,USES_CARD,2020-01-25T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:179,C537,USES_CARD,2022-01-19T00:00:00,credit,N/A
+USR:179,C312,USES_CARD,2025-11-03T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:180,C458,USES_CARD,2024-01-01T00:00:00,credit,PAY BILLS
+USR:180,C378,USES_CARD,2025-04-04T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:181,C1,USES_CARD,2020-12-23T00:00:00,Debit,NO LIMIT
+USR:181,C769,USES_CARD,2022-06-10T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:182,C586,USES_CARD,2020-12-29T00:00:00,credit,PAY BILLS
+USR:182,C60,USES_CARD,2021-02-17T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:183,C225,USES_CARD,2024-10-11T00:00:00,other,NO LIMIT
+USR:183,C160,USES_CARD,2025-03-14T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:184,C437,USES_CARD,2021-09-21T00:00:00,credit,PAY BILLS
+USR:184,C377,USES_CARD,2025-10-29T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:185,C525,USES_CARD,2022-08-17T00:00:00,credit,NO LIMIT
+USR:185,C66,USES_CARD,2020-06-30T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:186,C428,USES_CARD,2024-01-31T00:00:00,credit,PAY BILLS
+USR:186,C978,USES_CARD,2021-11-16T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:187,C43,USES_CARD,2024-02-09T00:00:00,Debit,NO LIMIT
+USR:187,C393,USES_CARD,2023-08-13T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:188,C40,USES_CARD,2023-06-13T00:00:00,other,N/A
+USR:188,C568,USES_CARD,2020-06-12T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:189,C574,USES_CARD,2022-09-08T00:00:00,Debit,NO LIMIT
+USR:189,C770,USES_CARD,2021-04-25T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:190,C483,USES_CARD,2021-11-27T00:00:00,other,N/A
+USR:190,C597,USES_CARD,2021-10-02T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:191,C248,USES_CARD,2022-05-09T00:00:00,other,N/A
+USR:191,C22,USES_CARD,2023-02-14T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:192,C398,USES_CARD,2023-01-14T00:00:00,credit,N/A
+USR:192,C400,USES_CARD,2021-03-03T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:193,C591,USES_CARD,2023-10-15T00:00:00,credit,N/A
+USR:193,C632,USES_CARD,2024-04-15T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:194,C147,USES_CARD,2020-05-09T00:00:00,other,PAY BILLS
+USR:194,C577,USES_CARD,2025-12-22T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:195,C338,USES_CARD,2023-06-07T00:00:00,other,N/A
+USR:195,C254,USES_CARD,2025-07-29T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:196,C116,USES_CARD,2022-03-23T00:00:00,other,NO LIMIT
+USR:196,C839,USES_CARD,2022-04-03T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:197,C280,USES_CARD,2022-08-22T00:00:00,Debit,N/A
+USR:197,C499,USES_CARD,2024-08-01T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:198,C275,USES_CARD,2024-08-02T00:00:00,Debit,NO LIMIT
+USR:198,C98,USES_CARD,2022-04-10T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:199,C425,USES_CARD,2022-11-15T00:00:00,credit,PAY BILLS
+USR:199,C72,USES_CARD,2023-04-25T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:200,C217,USES_CARD,2024-10-08T00:00:00,other,PAY BILLS
+USR:200,C155,USES_CARD,2024-03-16T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:201,C329,USES_CARD,2024-04-09T00:00:00,Debit,PAY BILLS
+USR:201,C501,USES_CARD,2023-02-11T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:202,C157,USES_CARD,2025-12-04T00:00:00,Debit,N/A
+USR:202,C228,USES_CARD,2020-07-13T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:203,C517,USES_CARD,2024-07-09T00:00:00,Debit,NO LIMIT
+USR:203,C597,USES_CARD,2023-02-17T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:204,C267,USES_CARD,2025-11-27T00:00:00,other,PAY BILLS
+USR:204,C26,USES_CARD,2020-05-18T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:205,C357,USES_CARD,2022-11-06T00:00:00,other,PAY BILLS
+USR:205,C78,USES_CARD,2023-03-21T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:206,C288,USES_CARD,2025-04-07T00:00:00,other,N/A
+USR:206,C250,USES_CARD,2022-08-09T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:207,C540,USES_CARD,2024-06-01T00:00:00,Debit,N/A
+USR:207,C723,USES_CARD,2021-04-25T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:208,C380,USES_CARD,2023-01-25T00:00:00,credit,PAY BILLS
+USR:208,C311,USES_CARD,2020-01-15T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:209,C436,USES_CARD,2022-10-20T00:00:00,Debit,N/A
+USR:209,C631,USES_CARD,2021-06-08T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:210,C354,USES_CARD,2022-10-16T00:00:00,credit,PAY BILLS
+USR:210,C298,USES_CARD,2022-12-22T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:211,C566,USES_CARD,2021-08-28T00:00:00,other,NO LIMIT
+USR:211,C995,USES_CARD,2025-10-09T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:212,C219,USES_CARD,2024-07-07T00:00:00,credit,N/A
+USR:212,C720,USES_CARD,2022-12-29T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:213,C297,USES_CARD,2021-06-01T00:00:00,other,N/A
+USR:213,C237,USES_CARD,2020-10-19T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:214,C433,USES_CARD,2021-05-08T00:00:00,other,NO LIMIT
+USR:214,C721,USES_CARD,2020-05-19T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:215,C570,USES_CARD,2025-01-11T00:00:00,credit,PAY BILLS
+USR:215,C642,USES_CARD,2023-04-14T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:216,C425,USES_CARD,2024-04-18T00:00:00,other,NO LIMIT
+USR:216,C611,USES_CARD,2025-11-07T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:217,C524,USES_CARD,2023-11-11T00:00:00,credit,N/A
+USR:217,C926,USES_CARD,2022-09-04T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:218,C82,USES_CARD,2024-08-29T00:00:00,credit,N/A
+USR:218,C202,USES_CARD,2022-03-08T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:219,C274,USES_CARD,2025-05-11T00:00:00,Debit,NO LIMIT
+USR:219,C547,USES_CARD,2025-08-19T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:220,C216,USES_CARD,2022-11-21T00:00:00,credit,NO LIMIT
+USR:220,C598,USES_CARD,2020-06-09T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:221,C563,USES_CARD,2022-08-16T00:00:00,Debit,PAY BILLS
+USR:221,C608,USES_CARD,2021-11-03T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:222,C368,USES_CARD,2020-02-07T00:00:00,other,NO LIMIT
+USR:222,C466,USES_CARD,2022-08-05T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:223,C202,USES_CARD,2020-07-08T00:00:00,credit,N/A
+USR:223,C992,USES_CARD,2022-07-29T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:224,C177,USES_CARD,2020-03-27T00:00:00,Debit,NO LIMIT
+USR:224,C641,USES_CARD,2020-07-24T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:225,C589,USES_CARD,2021-10-01T00:00:00,Debit,PAY BILLS
+USR:225,C149,USES_CARD,2025-09-01T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:226,C315,USES_CARD,2023-07-21T00:00:00,other,NO LIMIT
+USR:226,C718,USES_CARD,2020-05-13T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:227,C379,USES_CARD,2021-05-20T00:00:00,Debit,NO LIMIT
+USR:227,C158,USES_CARD,2021-10-13T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:228,C116,USES_CARD,2025-09-30T00:00:00,credit,NO LIMIT
+USR:228,C432,USES_CARD,2025-02-11T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:229,C525,USES_CARD,2022-07-22T00:00:00,other,NO LIMIT
+USR:229,C760,USES_CARD,2020-09-03T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:230,C204,USES_CARD,2023-07-28T00:00:00,Debit,PAY BILLS
+USR:230,C484,USES_CARD,2021-09-26T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:231,C456,USES_CARD,2020-06-26T00:00:00,Debit,N/A
+USR:231,C921,USES_CARD,2022-10-25T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:232,C313,USES_CARD,2020-09-02T00:00:00,other,PAY BILLS
+USR:232,C687,USES_CARD,2023-01-11T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:233,C29,USES_CARD,2022-10-27T00:00:00,credit,NO LIMIT
+USR:233,C765,USES_CARD,2023-06-26T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:234,C113,USES_CARD,2023-11-19T00:00:00,credit,N/A
+USR:234,C396,USES_CARD,2023-11-09T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:235,C360,USES_CARD,2024-10-04T00:00:00,Debit,NO LIMIT
+USR:235,C307,USES_CARD,2021-07-18T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:236,C300,USES_CARD,2021-03-05T00:00:00,Debit,N/A
+USR:236,C737,USES_CARD,2023-04-25T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:237,C47,USES_CARD,2023-12-14T00:00:00,Debit,N/A
+USR:237,C118,USES_CARD,2020-05-06T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:238,C421,USES_CARD,2024-06-25T00:00:00,credit,N/A
+USR:238,C493,USES_CARD,2021-11-22T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:239,C364,USES_CARD,2022-07-27T00:00:00,credit,NO LIMIT
+USR:239,C361,USES_CARD,2025-07-08T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:240,C198,USES_CARD,2021-02-24T00:00:00,credit,N/A
+USR:240,C610,USES_CARD,2021-04-30T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:241,C490,USES_CARD,2020-04-06T00:00:00,Debit,PAY BILLS
+USR:241,C105,USES_CARD,2021-09-15T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:242,C16,USES_CARD,2021-10-30T00:00:00,credit,PAY BILLS
+USR:242,C495,USES_CARD,2021-10-19T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:243,C21,USES_CARD,2023-11-03T00:00:00,Debit,N/A
+USR:243,C338,USES_CARD,2020-06-30T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:244,C165,USES_CARD,2022-10-26T00:00:00,other,NO LIMIT
+USR:244,C508,USES_CARD,2021-12-10T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:245,C287,USES_CARD,2022-11-28T00:00:00,credit,PAY BILLS
+USR:245,C774,USES_CARD,2024-11-11T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:246,C88,USES_CARD,2021-05-20T00:00:00,credit,N/A
+USR:246,C192,USES_CARD,2022-02-07T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:247,C352,USES_CARD,2023-01-30T00:00:00,Debit,PAY BILLS
+USR:247,C682,USES_CARD,2020-12-15T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:248,C258,USES_CARD,2021-04-02T00:00:00,other,PAY BILLS
+USR:248,C441,USES_CARD,2024-03-18T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:249,C271,USES_CARD,2020-07-29T00:00:00,other,N/A
+USR:249,C952,USES_CARD,2020-03-19T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:250,C443,USES_CARD,2025-11-05T00:00:00,other,PAY BILLS
+USR:250,C442,USES_CARD,2025-09-27T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:251,C164,USES_CARD,2020-01-05T00:00:00,credit,NO LIMIT
+USR:251,C289,USES_CARD,2021-09-04T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:252,C388,USES_CARD,2022-02-11T00:00:00,other,PAY BILLS
+USR:252,C193,USES_CARD,2022-07-17T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:253,C408,USES_CARD,2025-10-14T00:00:00,other,PAY BILLS
+USR:253,C425,USES_CARD,2025-03-08T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:254,C459,USES_CARD,2022-01-24T00:00:00,other,NO LIMIT
+USR:254,C223,USES_CARD,2022-07-13T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:255,C507,USES_CARD,2025-11-25T00:00:00,credit,N/A
+USR:255,C569,USES_CARD,2022-11-07T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:256,C310,USES_CARD,2024-10-13T00:00:00,other,N/A
+USR:256,C757,USES_CARD,2022-12-30T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:257,C264,USES_CARD,2024-05-23T00:00:00,Debit,PAY BILLS
+USR:257,C510,USES_CARD,2024-06-09T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:258,C111,USES_CARD,2023-12-25T00:00:00,credit,NO LIMIT
+USR:258,C181,USES_CARD,2022-02-18T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:259,C219,USES_CARD,2024-07-12T00:00:00,other,NO LIMIT
+USR:259,C42,USES_CARD,2025-05-13T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:260,C37,USES_CARD,2021-02-20T00:00:00,Debit,PAY BILLS
+USR:260,C649,USES_CARD,2023-01-05T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:261,C579,USES_CARD,2020-03-07T00:00:00,credit,NO LIMIT
+USR:261,C680,USES_CARD,2025-08-18T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:262,C102,USES_CARD,2025-12-20T00:00:00,credit,NO LIMIT
+USR:262,C845,USES_CARD,2020-02-27T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:263,C315,USES_CARD,2025-01-22T00:00:00,Debit,PAY BILLS
+USR:263,C153,USES_CARD,2021-04-25T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:264,C183,USES_CARD,2023-07-15T00:00:00,Debit,NO LIMIT
+USR:264,C585,USES_CARD,2024-07-19T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:265,C261,USES_CARD,2022-06-09T00:00:00,other,N/A
+USR:265,C665,USES_CARD,2025-12-29T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:266,C294,USES_CARD,2025-06-08T00:00:00,credit,NO LIMIT
+USR:266,C145,USES_CARD,2025-08-06T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:267,C353,USES_CARD,2020-09-07T00:00:00,Debit,NO LIMIT
+USR:267,C507,USES_CARD,2024-09-23T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:268,C20,USES_CARD,2021-01-02T00:00:00,credit,N/A
+USR:268,C335,USES_CARD,2023-06-26T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:269,C196,USES_CARD,2023-11-17T00:00:00,Debit,PAY BILLS
+USR:269,C627,USES_CARD,2024-07-13T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:270,C489,USES_CARD,2021-05-08T00:00:00,Debit,N/A
+USR:270,C23,USES_CARD,2025-07-11T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:271,C277,USES_CARD,2025-12-25T00:00:00,Debit,PAY BILLS
+USR:271,C357,USES_CARD,2020-11-03T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:272,C490,USES_CARD,2025-04-19T00:00:00,credit,NO LIMIT
+USR:272,C874,USES_CARD,2022-04-05T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:273,C336,USES_CARD,2023-10-22T00:00:00,Debit,NO LIMIT
+USR:273,C663,USES_CARD,2025-09-30T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:274,C264,USES_CARD,2020-04-15T00:00:00,other,PAY BILLS
+USR:274,C597,USES_CARD,2025-01-10T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:275,C237,USES_CARD,2023-09-02T00:00:00,other,PAY BILLS
+USR:275,C791,USES_CARD,2020-02-18T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:276,C131,USES_CARD,2021-03-11T00:00:00,other,NO LIMIT
+USR:276,C364,USES_CARD,2023-02-13T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:277,C516,USES_CARD,2020-10-17T00:00:00,credit,NO LIMIT
+USR:277,C107,USES_CARD,2023-05-12T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:278,C354,USES_CARD,2025-05-17T00:00:00,credit,NO LIMIT
+USR:278,C977,USES_CARD,2024-09-01T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:279,C573,USES_CARD,2025-01-13T00:00:00,other,PAY BILLS
+USR:279,C592,USES_CARD,2021-10-17T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:280,C292,USES_CARD,2021-12-25T00:00:00,other,N/A
+USR:280,C278,USES_CARD,2023-04-09T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:281,C94,USES_CARD,2024-06-25T00:00:00,Debit,NO LIMIT
+USR:281,C525,USES_CARD,2022-03-31T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:282,C430,USES_CARD,2023-09-07T00:00:00,other,NO LIMIT
+USR:282,C212,USES_CARD,2020-09-19T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:283,C53,USES_CARD,2023-07-16T00:00:00,other,N/A
+USR:283,C760,USES_CARD,2021-11-19T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:284,C420,USES_CARD,2020-09-04T00:00:00,other,NO LIMIT
+USR:284,C163,USES_CARD,2023-08-27T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:285,C309,USES_CARD,2025-03-09T00:00:00,other,N/A
+USR:285,C854,USES_CARD,2021-09-27T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:286,C293,USES_CARD,2022-02-16T00:00:00,credit,PAY BILLS
+USR:286,C408,USES_CARD,2020-08-24T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:287,C168,USES_CARD,2022-01-09T00:00:00,other,PAY BILLS
+USR:287,C390,USES_CARD,2021-03-11T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:288,C559,USES_CARD,2023-07-24T00:00:00,Debit,N/A
+USR:288,C225,USES_CARD,2022-12-11T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:289,C310,USES_CARD,2020-01-22T00:00:00,credit,N/A
+USR:289,C708,USES_CARD,2025-04-27T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:290,C77,USES_CARD,2023-01-27T00:00:00,credit,N/A
+USR:290,C940,USES_CARD,2024-11-29T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:291,C355,USES_CARD,2025-11-17T00:00:00,other,N/A
+USR:291,C997,USES_CARD,2021-07-18T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:292,C342,USES_CARD,2022-02-17T00:00:00,Debit,N/A
+USR:292,C557,USES_CARD,2023-07-20T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:293,C256,USES_CARD,2020-08-22T00:00:00,other,NO LIMIT
+USR:293,C212,USES_CARD,2023-11-28T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:294,C527,USES_CARD,2020-12-24T00:00:00,credit,NO LIMIT
+USR:294,C927,USES_CARD,2023-03-27T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:295,C262,USES_CARD,2020-08-20T00:00:00,Debit,PAY BILLS
+USR:295,C572,USES_CARD,2025-02-17T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:296,C506,USES_CARD,2024-06-06T00:00:00,other,PAY BILLS
+USR:296,C613,USES_CARD,2024-10-21T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:297,C56,USES_CARD,2023-10-11T00:00:00,credit,NO LIMIT
+USR:297,C409,USES_CARD,2021-05-19T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:298,C492,USES_CARD,2025-02-05T00:00:00,other,NO LIMIT
+USR:298,C157,USES_CARD,2025-10-20T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:299,C161,USES_CARD,2021-12-23T00:00:00,Debit,PAY BILLS
+USR:299,C273,USES_CARD,2020-10-13T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:300,C596,USES_CARD,2021-11-09T00:00:00,Debit,N/A
+USR:300,C989,USES_CARD,2024-03-07T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:301,C430,USES_CARD,2022-10-19T00:00:00,credit,PAY BILLS
+USR:301,C241,USES_CARD,2025-05-18T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:302,C199,USES_CARD,2023-09-20T00:00:00,other,N/A
+USR:302,C18,USES_CARD,2025-08-10T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:303,C194,USES_CARD,2021-11-28T00:00:00,credit,NO LIMIT
+USR:303,C356,USES_CARD,2023-01-01T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:304,C353,USES_CARD,2020-12-05T00:00:00,Debit,NO LIMIT
+USR:304,C937,USES_CARD,2025-03-20T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:305,C433,USES_CARD,2021-02-19T00:00:00,other,PAY BILLS
+USR:305,C452,USES_CARD,2024-05-08T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:306,C34,USES_CARD,2021-04-25T00:00:00,credit,N/A
+USR:306,C138,USES_CARD,2025-01-20T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:307,C540,USES_CARD,2021-06-15T00:00:00,other,PAY BILLS
+USR:307,C406,USES_CARD,2024-01-30T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:308,C69,USES_CARD,2022-02-09T00:00:00,Debit,PAY BILLS
+USR:308,C191,USES_CARD,2022-07-16T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:309,C550,USES_CARD,2022-06-08T00:00:00,credit,PAY BILLS
+USR:309,C697,USES_CARD,2020-09-07T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:310,C158,USES_CARD,2023-01-18T00:00:00,other,NO LIMIT
+USR:310,C48,USES_CARD,2024-03-27T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:311,C456,USES_CARD,2023-12-20T00:00:00,other,N/A
+USR:311,C17,USES_CARD,2024-11-06T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:312,C590,USES_CARD,2022-07-25T00:00:00,other,PAY BILLS
+USR:312,C931,USES_CARD,2020-09-24T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:313,C12,USES_CARD,2020-03-08T00:00:00,Debit,NO LIMIT
+USR:313,C992,USES_CARD,2024-07-26T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:314,C243,USES_CARD,2024-05-19T00:00:00,other,N/A
+USR:314,C729,USES_CARD,2021-04-29T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:315,C77,USES_CARD,2022-11-28T00:00:00,credit,PAY BILLS
+USR:315,C115,USES_CARD,2024-08-01T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:316,C115,USES_CARD,2022-09-19T00:00:00,other,N/A
+USR:316,C929,USES_CARD,2023-04-03T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:317,C373,USES_CARD,2025-06-07T00:00:00,other,PAY BILLS
+USR:317,C414,USES_CARD,2020-10-19T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:318,C448,USES_CARD,2023-06-03T00:00:00,Debit,N/A
+USR:318,C84,USES_CARD,2025-11-24T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:319,C471,USES_CARD,2022-09-15T00:00:00,credit,PAY BILLS
+USR:319,C56,USES_CARD,2023-02-28T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:320,C497,USES_CARD,2022-12-22T00:00:00,credit,NO LIMIT
+USR:320,C528,USES_CARD,2025-09-18T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:321,C116,USES_CARD,2021-10-27T00:00:00,other,PAY BILLS
+USR:321,C617,USES_CARD,2021-03-05T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:322,C461,USES_CARD,2023-10-04T00:00:00,credit,NO LIMIT
+USR:322,C36,USES_CARD,2022-06-18T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:323,C251,USES_CARD,2023-10-22T00:00:00,Debit,N/A
+USR:323,C215,USES_CARD,2024-01-14T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:324,C519,USES_CARD,2023-09-16T00:00:00,credit,PAY BILLS
+USR:324,C368,USES_CARD,2024-04-17T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:325,C126,USES_CARD,2020-11-30T00:00:00,other,N/A
+USR:325,C366,USES_CARD,2025-04-08T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:326,C46,USES_CARD,2025-12-20T00:00:00,credit,NO LIMIT
+USR:326,C316,USES_CARD,2021-03-23T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:327,C341,USES_CARD,2021-06-10T00:00:00,Debit,N/A
+USR:327,C77,USES_CARD,2023-09-27T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:328,C375,USES_CARD,2025-11-21T00:00:00,Debit,NO LIMIT
+USR:328,C240,USES_CARD,2020-08-21T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:329,C243,USES_CARD,2022-05-15T00:00:00,credit,PAY BILLS
+USR:329,C588,USES_CARD,2025-10-13T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:330,C143,USES_CARD,2025-10-07T00:00:00,Debit,NO LIMIT
+USR:330,C393,USES_CARD,2023-12-29T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:331,C266,USES_CARD,2020-04-12T00:00:00,other,NO LIMIT
+USR:331,C616,USES_CARD,2023-08-11T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:332,C282,USES_CARD,2025-06-10T00:00:00,Debit,PAY BILLS
+USR:332,C576,USES_CARD,2022-12-14T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:333,C100,USES_CARD,2022-10-29T00:00:00,other,NO LIMIT
+USR:333,C329,USES_CARD,2025-04-06T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:334,C346,USES_CARD,2021-09-30T00:00:00,Debit,N/A
+USR:334,C696,USES_CARD,2020-10-22T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:335,C178,USES_CARD,2024-05-16T00:00:00,Debit,NO LIMIT
+USR:335,C48,USES_CARD,2025-10-01T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:336,C420,USES_CARD,2025-07-27T00:00:00,Debit,N/A
+USR:336,C555,USES_CARD,2020-12-16T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:337,C407,USES_CARD,2024-01-15T00:00:00,other,N/A
+USR:337,C625,USES_CARD,2024-01-07T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:338,C575,USES_CARD,2024-12-12T00:00:00,other,PAY BILLS
+USR:338,C750,USES_CARD,2022-09-07T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:339,C38,USES_CARD,2024-03-04T00:00:00,other,NO LIMIT
+USR:339,C93,USES_CARD,2020-07-21T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:340,C306,USES_CARD,2023-02-26T00:00:00,Debit,PAY BILLS
+USR:340,C358,USES_CARD,2023-01-21T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:341,C200,USES_CARD,2020-11-19T00:00:00,Debit,NO LIMIT
+USR:341,C369,USES_CARD,2023-03-27T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:342,C506,USES_CARD,2024-09-11T00:00:00,Debit,N/A
+USR:342,C667,USES_CARD,2025-03-02T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:343,C408,USES_CARD,2021-01-10T00:00:00,credit,PAY BILLS
+USR:343,C418,USES_CARD,2025-02-10T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:344,C473,USES_CARD,2023-02-22T00:00:00,other,NO LIMIT
+USR:344,C91,USES_CARD,2024-04-10T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:345,C189,USES_CARD,2023-10-18T00:00:00,credit,PAY BILLS
+USR:345,C106,USES_CARD,2021-05-24T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:346,C116,USES_CARD,2022-03-22T00:00:00,Debit,PAY BILLS
+USR:346,C295,USES_CARD,2025-08-04T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:347,C460,USES_CARD,2024-11-01T00:00:00,other,N/A
+USR:347,C410,USES_CARD,2020-03-27T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:348,C64,USES_CARD,2020-08-04T00:00:00,credit,NO LIMIT
+USR:348,C29,USES_CARD,2023-06-02T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:349,C520,USES_CARD,2022-01-07T00:00:00,other,N/A
+USR:349,C142,USES_CARD,2021-02-03T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:350,C501,USES_CARD,2022-11-11T00:00:00,other,NO LIMIT
+USR:350,C832,USES_CARD,2022-11-27T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:351,C544,USES_CARD,2025-11-17T00:00:00,credit,NO LIMIT
+USR:351,C618,USES_CARD,2024-02-20T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:352,C246,USES_CARD,2020-09-05T00:00:00,credit,NO LIMIT
+USR:352,C753,USES_CARD,2023-07-06T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:353,C219,USES_CARD,2022-11-09T00:00:00,Debit,NO LIMIT
+USR:353,C604,USES_CARD,2024-12-06T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:354,C589,USES_CARD,2024-08-02T00:00:00,Debit,NO LIMIT
+USR:354,C704,USES_CARD,2022-06-03T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:355,C221,USES_CARD,2020-11-07T00:00:00,credit,PAY BILLS
+USR:355,C62,USES_CARD,2024-01-26T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:356,C317,USES_CARD,2023-01-30T00:00:00,Debit,N/A
+USR:356,C34,USES_CARD,2020-03-31T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:357,C57,USES_CARD,2020-12-12T00:00:00,Debit,N/A
+USR:357,C109,USES_CARD,2021-04-17T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:358,C103,USES_CARD,2025-01-05T00:00:00,other,PAY BILLS
+USR:358,C230,USES_CARD,2025-08-11T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:359,C264,USES_CARD,2022-05-20T00:00:00,credit,NO LIMIT
+USR:359,C552,USES_CARD,2021-07-05T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:360,C432,USES_CARD,2023-04-03T00:00:00,Debit,PAY BILLS
+USR:360,C908,USES_CARD,2020-12-20T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:361,C400,USES_CARD,2021-04-14T00:00:00,Debit,PAY BILLS
+USR:361,C295,USES_CARD,2024-01-13T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:362,C105,USES_CARD,2020-02-09T00:00:00,Debit,N/A
+USR:362,C987,USES_CARD,2022-07-15T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:363,C132,USES_CARD,2021-07-08T00:00:00,Debit,N/A
+USR:363,C971,USES_CARD,2025-10-09T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:364,C499,USES_CARD,2021-04-08T00:00:00,credit,NO LIMIT
+USR:364,C50,USES_CARD,2023-09-27T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:365,C452,USES_CARD,2021-09-16T00:00:00,Debit,PAY BILLS
+USR:365,C801,USES_CARD,2022-04-06T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:366,C568,USES_CARD,2023-08-15T00:00:00,Debit,N/A
+USR:366,C590,USES_CARD,2023-10-18T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:367,C70,USES_CARD,2023-08-01T00:00:00,credit,PAY BILLS
+USR:367,C432,USES_CARD,2021-05-13T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:368,C108,USES_CARD,2023-10-25T00:00:00,Debit,N/A
+USR:368,C648,USES_CARD,2025-07-28T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:369,C515,USES_CARD,2021-04-20T00:00:00,Debit,NO LIMIT
+USR:369,C279,USES_CARD,2024-03-18T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:370,C566,USES_CARD,2024-11-20T00:00:00,Debit,NO LIMIT
+USR:370,C161,USES_CARD,2021-06-17T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:371,C274,USES_CARD,2021-05-06T00:00:00,credit,PAY BILLS
+USR:371,C703,USES_CARD,2025-06-30T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:372,C188,USES_CARD,2021-05-18T00:00:00,Debit,N/A
+USR:372,C385,USES_CARD,2024-02-22T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:373,C163,USES_CARD,2021-11-30T00:00:00,other,N/A
+USR:373,C842,USES_CARD,2022-09-07T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:374,C428,USES_CARD,2023-08-30T00:00:00,other,NO LIMIT
+USR:374,C539,USES_CARD,2022-10-04T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:375,C581,USES_CARD,2024-01-02T00:00:00,Debit,N/A
+USR:375,C524,USES_CARD,2023-07-18T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:376,C462,USES_CARD,2024-08-19T00:00:00,credit,N/A
+USR:376,C252,USES_CARD,2021-04-30T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:377,C75,USES_CARD,2024-07-26T00:00:00,Debit,NO LIMIT
+USR:377,C369,USES_CARD,2021-03-04T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:378,C528,USES_CARD,2024-12-12T00:00:00,credit,N/A
+USR:378,C281,USES_CARD,2023-07-20T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:379,C523,USES_CARD,2024-11-02T00:00:00,Debit,N/A
+USR:379,C177,USES_CARD,2021-06-14T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:380,C39,USES_CARD,2025-04-22T00:00:00,credit,N/A
+USR:380,C915,USES_CARD,2024-04-28T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:381,C453,USES_CARD,2022-12-13T00:00:00,other,PAY BILLS
+USR:381,C555,USES_CARD,2021-07-29T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:382,C266,USES_CARD,2023-08-25T00:00:00,other,PAY BILLS
+USR:382,C230,USES_CARD,2021-09-19T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:383,C171,USES_CARD,2022-10-28T00:00:00,credit,PAY BILLS
+USR:383,C280,USES_CARD,2022-09-28T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:384,C570,USES_CARD,2024-08-25T00:00:00,other,PAY BILLS
+USR:384,C652,USES_CARD,2021-06-08T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:385,C57,USES_CARD,2025-04-28T00:00:00,credit,N/A
+USR:385,C478,USES_CARD,2025-05-11T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:386,C23,USES_CARD,2021-07-13T00:00:00,credit,N/A
+USR:386,C723,USES_CARD,2023-05-28T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:387,C289,USES_CARD,2025-09-12T00:00:00,other,PAY BILLS
+USR:387,C650,USES_CARD,2020-09-16T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:388,C241,USES_CARD,2021-11-13T00:00:00,Debit,PAY BILLS
+USR:388,C545,USES_CARD,2021-07-19T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:389,C403,USES_CARD,2022-08-05T00:00:00,Debit,PAY BILLS
+USR:389,C146,USES_CARD,2025-06-30T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:390,C302,USES_CARD,2022-03-06T00:00:00,other,NO LIMIT
+USR:390,C1,USES_CARD,2021-10-06T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:391,C81,USES_CARD,2021-01-22T00:00:00,Debit,N/A
+USR:391,C339,USES_CARD,2023-02-10T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:392,C145,USES_CARD,2020-07-29T00:00:00,other,PAY BILLS
+USR:392,C802,USES_CARD,2025-11-02T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:393,C289,USES_CARD,2025-03-17T00:00:00,Debit,N/A
+USR:393,C883,USES_CARD,2022-05-19T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:394,C299,USES_CARD,2020-12-07T00:00:00,other,NO LIMIT
+USR:394,C508,USES_CARD,2023-06-23T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:395,C549,USES_CARD,2020-05-17T00:00:00,credit,PAY BILLS
+USR:395,C794,USES_CARD,2023-05-28T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:396,C290,USES_CARD,2020-05-31T00:00:00,credit,PAY BILLS
+USR:396,C285,USES_CARD,2023-03-07T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:397,C407,USES_CARD,2024-08-13T00:00:00,Debit,NO LIMIT
+USR:397,C358,USES_CARD,2025-04-17T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:398,C564,USES_CARD,2023-11-17T00:00:00,other,NO LIMIT
+USR:398,C249,USES_CARD,2020-04-03T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:399,C196,USES_CARD,2024-04-11T00:00:00,other,PAY BILLS
+USR:399,C405,USES_CARD,2024-07-05T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:400,C123,USES_CARD,2023-12-16T00:00:00,Debit,PAY BILLS
+USR:400,C221,USES_CARD,2024-07-19T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:401,C232,USES_CARD,2021-10-11T00:00:00,Debit,PAY BILLS
+USR:401,C852,USES_CARD,2024-12-14T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:402,C253,USES_CARD,2022-05-04T00:00:00,Debit,NO LIMIT
+USR:402,C838,USES_CARD,2020-10-16T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:403,C247,USES_CARD,2024-05-16T00:00:00,Debit,NO LIMIT
+USR:403,C139,USES_CARD,2023-03-06T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:404,C534,USES_CARD,2022-10-12T00:00:00,other,N/A
+USR:404,C254,USES_CARD,2024-01-23T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:405,C173,USES_CARD,2025-10-31T00:00:00,other,N/A
+USR:405,C383,USES_CARD,2023-01-10T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:406,C565,USES_CARD,2023-05-03T00:00:00,other,NO LIMIT
+USR:406,C174,USES_CARD,2025-02-12T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:407,C4,USES_CARD,2025-08-28T00:00:00,credit,PAY BILLS
+USR:407,C610,USES_CARD,2021-09-10T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:408,C203,USES_CARD,2024-09-23T00:00:00,Debit,NO LIMIT
+USR:408,C139,USES_CARD,2020-06-19T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:409,C329,USES_CARD,2020-06-09T00:00:00,other,PAY BILLS
+USR:409,C487,USES_CARD,2025-03-29T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:410,C121,USES_CARD,2021-03-31T00:00:00,credit,N/A
+USR:410,C689,USES_CARD,2024-05-30T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:411,C228,USES_CARD,2024-10-27T00:00:00,other,N/A
+USR:411,C171,USES_CARD,2025-04-29T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:412,C558,USES_CARD,2024-08-29T00:00:00,other,NO LIMIT
+USR:412,C162,USES_CARD,2020-05-24T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:413,C242,USES_CARD,2023-05-21T00:00:00,Debit,NO LIMIT
+USR:413,C135,USES_CARD,2020-10-28T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:414,C566,USES_CARD,2023-02-09T00:00:00,Debit,PAY BILLS
+USR:414,C960,USES_CARD,2025-09-10T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:415,C260,USES_CARD,2024-01-25T00:00:00,credit,NO LIMIT
+USR:415,C659,USES_CARD,2025-04-25T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:416,C133,USES_CARD,2022-06-09T00:00:00,credit,PAY BILLS
+USR:416,C677,USES_CARD,2021-09-24T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:417,C322,USES_CARD,2021-04-03T00:00:00,other,NO LIMIT
+USR:417,C334,USES_CARD,2023-01-04T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:418,C380,USES_CARD,2021-03-15T00:00:00,Debit,PAY BILLS
+USR:418,C663,USES_CARD,2020-06-27T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:419,C307,USES_CARD,2023-02-26T00:00:00,credit,PAY BILLS
+USR:419,C604,USES_CARD,2025-10-26T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:420,C440,USES_CARD,2023-05-16T00:00:00,credit,N/A
+USR:420,C614,USES_CARD,2022-12-06T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:421,C497,USES_CARD,2022-05-02T00:00:00,other,N/A
+USR:421,C312,USES_CARD,2023-01-03T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:422,C116,USES_CARD,2025-09-14T00:00:00,Debit,NO LIMIT
+USR:422,C96,USES_CARD,2024-04-22T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:423,C121,USES_CARD,2025-03-30T00:00:00,credit,NO LIMIT
+USR:423,C922,USES_CARD,2024-02-28T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:424,C35,USES_CARD,2020-05-06T00:00:00,credit,N/A
+USR:424,C838,USES_CARD,2025-11-28T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:425,C243,USES_CARD,2023-01-04T00:00:00,Debit,N/A
+USR:425,C260,USES_CARD,2022-06-05T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:426,C120,USES_CARD,2024-01-22T00:00:00,other,PAY BILLS
+USR:426,C80,USES_CARD,2023-08-12T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:427,C519,USES_CARD,2023-09-29T00:00:00,other,N/A
+USR:427,C671,USES_CARD,2023-12-23T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:428,C113,USES_CARD,2023-07-26T00:00:00,Debit,PAY BILLS
+USR:428,C31,USES_CARD,2020-12-25T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:429,C258,USES_CARD,2023-01-15T00:00:00,other,NO LIMIT
+USR:429,C774,USES_CARD,2021-02-26T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:430,C563,USES_CARD,2020-11-23T00:00:00,credit,NO LIMIT
+USR:430,C737,USES_CARD,2024-05-13T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:431,C369,USES_CARD,2022-08-10T00:00:00,other,N/A
+USR:431,C578,USES_CARD,2025-07-28T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:432,C70,USES_CARD,2025-05-18T00:00:00,Debit,N/A
+USR:432,C8,USES_CARD,2022-04-16T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:433,C382,USES_CARD,2024-10-15T00:00:00,other,NO LIMIT
+USR:433,C201,USES_CARD,2024-07-05T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:434,C106,USES_CARD,2024-03-31T00:00:00,credit,N/A
+USR:434,C826,USES_CARD,2022-12-26T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:435,C389,USES_CARD,2022-05-01T00:00:00,other,N/A
+USR:435,C768,USES_CARD,2024-12-15T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:436,C491,USES_CARD,2022-11-09T00:00:00,Debit,PAY BILLS
+USR:436,C698,USES_CARD,2023-02-02T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:437,C24,USES_CARD,2021-12-13T00:00:00,credit,PAY BILLS
+USR:437,C728,USES_CARD,2025-05-30T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:438,C348,USES_CARD,2022-04-17T00:00:00,other,NO LIMIT
+USR:438,C665,USES_CARD,2020-11-03T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:439,C54,USES_CARD,2024-08-20T00:00:00,credit,NO LIMIT
+USR:439,C614,USES_CARD,2021-06-02T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:440,C562,USES_CARD,2022-07-28T00:00:00,other,PAY BILLS
+USR:440,C203,USES_CARD,2023-01-24T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:441,C575,USES_CARD,2022-11-20T00:00:00,Debit,PAY BILLS
+USR:441,C242,USES_CARD,2024-11-19T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:442,C472,USES_CARD,2021-02-23T00:00:00,credit,PAY BILLS
+USR:442,C809,USES_CARD,2022-02-09T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:443,C32,USES_CARD,2023-07-22T00:00:00,Debit,N/A
+USR:443,C886,USES_CARD,2025-02-24T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:444,C163,USES_CARD,2022-12-17T00:00:00,Debit,NO LIMIT
+USR:444,C157,USES_CARD,2025-05-14T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:445,C358,USES_CARD,2022-03-02T00:00:00,credit,PAY BILLS
+USR:445,C303,USES_CARD,2020-03-25T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:446,C163,USES_CARD,2022-01-01T00:00:00,Debit,NO LIMIT
+USR:446,C157,USES_CARD,2020-02-13T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:447,C262,USES_CARD,2021-11-29T00:00:00,Debit,PAY BILLS
+USR:447,C497,USES_CARD,2020-06-03T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:448,C98,USES_CARD,2022-11-03T00:00:00,other,PAY BILLS
+USR:448,C189,USES_CARD,2024-10-11T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:449,C54,USES_CARD,2020-07-16T00:00:00,credit,PAY BILLS
+USR:449,C417,USES_CARD,2022-09-28T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:450,C316,USES_CARD,2021-07-18T00:00:00,Debit,N/A
+USR:450,C365,USES_CARD,2024-04-02T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:451,C562,USES_CARD,2020-06-22T00:00:00,Debit,N/A
+USR:451,C648,USES_CARD,2020-12-12T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:452,C540,USES_CARD,2025-07-05T00:00:00,credit,N/A
+USR:452,C71,USES_CARD,2024-04-10T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:453,C150,USES_CARD,2020-12-08T00:00:00,Debit,NO LIMIT
+USR:453,C431,USES_CARD,2022-04-20T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:454,C561,USES_CARD,2020-08-16T00:00:00,credit,NO LIMIT
+USR:454,C186,USES_CARD,2023-11-28T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:455,C339,USES_CARD,2025-06-14T00:00:00,Debit,PAY BILLS
+USR:455,C664,USES_CARD,2025-12-28T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:456,C521,USES_CARD,2021-01-04T00:00:00,credit,NO LIMIT
+USR:456,C463,USES_CARD,2025-06-24T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:457,C422,USES_CARD,2023-06-27T00:00:00,other,PAY BILLS
+USR:457,C388,USES_CARD,2024-04-15T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:458,C269,USES_CARD,2022-02-05T00:00:00,credit,NO LIMIT
+USR:458,C639,USES_CARD,2025-07-10T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:459,C59,USES_CARD,2022-04-16T00:00:00,Debit,N/A
+USR:459,C346,USES_CARD,2022-10-05T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:460,C294,USES_CARD,2023-05-09T00:00:00,Debit,N/A
+USR:460,C33,USES_CARD,2024-05-22T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:461,C17,USES_CARD,2022-05-30T00:00:00,credit,PAY BILLS
+USR:461,C304,USES_CARD,2023-01-09T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:462,C369,USES_CARD,2024-08-31T00:00:00,Debit,PAY BILLS
+USR:462,C992,USES_CARD,2023-03-01T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:463,C124,USES_CARD,2022-07-08T00:00:00,Debit,N/A
+USR:463,C699,USES_CARD,2022-09-15T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:464,C260,USES_CARD,2023-08-20T00:00:00,Debit,PAY BILLS
+USR:464,C617,USES_CARD,2025-10-04T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:465,C576,USES_CARD,2022-04-07T00:00:00,credit,PAY BILLS
+USR:465,C672,USES_CARD,2021-09-13T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:466,C95,USES_CARD,2021-01-03T00:00:00,other,NO LIMIT
+USR:466,C300,USES_CARD,2024-03-15T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:467,C114,USES_CARD,2020-03-15T00:00:00,credit,NO LIMIT
+USR:467,C662,USES_CARD,2020-04-19T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:468,C487,USES_CARD,2025-08-29T00:00:00,other,N/A
+USR:468,C642,USES_CARD,2022-04-03T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:469,C259,USES_CARD,2025-11-09T00:00:00,credit,NO LIMIT
+USR:469,C147,USES_CARD,2023-03-04T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:470,C446,USES_CARD,2025-06-09T00:00:00,other,NO LIMIT
+USR:470,C768,USES_CARD,2025-09-06T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:471,C53,USES_CARD,2022-01-29T00:00:00,credit,N/A
+USR:471,C475,USES_CARD,2021-01-15T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:472,C413,USES_CARD,2022-05-04T00:00:00,other,PAY BILLS
+USR:472,C603,USES_CARD,2025-06-21T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:473,C432,USES_CARD,2021-02-06T00:00:00,credit,NO LIMIT
+USR:473,C374,USES_CARD,2025-09-10T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:474,C436,USES_CARD,2024-06-10T00:00:00,Debit,PAY BILLS
+USR:474,C710,USES_CARD,2023-06-11T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:475,C176,USES_CARD,2023-01-19T00:00:00,credit,NO LIMIT
+USR:475,C762,USES_CARD,2020-01-26T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:476,C206,USES_CARD,2024-05-06T00:00:00,other,PAY BILLS
+USR:476,C712,USES_CARD,2024-02-09T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:477,C303,USES_CARD,2020-06-29T00:00:00,credit,NO LIMIT
+USR:477,C853,USES_CARD,2022-06-21T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:478,C286,USES_CARD,2022-12-08T00:00:00,credit,NO LIMIT
+USR:478,C545,USES_CARD,2024-07-04T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:479,C100,USES_CARD,2023-12-26T00:00:00,Debit,N/A
+USR:479,C838,USES_CARD,2025-02-18T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:480,C379,USES_CARD,2023-01-06T00:00:00,Debit,PAY BILLS
+USR:480,C56,USES_CARD,2023-02-16T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:481,C538,USES_CARD,2025-02-17T00:00:00,other,PAY BILLS
+USR:481,C141,USES_CARD,2023-03-30T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:482,C399,USES_CARD,2020-01-05T00:00:00,Debit,PAY BILLS
+USR:482,C273,USES_CARD,2023-04-23T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:483,C144,USES_CARD,2020-02-11T00:00:00,Debit,PAY BILLS
+USR:483,C688,USES_CARD,2023-11-11T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:484,C295,USES_CARD,2023-09-05T00:00:00,other,NO LIMIT
+USR:484,C920,USES_CARD,2022-03-09T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:485,C531,USES_CARD,2021-04-02T00:00:00,other,NO LIMIT
+USR:485,C811,USES_CARD,2021-02-19T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:486,C357,USES_CARD,2023-06-03T00:00:00,Debit,PAY BILLS
+USR:486,C422,USES_CARD,2020-02-28T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:487,C586,USES_CARD,2025-06-26T00:00:00,credit,N/A
+USR:487,C713,USES_CARD,2021-10-02T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:488,C112,USES_CARD,2022-06-24T00:00:00,credit,N/A
+USR:488,C942,USES_CARD,2023-11-19T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:489,C64,USES_CARD,2024-09-13T00:00:00,Debit,N/A
+USR:489,C159,USES_CARD,2024-02-12T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:490,C156,USES_CARD,2024-01-12T00:00:00,other,PAY BILLS
+USR:490,C89,USES_CARD,2025-02-24T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:491,C117,USES_CARD,2021-12-23T00:00:00,Debit,N/A
+USR:491,C873,USES_CARD,2021-10-21T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:492,C205,USES_CARD,2025-04-13T00:00:00,other,NO LIMIT
+USR:492,C17,USES_CARD,2021-02-28T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:493,C110,USES_CARD,2022-02-23T00:00:00,Debit,PAY BILLS
+USR:493,C953,USES_CARD,2021-03-03T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:494,C418,USES_CARD,2020-10-15T00:00:00,other,NO LIMIT
+USR:494,C318,USES_CARD,2024-10-11T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:495,C432,USES_CARD,2023-07-24T00:00:00,credit,NO LIMIT
+USR:495,C864,USES_CARD,2024-06-12T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:496,C583,USES_CARD,2025-10-21T00:00:00,Debit,PAY BILLS
+USR:496,C802,USES_CARD,2020-07-28T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:497,C535,USES_CARD,2022-07-28T00:00:00,other,NO LIMIT
+USR:497,C901,USES_CARD,2025-08-01T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:498,C263,USES_CARD,2025-05-17T00:00:00,other,NO LIMIT
+USR:498,C956,USES_CARD,2024-06-11T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:499,C540,USES_CARD,2021-09-13T00:00:00,Debit,PAY BILLS
+USR:499,C492,USES_CARD,2024-07-16T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:500,C192,USES_CARD,2020-05-03T00:00:00,credit,N/A
+USR:500,C121,USES_CARD,2023-08-17T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:501,C73,USES_CARD,2020-05-14T00:00:00,other,NO LIMIT
+USR:501,C862,USES_CARD,2021-12-28T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:502,C208,USES_CARD,2021-02-14T00:00:00,credit,PAY BILLS
+USR:502,C139,USES_CARD,2022-07-29T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:503,C17,USES_CARD,2025-09-08T00:00:00,other,PAY BILLS
+USR:503,C458,USES_CARD,2025-02-10T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:504,C550,USES_CARD,2021-05-03T00:00:00,other,NO LIMIT
+USR:504,C368,USES_CARD,2021-11-20T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:505,C353,USES_CARD,2024-04-12T00:00:00,Debit,NO LIMIT
+USR:505,C6,USES_CARD,2021-06-17T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:506,C314,USES_CARD,2021-03-06T00:00:00,other,PAY BILLS
+USR:506,C890,USES_CARD,2023-01-01T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:507,C540,USES_CARD,2023-01-21T00:00:00,Debit,NO LIMIT
+USR:507,C980,USES_CARD,2023-08-09T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:508,C164,USES_CARD,2021-04-29T00:00:00,credit,NO LIMIT
+USR:508,C656,USES_CARD,2025-02-10T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:509,C240,USES_CARD,2023-09-12T00:00:00,other,PAY BILLS
+USR:509,C133,USES_CARD,2023-03-01T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:510,C271,USES_CARD,2023-11-13T00:00:00,Debit,N/A
+USR:510,C608,USES_CARD,2020-11-14T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:511,C566,USES_CARD,2023-10-18T00:00:00,Debit,N/A
+USR:511,C957,USES_CARD,2021-12-08T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:512,C298,USES_CARD,2023-08-10T00:00:00,credit,PAY BILLS
+USR:512,C793,USES_CARD,2023-04-11T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:513,C112,USES_CARD,2024-03-13T00:00:00,other,NO LIMIT
+USR:513,C972,USES_CARD,2025-03-27T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:514,C573,USES_CARD,2023-05-04T00:00:00,Debit,NO LIMIT
+USR:514,C823,USES_CARD,2023-02-02T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:515,C422,USES_CARD,2024-08-30T00:00:00,credit,N/A
+USR:515,C677,USES_CARD,2022-03-03T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:516,C253,USES_CARD,2021-12-18T00:00:00,credit,N/A
+USR:516,C689,USES_CARD,2025-01-18T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:517,C489,USES_CARD,2025-02-10T00:00:00,Debit,PAY BILLS
+USR:517,C683,USES_CARD,2025-04-07T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:518,C374,USES_CARD,2024-08-25T00:00:00,credit,PAY BILLS
+USR:518,C97,USES_CARD,2025-09-23T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:519,C214,USES_CARD,2025-05-16T00:00:00,other,NO LIMIT
+USR:519,C393,USES_CARD,2024-09-01T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:520,C545,USES_CARD,2025-12-29T00:00:00,credit,NO LIMIT
+USR:520,C869,USES_CARD,2023-08-24T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:521,C25,USES_CARD,2023-07-01T00:00:00,other,NO LIMIT
+USR:521,C413,USES_CARD,2022-01-26T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:522,C188,USES_CARD,2020-05-12T00:00:00,other,N/A
+USR:522,C387,USES_CARD,2024-03-21T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:523,C380,USES_CARD,2022-04-30T00:00:00,other,NO LIMIT
+USR:523,C52,USES_CARD,2024-11-15T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:524,C276,USES_CARD,2024-12-06T00:00:00,other,PAY BILLS
+USR:524,C350,USES_CARD,2023-05-10T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:525,C161,USES_CARD,2020-07-06T00:00:00,other,N/A
+USR:525,C666,USES_CARD,2025-05-03T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:526,C239,USES_CARD,2024-05-27T00:00:00,Debit,PAY BILLS
+USR:526,C70,USES_CARD,2024-09-20T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:527,C373,USES_CARD,2022-04-19T00:00:00,Debit,N/A
+USR:527,C830,USES_CARD,2025-01-06T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:528,C426,USES_CARD,2025-09-15T00:00:00,Debit,PAY BILLS
+USR:528,C636,USES_CARD,2021-10-27T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:529,C73,USES_CARD,2022-01-04T00:00:00,credit,PAY BILLS
+USR:529,C470,USES_CARD,2022-09-07T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:530,C168,USES_CARD,2020-03-20T00:00:00,credit,PAY BILLS
+USR:530,C334,USES_CARD,2024-04-22T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:531,C552,USES_CARD,2024-10-22T00:00:00,other,N/A
+USR:531,C200,USES_CARD,2023-02-10T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:532,C64,USES_CARD,2024-08-22T00:00:00,credit,N/A
+USR:532,C38,USES_CARD,2020-07-11T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:533,C425,USES_CARD,2023-06-03T00:00:00,Debit,NO LIMIT
+USR:533,C351,USES_CARD,2025-03-20T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:534,C35,USES_CARD,2023-04-15T00:00:00,credit,PAY BILLS
+USR:534,C220,USES_CARD,2025-05-05T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:535,C423,USES_CARD,2025-02-15T00:00:00,other,PAY BILLS
+USR:535,C770,USES_CARD,2025-01-16T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:536,C68,USES_CARD,2024-02-28T00:00:00,other,NO LIMIT
+USR:536,C154,USES_CARD,2020-02-12T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:537,C42,USES_CARD,2025-10-16T00:00:00,Debit,PAY BILLS
+USR:537,C190,USES_CARD,2020-06-02T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:538,C115,USES_CARD,2020-02-01T00:00:00,credit,PAY BILLS
+USR:538,C183,USES_CARD,2024-01-23T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:539,C57,USES_CARD,2020-09-22T00:00:00,other,N/A
+USR:539,C578,USES_CARD,2021-10-08T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:540,C102,USES_CARD,2021-09-01T00:00:00,credit,PAY BILLS
+USR:540,C440,USES_CARD,2025-11-16T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:541,C110,USES_CARD,2021-04-11T00:00:00,Debit,PAY BILLS
+USR:541,C114,USES_CARD,2020-08-06T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:542,C272,USES_CARD,2020-03-29T00:00:00,other,NO LIMIT
+USR:542,C447,USES_CARD,2022-08-25T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:543,C590,USES_CARD,2025-04-29T00:00:00,other,N/A
+USR:543,C626,USES_CARD,2025-02-20T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:544,C493,USES_CARD,2022-09-03T00:00:00,credit,N/A
+USR:544,C226,USES_CARD,2025-09-08T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:545,C87,USES_CARD,2022-06-06T00:00:00,other,PAY BILLS
+USR:545,C377,USES_CARD,2022-01-07T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:546,C40,USES_CARD,2021-04-27T00:00:00,Debit,NO LIMIT
+USR:546,C421,USES_CARD,2023-05-19T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:547,C389,USES_CARD,2020-11-23T00:00:00,other,NO LIMIT
+USR:547,C78,USES_CARD,2023-06-09T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:548,C13,USES_CARD,2022-09-14T00:00:00,Debit,N/A
+USR:548,C810,USES_CARD,2024-06-17T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:549,C279,USES_CARD,2020-11-12T00:00:00,Debit,PAY BILLS
+USR:549,C694,USES_CARD,2025-03-27T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:550,C491,USES_CARD,2023-02-02T00:00:00,Debit,N/A
+USR:550,C810,USES_CARD,2024-02-26T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:551,C92,USES_CARD,2025-02-28T00:00:00,other,NO LIMIT
+USR:551,C455,USES_CARD,2021-05-23T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:552,C433,USES_CARD,2022-10-04T00:00:00,other,PAY BILLS
+USR:552,C64,USES_CARD,2020-05-17T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:553,C317,USES_CARD,2020-08-05T00:00:00,Debit,NO LIMIT
+USR:553,C73,USES_CARD,2022-08-17T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:554,C506,USES_CARD,2022-04-24T00:00:00,credit,N/A
+USR:554,C868,USES_CARD,2023-11-30T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:555,C423,USES_CARD,2023-07-10T00:00:00,credit,PAY BILLS
+USR:555,C709,USES_CARD,2021-02-02T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:556,C576,USES_CARD,2021-12-25T00:00:00,credit,NO LIMIT
+USR:556,C177,USES_CARD,2023-01-11T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:557,C251,USES_CARD,2021-08-06T00:00:00,other,NO LIMIT
+USR:557,C595,USES_CARD,2020-02-28T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:558,C357,USES_CARD,2024-04-03T00:00:00,credit,NO LIMIT
+USR:558,C364,USES_CARD,2022-11-20T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:559,C171,USES_CARD,2021-04-01T00:00:00,Debit,NO LIMIT
+USR:559,C540,USES_CARD,2025-05-23T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:560,C581,USES_CARD,2025-02-17T00:00:00,Debit,NO LIMIT
+USR:560,C798,USES_CARD,2022-11-19T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:561,C270,USES_CARD,2025-07-05T00:00:00,credit,N/A
+USR:561,C827,USES_CARD,2023-10-06T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:562,C294,USES_CARD,2022-12-03T00:00:00,credit,NO LIMIT
+USR:562,C485,USES_CARD,2025-04-27T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:563,C492,USES_CARD,2022-10-03T00:00:00,Debit,N/A
+USR:563,C559,USES_CARD,2022-08-20T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:564,C18,USES_CARD,2020-07-03T00:00:00,credit,PAY BILLS
+USR:564,C560,USES_CARD,2023-09-13T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:565,C96,USES_CARD,2025-07-06T00:00:00,other,PAY BILLS
+USR:565,C2,USES_CARD,2025-08-26T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:566,C594,USES_CARD,2023-05-25T00:00:00,credit,PAY BILLS
+USR:566,C502,USES_CARD,2024-03-03T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:567,C520,USES_CARD,2023-12-09T00:00:00,credit,PAY BILLS
+USR:567,C588,USES_CARD,2020-03-12T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:568,C402,USES_CARD,2024-04-21T00:00:00,credit,NO LIMIT
+USR:568,C496,USES_CARD,2025-04-09T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:569,C370,USES_CARD,2023-03-29T00:00:00,other,N/A
+USR:569,C201,USES_CARD,2024-06-29T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:570,C534,USES_CARD,2024-02-19T00:00:00,credit,N/A
+USR:570,C914,USES_CARD,2021-05-07T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:571,C267,USES_CARD,2024-05-05T00:00:00,other,N/A
+USR:571,C134,USES_CARD,2022-07-14T00:00:00,credit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:572,C518,USES_CARD,2024-01-16T00:00:00,other,PAY BILLS
+USR:572,C426,USES_CARD,2023-12-05T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:573,C322,USES_CARD,2025-11-05T00:00:00,other,PAY BILLS
+USR:573,C509,USES_CARD,2022-05-31T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:574,C183,USES_CARD,2023-08-03T00:00:00,other,PAY BILLS
+USR:574,C176,USES_CARD,2025-11-06T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:575,C153,USES_CARD,2023-08-16T00:00:00,credit,N/A
+USR:575,C408,USES_CARD,2023-10-08T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:576,C380,USES_CARD,2024-11-19T00:00:00,Debit,NO LIMIT
+USR:576,C934,USES_CARD,2024-02-13T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:577,C265,USES_CARD,2024-05-10T00:00:00,other,NO LIMIT
+USR:577,C976,USES_CARD,2021-11-29T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:578,C466,USES_CARD,2025-10-02T00:00:00,credit,NO LIMIT
+USR:578,C679,USES_CARD,2021-05-29T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:579,C99,USES_CARD,2023-07-01T00:00:00,other,N/A
+USR:579,C166,USES_CARD,2021-02-19T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:580,C334,USES_CARD,2020-12-23T00:00:00,other,PAY BILLS
+USR:580,C269,USES_CARD,2024-03-18T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:581,C40,USES_CARD,2020-12-14T00:00:00,credit,N/A
+USR:581,C276,USES_CARD,2024-11-26T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:582,C357,USES_CARD,2023-10-26T00:00:00,credit,NO LIMIT
+USR:582,C740,USES_CARD,2025-12-01T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:583,C352,USES_CARD,2023-06-17T00:00:00,Debit,NO LIMIT
+USR:583,C168,USES_CARD,2021-07-10T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:584,C251,USES_CARD,2023-05-24T00:00:00,Debit,PAY BILLS
+USR:584,C588,USES_CARD,2021-07-03T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:585,C535,USES_CARD,2023-03-08T00:00:00,Debit,PAY BILLS
+USR:585,C88,USES_CARD,2024-03-23T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:586,C9,USES_CARD,2023-01-12T00:00:00,credit,N/A
+USR:586,C835,USES_CARD,2020-12-13T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:587,C68,USES_CARD,2023-10-12T00:00:00,credit,NO LIMIT
+USR:587,C806,USES_CARD,2025-09-27T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:588,C489,USES_CARD,2024-05-08T00:00:00,other,PAY BILLS
+USR:588,C88,USES_CARD,2025-03-13T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:589,C421,USES_CARD,2022-07-24T00:00:00,other,PAY BILLS
+USR:589,C338,USES_CARD,2024-05-10T00:00:00,other,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:590,C439,USES_CARD,2022-02-10T00:00:00,Debit,N/A
+USR:590,C818,USES_CARD,2025-05-31T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:591,C68,USES_CARD,2025-06-12T00:00:00,credit,PAY BILLS
+USR:591,C33,USES_CARD,2022-02-03T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:592,C119,USES_CARD,2020-09-17T00:00:00,credit,N/A
+USR:592,C464,USES_CARD,2020-09-29T00:00:00,Debit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:593,C320,USES_CARD,2024-03-04T00:00:00,credit,PAY BILLS
+USR:593,C387,USES_CARD,2022-04-12T00:00:00,credit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:594,C156,USES_CARD,2023-10-22T00:00:00,Debit,NO LIMIT
+USR:594,C28,USES_CARD,2022-12-29T00:00:00,other,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:595,C337,USES_CARD,2021-08-25T00:00:00,credit,N/A
+USR:595,C902,USES_CARD,2023-12-17T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:596,C373,USES_CARD,2025-11-05T00:00:00,credit,PAY BILLS
+USR:596,C904,USES_CARD,2025-09-26T00:00:00,other,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:597,C214,USES_CARD,2024-07-30T00:00:00,Debit,PAY BILLS
+USR:597,C926,USES_CARD,2023-04-27T00:00:00,Debit,NO LIMIT
 startNode,endNode,relationship,created,type,Restrictions
-USR:598,C11,USES_CARD,2022-05-05T00:00:00,credit,NO LIMIT
+USR:598,C581,USES_CARD,2023-01-22T00:00:00,Debit,N/A
 startNode,endNode,relationship,created,type,Restrictions
-USR:599,C596,USES_CARD,2021-02-22T00:00:00,credit,PAY BILLS
+USR:599,C464,USES_CARD,2025-10-08T00:00:00,credit,PAY BILLS
 startNode,endNode,relationship,created,type,Restrictions
-USR:600,C119,USES_CARD,2022-06-08T00:00:00,Debit,NO LIMIT
+USR:600,C306,USES_CARD,2024-05-21T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:601,C506,USES_CARD,2024-03-08T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:602,C671,USES_CARD,2025-11-16T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:603,C415,USES_CARD,2020-05-10T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:604,C137,USES_CARD,2021-10-16T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:605,C682,USES_CARD,2025-01-27T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:606,C585,USES_CARD,2024-08-31T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:607,C536,USES_CARD,2020-12-30T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:608,C299,USES_CARD,2022-02-08T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:609,C390,USES_CARD,2020-04-14T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:610,C751,USES_CARD,2025-09-25T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:611,C965,USES_CARD,2022-08-04T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:612,C535,USES_CARD,2021-01-12T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:613,C642,USES_CARD,2023-10-21T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:614,C652,USES_CARD,2020-10-02T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:615,C839,USES_CARD,2025-10-01T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:616,C820,USES_CARD,2020-07-16T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:617,C554,USES_CARD,2025-11-27T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:618,C135,USES_CARD,2025-01-23T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:619,C969,USES_CARD,2020-05-19T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:620,C583,USES_CARD,2024-10-08T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:621,C971,USES_CARD,2022-05-15T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:622,C939,USES_CARD,2021-05-18T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:623,C695,USES_CARD,2025-12-02T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:624,C604,USES_CARD,2021-08-28T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:625,C899,USES_CARD,2024-08-04T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:626,C247,USES_CARD,2024-06-18T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:627,C435,USES_CARD,2025-08-23T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:628,C499,USES_CARD,2023-11-21T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:629,C144,USES_CARD,2020-07-20T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:630,C634,USES_CARD,2021-03-07T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:631,C421,USES_CARD,2023-07-17T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:632,C733,USES_CARD,2023-06-06T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:633,C725,USES_CARD,2025-07-11T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:634,C99,USES_CARD,2023-03-07T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:635,C270,USES_CARD,2022-04-21T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:636,C537,USES_CARD,2020-12-20T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:637,C814,USES_CARD,2024-04-18T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:638,C373,USES_CARD,2023-09-13T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:639,C411,USES_CARD,2022-01-21T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:640,C454,USES_CARD,2023-11-11T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:641,C904,USES_CARD,2024-08-24T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:642,C390,USES_CARD,2022-08-09T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:643,C210,USES_CARD,2022-10-05T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:644,C200,USES_CARD,2020-06-14T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:645,C465,USES_CARD,2024-05-08T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:646,C823,USES_CARD,2020-07-27T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:647,C602,USES_CARD,2021-07-26T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:648,C784,USES_CARD,2025-02-28T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:649,C427,USES_CARD,2020-09-04T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:650,C590,USES_CARD,2025-03-02T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:651,C14,USES_CARD,2023-03-15T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:652,C459,USES_CARD,2021-05-28T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:653,C426,USES_CARD,2022-12-24T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:654,C941,USES_CARD,2024-11-28T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:655,C849,USES_CARD,2025-03-04T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:656,C440,USES_CARD,2022-12-25T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:657,C416,USES_CARD,2024-09-20T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:658,C321,USES_CARD,2025-01-13T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:659,C553,USES_CARD,2022-05-18T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:660,C777,USES_CARD,2024-02-22T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:661,C501,USES_CARD,2021-06-21T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:662,C514,USES_CARD,2022-05-22T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:663,C589,USES_CARD,2020-08-19T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:664,C144,USES_CARD,2025-10-16T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:665,C277,USES_CARD,2020-04-03T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:666,C17,USES_CARD,2021-03-24T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:667,C382,USES_CARD,2020-07-14T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:668,C297,USES_CARD,2020-03-27T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:669,C469,USES_CARD,2021-06-20T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:670,C311,USES_CARD,2023-09-05T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:671,C766,USES_CARD,2023-06-28T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:672,C769,USES_CARD,2023-09-09T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:673,C376,USES_CARD,2023-04-24T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:674,C29,USES_CARD,2025-07-26T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:675,C671,USES_CARD,2024-03-19T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:676,C143,USES_CARD,2021-05-17T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:677,C774,USES_CARD,2020-07-29T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:678,C855,USES_CARD,2023-06-22T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:679,C196,USES_CARD,2022-11-29T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:680,C120,USES_CARD,2024-09-29T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:681,C72,USES_CARD,2021-01-17T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:682,C749,USES_CARD,2022-01-07T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:683,C474,USES_CARD,2021-06-03T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:684,C753,USES_CARD,2021-01-12T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:685,C567,USES_CARD,2025-10-05T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:686,C675,USES_CARD,2022-07-02T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:687,C299,USES_CARD,2023-08-06T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:688,C889,USES_CARD,2024-01-02T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:689,C687,USES_CARD,2020-02-02T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:690,C58,USES_CARD,2021-12-16T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:691,C357,USES_CARD,2021-11-25T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:692,C516,USES_CARD,2021-06-29T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:693,C451,USES_CARD,2025-12-28T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:694,C244,USES_CARD,2022-10-20T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:695,C586,USES_CARD,2023-10-23T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:696,C894,USES_CARD,2023-06-22T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:697,C972,USES_CARD,2024-10-03T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:698,C372,USES_CARD,2023-09-10T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:699,C90,USES_CARD,2021-03-26T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:700,C390,USES_CARD,2020-03-07T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:701,C708,USES_CARD,2021-06-24T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:702,C966,USES_CARD,2025-01-08T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:703,C172,USES_CARD,2023-04-29T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:704,C820,USES_CARD,2020-12-11T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:705,C4,USES_CARD,2021-09-26T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:706,C257,USES_CARD,2024-04-01T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:707,C88,USES_CARD,2024-09-04T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:708,C872,USES_CARD,2025-12-01T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:709,C251,USES_CARD,2025-12-23T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:710,C302,USES_CARD,2025-07-19T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:711,C303,USES_CARD,2023-10-10T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:712,C601,USES_CARD,2022-05-27T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:713,C561,USES_CARD,2023-12-09T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:714,C795,USES_CARD,2023-10-06T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:715,C170,USES_CARD,2022-10-18T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:716,C286,USES_CARD,2024-05-21T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:717,C436,USES_CARD,2022-12-12T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:718,C632,USES_CARD,2021-05-15T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:719,C142,USES_CARD,2020-12-16T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:720,C716,USES_CARD,2021-08-27T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:721,C616,USES_CARD,2022-03-24T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:722,C189,USES_CARD,2024-07-09T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:723,C166,USES_CARD,2024-06-10T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:724,C789,USES_CARD,2022-08-07T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:725,C655,USES_CARD,2024-02-09T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:726,C569,USES_CARD,2021-12-26T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:727,C666,USES_CARD,2025-03-22T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:728,C472,USES_CARD,2025-07-21T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:729,C537,USES_CARD,2022-06-04T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:730,C578,USES_CARD,2021-08-15T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:731,C391,USES_CARD,2023-08-07T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:732,C6,USES_CARD,2025-01-06T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:733,C65,USES_CARD,2023-11-12T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:734,C758,USES_CARD,2021-05-10T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:735,C452,USES_CARD,2022-11-11T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:736,C695,USES_CARD,2021-01-13T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:737,C292,USES_CARD,2025-08-17T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:738,C239,USES_CARD,2023-02-06T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:739,C45,USES_CARD,2024-05-31T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:740,C242,USES_CARD,2022-08-07T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:741,C691,USES_CARD,2024-02-20T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:742,C171,USES_CARD,2021-09-13T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:743,C501,USES_CARD,2023-08-30T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:744,C817,USES_CARD,2022-12-05T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:745,C119,USES_CARD,2025-04-28T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:746,C920,USES_CARD,2023-12-31T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:747,C6,USES_CARD,2021-05-10T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:748,C906,USES_CARD,2022-01-31T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:749,C646,USES_CARD,2020-11-12T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:750,C404,USES_CARD,2022-04-07T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:751,C934,USES_CARD,2022-02-13T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:752,C547,USES_CARD,2024-06-17T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:753,C832,USES_CARD,2024-12-10T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:754,C250,USES_CARD,2025-12-10T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:755,C29,USES_CARD,2023-08-23T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:756,C296,USES_CARD,2022-06-18T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:757,C28,USES_CARD,2021-07-29T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:758,C406,USES_CARD,2022-06-19T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:759,C877,USES_CARD,2021-12-22T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:760,C297,USES_CARD,2024-10-10T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:761,C183,USES_CARD,2021-07-30T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:762,C591,USES_CARD,2020-02-12T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:763,C914,USES_CARD,2023-05-20T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:764,C764,USES_CARD,2021-11-28T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:765,C970,USES_CARD,2021-08-19T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:766,C577,USES_CARD,2022-05-18T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:767,C591,USES_CARD,2022-02-02T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:768,C100,USES_CARD,2020-03-15T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:769,C842,USES_CARD,2024-08-16T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:770,C12,USES_CARD,2023-01-05T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:771,C510,USES_CARD,2021-09-02T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:772,C247,USES_CARD,2020-04-19T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:773,C800,USES_CARD,2024-09-22T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:774,C551,USES_CARD,2020-02-15T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:775,C144,USES_CARD,2024-07-07T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:776,C86,USES_CARD,2022-10-16T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:777,C608,USES_CARD,2023-02-01T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:778,C692,USES_CARD,2022-04-01T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:779,C36,USES_CARD,2024-05-04T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:780,C894,USES_CARD,2020-11-10T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:781,C383,USES_CARD,2022-12-11T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:782,C486,USES_CARD,2023-06-26T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:783,C971,USES_CARD,2025-07-19T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:784,C856,USES_CARD,2024-06-17T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:785,C972,USES_CARD,2025-04-21T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:786,C645,USES_CARD,2023-07-02T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:787,C566,USES_CARD,2022-05-29T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:788,C816,USES_CARD,2022-11-06T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:789,C48,USES_CARD,2020-11-22T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:790,C616,USES_CARD,2023-06-25T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:791,C530,USES_CARD,2025-06-27T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:792,C167,USES_CARD,2020-05-26T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:793,C71,USES_CARD,2022-03-03T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:794,C926,USES_CARD,2023-11-11T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:795,C452,USES_CARD,2021-02-13T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:796,C313,USES_CARD,2020-04-08T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:797,C671,USES_CARD,2024-09-13T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:798,C321,USES_CARD,2024-01-20T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:799,C348,USES_CARD,2022-02-03T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:800,C28,USES_CARD,2022-12-19T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:801,C495,USES_CARD,2020-10-23T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:802,C236,USES_CARD,2021-04-03T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:803,C994,USES_CARD,2021-08-25T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:804,C826,USES_CARD,2025-10-07T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:805,C501,USES_CARD,2022-08-13T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:806,C203,USES_CARD,2023-03-22T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:807,C758,USES_CARD,2022-12-11T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:808,C866,USES_CARD,2021-11-13T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:809,C530,USES_CARD,2025-10-15T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:810,C631,USES_CARD,2025-03-06T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:811,C769,USES_CARD,2025-03-11T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:812,C43,USES_CARD,2021-09-27T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:813,C763,USES_CARD,2023-01-11T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:814,C8,USES_CARD,2025-03-17T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:815,C922,USES_CARD,2025-02-24T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:816,C325,USES_CARD,2022-04-20T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:817,C251,USES_CARD,2024-08-07T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:818,C744,USES_CARD,2022-12-17T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:819,C669,USES_CARD,2024-06-11T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:820,C158,USES_CARD,2021-05-20T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:821,C129,USES_CARD,2020-08-26T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:822,C37,USES_CARD,2021-11-22T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:823,C640,USES_CARD,2021-12-14T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:824,C563,USES_CARD,2022-03-12T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:825,C70,USES_CARD,2021-03-04T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:826,C921,USES_CARD,2025-05-02T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:827,C498,USES_CARD,2021-10-13T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:828,C616,USES_CARD,2024-09-15T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:829,C236,USES_CARD,2025-06-05T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:830,C498,USES_CARD,2025-08-20T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:831,C407,USES_CARD,2020-12-24T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:832,C343,USES_CARD,2024-12-29T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:833,C640,USES_CARD,2020-06-18T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:834,C444,USES_CARD,2023-01-01T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:835,C856,USES_CARD,2023-12-31T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:836,C934,USES_CARD,2023-04-30T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:837,C777,USES_CARD,2023-02-04T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:838,C65,USES_CARD,2023-01-01T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:839,C152,USES_CARD,2024-01-15T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:840,C604,USES_CARD,2020-11-01T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:841,C273,USES_CARD,2025-12-22T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:842,C676,USES_CARD,2024-08-27T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:843,C920,USES_CARD,2020-10-24T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:844,C214,USES_CARD,2025-07-21T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:845,C333,USES_CARD,2021-01-06T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:846,C345,USES_CARD,2023-05-08T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:847,C473,USES_CARD,2024-05-07T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:848,C88,USES_CARD,2021-05-18T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:849,C176,USES_CARD,2024-10-02T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:850,C968,USES_CARD,2025-10-04T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:851,C274,USES_CARD,2023-08-26T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:852,C52,USES_CARD,2024-08-04T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:853,C210,USES_CARD,2024-03-04T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:854,C867,USES_CARD,2020-05-30T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:855,C328,USES_CARD,2025-06-15T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:856,C637,USES_CARD,2023-12-21T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:857,C471,USES_CARD,2021-07-24T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:858,C663,USES_CARD,2020-11-07T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:859,C142,USES_CARD,2023-03-16T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:860,C437,USES_CARD,2023-04-20T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:861,C559,USES_CARD,2025-04-25T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:862,C31,USES_CARD,2020-05-10T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:863,C536,USES_CARD,2024-07-19T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:864,C971,USES_CARD,2021-08-13T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:865,C569,USES_CARD,2023-07-07T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:866,C830,USES_CARD,2022-12-23T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:867,C455,USES_CARD,2022-12-10T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:868,C783,USES_CARD,2021-11-26T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:869,C101,USES_CARD,2023-11-18T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:870,C762,USES_CARD,2020-04-03T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:871,C79,USES_CARD,2025-11-29T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:872,C37,USES_CARD,2021-09-27T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:873,C461,USES_CARD,2020-02-08T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:874,C597,USES_CARD,2025-07-28T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:875,C332,USES_CARD,2024-02-26T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:876,C959,USES_CARD,2025-08-03T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:877,C254,USES_CARD,2020-05-17T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:878,C896,USES_CARD,2021-03-24T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:879,C528,USES_CARD,2020-01-28T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:880,C536,USES_CARD,2021-09-04T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:881,C202,USES_CARD,2021-02-17T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:882,C660,USES_CARD,2023-08-14T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:883,C661,USES_CARD,2023-05-01T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:884,C845,USES_CARD,2023-09-06T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:885,C521,USES_CARD,2025-05-18T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:886,C551,USES_CARD,2020-12-27T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:887,C306,USES_CARD,2021-09-19T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:888,C773,USES_CARD,2021-03-21T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:889,C899,USES_CARD,2025-01-10T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:890,C19,USES_CARD,2023-09-17T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:891,C234,USES_CARD,2023-05-23T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:892,C1000,USES_CARD,2020-10-01T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:893,C255,USES_CARD,2020-11-09T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:894,C637,USES_CARD,2020-01-29T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:895,C339,USES_CARD,2024-10-02T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:896,C193,USES_CARD,2021-01-02T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:897,C20,USES_CARD,2025-03-01T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:898,C911,USES_CARD,2021-01-27T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:899,C214,USES_CARD,2025-02-05T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:900,C238,USES_CARD,2021-07-01T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:901,C214,USES_CARD,2023-01-08T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:902,C814,USES_CARD,2023-05-24T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:903,C694,USES_CARD,2024-05-18T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:904,C872,USES_CARD,2024-12-11T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:905,C320,USES_CARD,2025-12-23T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:906,C862,USES_CARD,2021-07-04T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:907,C958,USES_CARD,2024-11-27T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:908,C697,USES_CARD,2024-03-02T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:909,C81,USES_CARD,2023-11-11T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:910,C57,USES_CARD,2024-03-08T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:911,C947,USES_CARD,2023-10-10T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:912,C752,USES_CARD,2025-04-09T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:913,C264,USES_CARD,2025-07-03T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:914,C632,USES_CARD,2025-12-12T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:915,C163,USES_CARD,2020-02-13T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:916,C689,USES_CARD,2025-10-19T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:917,C216,USES_CARD,2020-05-05T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:918,C490,USES_CARD,2022-07-07T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:919,C30,USES_CARD,2023-03-03T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:920,C329,USES_CARD,2024-04-19T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:921,C261,USES_CARD,2021-11-05T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:922,C794,USES_CARD,2024-07-10T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:923,C771,USES_CARD,2023-03-27T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:924,C800,USES_CARD,2025-09-30T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:925,C956,USES_CARD,2025-02-20T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:926,C372,USES_CARD,2021-05-06T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:927,C934,USES_CARD,2025-02-23T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:928,C778,USES_CARD,2023-05-11T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:929,C43,USES_CARD,2024-04-18T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:930,C249,USES_CARD,2022-12-01T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:931,C700,USES_CARD,2024-09-21T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:932,C591,USES_CARD,2020-02-13T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:933,C868,USES_CARD,2022-01-03T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:934,C107,USES_CARD,2022-09-09T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:935,C790,USES_CARD,2020-03-29T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:936,C109,USES_CARD,2020-04-21T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:937,C381,USES_CARD,2023-12-08T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:938,C331,USES_CARD,2025-08-26T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:939,C992,USES_CARD,2024-10-24T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:940,C396,USES_CARD,2023-03-25T00:00:00,other,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:941,C660,USES_CARD,2022-06-05T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:942,C242,USES_CARD,2022-12-04T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:943,C143,USES_CARD,2022-06-26T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:944,C790,USES_CARD,2025-09-01T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:945,C25,USES_CARD,2024-12-23T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:946,C861,USES_CARD,2021-03-22T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:947,C755,USES_CARD,2023-04-30T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:948,C569,USES_CARD,2022-04-30T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:949,C579,USES_CARD,2025-07-30T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:950,C892,USES_CARD,2024-03-18T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:951,C688,USES_CARD,2020-02-08T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:952,C497,USES_CARD,2022-10-13T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:953,C409,USES_CARD,2024-05-12T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:954,C661,USES_CARD,2021-04-23T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:955,C749,USES_CARD,2023-10-01T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:956,C176,USES_CARD,2020-06-05T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:957,C858,USES_CARD,2021-11-14T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:958,C890,USES_CARD,2022-01-11T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:959,C440,USES_CARD,2024-09-07T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:960,C86,USES_CARD,2024-10-04T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:961,C655,USES_CARD,2025-05-03T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:962,C38,USES_CARD,2022-11-05T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:963,C844,USES_CARD,2023-04-22T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:964,C766,USES_CARD,2020-12-15T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:965,C748,USES_CARD,2021-03-09T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:966,C584,USES_CARD,2025-05-05T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:967,C270,USES_CARD,2021-06-15T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:968,C506,USES_CARD,2023-05-07T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:969,C761,USES_CARD,2025-08-27T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:970,C906,USES_CARD,2024-01-21T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:971,C101,USES_CARD,2022-01-23T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:972,C911,USES_CARD,2025-05-16T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:973,C698,USES_CARD,2022-03-24T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:974,C875,USES_CARD,2024-08-16T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:975,C909,USES_CARD,2021-01-17T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:976,C855,USES_CARD,2023-12-10T00:00:00,credit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:977,C733,USES_CARD,2021-04-04T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:978,C628,USES_CARD,2023-09-01T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:979,C671,USES_CARD,2021-06-24T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:980,C81,USES_CARD,2023-09-28T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:981,C438,USES_CARD,2020-12-22T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:982,C314,USES_CARD,2020-10-15T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:983,C548,USES_CARD,2022-03-04T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:984,C380,USES_CARD,2023-03-27T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:985,C191,USES_CARD,2022-02-13T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:986,C748,USES_CARD,2024-10-14T00:00:00,Debit,N/A
+startNode,endNode,relationship,created,type,Restrictions
+USR:987,C408,USES_CARD,2021-11-24T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:988,C235,USES_CARD,2023-07-17T00:00:00,Debit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:989,C603,USES_CARD,2020-07-07T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:990,C541,USES_CARD,2022-09-14T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:991,C315,USES_CARD,2022-12-13T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:992,C305,USES_CARD,2023-02-24T00:00:00,other,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:993,C243,USES_CARD,2024-08-30T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:994,C962,USES_CARD,2020-02-14T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:995,C72,USES_CARD,2021-05-14T00:00:00,credit,PAY BILLS
+startNode,endNode,relationship,created,type,Restrictions
+USR:996,C195,USES_CARD,2024-09-12T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:997,C391,USES_CARD,2022-03-09T00:00:00,other,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:998,C147,USES_CARD,2022-05-29T00:00:00,credit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:999,C514,USES_CARD,2021-11-24T00:00:00,Debit,NO LIMIT
+startNode,endNode,relationship,created,type,Restrictions
+USR:1000,C920,USES_CARD,2025-06-04T00:00:00,other,N/A
