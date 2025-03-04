@@ -91,7 +91,7 @@ public class Controller : ControllerBase
         return Ok("Node deleted successfully");
     }
 
-    [HttpPost("nodes/delete")]
+    [HttpDelete("nodes/delete")]
     public async Task<IActionResult> DeleteNodes([FromBody] DeleteRequest request) {
         if (request == null || request.Filters == null || string.IsNullOrEmpty(request.Label)) {
             return BadRequest("Invalid body in request");
@@ -102,7 +102,7 @@ public class Controller : ControllerBase
     }
 
     //Delete Relationships
-    [HttpPost("relations/delete")]
+    [HttpDelete("relations/delete")]
     public async Task<IActionResult> DeleteRelations([FromBody] List<RelationToDelete> relations) {
         if (relations == null || relations.Count == 0) {
             return BadRequest("No relations provided for deletion.");
@@ -110,6 +110,17 @@ public class Controller : ControllerBase
 
         await _neo4jConnector.DeleteRelations(relations);
         return Ok("Relations deleted successfully");
+    }
+
+
+    [HttpPut("relations/update/")]
+    public async Task<IActionResult> SetRelations([FromBody] Rel_To_Change relations) {
+        if (relations == null) {
+            return BadRequest("No relations provided for deletion.");
+        }
+        await _neo4jConnector.SetRelations(relations);
+
+        return Ok("Relations updated successfully");
     }
 
 }
@@ -146,3 +157,12 @@ public class RelationToDelete {
     public string id2 { get; set; }
 }
 
+
+
+public class Rel_To_Change {
+
+
+    public string relationName { get; set; } 
+    public Dictionary<string, object> relationAttributes { get; set; }
+    public Dictionary<string, object> To_change { get; set; } 
+}

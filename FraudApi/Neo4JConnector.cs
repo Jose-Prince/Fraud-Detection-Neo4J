@@ -309,7 +309,7 @@ public class Neo4JConnector : IAsyncDisposable {
             // Ejecutar cada consulta dentro del mismo bucle
             foreach (var rel in relations) {
                 var query = $@"
-                    MATCH (n1:{rel.label1} {{userID: $id1}})-[r:{rel.relationName}]->(n2:{rel.label2} {{userID: $id2}})
+                    MATCH (n1:{rel.label1} {{userID: $id1}})-[r:{rel.relationName} ]->(n2:{rel.label2} {{userID: $id2}})
                     DELETE r";
 
                 await session.RunAsync(query, new { id1 = rel.id1, id2 = rel.id2 });
@@ -318,6 +318,84 @@ public class Neo4JConnector : IAsyncDisposable {
             await session.CloseAsync();
         }
     }
+
+
+public async Task SetRelations(FraudApi.Controllers.Rel_To_Change relations)
+{
+    await using var session = _driver.AsyncSession();
+    try
+    {
+        var parameters = new Dictionary<string, object>();
+        var attributesRelList = new StringBuilder();
+
+        // Build MATCH clause dynamically
+        foreach (var item in relations.relationAttributes)
+        {
+            string key = item.Key;
+            object value = ConvertJsonElement(item.Value);
+            
+            attributesRelList.Append($"{key}: ${key}, ");
+            parameters[key] = value;
+        }
+
+        // Remove trailing comma if necessary
+        string attributesFilter = attributesRelList.Length > 2 
+            ? attributesRelList.ToString(0, attributesRelList.Length - 2)
+            : "";
+
+        // Build SET clause dynamically
+        var setClause = new StringBuilder();
+        foreach (var kv in relations.To_change)
+        {
+            setClause.Append($"r.{kv.Key} = ${kv.Key}, ");
+            parameters[kv.Key] = ConvertJsonElement(kv.Value);
+        }
+
+        // Remove trailing comma if necessary
+        string setClauseStr = setClause.Length > 2 
+            ? setClause.ToString(0, setClause.Length - 2) 
+            : "";
+
+        var query = $@"
+            MATCH ()-[r:{relations.relationName} {{ {attributesFilter} }}]->()
+            SET {setClauseStr}";
+
+        // Run query with parameters
+
+        Console.WriteLine(query);
+
+        foreach (var kvp in parameters)
+        {
+            // Print each key-value pair
+            Console.WriteLine($"Key: {kvp.Key}, Value: {kvp.Value}");
+        }
+
+        await session.RunAsync(query, parameters);
+    }
+    finally
+    {
+        await session.CloseAsync();
+    }
+}
+
+// Converts JsonElement to appropriate .NET type
+private object ConvertJsonElement(object value)
+{
+    if (value is JsonElement jsonElement)
+    {
+        return jsonElement.ValueKind switch
+        {
+            JsonValueKind.String => jsonElement.GetString(),
+            JsonValueKind.Number => jsonElement.TryGetInt64(out long l) ? l : jsonElement.GetDouble(),
+            JsonValueKind.True => true,
+            JsonValueKind.False => false,
+            JsonValueKind.Null => null,
+            _ => jsonElement.ToString() // Fallback for unsupported types
+        };
+    }
+    return value;
+}
+
 
     public string FormatValue(object value) {
         if (value == null)
