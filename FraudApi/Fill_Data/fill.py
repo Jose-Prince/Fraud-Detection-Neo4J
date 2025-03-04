@@ -195,9 +195,10 @@ def generate_relationships(users, accounts, banks, companies, devices):
         }
         write_relationships_to_csv([bank_relationship], 'Fill_Data/csves/has_accs_relation.csv')
         
-        
+    contador = 0
     for account in accounts:
-        transaction = random.choice(transactions)
+        
+        transaction = transactions[contador]
 
         # Bank has an account
         tranmakes = {
@@ -210,6 +211,7 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "to":   transaction["transactionID"]
         }
         write_relationships_to_csv([tranmakes], 'Fill_Data/csves/tranmakes.csv')
+        contador = contador + 1
 
     for user in users:
         company = random.choice(companies)
@@ -574,7 +576,7 @@ print("CSV files generated successfully!")
 
 #tranmakes
 # LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/tranmakes.csv' AS row
-# MATCH (c:account{accountID:row.startNode})
+# MATCH (c:Account{accountID:row.startNode})
 # MATCH (usr:transaction{ transactionID:row.endNode})
 # MERGE (c)-[r:MAKES{time:row.time, amount:row.amount, from:row.from, to:row.to}]->(usr)
 # return c, r ,usr
