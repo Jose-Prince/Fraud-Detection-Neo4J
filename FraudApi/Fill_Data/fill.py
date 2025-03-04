@@ -194,6 +194,22 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "status":   random.choice(["Active","Active","Inactive"])
         }
         write_relationships_to_csv([bank_relationship], 'Fill_Data/csves/has_accs_relation.csv')
+        
+        
+    for account in accounts:
+        transaction = random.choice(transactions)
+
+        # Bank has an account
+        tranmakes = {
+            "startNode": account["accountID"],
+            "endNode": transaction["transactionID"],
+            "relationship": "MAKES",
+            "time": random_date(2022, 2023).strftime("%Y-%m-%d"),
+            "amount": transaction["amount"],
+            "from":account["accountID"],
+            "to":   transaction["transactionID"]
+        }
+        write_relationships_to_csv([tranmakes], 'Fill_Data/csves/tranmakes.csv')
 
     for user in users:
         company = random.choice(companies)
@@ -261,6 +277,8 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "status": random.choice(["In Process", "Fail", "Success"])
         }
         write_relationships_to_csv([auth_relationship], 'Fill_Data/csves/auth_transactions.csv')
+
+
 
     for _ in range(len(accounts) // 2):
         acc1, acc2 = random.sample(accounts, 2)
@@ -527,5 +545,37 @@ print("CSV files generated successfully!")
 # MATCH (c:user{userID:row.startNode})
 # MATCH (usr:device{ deviceID:row.endNode})
 # MERGE (c)-[r:USES_DEVICE{timestamp:row.timestamp, location:row.location, appUsed:row.appUsed}]->(usr)
+# return c, r ,usr
+
+
+#Withdraws_at
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/device_relationships.csv' AS row
+# MATCH (c:Account{accountID:row.startNode})
+# MATCH (usr:atm{ atmID:row.endNode})
+# MERGE (c)-[r:Withdraws_AT{time:row.time, amount:row.amount, AT:row.AT}]->(usr)
+# return c, r ,usr
+
+
+#Usescard
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/uses_card.csv' AS row
+# MATCH (c:user{userID:row.startNode})
+# MATCH (usr:cards{ cardID:row.endNode})
+# MERGE (c)-[r:USES_CARD{created:row.created, type:row.type, Restrictions:row.Restrictions}]->(usr)
+# return c, r ,usr
+
+
+#Purchased at
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/purchased_at.csv' AS row
+# MATCH (c:transaction{transactionID:row.startNode})
+# MATCH (usr:merchant{ merchanID:row.endNode})
+# MERGE (c)-[r:PURCHASED_AT{time:row.time, apppused:row.appUsed, reason:row.reason}]->(usr)
+# return c, r ,usr
+
+
+#tranmakes
+# LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Jose-Prince/Fraud-Detection-Neo4J/refs/heads/main/FraudApi/Fill_Data/csves/tranmakes.csv' AS row
+# MATCH (c:account{accountID:row.startNode})
+# MATCH (usr:transaction{ transactionID:row.endNode})
+# MERGE (c)-[r:MAKES{time:row.time, amount:row.amount, from:row.from, to:row.to}]->(usr)
 # return c, r ,usr
 

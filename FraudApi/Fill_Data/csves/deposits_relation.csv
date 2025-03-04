@@ -1,1200 +1,1200 @@
 startNode,endNode,relationship,timestamp,amount,origin
-USR:24,ACC:1,DEPOSITS,2024-11-30T00:00:00,800.5,Tax Returns
+USR:267,ACC:1,DEPOSITS,2025-07-11T00:00:00,1186.93,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:193,ACC:2,DEPOSITS,2020-11-26T00:00:00,4704.35,Tax Returns
+USR:168,ACC:2,DEPOSITS,2024-02-04T00:00:00,2844.12,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:443,ACC:3,DEPOSITS,2021-02-12T00:00:00,3590.94,Tax Returns
+USR:244,ACC:3,DEPOSITS,2022-01-05T00:00:00,3100.17,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:323,ACC:4,DEPOSITS,2020-11-20T00:00:00,3699.12,Dividends
+USR:403,ACC:4,DEPOSITS,2023-09-19T00:00:00,1609.08,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:148,ACC:5,DEPOSITS,2023-08-06T00:00:00,4760.15,Cash Deposits
+USR:335,ACC:5,DEPOSITS,2020-01-09T00:00:00,1288.54,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:339,ACC:6,DEPOSITS,2021-11-22T00:00:00,2429.53,Dividends
+USR:168,ACC:6,DEPOSITS,2023-09-30T00:00:00,987.2,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:71,ACC:7,DEPOSITS,2022-06-03T00:00:00,3358.24,Cash Deposits
+USR:253,ACC:7,DEPOSITS,2022-10-02T00:00:00,4426.79,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:471,ACC:8,DEPOSITS,2020-10-02T00:00:00,3673.38,Dividends
+USR:383,ACC:8,DEPOSITS,2022-06-08T00:00:00,1025.67,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:139,ACC:9,DEPOSITS,2025-03-18T00:00:00,424.31,Dividends
+USR:508,ACC:9,DEPOSITS,2020-10-05T00:00:00,4386.23,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:48,ACC:10,DEPOSITS,2020-07-10T00:00:00,2236.46,Dividends
+USR:208,ACC:10,DEPOSITS,2024-10-06T00:00:00,330.98,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:257,ACC:11,DEPOSITS,2021-12-19T00:00:00,820.43,Dividends
+USR:75,ACC:11,DEPOSITS,2025-09-12T00:00:00,2410.5,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:574,ACC:12,DEPOSITS,2021-06-13T00:00:00,2698.65,Dividends
+USR:213,ACC:12,DEPOSITS,2023-10-12T00:00:00,4384.55,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:476,ACC:13,DEPOSITS,2023-12-28T00:00:00,4163.22,Tax Returns
+USR:414,ACC:13,DEPOSITS,2022-07-31T00:00:00,697.34,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:516,ACC:14,DEPOSITS,2024-08-07T00:00:00,3391.79,Dividends
+USR:161,ACC:14,DEPOSITS,2023-06-10T00:00:00,4804.01,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:375,ACC:15,DEPOSITS,2025-09-19T00:00:00,4533.01,Dividends
+USR:122,ACC:15,DEPOSITS,2023-12-17T00:00:00,1722.61,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:547,ACC:16,DEPOSITS,2024-01-23T00:00:00,1095.77,Cash Deposits
+USR:105,ACC:16,DEPOSITS,2023-03-19T00:00:00,227.29,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:506,ACC:17,DEPOSITS,2024-06-23T00:00:00,1655.23,Dividends
+USR:92,ACC:17,DEPOSITS,2020-07-26T00:00:00,4629.15,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:265,ACC:18,DEPOSITS,2021-01-09T00:00:00,4546.13,Tax Returns
+USR:587,ACC:18,DEPOSITS,2023-06-28T00:00:00,2750.07,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:430,ACC:19,DEPOSITS,2025-10-29T00:00:00,1438.38,Cash Deposits
+USR:107,ACC:19,DEPOSITS,2020-06-14T00:00:00,350.77,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:494,ACC:20,DEPOSITS,2024-02-19T00:00:00,124.67,Tax Returns
+USR:109,ACC:20,DEPOSITS,2023-12-19T00:00:00,1246.07,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:305,ACC:21,DEPOSITS,2022-01-27T00:00:00,3424.34,Dividends
+USR:488,ACC:21,DEPOSITS,2020-08-02T00:00:00,1896.37,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:527,ACC:22,DEPOSITS,2024-03-28T00:00:00,2130.39,Dividends
+USR:200,ACC:22,DEPOSITS,2022-10-06T00:00:00,1029.07,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:506,ACC:23,DEPOSITS,2022-07-19T00:00:00,149.44,Cash Deposits
+USR:372,ACC:23,DEPOSITS,2021-02-25T00:00:00,4412.58,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:51,ACC:24,DEPOSITS,2020-07-25T00:00:00,4783.53,Cash Deposits
+USR:40,ACC:24,DEPOSITS,2022-04-19T00:00:00,1673.62,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:172,ACC:25,DEPOSITS,2020-07-12T00:00:00,1136.78,Cash Deposits
+USR:211,ACC:25,DEPOSITS,2020-10-18T00:00:00,4574.38,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:173,ACC:26,DEPOSITS,2024-07-20T00:00:00,1279.5,Dividends
+USR:242,ACC:26,DEPOSITS,2025-09-26T00:00:00,389.28,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:10,ACC:27,DEPOSITS,2023-10-09T00:00:00,2183.21,Tax Returns
+USR:52,ACC:27,DEPOSITS,2021-03-05T00:00:00,3363.52,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:219,ACC:28,DEPOSITS,2021-12-21T00:00:00,1857.32,Cash Deposits
+USR:437,ACC:28,DEPOSITS,2020-05-14T00:00:00,1713.57,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:456,ACC:29,DEPOSITS,2021-05-27T00:00:00,740.78,Tax Returns
+USR:7,ACC:29,DEPOSITS,2023-10-20T00:00:00,4863.94,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:552,ACC:30,DEPOSITS,2021-08-21T00:00:00,2190.48,Dividends
+USR:334,ACC:30,DEPOSITS,2022-12-27T00:00:00,1859.05,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:565,ACC:31,DEPOSITS,2020-01-16T00:00:00,452.38,Cash Deposits
+USR:35,ACC:31,DEPOSITS,2025-03-11T00:00:00,2453.17,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:469,ACC:32,DEPOSITS,2021-10-05T00:00:00,2790.14,Cash Deposits
+USR:437,ACC:32,DEPOSITS,2025-06-21T00:00:00,4946.36,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:12,ACC:33,DEPOSITS,2024-09-15T00:00:00,4994.7,Cash Deposits
+USR:280,ACC:33,DEPOSITS,2022-04-04T00:00:00,914.65,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:97,ACC:34,DEPOSITS,2025-12-20T00:00:00,262.45,Cash Deposits
+USR:379,ACC:34,DEPOSITS,2023-02-06T00:00:00,1322.25,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:426,ACC:35,DEPOSITS,2022-01-20T00:00:00,3353.04,Cash Deposits
+USR:164,ACC:35,DEPOSITS,2022-01-11T00:00:00,469.66,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:62,ACC:36,DEPOSITS,2022-07-21T00:00:00,1815.58,Tax Returns
+USR:411,ACC:36,DEPOSITS,2025-04-25T00:00:00,2409.57,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:516,ACC:37,DEPOSITS,2023-11-14T00:00:00,1514.34,Dividends
+USR:238,ACC:37,DEPOSITS,2021-03-12T00:00:00,2915.33,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:235,ACC:38,DEPOSITS,2020-07-10T00:00:00,1035.42,Tax Returns
+USR:215,ACC:38,DEPOSITS,2025-02-12T00:00:00,2642.22,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:203,ACC:39,DEPOSITS,2023-04-08T00:00:00,2800.76,Tax Returns
+USR:191,ACC:39,DEPOSITS,2022-11-15T00:00:00,4590.99,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:368,ACC:40,DEPOSITS,2020-10-23T00:00:00,1631.34,Dividends
+USR:366,ACC:40,DEPOSITS,2021-12-29T00:00:00,2002.56,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:183,ACC:41,DEPOSITS,2025-04-22T00:00:00,3761.59,Dividends
+USR:154,ACC:41,DEPOSITS,2025-07-24T00:00:00,2651.6,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:411,ACC:42,DEPOSITS,2020-06-09T00:00:00,938.37,Tax Returns
+USR:566,ACC:42,DEPOSITS,2021-05-12T00:00:00,4596.12,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:529,ACC:43,DEPOSITS,2024-08-13T00:00:00,3603.86,Tax Returns
+USR:577,ACC:43,DEPOSITS,2023-11-05T00:00:00,4491.64,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:123,ACC:44,DEPOSITS,2025-10-18T00:00:00,2515.62,Cash Deposits
+USR:153,ACC:44,DEPOSITS,2025-10-23T00:00:00,3909.4,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:136,ACC:45,DEPOSITS,2021-08-02T00:00:00,1849.45,Cash Deposits
+USR:600,ACC:45,DEPOSITS,2025-07-16T00:00:00,605.93,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:231,ACC:46,DEPOSITS,2024-12-05T00:00:00,1619.29,Tax Returns
+USR:530,ACC:46,DEPOSITS,2021-12-01T00:00:00,3541.79,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:580,ACC:47,DEPOSITS,2023-10-21T00:00:00,2728.04,Dividends
+USR:106,ACC:47,DEPOSITS,2023-07-20T00:00:00,2675.86,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:522,ACC:48,DEPOSITS,2021-10-25T00:00:00,2462.84,Tax Returns
+USR:151,ACC:48,DEPOSITS,2022-04-22T00:00:00,4686.47,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:45,ACC:49,DEPOSITS,2021-07-31T00:00:00,1954.14,Cash Deposits
+USR:227,ACC:49,DEPOSITS,2024-05-14T00:00:00,3871.87,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:42,ACC:50,DEPOSITS,2020-05-02T00:00:00,831.92,Cash Deposits
+USR:65,ACC:50,DEPOSITS,2020-11-24T00:00:00,155.02,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:284,ACC:51,DEPOSITS,2022-05-15T00:00:00,4161.74,Tax Returns
+USR:401,ACC:51,DEPOSITS,2023-01-26T00:00:00,2828.37,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:67,ACC:52,DEPOSITS,2021-06-16T00:00:00,901.17,Tax Returns
+USR:139,ACC:52,DEPOSITS,2024-08-05T00:00:00,3865.42,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:144,ACC:53,DEPOSITS,2024-04-12T00:00:00,1815.19,Dividends
+USR:301,ACC:53,DEPOSITS,2023-03-13T00:00:00,3947.46,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:95,ACC:54,DEPOSITS,2023-06-25T00:00:00,4641.07,Tax Returns
+USR:384,ACC:54,DEPOSITS,2025-12-11T00:00:00,3773.75,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:501,ACC:55,DEPOSITS,2021-09-28T00:00:00,470.94,Tax Returns
+USR:471,ACC:55,DEPOSITS,2020-01-19T00:00:00,2816.35,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:316,ACC:56,DEPOSITS,2021-11-05T00:00:00,3637.66,Dividends
+USR:184,ACC:56,DEPOSITS,2021-09-24T00:00:00,616.47,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:120,ACC:57,DEPOSITS,2022-10-27T00:00:00,1044.0,Cash Deposits
+USR:352,ACC:57,DEPOSITS,2024-12-15T00:00:00,2364.62,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:249,ACC:58,DEPOSITS,2024-11-04T00:00:00,4594.89,Cash Deposits
+USR:7,ACC:58,DEPOSITS,2023-09-29T00:00:00,3763.4,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:82,ACC:59,DEPOSITS,2021-07-15T00:00:00,2457.23,Dividends
+USR:234,ACC:59,DEPOSITS,2023-04-18T00:00:00,974.7,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:174,ACC:60,DEPOSITS,2023-07-01T00:00:00,3262.0,Dividends
+USR:206,ACC:60,DEPOSITS,2020-10-27T00:00:00,566.05,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:330,ACC:61,DEPOSITS,2021-08-19T00:00:00,1963.1,Dividends
+USR:260,ACC:61,DEPOSITS,2020-02-15T00:00:00,2743.89,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:119,ACC:62,DEPOSITS,2025-03-24T00:00:00,1309.96,Dividends
+USR:514,ACC:62,DEPOSITS,2020-06-22T00:00:00,2740.09,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:385,ACC:63,DEPOSITS,2023-06-08T00:00:00,353.91,Dividends
+USR:483,ACC:63,DEPOSITS,2022-11-27T00:00:00,4121.21,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:99,ACC:64,DEPOSITS,2023-03-05T00:00:00,1474.0,Dividends
+USR:200,ACC:64,DEPOSITS,2024-09-16T00:00:00,1477.14,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:204,ACC:65,DEPOSITS,2022-08-19T00:00:00,3215.82,Tax Returns
+USR:359,ACC:65,DEPOSITS,2022-12-12T00:00:00,4853.36,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:273,ACC:66,DEPOSITS,2022-02-07T00:00:00,2701.17,Cash Deposits
+USR:37,ACC:66,DEPOSITS,2020-09-02T00:00:00,2000.23,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:353,ACC:67,DEPOSITS,2021-01-02T00:00:00,2576.86,Dividends
+USR:259,ACC:67,DEPOSITS,2020-06-18T00:00:00,4267.52,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:268,ACC:68,DEPOSITS,2022-02-22T00:00:00,3550.26,Tax Returns
+USR:319,ACC:68,DEPOSITS,2025-07-27T00:00:00,2016.46,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:578,ACC:69,DEPOSITS,2020-04-15T00:00:00,3699.09,Tax Returns
+USR:202,ACC:69,DEPOSITS,2020-12-02T00:00:00,303.14,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:565,ACC:70,DEPOSITS,2023-10-23T00:00:00,4361.67,Dividends
+USR:344,ACC:70,DEPOSITS,2024-10-09T00:00:00,392.26,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:328,ACC:71,DEPOSITS,2023-07-22T00:00:00,1793.85,Cash Deposits
+USR:237,ACC:71,DEPOSITS,2025-04-01T00:00:00,4184.76,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:305,ACC:72,DEPOSITS,2025-12-18T00:00:00,1162.7,Tax Returns
+USR:122,ACC:72,DEPOSITS,2022-07-18T00:00:00,3090.53,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:137,ACC:73,DEPOSITS,2021-05-08T00:00:00,3651.95,Tax Returns
+USR:584,ACC:73,DEPOSITS,2021-01-10T00:00:00,258.65,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:343,ACC:74,DEPOSITS,2025-10-17T00:00:00,2811.25,Cash Deposits
+USR:51,ACC:74,DEPOSITS,2022-12-09T00:00:00,1912.28,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:525,ACC:75,DEPOSITS,2025-01-14T00:00:00,4426.68,Tax Returns
+USR:139,ACC:75,DEPOSITS,2021-11-15T00:00:00,1682.31,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:538,ACC:76,DEPOSITS,2020-04-05T00:00:00,3394.28,Cash Deposits
+USR:577,ACC:76,DEPOSITS,2020-08-24T00:00:00,4284.66,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:180,ACC:77,DEPOSITS,2022-04-28T00:00:00,2148.23,Tax Returns
+USR:392,ACC:77,DEPOSITS,2023-08-09T00:00:00,4370.72,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:469,ACC:78,DEPOSITS,2025-01-26T00:00:00,1256.85,Tax Returns
+USR:599,ACC:78,DEPOSITS,2023-11-02T00:00:00,1721.78,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:219,ACC:79,DEPOSITS,2022-08-12T00:00:00,1707.88,Dividends
+USR:439,ACC:79,DEPOSITS,2024-10-20T00:00:00,4079.07,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:289,ACC:80,DEPOSITS,2021-09-18T00:00:00,2690.28,Tax Returns
+USR:423,ACC:80,DEPOSITS,2023-06-17T00:00:00,1874.68,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:499,ACC:81,DEPOSITS,2020-06-09T00:00:00,1826.5,Tax Returns
+USR:580,ACC:81,DEPOSITS,2024-01-03T00:00:00,1950.72,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:351,ACC:82,DEPOSITS,2025-02-03T00:00:00,3794.59,Cash Deposits
+USR:443,ACC:82,DEPOSITS,2024-06-01T00:00:00,3533.15,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:177,ACC:83,DEPOSITS,2021-09-15T00:00:00,1355.43,Cash Deposits
+USR:326,ACC:83,DEPOSITS,2021-04-02T00:00:00,2636.74,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:315,ACC:84,DEPOSITS,2025-06-14T00:00:00,4595.19,Cash Deposits
+USR:551,ACC:84,DEPOSITS,2022-09-19T00:00:00,1836.9,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:376,ACC:85,DEPOSITS,2024-04-15T00:00:00,3244.44,Tax Returns
+USR:4,ACC:85,DEPOSITS,2020-11-13T00:00:00,4670.39,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:93,ACC:86,DEPOSITS,2024-10-25T00:00:00,4568.86,Tax Returns
+USR:427,ACC:86,DEPOSITS,2021-04-24T00:00:00,417.58,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:560,ACC:87,DEPOSITS,2023-01-09T00:00:00,1734.58,Tax Returns
+USR:180,ACC:87,DEPOSITS,2024-09-10T00:00:00,2289.53,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:510,ACC:88,DEPOSITS,2022-10-11T00:00:00,1596.79,Tax Returns
+USR:546,ACC:88,DEPOSITS,2025-12-06T00:00:00,2418.87,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:373,ACC:89,DEPOSITS,2022-10-11T00:00:00,3705.35,Tax Returns
+USR:78,ACC:89,DEPOSITS,2025-09-17T00:00:00,3620.82,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:82,ACC:90,DEPOSITS,2025-05-22T00:00:00,2045.73,Cash Deposits
+USR:530,ACC:90,DEPOSITS,2022-02-15T00:00:00,3290.79,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:420,ACC:91,DEPOSITS,2021-01-05T00:00:00,4498.71,Dividends
+USR:77,ACC:91,DEPOSITS,2025-01-21T00:00:00,282.53,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:541,ACC:92,DEPOSITS,2020-10-11T00:00:00,2180.37,Dividends
+USR:361,ACC:92,DEPOSITS,2024-10-14T00:00:00,4773.96,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:11,ACC:93,DEPOSITS,2022-01-06T00:00:00,2514.11,Dividends
+USR:523,ACC:93,DEPOSITS,2025-05-01T00:00:00,3251.11,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:402,ACC:94,DEPOSITS,2023-03-01T00:00:00,2240.55,Tax Returns
+USR:325,ACC:94,DEPOSITS,2021-11-26T00:00:00,3881.44,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:240,ACC:95,DEPOSITS,2023-01-12T00:00:00,1564.72,Tax Returns
+USR:483,ACC:95,DEPOSITS,2024-07-16T00:00:00,534.37,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:594,ACC:96,DEPOSITS,2021-11-20T00:00:00,2678.14,Tax Returns
+USR:543,ACC:96,DEPOSITS,2025-10-17T00:00:00,3287.95,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:547,ACC:97,DEPOSITS,2023-12-27T00:00:00,1907.41,Dividends
+USR:506,ACC:97,DEPOSITS,2020-01-12T00:00:00,2384.3,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:380,ACC:98,DEPOSITS,2020-04-26T00:00:00,1464.19,Cash Deposits
+USR:209,ACC:98,DEPOSITS,2025-06-08T00:00:00,1476.9,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:327,ACC:99,DEPOSITS,2023-07-07T00:00:00,782.26,Cash Deposits
+USR:11,ACC:99,DEPOSITS,2021-09-29T00:00:00,1747.32,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:89,ACC:100,DEPOSITS,2022-08-02T00:00:00,4099.12,Dividends
+USR:166,ACC:100,DEPOSITS,2020-12-14T00:00:00,3476.73,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:599,ACC:101,DEPOSITS,2021-12-04T00:00:00,2858.09,Dividends
+USR:208,ACC:101,DEPOSITS,2025-08-29T00:00:00,1796.43,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:482,ACC:102,DEPOSITS,2023-04-30T00:00:00,923.81,Dividends
+USR:380,ACC:102,DEPOSITS,2021-05-14T00:00:00,2298.8,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:73,ACC:103,DEPOSITS,2024-03-11T00:00:00,4775.45,Dividends
+USR:124,ACC:103,DEPOSITS,2020-10-18T00:00:00,404.73,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:420,ACC:104,DEPOSITS,2020-09-15T00:00:00,513.86,Dividends
+USR:191,ACC:104,DEPOSITS,2022-12-03T00:00:00,4819.27,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:464,ACC:105,DEPOSITS,2022-10-23T00:00:00,3437.4,Cash Deposits
+USR:471,ACC:105,DEPOSITS,2021-02-02T00:00:00,1588.78,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:474,ACC:106,DEPOSITS,2021-10-05T00:00:00,1447.94,Cash Deposits
+USR:230,ACC:106,DEPOSITS,2020-11-09T00:00:00,3377.61,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:436,ACC:107,DEPOSITS,2021-03-10T00:00:00,949.52,Tax Returns
+USR:274,ACC:107,DEPOSITS,2020-10-30T00:00:00,969.46,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:498,ACC:108,DEPOSITS,2024-09-12T00:00:00,4568.8,Cash Deposits
+USR:431,ACC:108,DEPOSITS,2021-03-31T00:00:00,2358.78,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:239,ACC:109,DEPOSITS,2022-05-31T00:00:00,182.5,Tax Returns
+USR:79,ACC:109,DEPOSITS,2021-09-23T00:00:00,3697.78,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:64,ACC:110,DEPOSITS,2023-10-09T00:00:00,1151.56,Dividends
+USR:145,ACC:110,DEPOSITS,2024-10-11T00:00:00,2872.78,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:62,ACC:111,DEPOSITS,2022-03-01T00:00:00,485.4,Dividends
+USR:282,ACC:111,DEPOSITS,2021-11-13T00:00:00,113.83,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:429,ACC:112,DEPOSITS,2025-09-25T00:00:00,2147.06,Cash Deposits
+USR:33,ACC:112,DEPOSITS,2022-02-09T00:00:00,3046.15,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:521,ACC:113,DEPOSITS,2021-02-12T00:00:00,2962.93,Tax Returns
+USR:86,ACC:113,DEPOSITS,2020-11-08T00:00:00,951.98,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:223,ACC:114,DEPOSITS,2024-07-23T00:00:00,2273.71,Tax Returns
+USR:31,ACC:114,DEPOSITS,2022-05-16T00:00:00,3763.65,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:411,ACC:115,DEPOSITS,2025-10-15T00:00:00,4352.12,Tax Returns
+USR:587,ACC:115,DEPOSITS,2020-03-13T00:00:00,395.53,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:481,ACC:116,DEPOSITS,2021-08-16T00:00:00,455.18,Tax Returns
+USR:260,ACC:116,DEPOSITS,2025-01-14T00:00:00,3858.44,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:104,ACC:117,DEPOSITS,2025-07-02T00:00:00,2048.64,Cash Deposits
+USR:151,ACC:117,DEPOSITS,2023-11-16T00:00:00,1310.06,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:15,ACC:118,DEPOSITS,2022-07-25T00:00:00,2980.59,Cash Deposits
+USR:313,ACC:118,DEPOSITS,2021-05-07T00:00:00,3020.31,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:470,ACC:119,DEPOSITS,2024-06-21T00:00:00,4388.0,Dividends
+USR:544,ACC:119,DEPOSITS,2022-07-17T00:00:00,3631.89,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:30,ACC:120,DEPOSITS,2020-12-30T00:00:00,2578.77,Cash Deposits
+USR:24,ACC:120,DEPOSITS,2022-05-17T00:00:00,4957.89,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:360,ACC:121,DEPOSITS,2024-08-14T00:00:00,2850.95,Tax Returns
+USR:583,ACC:121,DEPOSITS,2020-08-15T00:00:00,4919.21,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:258,ACC:122,DEPOSITS,2023-10-22T00:00:00,4268.56,Cash Deposits
+USR:460,ACC:122,DEPOSITS,2022-01-29T00:00:00,4202.79,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:361,ACC:123,DEPOSITS,2025-05-30T00:00:00,2001.13,Dividends
+USR:17,ACC:123,DEPOSITS,2021-07-06T00:00:00,3437.88,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:100,ACC:124,DEPOSITS,2025-11-22T00:00:00,1443.37,Dividends
+USR:551,ACC:124,DEPOSITS,2022-07-09T00:00:00,3255.48,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:140,ACC:125,DEPOSITS,2021-11-19T00:00:00,535.04,Cash Deposits
+USR:382,ACC:125,DEPOSITS,2025-05-04T00:00:00,1359.51,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:231,ACC:126,DEPOSITS,2020-06-04T00:00:00,1036.09,Tax Returns
+USR:539,ACC:126,DEPOSITS,2022-03-24T00:00:00,4521.24,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:400,ACC:127,DEPOSITS,2021-03-25T00:00:00,3710.78,Dividends
+USR:104,ACC:127,DEPOSITS,2025-06-22T00:00:00,3494.72,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:158,ACC:128,DEPOSITS,2024-11-14T00:00:00,1103.73,Tax Returns
+USR:503,ACC:128,DEPOSITS,2023-10-09T00:00:00,4245.05,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:550,ACC:129,DEPOSITS,2021-05-03T00:00:00,1768.86,Dividends
+USR:126,ACC:129,DEPOSITS,2024-08-26T00:00:00,1558.62,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:503,ACC:130,DEPOSITS,2021-08-12T00:00:00,407.86,Cash Deposits
+USR:530,ACC:130,DEPOSITS,2020-03-28T00:00:00,1955.83,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:372,ACC:131,DEPOSITS,2021-08-15T00:00:00,1922.1,Tax Returns
+USR:361,ACC:131,DEPOSITS,2025-01-13T00:00:00,2779.05,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:45,ACC:132,DEPOSITS,2021-05-19T00:00:00,4357.72,Cash Deposits
+USR:50,ACC:132,DEPOSITS,2020-03-14T00:00:00,4090.14,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:484,ACC:133,DEPOSITS,2025-10-18T00:00:00,3654.05,Tax Returns
+USR:332,ACC:133,DEPOSITS,2024-02-11T00:00:00,2372.56,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:397,ACC:134,DEPOSITS,2021-11-28T00:00:00,2586.07,Dividends
+USR:412,ACC:134,DEPOSITS,2023-01-12T00:00:00,4225.66,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:552,ACC:135,DEPOSITS,2022-04-05T00:00:00,4256.02,Tax Returns
+USR:506,ACC:135,DEPOSITS,2025-07-19T00:00:00,4961.33,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:514,ACC:136,DEPOSITS,2021-01-22T00:00:00,3997.17,Cash Deposits
+USR:273,ACC:136,DEPOSITS,2020-08-09T00:00:00,4936.07,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:196,ACC:137,DEPOSITS,2025-06-19T00:00:00,531.94,Tax Returns
+USR:183,ACC:137,DEPOSITS,2021-08-05T00:00:00,2722.93,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:348,ACC:138,DEPOSITS,2020-03-19T00:00:00,305.36,Tax Returns
+USR:466,ACC:138,DEPOSITS,2024-03-04T00:00:00,4400.44,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:589,ACC:139,DEPOSITS,2020-12-17T00:00:00,487.55,Cash Deposits
+USR:536,ACC:139,DEPOSITS,2022-09-30T00:00:00,4946.6,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:357,ACC:140,DEPOSITS,2025-05-19T00:00:00,3278.12,Dividends
+USR:584,ACC:140,DEPOSITS,2025-09-16T00:00:00,1764.74,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:545,ACC:141,DEPOSITS,2023-10-06T00:00:00,2150.81,Cash Deposits
+USR:392,ACC:141,DEPOSITS,2022-10-19T00:00:00,4585.47,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:500,ACC:142,DEPOSITS,2020-04-26T00:00:00,4822.88,Cash Deposits
+USR:33,ACC:142,DEPOSITS,2020-03-02T00:00:00,1696.62,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:353,ACC:143,DEPOSITS,2020-08-17T00:00:00,1839.35,Tax Returns
+USR:567,ACC:143,DEPOSITS,2022-05-02T00:00:00,2652.61,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:200,ACC:144,DEPOSITS,2021-10-25T00:00:00,3591.02,Dividends
+USR:379,ACC:144,DEPOSITS,2021-07-10T00:00:00,3192.08,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:233,ACC:145,DEPOSITS,2020-08-16T00:00:00,3681.03,Tax Returns
+USR:406,ACC:145,DEPOSITS,2025-10-07T00:00:00,2945.14,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:117,ACC:146,DEPOSITS,2025-11-22T00:00:00,4473.41,Dividends
+USR:549,ACC:146,DEPOSITS,2024-02-17T00:00:00,132.49,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:131,ACC:147,DEPOSITS,2025-08-11T00:00:00,3760.29,Dividends
+USR:379,ACC:147,DEPOSITS,2021-10-18T00:00:00,1091.73,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:454,ACC:148,DEPOSITS,2024-12-29T00:00:00,637.31,Cash Deposits
+USR:559,ACC:148,DEPOSITS,2023-12-06T00:00:00,2765.61,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:547,ACC:149,DEPOSITS,2024-05-02T00:00:00,341.38,Cash Deposits
+USR:134,ACC:149,DEPOSITS,2022-08-13T00:00:00,564.35,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:297,ACC:150,DEPOSITS,2021-05-19T00:00:00,1103.19,Dividends
+USR:140,ACC:150,DEPOSITS,2020-02-25T00:00:00,1956.92,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:322,ACC:151,DEPOSITS,2023-01-20T00:00:00,2726.39,Dividends
+USR:370,ACC:151,DEPOSITS,2020-01-07T00:00:00,4880.49,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:394,ACC:152,DEPOSITS,2020-05-08T00:00:00,3921.15,Cash Deposits
+USR:59,ACC:152,DEPOSITS,2023-03-13T00:00:00,4956.44,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:420,ACC:153,DEPOSITS,2025-08-09T00:00:00,3853.21,Tax Returns
+USR:362,ACC:153,DEPOSITS,2025-12-05T00:00:00,219.27,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:214,ACC:154,DEPOSITS,2021-03-17T00:00:00,2586.51,Tax Returns
+USR:568,ACC:154,DEPOSITS,2024-03-07T00:00:00,438.02,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:116,ACC:155,DEPOSITS,2021-05-06T00:00:00,1241.33,Cash Deposits
+USR:592,ACC:155,DEPOSITS,2024-01-06T00:00:00,3432.94,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:277,ACC:156,DEPOSITS,2024-03-16T00:00:00,1398.34,Tax Returns
+USR:63,ACC:156,DEPOSITS,2022-02-17T00:00:00,1298.93,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:563,ACC:157,DEPOSITS,2024-12-25T00:00:00,4689.98,Cash Deposits
+USR:214,ACC:157,DEPOSITS,2022-02-27T00:00:00,856.76,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:570,ACC:158,DEPOSITS,2020-11-27T00:00:00,2918.18,Tax Returns
+USR:264,ACC:158,DEPOSITS,2022-03-27T00:00:00,2793.08,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:91,ACC:159,DEPOSITS,2025-06-07T00:00:00,2629.76,Tax Returns
+USR:333,ACC:159,DEPOSITS,2023-06-01T00:00:00,1578.22,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:249,ACC:160,DEPOSITS,2022-02-02T00:00:00,3933.36,Cash Deposits
+USR:270,ACC:160,DEPOSITS,2025-08-11T00:00:00,4768.83,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:78,ACC:161,DEPOSITS,2024-09-13T00:00:00,1880.25,Tax Returns
+USR:168,ACC:161,DEPOSITS,2020-03-31T00:00:00,3150.03,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:245,ACC:162,DEPOSITS,2025-03-31T00:00:00,4635.91,Cash Deposits
+USR:571,ACC:162,DEPOSITS,2023-03-24T00:00:00,4905.95,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:217,ACC:163,DEPOSITS,2025-10-06T00:00:00,1525.21,Cash Deposits
+USR:572,ACC:163,DEPOSITS,2025-03-28T00:00:00,3417.87,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:52,ACC:164,DEPOSITS,2023-10-07T00:00:00,4923.64,Dividends
+USR:219,ACC:164,DEPOSITS,2020-06-09T00:00:00,1154.87,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:24,ACC:165,DEPOSITS,2024-10-10T00:00:00,3388.23,Cash Deposits
+USR:65,ACC:165,DEPOSITS,2022-04-23T00:00:00,815.5,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:174,ACC:166,DEPOSITS,2023-06-20T00:00:00,1843.0,Cash Deposits
+USR:192,ACC:166,DEPOSITS,2023-01-19T00:00:00,3905.68,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:283,ACC:167,DEPOSITS,2021-01-15T00:00:00,3647.81,Tax Returns
+USR:554,ACC:167,DEPOSITS,2022-07-12T00:00:00,950.52,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:524,ACC:168,DEPOSITS,2023-08-26T00:00:00,4283.34,Cash Deposits
+USR:71,ACC:168,DEPOSITS,2022-02-14T00:00:00,3041.88,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:116,ACC:169,DEPOSITS,2021-07-23T00:00:00,3063.54,Cash Deposits
+USR:145,ACC:169,DEPOSITS,2021-12-06T00:00:00,708.81,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:292,ACC:170,DEPOSITS,2023-09-13T00:00:00,3508.46,Tax Returns
+USR:193,ACC:170,DEPOSITS,2021-12-29T00:00:00,2667.05,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:219,ACC:171,DEPOSITS,2024-10-15T00:00:00,2761.81,Tax Returns
+USR:437,ACC:171,DEPOSITS,2020-03-03T00:00:00,4918.73,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:570,ACC:172,DEPOSITS,2024-05-31T00:00:00,1872.69,Cash Deposits
+USR:236,ACC:172,DEPOSITS,2022-11-06T00:00:00,1503.66,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:55,ACC:173,DEPOSITS,2023-11-04T00:00:00,3239.04,Cash Deposits
+USR:561,ACC:173,DEPOSITS,2024-08-12T00:00:00,4780.73,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:475,ACC:174,DEPOSITS,2025-05-27T00:00:00,4708.43,Dividends
+USR:455,ACC:174,DEPOSITS,2023-02-12T00:00:00,4844.52,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:417,ACC:175,DEPOSITS,2024-07-13T00:00:00,3127.74,Dividends
+USR:141,ACC:175,DEPOSITS,2023-12-11T00:00:00,2606.43,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:263,ACC:176,DEPOSITS,2025-09-24T00:00:00,372.83,Dividends
+USR:569,ACC:176,DEPOSITS,2024-11-21T00:00:00,4578.17,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:417,ACC:177,DEPOSITS,2023-05-20T00:00:00,188.79,Tax Returns
+USR:190,ACC:177,DEPOSITS,2022-08-11T00:00:00,4077.57,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:524,ACC:178,DEPOSITS,2023-07-18T00:00:00,1088.4,Dividends
+USR:563,ACC:178,DEPOSITS,2022-01-11T00:00:00,2012.52,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:204,ACC:179,DEPOSITS,2022-02-20T00:00:00,2843.62,Cash Deposits
+USR:143,ACC:179,DEPOSITS,2022-05-06T00:00:00,732.2,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:445,ACC:180,DEPOSITS,2024-11-18T00:00:00,3207.15,Cash Deposits
+USR:239,ACC:180,DEPOSITS,2025-10-29T00:00:00,2979.78,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:234,ACC:181,DEPOSITS,2020-05-22T00:00:00,3202.49,Tax Returns
+USR:261,ACC:181,DEPOSITS,2022-10-22T00:00:00,814.92,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:285,ACC:182,DEPOSITS,2024-07-29T00:00:00,3954.98,Tax Returns
+USR:497,ACC:182,DEPOSITS,2024-09-23T00:00:00,2787.97,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:134,ACC:183,DEPOSITS,2023-07-30T00:00:00,3023.47,Tax Returns
+USR:432,ACC:183,DEPOSITS,2024-01-13T00:00:00,630.66,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:2,ACC:184,DEPOSITS,2024-02-17T00:00:00,3810.0,Tax Returns
+USR:314,ACC:184,DEPOSITS,2022-03-17T00:00:00,3522.04,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:245,ACC:185,DEPOSITS,2024-11-09T00:00:00,2671.35,Dividends
+USR:548,ACC:185,DEPOSITS,2023-12-12T00:00:00,3421.63,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:579,ACC:186,DEPOSITS,2025-04-17T00:00:00,3572.46,Dividends
+USR:190,ACC:186,DEPOSITS,2020-09-20T00:00:00,607.75,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:191,ACC:187,DEPOSITS,2020-10-16T00:00:00,3950.3,Tax Returns
+USR:503,ACC:187,DEPOSITS,2021-09-30T00:00:00,3934.89,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:15,ACC:188,DEPOSITS,2020-11-01T00:00:00,1149.81,Dividends
+USR:307,ACC:188,DEPOSITS,2020-08-03T00:00:00,2676.15,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:4,ACC:189,DEPOSITS,2022-12-22T00:00:00,2677.93,Tax Returns
+USR:346,ACC:189,DEPOSITS,2025-02-11T00:00:00,4842.85,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:402,ACC:190,DEPOSITS,2021-12-17T00:00:00,779.34,Tax Returns
+USR:14,ACC:190,DEPOSITS,2024-02-12T00:00:00,4951.89,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:358,ACC:191,DEPOSITS,2023-04-01T00:00:00,1940.76,Tax Returns
+USR:352,ACC:191,DEPOSITS,2025-10-10T00:00:00,4228.32,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:189,ACC:192,DEPOSITS,2025-10-09T00:00:00,4930.66,Tax Returns
+USR:271,ACC:192,DEPOSITS,2021-07-28T00:00:00,592.09,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:115,ACC:193,DEPOSITS,2020-01-13T00:00:00,173.62,Cash Deposits
+USR:155,ACC:193,DEPOSITS,2025-02-15T00:00:00,2440.22,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:163,ACC:194,DEPOSITS,2023-10-03T00:00:00,4901.95,Dividends
+USR:521,ACC:194,DEPOSITS,2023-06-29T00:00:00,2150.51,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:18,ACC:195,DEPOSITS,2023-07-09T00:00:00,1986.04,Dividends
+USR:536,ACC:195,DEPOSITS,2025-07-16T00:00:00,3122.78,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:508,ACC:196,DEPOSITS,2022-01-08T00:00:00,790.13,Cash Deposits
+USR:122,ACC:196,DEPOSITS,2023-07-05T00:00:00,188.97,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:173,ACC:197,DEPOSITS,2025-03-16T00:00:00,3963.7,Dividends
+USR:479,ACC:197,DEPOSITS,2021-08-25T00:00:00,470.36,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:529,ACC:198,DEPOSITS,2020-09-19T00:00:00,415.94,Cash Deposits
+USR:194,ACC:198,DEPOSITS,2023-07-27T00:00:00,1737.43,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:80,ACC:199,DEPOSITS,2023-12-04T00:00:00,1912.48,Dividends
+USR:31,ACC:199,DEPOSITS,2022-04-12T00:00:00,4538.73,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:556,ACC:200,DEPOSITS,2021-01-17T00:00:00,1007.98,Dividends
+USR:175,ACC:200,DEPOSITS,2022-04-26T00:00:00,1802.38,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:79,ACC:201,DEPOSITS,2021-01-26T00:00:00,4907.54,Tax Returns
+USR:169,ACC:201,DEPOSITS,2021-11-02T00:00:00,4899.64,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:258,ACC:202,DEPOSITS,2024-01-28T00:00:00,3847.88,Dividends
+USR:387,ACC:202,DEPOSITS,2024-05-16T00:00:00,4525.28,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:261,ACC:203,DEPOSITS,2024-04-16T00:00:00,4417.71,Dividends
+USR:525,ACC:203,DEPOSITS,2021-02-22T00:00:00,2306.0,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:62,ACC:204,DEPOSITS,2021-08-08T00:00:00,1530.36,Dividends
+USR:218,ACC:204,DEPOSITS,2025-02-15T00:00:00,2376.72,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:81,ACC:205,DEPOSITS,2020-10-05T00:00:00,983.36,Cash Deposits
+USR:406,ACC:205,DEPOSITS,2023-05-06T00:00:00,480.44,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:243,ACC:206,DEPOSITS,2025-08-15T00:00:00,1351.64,Cash Deposits
+USR:414,ACC:206,DEPOSITS,2025-02-05T00:00:00,2899.78,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:210,ACC:207,DEPOSITS,2024-01-02T00:00:00,782.33,Cash Deposits
+USR:137,ACC:207,DEPOSITS,2024-03-20T00:00:00,3914.21,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:496,ACC:208,DEPOSITS,2020-01-28T00:00:00,1842.26,Cash Deposits
+USR:411,ACC:208,DEPOSITS,2021-03-19T00:00:00,879.95,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:381,ACC:209,DEPOSITS,2024-12-01T00:00:00,4536.75,Dividends
+USR:159,ACC:209,DEPOSITS,2024-07-13T00:00:00,558.35,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:445,ACC:210,DEPOSITS,2023-01-11T00:00:00,4557.99,Tax Returns
+USR:308,ACC:210,DEPOSITS,2020-04-16T00:00:00,3434.33,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:444,ACC:211,DEPOSITS,2020-07-12T00:00:00,1861.51,Dividends
+USR:474,ACC:211,DEPOSITS,2023-12-13T00:00:00,2096.43,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:427,ACC:212,DEPOSITS,2021-04-18T00:00:00,4619.5,Tax Returns
+USR:266,ACC:212,DEPOSITS,2021-02-12T00:00:00,1725.78,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:14,ACC:213,DEPOSITS,2024-08-26T00:00:00,4950.0,Tax Returns
+USR:146,ACC:213,DEPOSITS,2020-11-27T00:00:00,744.71,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:66,ACC:214,DEPOSITS,2023-01-21T00:00:00,1356.17,Cash Deposits
+USR:407,ACC:214,DEPOSITS,2025-12-18T00:00:00,785.9,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:286,ACC:215,DEPOSITS,2025-05-31T00:00:00,2529.39,Tax Returns
+USR:444,ACC:215,DEPOSITS,2024-10-14T00:00:00,4393.49,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:337,ACC:216,DEPOSITS,2025-08-30T00:00:00,3174.27,Cash Deposits
+USR:288,ACC:216,DEPOSITS,2025-03-01T00:00:00,4699.7,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:370,ACC:217,DEPOSITS,2021-04-03T00:00:00,1099.69,Dividends
+USR:528,ACC:217,DEPOSITS,2025-03-19T00:00:00,2133.73,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:520,ACC:218,DEPOSITS,2025-04-30T00:00:00,2754.7,Tax Returns
+USR:107,ACC:218,DEPOSITS,2025-02-06T00:00:00,2344.52,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:181,ACC:219,DEPOSITS,2021-01-25T00:00:00,2628.29,Cash Deposits
+USR:564,ACC:219,DEPOSITS,2024-01-16T00:00:00,2371.78,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:314,ACC:220,DEPOSITS,2022-08-10T00:00:00,2306.86,Tax Returns
+USR:72,ACC:220,DEPOSITS,2022-09-25T00:00:00,840.01,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:474,ACC:221,DEPOSITS,2020-09-17T00:00:00,3259.46,Cash Deposits
+USR:287,ACC:221,DEPOSITS,2021-07-27T00:00:00,2557.55,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:558,ACC:222,DEPOSITS,2025-03-08T00:00:00,1942.63,Cash Deposits
+USR:271,ACC:222,DEPOSITS,2022-09-15T00:00:00,1716.27,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:562,ACC:223,DEPOSITS,2023-04-10T00:00:00,4704.27,Cash Deposits
+USR:134,ACC:223,DEPOSITS,2023-04-16T00:00:00,4200.69,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:559,ACC:224,DEPOSITS,2023-02-10T00:00:00,4438.59,Dividends
+USR:436,ACC:224,DEPOSITS,2022-03-09T00:00:00,4066.11,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:41,ACC:225,DEPOSITS,2025-09-05T00:00:00,3529.91,Cash Deposits
+USR:199,ACC:225,DEPOSITS,2024-09-12T00:00:00,3332.82,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:327,ACC:226,DEPOSITS,2021-12-21T00:00:00,4727.17,Dividends
+USR:412,ACC:226,DEPOSITS,2020-02-04T00:00:00,4958.31,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:57,ACC:227,DEPOSITS,2023-02-19T00:00:00,4230.76,Dividends
+USR:51,ACC:227,DEPOSITS,2022-11-15T00:00:00,3134.14,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:209,ACC:228,DEPOSITS,2023-05-05T00:00:00,1447.59,Tax Returns
+USR:568,ACC:228,DEPOSITS,2023-07-07T00:00:00,2253.86,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:238,ACC:229,DEPOSITS,2024-07-22T00:00:00,4238.32,Tax Returns
+USR:520,ACC:229,DEPOSITS,2022-06-06T00:00:00,248.5,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:418,ACC:230,DEPOSITS,2025-05-16T00:00:00,2813.31,Dividends
+USR:256,ACC:230,DEPOSITS,2023-05-08T00:00:00,3386.1,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:137,ACC:231,DEPOSITS,2021-08-20T00:00:00,3766.53,Cash Deposits
+USR:425,ACC:231,DEPOSITS,2023-02-01T00:00:00,3039.71,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:580,ACC:232,DEPOSITS,2024-09-19T00:00:00,2534.74,Cash Deposits
+USR:51,ACC:232,DEPOSITS,2020-06-18T00:00:00,1319.36,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:209,ACC:233,DEPOSITS,2025-11-29T00:00:00,4459.51,Cash Deposits
+USR:536,ACC:233,DEPOSITS,2025-05-18T00:00:00,4797.47,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:254,ACC:234,DEPOSITS,2024-11-20T00:00:00,3417.54,Tax Returns
+USR:179,ACC:234,DEPOSITS,2022-05-22T00:00:00,3957.15,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:453,ACC:235,DEPOSITS,2020-08-04T00:00:00,2545.63,Tax Returns
+USR:5,ACC:235,DEPOSITS,2025-04-21T00:00:00,881.82,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:210,ACC:236,DEPOSITS,2025-06-09T00:00:00,2186.57,Dividends
+USR:426,ACC:236,DEPOSITS,2023-02-02T00:00:00,3737.86,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:183,ACC:237,DEPOSITS,2024-05-07T00:00:00,4287.31,Tax Returns
+USR:483,ACC:237,DEPOSITS,2025-02-02T00:00:00,223.84,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:599,ACC:238,DEPOSITS,2024-07-27T00:00:00,2688.51,Cash Deposits
+USR:90,ACC:238,DEPOSITS,2024-01-05T00:00:00,2461.28,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:425,ACC:239,DEPOSITS,2020-03-24T00:00:00,4554.8,Tax Returns
+USR:438,ACC:239,DEPOSITS,2023-12-27T00:00:00,3909.29,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:186,ACC:240,DEPOSITS,2022-12-15T00:00:00,3026.75,Cash Deposits
+USR:194,ACC:240,DEPOSITS,2025-11-26T00:00:00,2941.19,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:516,ACC:241,DEPOSITS,2025-03-01T00:00:00,1444.16,Cash Deposits
+USR:208,ACC:241,DEPOSITS,2020-06-21T00:00:00,2821.0,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:413,ACC:242,DEPOSITS,2024-01-28T00:00:00,3169.22,Tax Returns
+USR:523,ACC:242,DEPOSITS,2024-09-07T00:00:00,3409.6,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:110,ACC:243,DEPOSITS,2025-11-13T00:00:00,3560.55,Dividends
+USR:285,ACC:243,DEPOSITS,2022-02-07T00:00:00,1816.1,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:322,ACC:244,DEPOSITS,2025-03-13T00:00:00,4014.18,Dividends
+USR:532,ACC:244,DEPOSITS,2023-06-20T00:00:00,1874.33,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:354,ACC:245,DEPOSITS,2022-12-08T00:00:00,2531.87,Cash Deposits
+USR:599,ACC:245,DEPOSITS,2021-01-19T00:00:00,1455.59,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:84,ACC:246,DEPOSITS,2020-02-05T00:00:00,412.45,Cash Deposits
+USR:270,ACC:246,DEPOSITS,2022-07-04T00:00:00,2391.31,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:230,ACC:247,DEPOSITS,2022-07-31T00:00:00,2882.43,Cash Deposits
+USR:184,ACC:247,DEPOSITS,2020-12-18T00:00:00,4414.78,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:95,ACC:248,DEPOSITS,2024-10-30T00:00:00,2014.73,Tax Returns
+USR:73,ACC:248,DEPOSITS,2025-03-11T00:00:00,2676.29,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:208,ACC:249,DEPOSITS,2024-08-15T00:00:00,1989.56,Cash Deposits
+USR:168,ACC:249,DEPOSITS,2023-10-01T00:00:00,4513.98,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:314,ACC:250,DEPOSITS,2023-04-27T00:00:00,2533.76,Tax Returns
+USR:275,ACC:250,DEPOSITS,2020-02-09T00:00:00,2718.87,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:508,ACC:251,DEPOSITS,2025-02-24T00:00:00,1154.45,Cash Deposits
+USR:23,ACC:251,DEPOSITS,2021-10-26T00:00:00,3564.58,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:233,ACC:252,DEPOSITS,2023-10-22T00:00:00,1120.74,Tax Returns
+USR:224,ACC:252,DEPOSITS,2022-10-13T00:00:00,2447.16,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:134,ACC:253,DEPOSITS,2023-02-24T00:00:00,1111.45,Dividends
+USR:574,ACC:253,DEPOSITS,2023-12-12T00:00:00,1116.33,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:529,ACC:254,DEPOSITS,2021-12-20T00:00:00,4382.55,Tax Returns
+USR:231,ACC:254,DEPOSITS,2024-09-23T00:00:00,4185.82,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:285,ACC:255,DEPOSITS,2024-09-29T00:00:00,1790.68,Cash Deposits
+USR:543,ACC:255,DEPOSITS,2025-08-08T00:00:00,519.45,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:395,ACC:256,DEPOSITS,2025-04-11T00:00:00,1368.26,Tax Returns
+USR:475,ACC:256,DEPOSITS,2024-11-17T00:00:00,4472.47,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:34,ACC:257,DEPOSITS,2020-02-10T00:00:00,3949.83,Cash Deposits
+USR:448,ACC:257,DEPOSITS,2021-10-13T00:00:00,2319.38,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:96,ACC:258,DEPOSITS,2023-02-21T00:00:00,1683.71,Tax Returns
+USR:434,ACC:258,DEPOSITS,2020-11-29T00:00:00,1990.8,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:513,ACC:259,DEPOSITS,2025-04-29T00:00:00,3904.47,Cash Deposits
+USR:253,ACC:259,DEPOSITS,2024-06-05T00:00:00,158.58,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:301,ACC:260,DEPOSITS,2020-05-15T00:00:00,1972.47,Tax Returns
+USR:228,ACC:260,DEPOSITS,2021-10-03T00:00:00,2622.21,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:569,ACC:261,DEPOSITS,2021-12-05T00:00:00,4611.56,Tax Returns
+USR:528,ACC:261,DEPOSITS,2020-11-09T00:00:00,1033.07,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:252,ACC:262,DEPOSITS,2025-08-01T00:00:00,4214.59,Tax Returns
+USR:202,ACC:262,DEPOSITS,2021-10-05T00:00:00,3648.19,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:475,ACC:263,DEPOSITS,2020-12-24T00:00:00,2411.52,Dividends
+USR:227,ACC:263,DEPOSITS,2024-05-05T00:00:00,2151.18,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:241,ACC:264,DEPOSITS,2021-03-04T00:00:00,2643.7,Cash Deposits
+USR:330,ACC:264,DEPOSITS,2020-09-28T00:00:00,256.43,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:563,ACC:265,DEPOSITS,2022-05-27T00:00:00,4814.23,Cash Deposits
+USR:467,ACC:265,DEPOSITS,2022-08-09T00:00:00,4935.26,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:535,ACC:266,DEPOSITS,2020-06-01T00:00:00,3499.09,Dividends
+USR:550,ACC:266,DEPOSITS,2025-10-22T00:00:00,2175.25,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:113,ACC:267,DEPOSITS,2025-01-02T00:00:00,1998.67,Cash Deposits
+USR:476,ACC:267,DEPOSITS,2023-06-17T00:00:00,3872.85,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:475,ACC:268,DEPOSITS,2021-06-13T00:00:00,4125.53,Dividends
+USR:7,ACC:268,DEPOSITS,2020-02-04T00:00:00,909.71,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:23,ACC:269,DEPOSITS,2020-01-28T00:00:00,2624.51,Tax Returns
+USR:570,ACC:269,DEPOSITS,2022-05-27T00:00:00,371.23,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:22,ACC:270,DEPOSITS,2022-06-02T00:00:00,4131.94,Dividends
+USR:12,ACC:270,DEPOSITS,2024-04-05T00:00:00,3480.71,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:460,ACC:271,DEPOSITS,2025-01-14T00:00:00,2485.78,Dividends
+USR:336,ACC:271,DEPOSITS,2020-11-21T00:00:00,3652.4,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:4,ACC:272,DEPOSITS,2022-11-12T00:00:00,4359.63,Cash Deposits
+USR:457,ACC:272,DEPOSITS,2024-08-01T00:00:00,4046.69,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:436,ACC:273,DEPOSITS,2022-03-22T00:00:00,765.24,Dividends
+USR:505,ACC:273,DEPOSITS,2023-01-05T00:00:00,3374.36,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:162,ACC:274,DEPOSITS,2025-11-28T00:00:00,1557.88,Cash Deposits
+USR:368,ACC:274,DEPOSITS,2024-12-17T00:00:00,788.03,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:211,ACC:275,DEPOSITS,2022-10-13T00:00:00,1348.09,Cash Deposits
+USR:138,ACC:275,DEPOSITS,2021-09-17T00:00:00,4594.6,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:554,ACC:276,DEPOSITS,2021-12-26T00:00:00,1382.1,Cash Deposits
+USR:458,ACC:276,DEPOSITS,2024-01-30T00:00:00,3483.98,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:387,ACC:277,DEPOSITS,2025-06-05T00:00:00,3527.54,Dividends
+USR:220,ACC:277,DEPOSITS,2020-08-07T00:00:00,3852.21,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:333,ACC:278,DEPOSITS,2021-03-02T00:00:00,3443.34,Dividends
+USR:148,ACC:278,DEPOSITS,2025-03-17T00:00:00,878.7,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:271,ACC:279,DEPOSITS,2022-03-26T00:00:00,2396.52,Tax Returns
+USR:503,ACC:279,DEPOSITS,2025-02-08T00:00:00,3693.7,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:389,ACC:280,DEPOSITS,2022-07-12T00:00:00,800.22,Cash Deposits
+USR:19,ACC:280,DEPOSITS,2020-12-04T00:00:00,1813.59,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:320,ACC:281,DEPOSITS,2024-12-23T00:00:00,1358.77,Cash Deposits
+USR:135,ACC:281,DEPOSITS,2025-09-28T00:00:00,4009.69,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:388,ACC:282,DEPOSITS,2024-08-04T00:00:00,516.06,Cash Deposits
+USR:541,ACC:282,DEPOSITS,2025-07-23T00:00:00,3098.81,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:595,ACC:283,DEPOSITS,2024-04-08T00:00:00,1943.6,Cash Deposits
+USR:93,ACC:283,DEPOSITS,2023-10-10T00:00:00,2409.23,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:513,ACC:284,DEPOSITS,2021-02-08T00:00:00,4690.34,Cash Deposits
+USR:68,ACC:284,DEPOSITS,2023-12-17T00:00:00,3580.92,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:189,ACC:285,DEPOSITS,2020-10-19T00:00:00,867.97,Tax Returns
+USR:370,ACC:285,DEPOSITS,2022-07-28T00:00:00,308.27,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:354,ACC:286,DEPOSITS,2021-04-03T00:00:00,3232.62,Cash Deposits
+USR:109,ACC:286,DEPOSITS,2023-05-17T00:00:00,1033.89,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:220,ACC:287,DEPOSITS,2023-05-28T00:00:00,2728.91,Dividends
+USR:51,ACC:287,DEPOSITS,2020-06-29T00:00:00,755.84,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:8,ACC:288,DEPOSITS,2024-09-03T00:00:00,2229.55,Dividends
+USR:115,ACC:288,DEPOSITS,2025-06-16T00:00:00,2491.05,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:143,ACC:289,DEPOSITS,2020-05-24T00:00:00,391.74,Cash Deposits
+USR:210,ACC:289,DEPOSITS,2021-06-15T00:00:00,3885.84,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:42,ACC:290,DEPOSITS,2023-08-01T00:00:00,1423.36,Tax Returns
+USR:262,ACC:290,DEPOSITS,2025-02-09T00:00:00,4564.45,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:17,ACC:291,DEPOSITS,2021-02-01T00:00:00,2181.26,Cash Deposits
+USR:102,ACC:291,DEPOSITS,2022-01-22T00:00:00,296.63,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:202,ACC:292,DEPOSITS,2020-06-01T00:00:00,2978.67,Tax Returns
+USR:50,ACC:292,DEPOSITS,2024-04-24T00:00:00,2545.66,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:96,ACC:293,DEPOSITS,2022-07-07T00:00:00,4918.68,Cash Deposits
+USR:13,ACC:293,DEPOSITS,2021-07-15T00:00:00,2329.15,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:134,ACC:294,DEPOSITS,2020-09-13T00:00:00,3664.38,Tax Returns
+USR:111,ACC:294,DEPOSITS,2020-08-02T00:00:00,1725.31,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:584,ACC:295,DEPOSITS,2021-09-29T00:00:00,1051.13,Tax Returns
+USR:565,ACC:295,DEPOSITS,2020-05-03T00:00:00,1369.22,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:432,ACC:296,DEPOSITS,2021-06-18T00:00:00,3885.95,Dividends
+USR:542,ACC:296,DEPOSITS,2020-12-20T00:00:00,738.88,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:581,ACC:297,DEPOSITS,2023-05-14T00:00:00,3483.16,Cash Deposits
+USR:518,ACC:297,DEPOSITS,2024-11-15T00:00:00,4919.51,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:380,ACC:298,DEPOSITS,2020-01-20T00:00:00,116.75,Tax Returns
+USR:110,ACC:298,DEPOSITS,2024-02-23T00:00:00,507.0,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:108,ACC:299,DEPOSITS,2024-08-24T00:00:00,3262.1,Cash Deposits
+USR:348,ACC:299,DEPOSITS,2021-06-18T00:00:00,1038.37,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:72,ACC:300,DEPOSITS,2020-09-20T00:00:00,4270.55,Tax Returns
+USR:55,ACC:300,DEPOSITS,2022-06-15T00:00:00,2168.84,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:281,ACC:301,DEPOSITS,2021-01-25T00:00:00,3263.53,Dividends
+USR:422,ACC:301,DEPOSITS,2023-03-21T00:00:00,3888.89,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:444,ACC:302,DEPOSITS,2021-07-26T00:00:00,2912.4,Dividends
+USR:121,ACC:302,DEPOSITS,2023-10-08T00:00:00,2707.38,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:375,ACC:303,DEPOSITS,2020-07-08T00:00:00,2766.7,Tax Returns
+USR:327,ACC:303,DEPOSITS,2021-07-07T00:00:00,4366.22,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:376,ACC:304,DEPOSITS,2020-07-20T00:00:00,4816.54,Cash Deposits
+USR:67,ACC:304,DEPOSITS,2024-04-20T00:00:00,3943.09,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:584,ACC:305,DEPOSITS,2021-06-06T00:00:00,3800.53,Cash Deposits
+USR:329,ACC:305,DEPOSITS,2023-01-02T00:00:00,4733.97,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:118,ACC:306,DEPOSITS,2021-05-09T00:00:00,1119.79,Tax Returns
+USR:202,ACC:306,DEPOSITS,2022-04-17T00:00:00,144.52,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:81,ACC:307,DEPOSITS,2023-05-05T00:00:00,284.04,Cash Deposits
+USR:241,ACC:307,DEPOSITS,2020-07-23T00:00:00,2002.88,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:188,ACC:308,DEPOSITS,2024-08-15T00:00:00,4706.98,Tax Returns
+USR:302,ACC:308,DEPOSITS,2020-09-03T00:00:00,695.15,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:580,ACC:309,DEPOSITS,2023-12-17T00:00:00,4182.92,Dividends
+USR:160,ACC:309,DEPOSITS,2025-01-01T00:00:00,2049.87,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:442,ACC:310,DEPOSITS,2024-03-01T00:00:00,4661.65,Cash Deposits
+USR:320,ACC:310,DEPOSITS,2023-05-24T00:00:00,1601.82,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:20,ACC:311,DEPOSITS,2025-04-06T00:00:00,3521.05,Tax Returns
+USR:159,ACC:311,DEPOSITS,2022-02-20T00:00:00,3260.29,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:499,ACC:312,DEPOSITS,2022-05-06T00:00:00,2868.52,Dividends
+USR:398,ACC:312,DEPOSITS,2024-07-22T00:00:00,2292.46,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:114,ACC:313,DEPOSITS,2022-09-02T00:00:00,1621.06,Tax Returns
+USR:329,ACC:313,DEPOSITS,2025-04-24T00:00:00,1890.51,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:527,ACC:314,DEPOSITS,2021-07-12T00:00:00,3345.86,Cash Deposits
+USR:319,ACC:314,DEPOSITS,2022-05-28T00:00:00,1425.63,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:356,ACC:315,DEPOSITS,2022-01-19T00:00:00,3332.16,Dividends
+USR:462,ACC:315,DEPOSITS,2024-09-04T00:00:00,1634.98,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:436,ACC:316,DEPOSITS,2024-10-03T00:00:00,2944.59,Dividends
+USR:386,ACC:316,DEPOSITS,2025-06-22T00:00:00,2148.31,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:131,ACC:317,DEPOSITS,2022-05-08T00:00:00,4369.64,Cash Deposits
+USR:304,ACC:317,DEPOSITS,2024-05-14T00:00:00,1612.71,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:545,ACC:318,DEPOSITS,2024-03-29T00:00:00,4616.8,Dividends
+USR:420,ACC:318,DEPOSITS,2024-05-01T00:00:00,4845.98,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:236,ACC:319,DEPOSITS,2020-10-29T00:00:00,2327.39,Cash Deposits
+USR:92,ACC:319,DEPOSITS,2020-12-04T00:00:00,2266.38,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:288,ACC:320,DEPOSITS,2024-12-11T00:00:00,3558.46,Tax Returns
+USR:166,ACC:320,DEPOSITS,2025-03-18T00:00:00,4923.07,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:108,ACC:321,DEPOSITS,2025-06-28T00:00:00,3583.4,Dividends
+USR:26,ACC:321,DEPOSITS,2022-02-18T00:00:00,2877.19,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:389,ACC:322,DEPOSITS,2024-11-20T00:00:00,575.95,Dividends
+USR:113,ACC:322,DEPOSITS,2022-09-29T00:00:00,2250.12,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:29,ACC:323,DEPOSITS,2024-08-04T00:00:00,1347.89,Cash Deposits
+USR:259,ACC:323,DEPOSITS,2023-05-16T00:00:00,4809.27,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:529,ACC:324,DEPOSITS,2024-05-21T00:00:00,2103.17,Dividends
+USR:112,ACC:324,DEPOSITS,2025-02-03T00:00:00,3308.37,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:589,ACC:325,DEPOSITS,2021-02-04T00:00:00,2772.23,Dividends
+USR:64,ACC:325,DEPOSITS,2020-04-10T00:00:00,1769.69,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:563,ACC:326,DEPOSITS,2025-06-04T00:00:00,3581.75,Cash Deposits
+USR:234,ACC:326,DEPOSITS,2021-04-06T00:00:00,3730.88,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:472,ACC:327,DEPOSITS,2023-10-09T00:00:00,1981.53,Cash Deposits
+USR:557,ACC:327,DEPOSITS,2020-08-29T00:00:00,3869.21,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:401,ACC:328,DEPOSITS,2024-07-08T00:00:00,941.22,Tax Returns
+USR:9,ACC:328,DEPOSITS,2020-12-20T00:00:00,1874.33,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:204,ACC:329,DEPOSITS,2022-08-17T00:00:00,4616.25,Dividends
+USR:142,ACC:329,DEPOSITS,2024-05-29T00:00:00,4215.12,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:562,ACC:330,DEPOSITS,2025-01-18T00:00:00,779.73,Tax Returns
+USR:405,ACC:330,DEPOSITS,2024-03-13T00:00:00,2646.73,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:510,ACC:331,DEPOSITS,2025-12-05T00:00:00,2636.46,Cash Deposits
+USR:161,ACC:331,DEPOSITS,2025-12-25T00:00:00,2107.28,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:166,ACC:332,DEPOSITS,2020-12-01T00:00:00,3814.56,Cash Deposits
+USR:51,ACC:332,DEPOSITS,2025-09-24T00:00:00,1305.1,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:118,ACC:333,DEPOSITS,2025-02-12T00:00:00,1256.56,Tax Returns
+USR:168,ACC:333,DEPOSITS,2024-10-19T00:00:00,502.98,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:64,ACC:334,DEPOSITS,2024-07-15T00:00:00,693.58,Cash Deposits
+USR:243,ACC:334,DEPOSITS,2025-09-03T00:00:00,1645.08,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:454,ACC:335,DEPOSITS,2025-02-19T00:00:00,3880.24,Tax Returns
+USR:303,ACC:335,DEPOSITS,2024-08-25T00:00:00,685.21,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:499,ACC:336,DEPOSITS,2024-04-29T00:00:00,4209.29,Dividends
+USR:348,ACC:336,DEPOSITS,2024-12-22T00:00:00,2552.92,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:193,ACC:337,DEPOSITS,2023-08-26T00:00:00,1066.31,Cash Deposits
+USR:330,ACC:337,DEPOSITS,2024-10-02T00:00:00,747.01,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:326,ACC:338,DEPOSITS,2024-08-06T00:00:00,1558.67,Dividends
+USR:249,ACC:338,DEPOSITS,2023-11-17T00:00:00,2510.74,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:282,ACC:339,DEPOSITS,2021-10-12T00:00:00,584.19,Tax Returns
+USR:293,ACC:339,DEPOSITS,2024-07-14T00:00:00,4492.74,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:421,ACC:340,DEPOSITS,2020-04-19T00:00:00,4818.3,Cash Deposits
+USR:471,ACC:340,DEPOSITS,2023-09-20T00:00:00,3349.44,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:154,ACC:341,DEPOSITS,2021-06-23T00:00:00,3531.59,Dividends
+USR:135,ACC:341,DEPOSITS,2023-12-13T00:00:00,4983.41,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:209,ACC:342,DEPOSITS,2020-11-07T00:00:00,3442.26,Dividends
+USR:572,ACC:342,DEPOSITS,2024-10-11T00:00:00,116.89,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:168,ACC:343,DEPOSITS,2025-07-01T00:00:00,776.64,Cash Deposits
+USR:311,ACC:343,DEPOSITS,2025-12-19T00:00:00,2150.4,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:244,ACC:344,DEPOSITS,2024-10-15T00:00:00,719.57,Cash Deposits
+USR:416,ACC:344,DEPOSITS,2022-12-08T00:00:00,439.36,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:169,ACC:345,DEPOSITS,2025-12-08T00:00:00,4624.05,Tax Returns
+USR:50,ACC:345,DEPOSITS,2025-09-29T00:00:00,3538.46,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:42,ACC:346,DEPOSITS,2023-11-26T00:00:00,1042.11,Tax Returns
+USR:437,ACC:346,DEPOSITS,2020-11-05T00:00:00,3686.24,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:228,ACC:347,DEPOSITS,2020-10-15T00:00:00,3540.61,Tax Returns
+USR:305,ACC:347,DEPOSITS,2023-07-29T00:00:00,3348.46,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:583,ACC:348,DEPOSITS,2025-09-29T00:00:00,4505.9,Dividends
+USR:97,ACC:348,DEPOSITS,2020-02-18T00:00:00,2358.23,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:321,ACC:349,DEPOSITS,2020-11-11T00:00:00,2816.01,Cash Deposits
+USR:26,ACC:349,DEPOSITS,2021-05-09T00:00:00,2637.24,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:61,ACC:350,DEPOSITS,2024-04-26T00:00:00,1493.18,Dividends
+USR:385,ACC:350,DEPOSITS,2025-07-19T00:00:00,1639.23,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:396,ACC:351,DEPOSITS,2020-01-09T00:00:00,3467.36,Tax Returns
+USR:257,ACC:351,DEPOSITS,2022-05-18T00:00:00,1450.45,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:409,ACC:352,DEPOSITS,2022-10-03T00:00:00,4492.72,Tax Returns
+USR:427,ACC:352,DEPOSITS,2021-10-07T00:00:00,2592.29,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:411,ACC:353,DEPOSITS,2021-06-10T00:00:00,1691.19,Tax Returns
+USR:517,ACC:353,DEPOSITS,2022-12-08T00:00:00,4715.53,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:110,ACC:354,DEPOSITS,2025-03-15T00:00:00,2708.22,Tax Returns
+USR:279,ACC:354,DEPOSITS,2023-10-01T00:00:00,3855.79,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:200,ACC:355,DEPOSITS,2020-06-28T00:00:00,4288.84,Cash Deposits
+USR:126,ACC:355,DEPOSITS,2020-12-16T00:00:00,1293.14,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:27,ACC:356,DEPOSITS,2020-05-02T00:00:00,232.41,Cash Deposits
+USR:99,ACC:356,DEPOSITS,2022-01-05T00:00:00,468.19,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:538,ACC:357,DEPOSITS,2023-10-19T00:00:00,1277.08,Dividends
+USR:333,ACC:357,DEPOSITS,2025-01-26T00:00:00,3284.62,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:506,ACC:358,DEPOSITS,2021-11-07T00:00:00,4013.77,Tax Returns
+USR:253,ACC:358,DEPOSITS,2021-08-23T00:00:00,2005.07,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:19,ACC:359,DEPOSITS,2021-11-01T00:00:00,210.83,Cash Deposits
+USR:81,ACC:359,DEPOSITS,2022-02-18T00:00:00,2068.33,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:257,ACC:360,DEPOSITS,2024-02-03T00:00:00,2025.51,Tax Returns
+USR:50,ACC:360,DEPOSITS,2024-06-07T00:00:00,2324.57,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:270,ACC:361,DEPOSITS,2022-07-29T00:00:00,2350.35,Tax Returns
+USR:267,ACC:361,DEPOSITS,2021-12-15T00:00:00,2942.8,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:555,ACC:362,DEPOSITS,2021-11-12T00:00:00,4250.06,Tax Returns
+USR:299,ACC:362,DEPOSITS,2021-06-21T00:00:00,3857.06,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:503,ACC:363,DEPOSITS,2024-09-23T00:00:00,3708.66,Dividends
+USR:445,ACC:363,DEPOSITS,2020-07-31T00:00:00,1809.88,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:168,ACC:364,DEPOSITS,2025-05-24T00:00:00,2276.89,Cash Deposits
+USR:223,ACC:364,DEPOSITS,2024-06-01T00:00:00,694.55,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:58,ACC:365,DEPOSITS,2020-02-13T00:00:00,954.89,Tax Returns
+USR:374,ACC:365,DEPOSITS,2020-04-05T00:00:00,2148.98,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:123,ACC:366,DEPOSITS,2025-08-24T00:00:00,3446.76,Tax Returns
+USR:518,ACC:366,DEPOSITS,2025-05-11T00:00:00,1613.84,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:422,ACC:367,DEPOSITS,2024-07-20T00:00:00,2613.56,Cash Deposits
+USR:390,ACC:367,DEPOSITS,2020-12-12T00:00:00,693.59,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:572,ACC:368,DEPOSITS,2020-09-22T00:00:00,1624.08,Dividends
+USR:319,ACC:368,DEPOSITS,2023-07-14T00:00:00,4740.92,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:258,ACC:369,DEPOSITS,2022-12-16T00:00:00,585.32,Cash Deposits
+USR:314,ACC:369,DEPOSITS,2025-12-14T00:00:00,788.69,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:568,ACC:370,DEPOSITS,2025-02-06T00:00:00,2242.17,Dividends
+USR:442,ACC:370,DEPOSITS,2023-05-01T00:00:00,2976.88,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:511,ACC:371,DEPOSITS,2022-02-10T00:00:00,2109.79,Cash Deposits
+USR:132,ACC:371,DEPOSITS,2021-09-21T00:00:00,1451.9,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:402,ACC:372,DEPOSITS,2022-07-03T00:00:00,624.57,Tax Returns
+USR:129,ACC:372,DEPOSITS,2022-05-15T00:00:00,1734.08,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:393,ACC:373,DEPOSITS,2023-08-31T00:00:00,4573.65,Dividends
+USR:379,ACC:373,DEPOSITS,2023-10-01T00:00:00,2188.08,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:449,ACC:374,DEPOSITS,2023-08-23T00:00:00,4591.79,Cash Deposits
+USR:505,ACC:374,DEPOSITS,2023-06-10T00:00:00,4710.67,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:413,ACC:375,DEPOSITS,2022-11-26T00:00:00,762.59,Cash Deposits
+USR:536,ACC:375,DEPOSITS,2024-12-22T00:00:00,4819.43,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:488,ACC:376,DEPOSITS,2021-10-18T00:00:00,2943.87,Cash Deposits
+USR:525,ACC:376,DEPOSITS,2025-10-28T00:00:00,1631.74,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:186,ACC:377,DEPOSITS,2023-12-12T00:00:00,1803.22,Tax Returns
+USR:553,ACC:377,DEPOSITS,2025-09-30T00:00:00,2894.01,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:165,ACC:378,DEPOSITS,2025-08-09T00:00:00,3153.09,Cash Deposits
+USR:169,ACC:378,DEPOSITS,2024-09-22T00:00:00,3709.18,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:271,ACC:379,DEPOSITS,2025-04-30T00:00:00,2146.0,Tax Returns
+USR:283,ACC:379,DEPOSITS,2025-07-31T00:00:00,4064.26,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:35,ACC:380,DEPOSITS,2021-09-28T00:00:00,1034.32,Tax Returns
+USR:345,ACC:380,DEPOSITS,2022-05-14T00:00:00,3956.48,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:333,ACC:381,DEPOSITS,2020-02-18T00:00:00,816.47,Cash Deposits
+USR:479,ACC:381,DEPOSITS,2020-09-05T00:00:00,4986.91,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:522,ACC:382,DEPOSITS,2024-02-07T00:00:00,378.31,Tax Returns
+USR:554,ACC:382,DEPOSITS,2025-10-21T00:00:00,2556.5,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:558,ACC:383,DEPOSITS,2025-03-16T00:00:00,2687.37,Cash Deposits
+USR:215,ACC:383,DEPOSITS,2024-11-20T00:00:00,2833.89,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:338,ACC:384,DEPOSITS,2022-05-20T00:00:00,2591.38,Tax Returns
+USR:502,ACC:384,DEPOSITS,2020-10-28T00:00:00,4329.98,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:82,ACC:385,DEPOSITS,2020-09-20T00:00:00,241.91,Dividends
+USR:350,ACC:385,DEPOSITS,2025-06-25T00:00:00,4407.62,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:310,ACC:386,DEPOSITS,2021-01-23T00:00:00,4209.76,Tax Returns
+USR:130,ACC:386,DEPOSITS,2023-03-23T00:00:00,2239.58,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:205,ACC:387,DEPOSITS,2021-04-17T00:00:00,1134.63,Cash Deposits
+USR:334,ACC:387,DEPOSITS,2025-11-05T00:00:00,1350.28,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:146,ACC:388,DEPOSITS,2024-09-17T00:00:00,3203.14,Dividends
+USR:274,ACC:388,DEPOSITS,2022-10-01T00:00:00,4070.42,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:19,ACC:389,DEPOSITS,2023-09-05T00:00:00,2614.64,Cash Deposits
+USR:300,ACC:389,DEPOSITS,2020-12-19T00:00:00,4813.03,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:575,ACC:390,DEPOSITS,2023-06-20T00:00:00,3125.72,Cash Deposits
+USR:402,ACC:390,DEPOSITS,2020-03-05T00:00:00,2813.79,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:406,ACC:391,DEPOSITS,2023-02-21T00:00:00,4539.89,Cash Deposits
+USR:172,ACC:391,DEPOSITS,2025-10-10T00:00:00,470.63,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:514,ACC:392,DEPOSITS,2022-03-12T00:00:00,269.15,Dividends
+USR:408,ACC:392,DEPOSITS,2025-01-12T00:00:00,195.68,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:112,ACC:393,DEPOSITS,2025-08-21T00:00:00,2587.23,Dividends
+USR:152,ACC:393,DEPOSITS,2021-10-10T00:00:00,626.61,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:172,ACC:394,DEPOSITS,2025-10-18T00:00:00,1349.79,Tax Returns
+USR:593,ACC:394,DEPOSITS,2023-10-26T00:00:00,1808.19,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:192,ACC:395,DEPOSITS,2021-01-15T00:00:00,2664.31,Cash Deposits
+USR:411,ACC:395,DEPOSITS,2024-01-24T00:00:00,2384.75,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:98,ACC:396,DEPOSITS,2022-04-16T00:00:00,2143.22,Tax Returns
+USR:503,ACC:396,DEPOSITS,2021-02-19T00:00:00,4354.87,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:44,ACC:397,DEPOSITS,2020-09-17T00:00:00,3503.07,Dividends
+USR:119,ACC:397,DEPOSITS,2020-05-01T00:00:00,4773.85,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:354,ACC:398,DEPOSITS,2022-05-21T00:00:00,3060.16,Tax Returns
+USR:313,ACC:398,DEPOSITS,2021-02-07T00:00:00,753.21,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:458,ACC:399,DEPOSITS,2024-07-12T00:00:00,807.16,Cash Deposits
+USR:316,ACC:399,DEPOSITS,2022-12-22T00:00:00,3225.1,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:163,ACC:400,DEPOSITS,2024-12-25T00:00:00,3086.03,Tax Returns
+USR:149,ACC:400,DEPOSITS,2023-12-15T00:00:00,3672.74,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:33,ACC:401,DEPOSITS,2025-08-14T00:00:00,1544.11,Dividends
+USR:420,ACC:401,DEPOSITS,2022-06-27T00:00:00,2717.99,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:31,ACC:402,DEPOSITS,2023-02-12T00:00:00,235.31,Cash Deposits
+USR:170,ACC:402,DEPOSITS,2020-07-05T00:00:00,932.32,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:268,ACC:403,DEPOSITS,2020-12-03T00:00:00,4602.97,Dividends
+USR:561,ACC:403,DEPOSITS,2020-04-07T00:00:00,4622.07,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:555,ACC:404,DEPOSITS,2020-12-24T00:00:00,1482.39,Tax Returns
+USR:191,ACC:404,DEPOSITS,2020-10-01T00:00:00,3135.34,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:311,ACC:405,DEPOSITS,2021-11-21T00:00:00,1956.06,Tax Returns
+USR:113,ACC:405,DEPOSITS,2020-09-29T00:00:00,359.56,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:537,ACC:406,DEPOSITS,2021-05-03T00:00:00,4393.85,Tax Returns
+USR:591,ACC:406,DEPOSITS,2023-05-01T00:00:00,4079.56,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:594,ACC:407,DEPOSITS,2023-10-23T00:00:00,1706.73,Dividends
+USR:568,ACC:407,DEPOSITS,2022-12-22T00:00:00,4588.97,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:221,ACC:408,DEPOSITS,2022-11-15T00:00:00,3981.66,Cash Deposits
+USR:575,ACC:408,DEPOSITS,2020-05-09T00:00:00,1191.58,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:192,ACC:409,DEPOSITS,2022-10-08T00:00:00,1656.92,Cash Deposits
+USR:30,ACC:409,DEPOSITS,2020-06-02T00:00:00,2752.23,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:327,ACC:410,DEPOSITS,2020-01-20T00:00:00,4082.04,Tax Returns
+USR:596,ACC:410,DEPOSITS,2021-11-04T00:00:00,1360.74,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:179,ACC:411,DEPOSITS,2024-08-13T00:00:00,1442.4,Tax Returns
+USR:477,ACC:411,DEPOSITS,2024-02-21T00:00:00,238.83,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:12,ACC:412,DEPOSITS,2022-06-24T00:00:00,506.84,Cash Deposits
+USR:547,ACC:412,DEPOSITS,2021-12-14T00:00:00,2916.71,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:452,ACC:413,DEPOSITS,2023-05-20T00:00:00,2524.8,Dividends
+USR:583,ACC:413,DEPOSITS,2021-02-23T00:00:00,3733.56,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:477,ACC:414,DEPOSITS,2025-10-14T00:00:00,3817.61,Tax Returns
+USR:80,ACC:414,DEPOSITS,2025-11-25T00:00:00,2445.03,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:235,ACC:415,DEPOSITS,2020-02-03T00:00:00,3906.66,Tax Returns
+USR:194,ACC:415,DEPOSITS,2021-07-31T00:00:00,4145.05,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:299,ACC:416,DEPOSITS,2025-10-22T00:00:00,3741.39,Cash Deposits
+USR:19,ACC:416,DEPOSITS,2023-05-31T00:00:00,414.71,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:162,ACC:417,DEPOSITS,2021-09-08T00:00:00,2304.7,Tax Returns
+USR:491,ACC:417,DEPOSITS,2024-12-25T00:00:00,3897.37,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:218,ACC:418,DEPOSITS,2023-09-16T00:00:00,4844.75,Tax Returns
+USR:402,ACC:418,DEPOSITS,2025-10-04T00:00:00,2527.79,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:293,ACC:419,DEPOSITS,2024-12-17T00:00:00,2546.29,Tax Returns
+USR:376,ACC:419,DEPOSITS,2022-07-09T00:00:00,4007.34,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:226,ACC:420,DEPOSITS,2024-04-19T00:00:00,1604.18,Tax Returns
+USR:103,ACC:420,DEPOSITS,2023-12-09T00:00:00,554.94,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:257,ACC:421,DEPOSITS,2021-11-11T00:00:00,1229.15,Cash Deposits
+USR:503,ACC:421,DEPOSITS,2025-10-28T00:00:00,371.71,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:417,ACC:422,DEPOSITS,2024-11-05T00:00:00,3210.44,Cash Deposits
+USR:517,ACC:422,DEPOSITS,2023-04-06T00:00:00,1275.93,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:183,ACC:423,DEPOSITS,2024-04-09T00:00:00,4232.06,Dividends
+USR:254,ACC:423,DEPOSITS,2022-02-01T00:00:00,3222.35,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:211,ACC:424,DEPOSITS,2021-06-12T00:00:00,435.23,Tax Returns
+USR:381,ACC:424,DEPOSITS,2023-05-17T00:00:00,3453.83,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:388,ACC:425,DEPOSITS,2021-03-20T00:00:00,4282.31,Cash Deposits
+USR:408,ACC:425,DEPOSITS,2021-11-08T00:00:00,4765.12,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:182,ACC:426,DEPOSITS,2020-08-25T00:00:00,1018.89,Cash Deposits
+USR:286,ACC:426,DEPOSITS,2023-04-17T00:00:00,234.6,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:278,ACC:427,DEPOSITS,2025-08-08T00:00:00,4307.17,Cash Deposits
+USR:30,ACC:427,DEPOSITS,2025-08-31T00:00:00,3821.9,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:185,ACC:428,DEPOSITS,2024-08-11T00:00:00,3751.12,Tax Returns
+USR:123,ACC:428,DEPOSITS,2024-09-19T00:00:00,4584.2,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:184,ACC:429,DEPOSITS,2021-11-27T00:00:00,3251.32,Dividends
+USR:19,ACC:429,DEPOSITS,2021-04-30T00:00:00,4642.67,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:310,ACC:430,DEPOSITS,2024-08-27T00:00:00,286.64,Cash Deposits
+USR:270,ACC:430,DEPOSITS,2022-10-03T00:00:00,2616.5,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:163,ACC:431,DEPOSITS,2023-10-08T00:00:00,3598.49,Cash Deposits
+USR:1,ACC:431,DEPOSITS,2025-10-18T00:00:00,1909.89,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:570,ACC:432,DEPOSITS,2024-07-13T00:00:00,708.32,Cash Deposits
+USR:114,ACC:432,DEPOSITS,2020-03-25T00:00:00,398.57,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:182,ACC:433,DEPOSITS,2021-02-07T00:00:00,390.19,Cash Deposits
+USR:381,ACC:433,DEPOSITS,2021-01-18T00:00:00,4127.91,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:195,ACC:434,DEPOSITS,2021-02-08T00:00:00,2992.78,Cash Deposits
+USR:74,ACC:434,DEPOSITS,2025-10-17T00:00:00,4652.37,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:213,ACC:435,DEPOSITS,2024-06-07T00:00:00,596.31,Tax Returns
+USR:594,ACC:435,DEPOSITS,2024-03-21T00:00:00,4072.48,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:339,ACC:436,DEPOSITS,2024-12-05T00:00:00,224.52,Tax Returns
+USR:465,ACC:436,DEPOSITS,2022-10-15T00:00:00,698.46,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:31,ACC:437,DEPOSITS,2020-09-24T00:00:00,751.08,Cash Deposits
+USR:546,ACC:437,DEPOSITS,2020-03-13T00:00:00,1705.15,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:551,ACC:438,DEPOSITS,2020-04-08T00:00:00,4756.98,Tax Returns
+USR:565,ACC:438,DEPOSITS,2022-08-07T00:00:00,3916.76,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:518,ACC:439,DEPOSITS,2021-01-23T00:00:00,4766.45,Tax Returns
+USR:228,ACC:439,DEPOSITS,2022-04-01T00:00:00,2236.71,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:575,ACC:440,DEPOSITS,2023-11-02T00:00:00,4552.8,Cash Deposits
+USR:117,ACC:440,DEPOSITS,2020-08-08T00:00:00,2069.69,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:18,ACC:441,DEPOSITS,2024-07-17T00:00:00,523.16,Cash Deposits
+USR:157,ACC:441,DEPOSITS,2023-05-25T00:00:00,1769.78,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:39,ACC:442,DEPOSITS,2022-04-14T00:00:00,2580.52,Dividends
+USR:248,ACC:442,DEPOSITS,2025-05-29T00:00:00,4046.59,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:525,ACC:443,DEPOSITS,2021-10-02T00:00:00,1413.76,Cash Deposits
+USR:202,ACC:443,DEPOSITS,2022-05-02T00:00:00,2971.98,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:145,ACC:444,DEPOSITS,2024-03-27T00:00:00,3991.36,Cash Deposits
+USR:361,ACC:444,DEPOSITS,2021-08-25T00:00:00,497.99,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:496,ACC:445,DEPOSITS,2025-01-15T00:00:00,3096.79,Cash Deposits
+USR:335,ACC:445,DEPOSITS,2021-03-01T00:00:00,3921.94,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:313,ACC:446,DEPOSITS,2025-07-31T00:00:00,4836.64,Tax Returns
+USR:430,ACC:446,DEPOSITS,2022-03-08T00:00:00,4213.42,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:285,ACC:447,DEPOSITS,2025-04-05T00:00:00,4903.33,Cash Deposits
+USR:503,ACC:447,DEPOSITS,2025-10-10T00:00:00,1847.1,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:23,ACC:448,DEPOSITS,2023-05-16T00:00:00,3548.0,Dividends
+USR:379,ACC:448,DEPOSITS,2025-12-23T00:00:00,392.85,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:342,ACC:449,DEPOSITS,2022-06-19T00:00:00,2879.61,Cash Deposits
+USR:499,ACC:449,DEPOSITS,2025-05-26T00:00:00,4354.69,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:136,ACC:450,DEPOSITS,2023-07-15T00:00:00,4616.51,Tax Returns
+USR:292,ACC:450,DEPOSITS,2024-11-17T00:00:00,3745.33,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:391,ACC:451,DEPOSITS,2025-09-29T00:00:00,4107.1,Cash Deposits
+USR:420,ACC:451,DEPOSITS,2022-09-27T00:00:00,2213.79,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:569,ACC:452,DEPOSITS,2024-02-04T00:00:00,1455.67,Tax Returns
+USR:262,ACC:452,DEPOSITS,2021-03-07T00:00:00,471.94,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:476,ACC:453,DEPOSITS,2023-04-04T00:00:00,369.07,Tax Returns
+USR:357,ACC:453,DEPOSITS,2025-04-04T00:00:00,2822.8,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:9,ACC:454,DEPOSITS,2021-08-10T00:00:00,2107.49,Tax Returns
+USR:398,ACC:454,DEPOSITS,2020-01-22T00:00:00,507.22,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:142,ACC:455,DEPOSITS,2021-09-18T00:00:00,454.27,Cash Deposits
+USR:483,ACC:455,DEPOSITS,2025-07-11T00:00:00,2069.32,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:418,ACC:456,DEPOSITS,2021-10-26T00:00:00,944.12,Tax Returns
+USR:305,ACC:456,DEPOSITS,2022-05-20T00:00:00,1800.4,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:323,ACC:457,DEPOSITS,2025-05-31T00:00:00,547.4,Dividends
+USR:224,ACC:457,DEPOSITS,2021-09-27T00:00:00,4500.31,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:149,ACC:458,DEPOSITS,2021-12-08T00:00:00,1776.75,Dividends
+USR:250,ACC:458,DEPOSITS,2023-07-27T00:00:00,4409.76,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:136,ACC:459,DEPOSITS,2022-01-28T00:00:00,2173.5,Dividends
+USR:162,ACC:459,DEPOSITS,2022-02-02T00:00:00,308.86,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:71,ACC:460,DEPOSITS,2025-01-02T00:00:00,4778.17,Cash Deposits
+USR:149,ACC:460,DEPOSITS,2023-10-24T00:00:00,2326.03,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:527,ACC:461,DEPOSITS,2020-07-11T00:00:00,1331.58,Tax Returns
+USR:72,ACC:461,DEPOSITS,2024-06-11T00:00:00,1220.51,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:195,ACC:462,DEPOSITS,2020-09-18T00:00:00,4914.07,Cash Deposits
+USR:65,ACC:462,DEPOSITS,2022-02-21T00:00:00,4970.68,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:98,ACC:463,DEPOSITS,2021-03-30T00:00:00,608.15,Cash Deposits
+USR:62,ACC:463,DEPOSITS,2022-09-29T00:00:00,2698.61,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:424,ACC:464,DEPOSITS,2024-01-17T00:00:00,4739.77,Cash Deposits
+USR:259,ACC:464,DEPOSITS,2021-08-31T00:00:00,2722.83,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:64,ACC:465,DEPOSITS,2023-05-10T00:00:00,2582.72,Cash Deposits
+USR:274,ACC:465,DEPOSITS,2022-08-31T00:00:00,1190.63,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:69,ACC:466,DEPOSITS,2021-01-24T00:00:00,1381.12,Dividends
+USR:516,ACC:466,DEPOSITS,2021-02-21T00:00:00,1266.81,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:141,ACC:467,DEPOSITS,2022-12-25T00:00:00,787.41,Cash Deposits
+USR:583,ACC:467,DEPOSITS,2024-08-22T00:00:00,2404.63,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:116,ACC:468,DEPOSITS,2024-08-18T00:00:00,3372.68,Tax Returns
+USR:190,ACC:468,DEPOSITS,2022-02-17T00:00:00,4569.35,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:436,ACC:469,DEPOSITS,2022-05-29T00:00:00,3178.57,Cash Deposits
+USR:555,ACC:469,DEPOSITS,2024-02-22T00:00:00,4274.68,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:321,ACC:470,DEPOSITS,2023-11-09T00:00:00,2466.2,Cash Deposits
+USR:24,ACC:470,DEPOSITS,2022-02-15T00:00:00,2300.54,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:555,ACC:471,DEPOSITS,2022-12-20T00:00:00,1965.7,Cash Deposits
+USR:244,ACC:471,DEPOSITS,2024-10-12T00:00:00,772.46,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:575,ACC:472,DEPOSITS,2022-07-23T00:00:00,2674.81,Dividends
+USR:570,ACC:472,DEPOSITS,2025-09-30T00:00:00,2343.34,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:287,ACC:473,DEPOSITS,2022-06-29T00:00:00,3895.19,Tax Returns
+USR:55,ACC:473,DEPOSITS,2024-01-28T00:00:00,4929.03,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:559,ACC:474,DEPOSITS,2024-09-18T00:00:00,1560.18,Cash Deposits
+USR:27,ACC:474,DEPOSITS,2022-02-17T00:00:00,4840.32,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:169,ACC:475,DEPOSITS,2022-06-21T00:00:00,765.82,Cash Deposits
+USR:495,ACC:475,DEPOSITS,2022-03-04T00:00:00,2224.95,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:340,ACC:476,DEPOSITS,2021-08-08T00:00:00,4881.12,Cash Deposits
+USR:362,ACC:476,DEPOSITS,2023-06-07T00:00:00,1935.8,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:96,ACC:477,DEPOSITS,2022-05-14T00:00:00,3642.41,Cash Deposits
+USR:140,ACC:477,DEPOSITS,2023-10-06T00:00:00,4160.67,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:458,ACC:478,DEPOSITS,2023-08-30T00:00:00,3619.98,Dividends
+USR:355,ACC:478,DEPOSITS,2020-12-16T00:00:00,2865.8,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:6,ACC:479,DEPOSITS,2022-09-07T00:00:00,3702.12,Cash Deposits
+USR:117,ACC:479,DEPOSITS,2021-10-25T00:00:00,369.83,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:136,ACC:480,DEPOSITS,2024-03-21T00:00:00,1504.39,Cash Deposits
+USR:260,ACC:480,DEPOSITS,2025-09-11T00:00:00,4491.21,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:595,ACC:481,DEPOSITS,2024-08-04T00:00:00,4993.43,Tax Returns
+USR:123,ACC:481,DEPOSITS,2025-12-25T00:00:00,4514.61,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:370,ACC:482,DEPOSITS,2023-11-10T00:00:00,2651.91,Cash Deposits
+USR:42,ACC:482,DEPOSITS,2020-05-22T00:00:00,2784.56,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:250,ACC:483,DEPOSITS,2024-02-07T00:00:00,4709.59,Tax Returns
+USR:594,ACC:483,DEPOSITS,2025-05-14T00:00:00,1727.34,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:463,ACC:484,DEPOSITS,2021-12-10T00:00:00,4788.73,Tax Returns
+USR:175,ACC:484,DEPOSITS,2023-05-15T00:00:00,616.16,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:332,ACC:485,DEPOSITS,2023-10-07T00:00:00,136.62,Cash Deposits
+USR:442,ACC:485,DEPOSITS,2021-09-16T00:00:00,3056.66,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:49,ACC:486,DEPOSITS,2022-06-27T00:00:00,4637.4,Cash Deposits
+USR:170,ACC:486,DEPOSITS,2024-08-03T00:00:00,1971.72,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:136,ACC:487,DEPOSITS,2021-05-22T00:00:00,2807.37,Tax Returns
+USR:593,ACC:487,DEPOSITS,2024-08-31T00:00:00,2994.11,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:279,ACC:488,DEPOSITS,2022-04-17T00:00:00,4991.56,Dividends
+USR:193,ACC:488,DEPOSITS,2022-09-24T00:00:00,3364.43,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:323,ACC:489,DEPOSITS,2025-12-14T00:00:00,4108.44,Cash Deposits
+USR:343,ACC:489,DEPOSITS,2024-11-15T00:00:00,3780.63,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:390,ACC:490,DEPOSITS,2020-06-11T00:00:00,2495.89,Tax Returns
+USR:99,ACC:490,DEPOSITS,2025-10-18T00:00:00,4318.84,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:96,ACC:491,DEPOSITS,2021-06-29T00:00:00,2882.43,Dividends
+USR:79,ACC:491,DEPOSITS,2020-03-11T00:00:00,2513.14,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:581,ACC:492,DEPOSITS,2025-06-07T00:00:00,4448.88,Tax Returns
+USR:24,ACC:492,DEPOSITS,2025-12-25T00:00:00,3230.57,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:105,ACC:493,DEPOSITS,2022-02-02T00:00:00,3336.44,Tax Returns
+USR:223,ACC:493,DEPOSITS,2024-08-16T00:00:00,2037.23,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:173,ACC:494,DEPOSITS,2021-03-16T00:00:00,1978.64,Cash Deposits
+USR:312,ACC:494,DEPOSITS,2022-01-04T00:00:00,1246.53,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:52,ACC:495,DEPOSITS,2020-11-17T00:00:00,2262.48,Tax Returns
+USR:338,ACC:495,DEPOSITS,2023-11-17T00:00:00,1776.74,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:432,ACC:496,DEPOSITS,2023-05-30T00:00:00,619.88,Cash Deposits
+USR:558,ACC:496,DEPOSITS,2025-09-15T00:00:00,4750.56,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:446,ACC:497,DEPOSITS,2022-06-10T00:00:00,4676.91,Dividends
+USR:75,ACC:497,DEPOSITS,2025-07-01T00:00:00,2600.95,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:348,ACC:498,DEPOSITS,2021-02-10T00:00:00,3025.24,Dividends
+USR:374,ACC:498,DEPOSITS,2022-11-25T00:00:00,1871.63,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:241,ACC:499,DEPOSITS,2022-07-20T00:00:00,1683.18,Tax Returns
+USR:86,ACC:499,DEPOSITS,2022-12-13T00:00:00,4029.96,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:534,ACC:500,DEPOSITS,2020-12-12T00:00:00,3520.86,Dividends
+USR:207,ACC:500,DEPOSITS,2023-05-01T00:00:00,2586.74,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:49,ACC:501,DEPOSITS,2025-08-08T00:00:00,3328.03,Cash Deposits
+USR:256,ACC:501,DEPOSITS,2021-02-15T00:00:00,4184.59,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:182,ACC:502,DEPOSITS,2025-01-03T00:00:00,2922.42,Tax Returns
+USR:59,ACC:502,DEPOSITS,2021-10-29T00:00:00,4089.01,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:194,ACC:503,DEPOSITS,2023-06-01T00:00:00,1383.46,Cash Deposits
+USR:593,ACC:503,DEPOSITS,2020-11-02T00:00:00,4577.61,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:277,ACC:504,DEPOSITS,2023-03-14T00:00:00,1697.34,Cash Deposits
+USR:248,ACC:504,DEPOSITS,2021-02-23T00:00:00,4987.81,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:359,ACC:505,DEPOSITS,2020-09-16T00:00:00,3252.67,Cash Deposits
+USR:11,ACC:505,DEPOSITS,2024-09-23T00:00:00,1987.65,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:307,ACC:506,DEPOSITS,2021-04-02T00:00:00,1146.82,Dividends
+USR:135,ACC:506,DEPOSITS,2024-04-21T00:00:00,1748.22,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:97,ACC:507,DEPOSITS,2020-07-20T00:00:00,2920.25,Tax Returns
+USR:64,ACC:507,DEPOSITS,2021-11-20T00:00:00,3385.08,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:52,ACC:508,DEPOSITS,2024-07-02T00:00:00,3953.42,Tax Returns
+USR:472,ACC:508,DEPOSITS,2023-12-18T00:00:00,1589.47,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:562,ACC:509,DEPOSITS,2020-03-15T00:00:00,1983.59,Dividends
+USR:233,ACC:509,DEPOSITS,2024-09-10T00:00:00,2025.75,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:335,ACC:510,DEPOSITS,2025-03-13T00:00:00,3361.56,Tax Returns
+USR:200,ACC:510,DEPOSITS,2023-11-15T00:00:00,869.05,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:354,ACC:511,DEPOSITS,2025-10-16T00:00:00,2506.52,Cash Deposits
+USR:182,ACC:511,DEPOSITS,2025-03-14T00:00:00,1853.14,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:178,ACC:512,DEPOSITS,2022-07-07T00:00:00,1709.16,Cash Deposits
+USR:430,ACC:512,DEPOSITS,2021-08-08T00:00:00,1444.57,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:273,ACC:513,DEPOSITS,2022-02-26T00:00:00,1434.32,Cash Deposits
+USR:116,ACC:513,DEPOSITS,2025-07-18T00:00:00,3312.32,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:577,ACC:514,DEPOSITS,2024-03-08T00:00:00,1030.93,Cash Deposits
+USR:331,ACC:514,DEPOSITS,2020-08-26T00:00:00,571.02,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:367,ACC:515,DEPOSITS,2023-07-24T00:00:00,1912.13,Dividends
+USR:62,ACC:515,DEPOSITS,2022-02-02T00:00:00,1773.05,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:587,ACC:516,DEPOSITS,2020-02-16T00:00:00,3928.57,Cash Deposits
+USR:304,ACC:516,DEPOSITS,2020-12-20T00:00:00,4582.85,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:381,ACC:517,DEPOSITS,2024-11-06T00:00:00,2759.06,Tax Returns
+USR:207,ACC:517,DEPOSITS,2022-04-21T00:00:00,960.89,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:102,ACC:518,DEPOSITS,2023-06-22T00:00:00,375.64,Tax Returns
+USR:485,ACC:518,DEPOSITS,2021-04-18T00:00:00,815.27,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:126,ACC:519,DEPOSITS,2021-10-26T00:00:00,1512.57,Dividends
+USR:198,ACC:519,DEPOSITS,2024-03-11T00:00:00,3064.09,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:360,ACC:520,DEPOSITS,2021-04-18T00:00:00,1072.32,Cash Deposits
+USR:305,ACC:520,DEPOSITS,2020-03-29T00:00:00,3830.87,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:95,ACC:521,DEPOSITS,2022-06-21T00:00:00,3683.76,Dividends
+USR:536,ACC:521,DEPOSITS,2025-06-20T00:00:00,2593.2,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:3,ACC:522,DEPOSITS,2021-08-10T00:00:00,857.12,Cash Deposits
+USR:217,ACC:522,DEPOSITS,2025-03-07T00:00:00,4427.29,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:234,ACC:523,DEPOSITS,2022-11-25T00:00:00,189.95,Dividends
+USR:597,ACC:523,DEPOSITS,2024-06-25T00:00:00,2236.31,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:85,ACC:524,DEPOSITS,2021-09-30T00:00:00,3800.18,Dividends
+USR:418,ACC:524,DEPOSITS,2024-04-11T00:00:00,3979.92,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:547,ACC:525,DEPOSITS,2020-05-27T00:00:00,2013.92,Dividends
+USR:72,ACC:525,DEPOSITS,2023-11-19T00:00:00,479.4,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:129,ACC:526,DEPOSITS,2023-03-01T00:00:00,2688.44,Dividends
+USR:138,ACC:526,DEPOSITS,2021-01-05T00:00:00,1578.85,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:326,ACC:527,DEPOSITS,2023-06-12T00:00:00,3300.98,Dividends
+USR:175,ACC:527,DEPOSITS,2023-05-15T00:00:00,866.29,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:142,ACC:528,DEPOSITS,2025-11-13T00:00:00,1136.03,Cash Deposits
+USR:572,ACC:528,DEPOSITS,2023-02-06T00:00:00,2208.82,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:48,ACC:529,DEPOSITS,2020-02-12T00:00:00,4314.95,Dividends
+USR:99,ACC:529,DEPOSITS,2020-10-17T00:00:00,3822.2,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:127,ACC:530,DEPOSITS,2022-09-16T00:00:00,3569.67,Cash Deposits
+USR:311,ACC:530,DEPOSITS,2024-02-08T00:00:00,1514.99,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:309,ACC:531,DEPOSITS,2021-11-12T00:00:00,1102.18,Tax Returns
+USR:458,ACC:531,DEPOSITS,2020-07-17T00:00:00,4074.5,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:280,ACC:532,DEPOSITS,2024-01-10T00:00:00,2054.65,Dividends
+USR:53,ACC:532,DEPOSITS,2025-10-14T00:00:00,4842.05,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:226,ACC:533,DEPOSITS,2025-03-25T00:00:00,1563.04,Tax Returns
+USR:281,ACC:533,DEPOSITS,2025-08-16T00:00:00,4875.89,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:170,ACC:534,DEPOSITS,2025-10-13T00:00:00,2548.47,Tax Returns
+USR:439,ACC:534,DEPOSITS,2021-12-31T00:00:00,1136.37,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:390,ACC:535,DEPOSITS,2021-11-18T00:00:00,274.92,Tax Returns
+USR:467,ACC:535,DEPOSITS,2020-06-01T00:00:00,1218.3,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:370,ACC:536,DEPOSITS,2020-02-12T00:00:00,2315.41,Dividends
+USR:358,ACC:536,DEPOSITS,2024-10-01T00:00:00,1736.51,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:389,ACC:537,DEPOSITS,2020-10-04T00:00:00,3585.71,Cash Deposits
+USR:375,ACC:537,DEPOSITS,2020-07-12T00:00:00,3157.42,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:308,ACC:538,DEPOSITS,2024-07-17T00:00:00,3783.6,Cash Deposits
+USR:107,ACC:538,DEPOSITS,2022-01-11T00:00:00,2797.53,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:422,ACC:539,DEPOSITS,2020-12-06T00:00:00,4836.94,Tax Returns
+USR:440,ACC:539,DEPOSITS,2022-08-13T00:00:00,1336.02,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:342,ACC:540,DEPOSITS,2022-06-19T00:00:00,3037.68,Cash Deposits
+USR:142,ACC:540,DEPOSITS,2020-05-22T00:00:00,563.92,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:406,ACC:541,DEPOSITS,2020-06-26T00:00:00,4838.73,Dividends
+USR:387,ACC:541,DEPOSITS,2020-09-11T00:00:00,3778.81,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:465,ACC:542,DEPOSITS,2021-07-08T00:00:00,4961.76,Tax Returns
+USR:291,ACC:542,DEPOSITS,2023-11-12T00:00:00,1334.83,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:332,ACC:543,DEPOSITS,2025-12-26T00:00:00,3107.06,Tax Returns
+USR:381,ACC:543,DEPOSITS,2023-03-04T00:00:00,1053.81,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:189,ACC:544,DEPOSITS,2022-12-20T00:00:00,3082.13,Tax Returns
+USR:261,ACC:544,DEPOSITS,2023-10-13T00:00:00,4461.28,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:249,ACC:545,DEPOSITS,2021-03-08T00:00:00,3513.28,Cash Deposits
+USR:561,ACC:545,DEPOSITS,2021-06-30T00:00:00,690.2,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:39,ACC:546,DEPOSITS,2022-04-15T00:00:00,394.06,Dividends
+USR:235,ACC:546,DEPOSITS,2025-11-28T00:00:00,3133.74,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:540,ACC:547,DEPOSITS,2022-10-11T00:00:00,2690.03,Tax Returns
+USR:535,ACC:547,DEPOSITS,2020-10-20T00:00:00,2299.03,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:333,ACC:548,DEPOSITS,2022-10-08T00:00:00,2697.56,Tax Returns
+USR:140,ACC:548,DEPOSITS,2021-09-04T00:00:00,4271.01,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:174,ACC:549,DEPOSITS,2021-09-01T00:00:00,1606.18,Cash Deposits
+USR:250,ACC:549,DEPOSITS,2023-10-09T00:00:00,4198.46,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:107,ACC:550,DEPOSITS,2021-08-15T00:00:00,280.92,Dividends
+USR:388,ACC:550,DEPOSITS,2021-04-20T00:00:00,232.75,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:343,ACC:551,DEPOSITS,2023-04-12T00:00:00,2245.52,Cash Deposits
+USR:342,ACC:551,DEPOSITS,2023-02-28T00:00:00,1920.09,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:380,ACC:552,DEPOSITS,2020-07-11T00:00:00,1809.33,Cash Deposits
+USR:183,ACC:552,DEPOSITS,2021-12-02T00:00:00,3568.98,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:582,ACC:553,DEPOSITS,2021-11-07T00:00:00,1877.68,Tax Returns
+USR:204,ACC:553,DEPOSITS,2020-01-05T00:00:00,529.03,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:365,ACC:554,DEPOSITS,2020-08-22T00:00:00,2387.51,Tax Returns
+USR:1,ACC:554,DEPOSITS,2023-07-06T00:00:00,3582.3,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:85,ACC:555,DEPOSITS,2020-01-08T00:00:00,2277.21,Tax Returns
+USR:310,ACC:555,DEPOSITS,2022-04-15T00:00:00,3613.65,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:480,ACC:556,DEPOSITS,2021-04-01T00:00:00,1387.65,Cash Deposits
+USR:216,ACC:556,DEPOSITS,2022-03-09T00:00:00,3589.59,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:504,ACC:557,DEPOSITS,2022-10-14T00:00:00,2830.16,Cash Deposits
+USR:548,ACC:557,DEPOSITS,2023-06-27T00:00:00,1954.6,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:212,ACC:558,DEPOSITS,2020-05-20T00:00:00,4504.04,Tax Returns
+USR:476,ACC:558,DEPOSITS,2023-01-22T00:00:00,4227.41,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:46,ACC:559,DEPOSITS,2024-02-01T00:00:00,120.23,Tax Returns
+USR:37,ACC:559,DEPOSITS,2020-03-03T00:00:00,3375.26,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:578,ACC:560,DEPOSITS,2020-09-29T00:00:00,3453.52,Cash Deposits
+USR:119,ACC:560,DEPOSITS,2023-06-17T00:00:00,2199.19,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:63,ACC:561,DEPOSITS,2023-02-05T00:00:00,1256.76,Tax Returns
+USR:204,ACC:561,DEPOSITS,2024-05-05T00:00:00,3192.87,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:424,ACC:562,DEPOSITS,2024-04-20T00:00:00,1853.75,Cash Deposits
+USR:181,ACC:562,DEPOSITS,2021-04-18T00:00:00,3923.57,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:133,ACC:563,DEPOSITS,2023-02-28T00:00:00,904.92,Tax Returns
+USR:218,ACC:563,DEPOSITS,2023-11-15T00:00:00,2414.92,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:518,ACC:564,DEPOSITS,2021-07-21T00:00:00,4319.91,Tax Returns
+USR:3,ACC:564,DEPOSITS,2021-05-05T00:00:00,3480.54,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:413,ACC:565,DEPOSITS,2022-09-16T00:00:00,420.89,Tax Returns
+USR:597,ACC:565,DEPOSITS,2020-08-03T00:00:00,1374.93,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:272,ACC:566,DEPOSITS,2020-11-07T00:00:00,373.04,Tax Returns
+USR:539,ACC:566,DEPOSITS,2020-05-26T00:00:00,4844.63,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:331,ACC:567,DEPOSITS,2023-08-27T00:00:00,3785.05,Dividends
+USR:420,ACC:567,DEPOSITS,2023-04-23T00:00:00,1932.53,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:309,ACC:568,DEPOSITS,2021-05-04T00:00:00,4312.07,Cash Deposits
+USR:482,ACC:568,DEPOSITS,2022-07-07T00:00:00,3159.95,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:337,ACC:569,DEPOSITS,2025-08-21T00:00:00,4158.63,Tax Returns
+USR:116,ACC:569,DEPOSITS,2024-07-13T00:00:00,3443.62,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:200,ACC:570,DEPOSITS,2022-04-22T00:00:00,4837.14,Tax Returns
+USR:105,ACC:570,DEPOSITS,2024-10-18T00:00:00,4143.38,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:83,ACC:571,DEPOSITS,2025-08-20T00:00:00,4229.69,Dividends
+USR:514,ACC:571,DEPOSITS,2020-03-19T00:00:00,1092.02,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:431,ACC:572,DEPOSITS,2020-12-24T00:00:00,4495.24,Cash Deposits
+USR:22,ACC:572,DEPOSITS,2020-05-26T00:00:00,350.66,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:560,ACC:573,DEPOSITS,2022-09-07T00:00:00,3562.87,Cash Deposits
+USR:471,ACC:573,DEPOSITS,2021-11-01T00:00:00,2915.07,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:129,ACC:574,DEPOSITS,2020-09-01T00:00:00,2223.18,Cash Deposits
+USR:344,ACC:574,DEPOSITS,2025-06-11T00:00:00,2700.96,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:561,ACC:575,DEPOSITS,2025-05-21T00:00:00,1675.63,Tax Returns
+USR:150,ACC:575,DEPOSITS,2021-05-05T00:00:00,3373.03,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:348,ACC:576,DEPOSITS,2020-12-14T00:00:00,3260.98,Dividends
+USR:560,ACC:576,DEPOSITS,2025-11-05T00:00:00,843.79,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:43,ACC:577,DEPOSITS,2022-05-14T00:00:00,3036.04,Dividends
+USR:337,ACC:577,DEPOSITS,2025-03-24T00:00:00,4705.52,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:273,ACC:578,DEPOSITS,2023-02-16T00:00:00,419.98,Cash Deposits
+USR:151,ACC:578,DEPOSITS,2021-08-10T00:00:00,3619.17,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:219,ACC:579,DEPOSITS,2025-01-09T00:00:00,2825.06,Cash Deposits
+USR:424,ACC:579,DEPOSITS,2021-12-25T00:00:00,3158.08,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:404,ACC:580,DEPOSITS,2025-01-07T00:00:00,4602.02,Dividends
+USR:159,ACC:580,DEPOSITS,2021-03-26T00:00:00,1334.06,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:212,ACC:581,DEPOSITS,2023-12-10T00:00:00,3800.81,Cash Deposits
+USR:50,ACC:581,DEPOSITS,2022-05-17T00:00:00,3956.76,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:505,ACC:582,DEPOSITS,2025-06-23T00:00:00,2175.42,Dividends
+USR:25,ACC:582,DEPOSITS,2020-09-20T00:00:00,4579.07,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:294,ACC:583,DEPOSITS,2021-04-28T00:00:00,3983.51,Cash Deposits
+USR:40,ACC:583,DEPOSITS,2022-06-26T00:00:00,2686.39,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:484,ACC:584,DEPOSITS,2021-04-24T00:00:00,4293.01,Tax Returns
+USR:587,ACC:584,DEPOSITS,2023-05-12T00:00:00,2879.22,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:416,ACC:585,DEPOSITS,2020-01-31T00:00:00,4626.98,Cash Deposits
+USR:257,ACC:585,DEPOSITS,2024-07-20T00:00:00,1983.66,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:292,ACC:586,DEPOSITS,2020-09-02T00:00:00,1187.27,Tax Returns
+USR:41,ACC:586,DEPOSITS,2024-11-02T00:00:00,2761.09,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:460,ACC:587,DEPOSITS,2025-06-24T00:00:00,3044.71,Dividends
+USR:448,ACC:587,DEPOSITS,2025-07-12T00:00:00,180.74,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:356,ACC:588,DEPOSITS,2020-03-07T00:00:00,4321.73,Dividends
+USR:500,ACC:588,DEPOSITS,2021-09-17T00:00:00,3489.31,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:341,ACC:589,DEPOSITS,2020-01-22T00:00:00,1378.91,Tax Returns
+USR:588,ACC:589,DEPOSITS,2023-12-05T00:00:00,433.32,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:595,ACC:590,DEPOSITS,2022-12-19T00:00:00,2045.15,Cash Deposits
+USR:496,ACC:590,DEPOSITS,2020-02-22T00:00:00,2124.3,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:542,ACC:591,DEPOSITS,2020-09-26T00:00:00,2582.23,Tax Returns
+USR:107,ACC:591,DEPOSITS,2021-07-15T00:00:00,4224.19,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:130,ACC:592,DEPOSITS,2024-12-05T00:00:00,1374.77,Dividends
+USR:224,ACC:592,DEPOSITS,2023-12-27T00:00:00,4131.79,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:276,ACC:593,DEPOSITS,2025-08-21T00:00:00,1400.13,Cash Deposits
+USR:88,ACC:593,DEPOSITS,2021-09-26T00:00:00,1064.95,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:431,ACC:594,DEPOSITS,2021-08-07T00:00:00,1749.89,Tax Returns
+USR:7,ACC:594,DEPOSITS,2023-07-06T00:00:00,3970.3,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:368,ACC:595,DEPOSITS,2020-08-23T00:00:00,2751.26,Dividends
+USR:221,ACC:595,DEPOSITS,2025-03-31T00:00:00,2076.36,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:256,ACC:596,DEPOSITS,2024-08-03T00:00:00,4210.31,Tax Returns
+USR:309,ACC:596,DEPOSITS,2023-11-20T00:00:00,2088.31,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:487,ACC:597,DEPOSITS,2020-02-03T00:00:00,4556.62,Cash Deposits
+USR:235,ACC:597,DEPOSITS,2021-08-09T00:00:00,150.48,Dividends
 startNode,endNode,relationship,timestamp,amount,origin
-USR:326,ACC:598,DEPOSITS,2020-07-16T00:00:00,2623.35,Cash Deposits
+USR:516,ACC:598,DEPOSITS,2024-11-20T00:00:00,997.85,Cash Deposits
 startNode,endNode,relationship,timestamp,amount,origin
-USR:257,ACC:599,DEPOSITS,2022-10-29T00:00:00,763.58,Cash Deposits
+USR:100,ACC:599,DEPOSITS,2024-12-31T00:00:00,4715.23,Tax Returns
 startNode,endNode,relationship,timestamp,amount,origin
-USR:139,ACC:600,DEPOSITS,2023-08-16T00:00:00,4931.33,Dividends
+USR:256,ACC:600,DEPOSITS,2022-01-30T00:00:00,2185.9,Tax Returns

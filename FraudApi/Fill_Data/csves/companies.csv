@@ -1,601 +1,601 @@
 companyID,name,industry,location,taxID,size
-C:1,Company1,Tech,San Francisco,TAX85848,445
-C:2,Company2,Finance,New York,TAX78201,862
-C:3,Company3,Finance,San Francisco,TAX85169,3333
-C:4,Company4,Finance,Los Angeles,TAX25930,8565
-C:5,Company5,Retail,New York,TAX48814,607
-C:6,Company6,Tech,San Francisco,TAX98007,4136
-C:7,Company7,Tech,San Francisco,TAX84772,3888
-C:8,Company8,Healthcare,San Francisco,TAX31600,1223
-C:9,Company9,Retail,Chicago,TAX90986,9560
-C:10,Company10,Finance,Los Angeles,TAX47100,5012
-C:11,Company11,Healthcare,Los Angeles,TAX33439,2689
-C:12,Company12,Healthcare,New York,TAX68431,8071
-C:13,Company13,Finance,San Francisco,TAX43202,3181
-C:14,Company14,Tech,Los Angeles,TAX54142,586
-C:15,Company15,Tech,Los Angeles,TAX16998,159
-C:16,Company16,Finance,Chicago,TAX55305,8085
-C:17,Company17,Finance,New York,TAX61113,6787
-C:18,Company18,Tech,Los Angeles,TAX81152,6913
-C:19,Company19,Finance,Los Angeles,TAX48063,5412
-C:20,Company20,Healthcare,Los Angeles,TAX62722,8193
-C:21,Company21,Finance,Los Angeles,TAX61115,5866
-C:22,Company22,Finance,New York,TAX66386,9315
-C:23,Company23,Retail,New York,TAX10315,2893
-C:24,Company24,Retail,Los Angeles,TAX45168,8128
-C:25,Company25,Tech,Chicago,TAX13531,9682
-C:26,Company26,Retail,Los Angeles,TAX82152,5980
-C:27,Company27,Healthcare,Los Angeles,TAX95862,9240
-C:28,Company28,Finance,New York,TAX22721,8169
-C:29,Company29,Retail,Los Angeles,TAX99470,511
-C:30,Company30,Retail,Chicago,TAX22180,3221
-C:31,Company31,Tech,Los Angeles,TAX55497,820
-C:32,Company32,Healthcare,Chicago,TAX82923,1276
-C:33,Company33,Finance,San Francisco,TAX61734,774
-C:34,Company34,Healthcare,Chicago,TAX29891,481
-C:35,Company35,Tech,Los Angeles,TAX51058,1427
-C:36,Company36,Healthcare,New York,TAX95589,1291
-C:37,Company37,Finance,New York,TAX78813,8331
-C:38,Company38,Retail,Chicago,TAX56015,6420
-C:39,Company39,Finance,New York,TAX70411,819
-C:40,Company40,Tech,Los Angeles,TAX87475,7241
-C:41,Company41,Tech,San Francisco,TAX58942,2639
-C:42,Company42,Healthcare,Chicago,TAX51257,7135
-C:43,Company43,Finance,Los Angeles,TAX64133,184
-C:44,Company44,Retail,Chicago,TAX74877,6870
-C:45,Company45,Healthcare,Los Angeles,TAX82481,4230
-C:46,Company46,Tech,Los Angeles,TAX32776,2344
-C:47,Company47,Tech,New York,TAX11208,76
-C:48,Company48,Finance,Chicago,TAX96358,572
-C:49,Company49,Finance,New York,TAX87465,9344
-C:50,Company50,Retail,San Francisco,TAX65297,1736
-C:51,Company51,Healthcare,New York,TAX13761,5452
-C:52,Company52,Finance,New York,TAX30074,4858
-C:53,Company53,Healthcare,Chicago,TAX16846,4432
-C:54,Company54,Finance,New York,TAX39418,231
-C:55,Company55,Retail,Chicago,TAX42206,1832
-C:56,Company56,Healthcare,San Francisco,TAX15774,9533
-C:57,Company57,Healthcare,San Francisco,TAX27809,8918
-C:58,Company58,Tech,San Francisco,TAX52539,790
-C:59,Company59,Tech,New York,TAX77488,5556
-C:60,Company60,Retail,Chicago,TAX61722,304
-C:61,Company61,Retail,New York,TAX30088,8104
-C:62,Company62,Tech,New York,TAX60983,3979
-C:63,Company63,Finance,Los Angeles,TAX83222,3107
-C:64,Company64,Healthcare,New York,TAX94924,2288
-C:65,Company65,Finance,New York,TAX51203,1619
-C:66,Company66,Finance,Los Angeles,TAX21384,2233
-C:67,Company67,Healthcare,Chicago,TAX75413,7789
-C:68,Company68,Retail,Chicago,TAX97895,6054
-C:69,Company69,Finance,Chicago,TAX30593,2140
-C:70,Company70,Healthcare,New York,TAX32773,6520
-C:71,Company71,Tech,New York,TAX27778,7837
-C:72,Company72,Tech,New York,TAX26362,6073
-C:73,Company73,Tech,San Francisco,TAX36863,2903
-C:74,Company74,Finance,Los Angeles,TAX45022,885
-C:75,Company75,Tech,Chicago,TAX97528,6309
-C:76,Company76,Healthcare,San Francisco,TAX88242,3019
-C:77,Company77,Finance,San Francisco,TAX42709,5225
-C:78,Company78,Retail,Chicago,TAX76746,5901
-C:79,Company79,Healthcare,San Francisco,TAX25869,4834
-C:80,Company80,Retail,Los Angeles,TAX91761,7593
-C:81,Company81,Retail,New York,TAX71524,7892
-C:82,Company82,Retail,San Francisco,TAX73922,3196
-C:83,Company83,Finance,Los Angeles,TAX81359,767
-C:84,Company84,Retail,Los Angeles,TAX39086,4361
-C:85,Company85,Retail,San Francisco,TAX96555,5719
-C:86,Company86,Retail,Los Angeles,TAX40772,3391
-C:87,Company87,Finance,Chicago,TAX22491,7395
-C:88,Company88,Tech,San Francisco,TAX60793,4151
-C:89,Company89,Finance,Chicago,TAX26966,9689
-C:90,Company90,Healthcare,San Francisco,TAX89347,3004
-C:91,Company91,Tech,Chicago,TAX26446,6802
-C:92,Company92,Tech,San Francisco,TAX45632,9389
-C:93,Company93,Tech,New York,TAX57710,3823
-C:94,Company94,Retail,Los Angeles,TAX14031,8851
-C:95,Company95,Healthcare,San Francisco,TAX12451,2612
-C:96,Company96,Retail,Los Angeles,TAX41207,1404
-C:97,Company97,Retail,New York,TAX11956,4567
-C:98,Company98,Retail,Los Angeles,TAX50565,1742
-C:99,Company99,Healthcare,New York,TAX65412,4043
-C:100,Company100,Healthcare,Chicago,TAX65906,1599
-C:101,Company101,Tech,San Francisco,TAX97792,7805
-C:102,Company102,Healthcare,New York,TAX92005,1967
-C:103,Company103,Healthcare,New York,TAX91458,7316
-C:104,Company104,Healthcare,New York,TAX59270,9401
-C:105,Company105,Finance,Los Angeles,TAX47082,7520
-C:106,Company106,Tech,New York,TAX59407,6856
-C:107,Company107,Healthcare,Chicago,TAX19590,1664
-C:108,Company108,Retail,San Francisco,TAX27688,2766
-C:109,Company109,Tech,Chicago,TAX26555,8349
-C:110,Company110,Retail,New York,TAX72409,2311
-C:111,Company111,Retail,Los Angeles,TAX42579,7788
-C:112,Company112,Finance,San Francisco,TAX71907,333
-C:113,Company113,Healthcare,Los Angeles,TAX26394,148
-C:114,Company114,Tech,San Francisco,TAX60587,9089
-C:115,Company115,Retail,Chicago,TAX72146,1945
-C:116,Company116,Tech,New York,TAX38884,1402
-C:117,Company117,Healthcare,Los Angeles,TAX34724,8078
-C:118,Company118,Finance,Los Angeles,TAX45287,2507
-C:119,Company119,Retail,Chicago,TAX35869,7482
-C:120,Company120,Finance,Chicago,TAX97462,214
-C:121,Company121,Retail,Los Angeles,TAX12123,2530
-C:122,Company122,Retail,Chicago,TAX43957,8858
-C:123,Company123,Healthcare,Los Angeles,TAX98474,7333
-C:124,Company124,Retail,Los Angeles,TAX12183,1461
-C:125,Company125,Finance,Los Angeles,TAX32651,7272
-C:126,Company126,Finance,New York,TAX54790,1741
-C:127,Company127,Finance,San Francisco,TAX38477,9897
-C:128,Company128,Healthcare,New York,TAX41765,595
-C:129,Company129,Retail,New York,TAX74818,8241
-C:130,Company130,Retail,New York,TAX75643,5429
-C:131,Company131,Healthcare,San Francisco,TAX72451,3433
-C:132,Company132,Retail,Chicago,TAX11121,7778
-C:133,Company133,Tech,Los Angeles,TAX82801,7760
-C:134,Company134,Finance,Los Angeles,TAX60347,6046
-C:135,Company135,Finance,New York,TAX97065,1042
-C:136,Company136,Healthcare,Chicago,TAX93893,6285
-C:137,Company137,Finance,San Francisco,TAX15036,6682
-C:138,Company138,Healthcare,New York,TAX79391,8651
-C:139,Company139,Finance,San Francisco,TAX52852,792
-C:140,Company140,Healthcare,Chicago,TAX53422,8436
-C:141,Company141,Retail,New York,TAX50880,5156
-C:142,Company142,Healthcare,Chicago,TAX76943,7572
-C:143,Company143,Finance,San Francisco,TAX30297,8604
-C:144,Company144,Retail,San Francisco,TAX28125,3445
-C:145,Company145,Finance,New York,TAX35871,466
-C:146,Company146,Tech,Chicago,TAX24481,4300
-C:147,Company147,Tech,Chicago,TAX34672,8664
-C:148,Company148,Retail,New York,TAX22579,6390
-C:149,Company149,Retail,Chicago,TAX65035,3697
-C:150,Company150,Retail,Chicago,TAX61257,4729
-C:151,Company151,Retail,New York,TAX47882,7819
-C:152,Company152,Tech,New York,TAX56220,5769
-C:153,Company153,Retail,San Francisco,TAX46553,4378
-C:154,Company154,Tech,New York,TAX79394,7089
-C:155,Company155,Tech,New York,TAX52790,1746
-C:156,Company156,Finance,Chicago,TAX29410,5398
-C:157,Company157,Finance,New York,TAX37269,9104
-C:158,Company158,Healthcare,Chicago,TAX36382,2947
-C:159,Company159,Healthcare,New York,TAX16552,1686
-C:160,Company160,Finance,Chicago,TAX25275,2984
-C:161,Company161,Retail,Chicago,TAX85591,1335
-C:162,Company162,Healthcare,Los Angeles,TAX42732,1544
-C:163,Company163,Healthcare,Chicago,TAX87900,3920
-C:164,Company164,Healthcare,Chicago,TAX82192,7108
-C:165,Company165,Tech,Chicago,TAX82056,956
-C:166,Company166,Retail,New York,TAX38908,6463
-C:167,Company167,Healthcare,New York,TAX10644,2202
-C:168,Company168,Finance,Chicago,TAX21605,2518
-C:169,Company169,Healthcare,Chicago,TAX19087,4144
-C:170,Company170,Tech,New York,TAX10635,1226
-C:171,Company171,Retail,Chicago,TAX43916,6973
-C:172,Company172,Tech,Chicago,TAX55705,1522
-C:173,Company173,Healthcare,New York,TAX43413,9004
-C:174,Company174,Finance,San Francisco,TAX20752,5595
-C:175,Company175,Retail,Los Angeles,TAX40683,6198
-C:176,Company176,Finance,New York,TAX72100,7778
-C:177,Company177,Tech,Los Angeles,TAX63497,2199
-C:178,Company178,Healthcare,New York,TAX45631,1616
-C:179,Company179,Healthcare,Chicago,TAX79542,5408
-C:180,Company180,Retail,Los Angeles,TAX59985,8060
-C:181,Company181,Tech,San Francisco,TAX55798,4174
-C:182,Company182,Retail,Los Angeles,TAX74827,6469
-C:183,Company183,Tech,New York,TAX80582,7380
-C:184,Company184,Healthcare,Chicago,TAX86280,9900
-C:185,Company185,Finance,Chicago,TAX69936,4699
-C:186,Company186,Finance,Los Angeles,TAX65800,9458
-C:187,Company187,Tech,New York,TAX54095,3534
-C:188,Company188,Finance,New York,TAX29169,888
-C:189,Company189,Retail,New York,TAX33208,4589
-C:190,Company190,Tech,Los Angeles,TAX98091,6649
-C:191,Company191,Finance,Chicago,TAX49830,125
-C:192,Company192,Tech,New York,TAX11422,7671
-C:193,Company193,Retail,Los Angeles,TAX89621,1033
-C:194,Company194,Finance,New York,TAX35726,4355
-C:195,Company195,Retail,San Francisco,TAX82263,5331
-C:196,Company196,Healthcare,Chicago,TAX79135,7630
-C:197,Company197,Healthcare,Chicago,TAX90946,2376
-C:198,Company198,Healthcare,San Francisco,TAX83040,178
-C:199,Company199,Tech,Chicago,TAX90306,1015
-C:200,Company200,Tech,Los Angeles,TAX55684,731
-C:201,Company201,Tech,Chicago,TAX45375,6509
-C:202,Company202,Retail,San Francisco,TAX32604,4922
-C:203,Company203,Healthcare,San Francisco,TAX80762,9401
-C:204,Company204,Finance,New York,TAX25597,4520
-C:205,Company205,Finance,San Francisco,TAX88216,5312
-C:206,Company206,Finance,Chicago,TAX52594,643
-C:207,Company207,Finance,New York,TAX95254,4407
-C:208,Company208,Healthcare,New York,TAX13907,4089
-C:209,Company209,Retail,San Francisco,TAX41244,2804
-C:210,Company210,Healthcare,New York,TAX87278,5713
-C:211,Company211,Retail,Chicago,TAX29601,2078
-C:212,Company212,Tech,Chicago,TAX56267,6111
-C:213,Company213,Retail,Los Angeles,TAX28129,628
-C:214,Company214,Finance,New York,TAX25655,2556
-C:215,Company215,Healthcare,San Francisco,TAX92739,1088
-C:216,Company216,Retail,New York,TAX39810,3590
-C:217,Company217,Healthcare,Los Angeles,TAX36145,1233
-C:218,Company218,Tech,San Francisco,TAX87422,694
-C:219,Company219,Retail,San Francisco,TAX84341,3554
-C:220,Company220,Healthcare,Chicago,TAX32076,121
-C:221,Company221,Healthcare,Los Angeles,TAX22983,4413
-C:222,Company222,Retail,San Francisco,TAX24017,5302
-C:223,Company223,Finance,Chicago,TAX41292,6184
-C:224,Company224,Healthcare,San Francisco,TAX14976,2202
-C:225,Company225,Healthcare,Chicago,TAX52003,4797
-C:226,Company226,Retail,Chicago,TAX20089,372
-C:227,Company227,Healthcare,Los Angeles,TAX53856,8465
-C:228,Company228,Healthcare,Chicago,TAX39848,9795
-C:229,Company229,Tech,New York,TAX67274,5360
-C:230,Company230,Retail,Los Angeles,TAX92233,5254
-C:231,Company231,Tech,New York,TAX58832,2446
-C:232,Company232,Tech,Los Angeles,TAX83709,4858
-C:233,Company233,Tech,Los Angeles,TAX72504,1481
-C:234,Company234,Retail,San Francisco,TAX10336,4711
-C:235,Company235,Tech,New York,TAX42722,7315
-C:236,Company236,Finance,New York,TAX86338,8671
-C:237,Company237,Finance,San Francisco,TAX91004,9854
-C:238,Company238,Healthcare,Los Angeles,TAX36850,9398
-C:239,Company239,Tech,New York,TAX91219,347
-C:240,Company240,Finance,San Francisco,TAX92681,2379
-C:241,Company241,Healthcare,New York,TAX73579,2370
-C:242,Company242,Healthcare,San Francisco,TAX35258,8234
-C:243,Company243,Healthcare,Chicago,TAX84625,7189
-C:244,Company244,Healthcare,San Francisco,TAX97924,9956
-C:245,Company245,Finance,San Francisco,TAX73958,547
-C:246,Company246,Finance,New York,TAX93777,8786
-C:247,Company247,Retail,New York,TAX28753,1202
-C:248,Company248,Healthcare,Chicago,TAX11036,6483
-C:249,Company249,Tech,New York,TAX47869,6649
-C:250,Company250,Tech,Chicago,TAX98841,637
-C:251,Company251,Tech,Chicago,TAX76291,4462
-C:252,Company252,Healthcare,Los Angeles,TAX90738,5400
-C:253,Company253,Healthcare,Los Angeles,TAX54250,5002
-C:254,Company254,Tech,San Francisco,TAX87025,936
-C:255,Company255,Tech,Chicago,TAX70469,4271
-C:256,Company256,Tech,Chicago,TAX10116,8577
-C:257,Company257,Finance,Chicago,TAX21488,4185
-C:258,Company258,Retail,Los Angeles,TAX24982,998
-C:259,Company259,Tech,Chicago,TAX98712,3087
-C:260,Company260,Finance,Los Angeles,TAX16597,4940
-C:261,Company261,Tech,San Francisco,TAX87951,5419
-C:262,Company262,Retail,San Francisco,TAX69260,6310
-C:263,Company263,Tech,Chicago,TAX70355,1122
-C:264,Company264,Finance,New York,TAX56611,8261
-C:265,Company265,Tech,Chicago,TAX56847,6598
-C:266,Company266,Tech,San Francisco,TAX29177,2388
-C:267,Company267,Retail,San Francisco,TAX63712,4491
-C:268,Company268,Healthcare,San Francisco,TAX66379,3437
-C:269,Company269,Tech,Chicago,TAX73197,7887
-C:270,Company270,Healthcare,New York,TAX41321,1945
-C:271,Company271,Retail,New York,TAX91641,6228
-C:272,Company272,Tech,New York,TAX48697,9277
-C:273,Company273,Healthcare,San Francisco,TAX25251,205
-C:274,Company274,Retail,San Francisco,TAX58333,6529
-C:275,Company275,Tech,New York,TAX55639,8965
-C:276,Company276,Finance,San Francisco,TAX30074,7655
-C:277,Company277,Retail,Chicago,TAX84417,271
-C:278,Company278,Healthcare,San Francisco,TAX33714,8426
-C:279,Company279,Tech,Chicago,TAX90779,5578
-C:280,Company280,Tech,New York,TAX91806,8869
-C:281,Company281,Tech,San Francisco,TAX27377,3931
-C:282,Company282,Tech,Chicago,TAX93268,6735
-C:283,Company283,Retail,Chicago,TAX52688,356
-C:284,Company284,Tech,Chicago,TAX28089,5817
-C:285,Company285,Healthcare,Chicago,TAX50740,683
-C:286,Company286,Retail,Chicago,TAX67675,3770
-C:287,Company287,Retail,San Francisco,TAX33878,6989
-C:288,Company288,Retail,Chicago,TAX31411,5396
-C:289,Company289,Retail,San Francisco,TAX98718,6978
-C:290,Company290,Healthcare,New York,TAX39320,7992
-C:291,Company291,Retail,Chicago,TAX86067,3837
-C:292,Company292,Finance,Chicago,TAX70891,349
-C:293,Company293,Tech,San Francisco,TAX74614,8421
-C:294,Company294,Retail,Los Angeles,TAX73984,2381
-C:295,Company295,Tech,Los Angeles,TAX83142,3531
-C:296,Company296,Healthcare,New York,TAX21764,5260
-C:297,Company297,Healthcare,Chicago,TAX98475,9480
-C:298,Company298,Tech,San Francisco,TAX48826,9784
-C:299,Company299,Healthcare,San Francisco,TAX87724,1120
-C:300,Company300,Healthcare,San Francisco,TAX74347,3319
-C:301,Company301,Healthcare,Los Angeles,TAX84869,8120
-C:302,Company302,Tech,Chicago,TAX46584,2720
-C:303,Company303,Retail,Los Angeles,TAX27986,2808
-C:304,Company304,Retail,New York,TAX45813,8179
-C:305,Company305,Healthcare,Chicago,TAX65456,6840
-C:306,Company306,Finance,New York,TAX18249,1857
-C:307,Company307,Tech,Los Angeles,TAX42041,1062
-C:308,Company308,Tech,New York,TAX25479,556
-C:309,Company309,Healthcare,San Francisco,TAX91352,9348
-C:310,Company310,Tech,Los Angeles,TAX39480,566
-C:311,Company311,Finance,New York,TAX13773,4603
-C:312,Company312,Finance,Chicago,TAX37471,9067
-C:313,Company313,Finance,Los Angeles,TAX15986,2364
-C:314,Company314,Finance,San Francisco,TAX71616,2121
-C:315,Company315,Tech,Los Angeles,TAX70287,5093
-C:316,Company316,Retail,Los Angeles,TAX22922,7871
-C:317,Company317,Retail,New York,TAX59107,4256
-C:318,Company318,Finance,New York,TAX80021,5000
-C:319,Company319,Retail,San Francisco,TAX78274,9069
-C:320,Company320,Finance,Los Angeles,TAX19486,5859
-C:321,Company321,Tech,Los Angeles,TAX87594,3907
-C:322,Company322,Finance,Chicago,TAX35786,7737
-C:323,Company323,Finance,San Francisco,TAX89817,1040
-C:324,Company324,Tech,Los Angeles,TAX98557,4275
-C:325,Company325,Tech,Los Angeles,TAX31513,1082
-C:326,Company326,Tech,Chicago,TAX50226,4576
-C:327,Company327,Retail,Los Angeles,TAX87431,6379
-C:328,Company328,Finance,New York,TAX69038,8400
-C:329,Company329,Finance,Los Angeles,TAX59009,1537
-C:330,Company330,Healthcare,Chicago,TAX73312,7989
-C:331,Company331,Healthcare,New York,TAX37072,9180
-C:332,Company332,Retail,San Francisco,TAX97591,3439
-C:333,Company333,Finance,Chicago,TAX14037,9731
-C:334,Company334,Tech,Chicago,TAX81603,3219
-C:335,Company335,Retail,Chicago,TAX59604,9169
-C:336,Company336,Retail,Chicago,TAX36433,4707
-C:337,Company337,Finance,Chicago,TAX16638,9145
-C:338,Company338,Healthcare,New York,TAX98570,5858
-C:339,Company339,Healthcare,Chicago,TAX93352,8658
-C:340,Company340,Healthcare,San Francisco,TAX81329,5079
-C:341,Company341,Retail,Los Angeles,TAX24798,6342
-C:342,Company342,Finance,Chicago,TAX29758,9726
-C:343,Company343,Healthcare,San Francisco,TAX28781,3753
-C:344,Company344,Tech,San Francisco,TAX67497,5629
-C:345,Company345,Tech,Chicago,TAX99863,226
-C:346,Company346,Healthcare,New York,TAX97982,4522
-C:347,Company347,Finance,Los Angeles,TAX70851,775
-C:348,Company348,Healthcare,Los Angeles,TAX33460,7802
-C:349,Company349,Finance,Los Angeles,TAX14266,3436
-C:350,Company350,Finance,Los Angeles,TAX18024,4932
-C:351,Company351,Healthcare,Los Angeles,TAX98529,6006
-C:352,Company352,Retail,New York,TAX74697,103
-C:353,Company353,Healthcare,San Francisco,TAX80048,175
-C:354,Company354,Healthcare,San Francisco,TAX77519,7558
-C:355,Company355,Retail,Los Angeles,TAX83924,6084
-C:356,Company356,Healthcare,San Francisco,TAX13336,5843
-C:357,Company357,Healthcare,Chicago,TAX91595,7780
-C:358,Company358,Healthcare,Chicago,TAX98112,9961
-C:359,Company359,Finance,New York,TAX34882,8785
-C:360,Company360,Healthcare,Los Angeles,TAX64690,7062
-C:361,Company361,Tech,New York,TAX74109,697
-C:362,Company362,Healthcare,San Francisco,TAX98723,4932
-C:363,Company363,Healthcare,Los Angeles,TAX55315,8846
-C:364,Company364,Retail,Chicago,TAX13431,1509
-C:365,Company365,Tech,San Francisco,TAX92615,1287
-C:366,Company366,Healthcare,Los Angeles,TAX25632,4841
-C:367,Company367,Tech,New York,TAX69366,5103
-C:368,Company368,Tech,Chicago,TAX66091,4926
-C:369,Company369,Tech,San Francisco,TAX16312,9131
-C:370,Company370,Finance,Chicago,TAX54499,3244
-C:371,Company371,Tech,Chicago,TAX96309,5845
-C:372,Company372,Tech,New York,TAX63238,3248
-C:373,Company373,Finance,Chicago,TAX62165,1084
-C:374,Company374,Tech,Los Angeles,TAX62791,9623
-C:375,Company375,Finance,Chicago,TAX78422,9884
-C:376,Company376,Finance,New York,TAX27754,3936
-C:377,Company377,Tech,New York,TAX76182,727
-C:378,Company378,Healthcare,New York,TAX19167,1128
-C:379,Company379,Retail,Chicago,TAX90436,4948
-C:380,Company380,Finance,New York,TAX64055,3635
-C:381,Company381,Retail,New York,TAX77170,8973
-C:382,Company382,Healthcare,Chicago,TAX66962,1316
-C:383,Company383,Healthcare,Los Angeles,TAX97407,634
-C:384,Company384,Healthcare,San Francisco,TAX45283,3996
-C:385,Company385,Finance,San Francisco,TAX81009,3044
-C:386,Company386,Tech,New York,TAX87126,8034
-C:387,Company387,Tech,Chicago,TAX26470,496
-C:388,Company388,Tech,New York,TAX42071,2421
-C:389,Company389,Finance,Chicago,TAX60030,9932
-C:390,Company390,Tech,San Francisco,TAX27202,5025
-C:391,Company391,Finance,Los Angeles,TAX81877,8382
-C:392,Company392,Retail,Los Angeles,TAX76039,508
-C:393,Company393,Healthcare,New York,TAX22333,8178
-C:394,Company394,Healthcare,Chicago,TAX72036,559
-C:395,Company395,Retail,San Francisco,TAX60185,2392
-C:396,Company396,Tech,San Francisco,TAX47316,5761
-C:397,Company397,Healthcare,Chicago,TAX28374,6783
-C:398,Company398,Healthcare,Los Angeles,TAX31991,4775
-C:399,Company399,Retail,Chicago,TAX59262,616
-C:400,Company400,Finance,Chicago,TAX20139,3044
-C:401,Company401,Finance,Los Angeles,TAX60039,6425
-C:402,Company402,Retail,San Francisco,TAX79295,7277
-C:403,Company403,Finance,San Francisco,TAX47365,1606
-C:404,Company404,Healthcare,San Francisco,TAX39590,9601
-C:405,Company405,Tech,New York,TAX40664,2748
-C:406,Company406,Retail,San Francisco,TAX61888,2005
-C:407,Company407,Finance,Chicago,TAX72209,8950
-C:408,Company408,Healthcare,San Francisco,TAX72063,9017
-C:409,Company409,Tech,Los Angeles,TAX89303,5828
-C:410,Company410,Finance,New York,TAX36872,8081
-C:411,Company411,Retail,San Francisco,TAX75023,9151
-C:412,Company412,Finance,Chicago,TAX44951,3445
-C:413,Company413,Retail,Chicago,TAX70728,4801
-C:414,Company414,Retail,San Francisco,TAX43418,5501
-C:415,Company415,Tech,Chicago,TAX60878,3131
-C:416,Company416,Healthcare,Los Angeles,TAX10648,9913
-C:417,Company417,Healthcare,Chicago,TAX79453,9142
-C:418,Company418,Healthcare,Chicago,TAX21449,2340
-C:419,Company419,Retail,New York,TAX43649,6329
-C:420,Company420,Finance,San Francisco,TAX79353,7956
-C:421,Company421,Retail,Chicago,TAX64202,2629
-C:422,Company422,Healthcare,San Francisco,TAX72354,315
-C:423,Company423,Healthcare,New York,TAX59295,264
-C:424,Company424,Tech,New York,TAX34123,3073
-C:425,Company425,Finance,Chicago,TAX20844,4721
-C:426,Company426,Finance,Chicago,TAX20744,2488
-C:427,Company427,Retail,San Francisco,TAX81732,694
-C:428,Company428,Finance,Los Angeles,TAX98490,8702
-C:429,Company429,Tech,Chicago,TAX81958,5891
-C:430,Company430,Healthcare,Chicago,TAX47200,3472
-C:431,Company431,Tech,San Francisco,TAX23405,2808
-C:432,Company432,Tech,San Francisco,TAX58661,219
-C:433,Company433,Healthcare,Los Angeles,TAX43286,2131
-C:434,Company434,Retail,Chicago,TAX80778,6668
-C:435,Company435,Finance,San Francisco,TAX85419,8899
-C:436,Company436,Tech,New York,TAX45484,3502
-C:437,Company437,Retail,Chicago,TAX44224,1707
-C:438,Company438,Retail,New York,TAX11891,3607
-C:439,Company439,Healthcare,Los Angeles,TAX22208,6593
-C:440,Company440,Healthcare,San Francisco,TAX96891,2369
-C:441,Company441,Tech,Los Angeles,TAX21702,2378
-C:442,Company442,Healthcare,New York,TAX12449,5359
-C:443,Company443,Healthcare,Los Angeles,TAX46614,490
-C:444,Company444,Retail,San Francisco,TAX31902,4804
-C:445,Company445,Healthcare,Los Angeles,TAX35585,2462
-C:446,Company446,Retail,Chicago,TAX49587,9587
-C:447,Company447,Tech,New York,TAX63197,3766
-C:448,Company448,Healthcare,San Francisco,TAX52532,9102
-C:449,Company449,Retail,San Francisco,TAX63160,5973
-C:450,Company450,Retail,New York,TAX35659,7293
-C:451,Company451,Healthcare,Chicago,TAX45773,4073
-C:452,Company452,Retail,San Francisco,TAX94067,1791
-C:453,Company453,Healthcare,Chicago,TAX66265,5683
-C:454,Company454,Retail,Los Angeles,TAX54563,9265
-C:455,Company455,Healthcare,San Francisco,TAX80873,5815
-C:456,Company456,Retail,San Francisco,TAX50498,5198
-C:457,Company457,Tech,New York,TAX69569,6711
-C:458,Company458,Finance,Chicago,TAX16788,7169
-C:459,Company459,Tech,San Francisco,TAX67212,1361
-C:460,Company460,Tech,Chicago,TAX33499,7446
-C:461,Company461,Retail,Chicago,TAX97506,2786
-C:462,Company462,Tech,Chicago,TAX63320,7621
-C:463,Company463,Tech,San Francisco,TAX16293,8139
-C:464,Company464,Retail,New York,TAX15616,5021
-C:465,Company465,Finance,Los Angeles,TAX16820,143
-C:466,Company466,Finance,Chicago,TAX42816,3956
-C:467,Company467,Retail,New York,TAX50683,5727
-C:468,Company468,Finance,Chicago,TAX94849,823
-C:469,Company469,Finance,New York,TAX35478,3150
-C:470,Company470,Tech,Chicago,TAX73768,6983
-C:471,Company471,Finance,Los Angeles,TAX44719,7790
-C:472,Company472,Healthcare,New York,TAX35175,9435
-C:473,Company473,Finance,San Francisco,TAX28867,8209
-C:474,Company474,Tech,San Francisco,TAX38886,2739
-C:475,Company475,Retail,New York,TAX30010,7464
-C:476,Company476,Finance,Los Angeles,TAX63436,4473
-C:477,Company477,Healthcare,Chicago,TAX94207,308
-C:478,Company478,Retail,San Francisco,TAX19139,3455
-C:479,Company479,Healthcare,Los Angeles,TAX76622,1665
-C:480,Company480,Tech,Chicago,TAX39238,8849
-C:481,Company481,Retail,Los Angeles,TAX21960,6646
-C:482,Company482,Tech,Chicago,TAX78740,9720
-C:483,Company483,Retail,San Francisco,TAX17906,978
-C:484,Company484,Healthcare,Chicago,TAX98016,3837
-C:485,Company485,Healthcare,New York,TAX47435,4375
-C:486,Company486,Finance,New York,TAX75649,6291
-C:487,Company487,Retail,Chicago,TAX92626,1592
-C:488,Company488,Retail,Chicago,TAX79348,5450
-C:489,Company489,Retail,Chicago,TAX44321,7061
-C:490,Company490,Finance,Chicago,TAX54697,6386
-C:491,Company491,Finance,New York,TAX33148,8119
-C:492,Company492,Healthcare,Los Angeles,TAX18226,6724
-C:493,Company493,Finance,Chicago,TAX25152,807
-C:494,Company494,Healthcare,San Francisco,TAX31049,2598
-C:495,Company495,Retail,Los Angeles,TAX97836,8715
-C:496,Company496,Retail,New York,TAX11973,8541
-C:497,Company497,Retail,Chicago,TAX13749,9241
-C:498,Company498,Tech,Los Angeles,TAX65034,7364
-C:499,Company499,Finance,San Francisco,TAX79064,4148
-C:500,Company500,Tech,San Francisco,TAX88720,5174
-C:501,Company501,Retail,New York,TAX23146,5437
-C:502,Company502,Finance,San Francisco,TAX46184,2410
-C:503,Company503,Finance,Los Angeles,TAX42643,2971
-C:504,Company504,Retail,San Francisco,TAX11251,6305
-C:505,Company505,Retail,Los Angeles,TAX10418,9512
-C:506,Company506,Retail,New York,TAX42234,884
-C:507,Company507,Healthcare,San Francisco,TAX86320,8414
-C:508,Company508,Retail,New York,TAX39046,3565
-C:509,Company509,Finance,Los Angeles,TAX86420,8621
-C:510,Company510,Healthcare,Los Angeles,TAX45884,2569
-C:511,Company511,Tech,New York,TAX36682,6298
-C:512,Company512,Finance,New York,TAX56967,1185
-C:513,Company513,Healthcare,Los Angeles,TAX77675,7541
-C:514,Company514,Retail,Chicago,TAX90818,3591
-C:515,Company515,Healthcare,New York,TAX32557,6114
-C:516,Company516,Tech,San Francisco,TAX13039,17
-C:517,Company517,Finance,San Francisco,TAX41189,135
-C:518,Company518,Tech,San Francisco,TAX88664,6261
-C:519,Company519,Tech,New York,TAX91689,241
-C:520,Company520,Tech,New York,TAX52349,2861
-C:521,Company521,Retail,Los Angeles,TAX45770,6068
-C:522,Company522,Healthcare,San Francisco,TAX77340,9279
-C:523,Company523,Retail,San Francisco,TAX43821,5445
-C:524,Company524,Tech,New York,TAX92378,5451
-C:525,Company525,Healthcare,Los Angeles,TAX74278,3605
-C:526,Company526,Retail,San Francisco,TAX68056,4570
-C:527,Company527,Healthcare,San Francisco,TAX33378,8636
-C:528,Company528,Healthcare,San Francisco,TAX17426,3256
-C:529,Company529,Finance,Chicago,TAX36238,471
-C:530,Company530,Tech,San Francisco,TAX91745,4713
-C:531,Company531,Tech,Los Angeles,TAX95495,1993
-C:532,Company532,Healthcare,New York,TAX11267,8064
-C:533,Company533,Retail,New York,TAX72553,1462
-C:534,Company534,Tech,San Francisco,TAX36664,235
-C:535,Company535,Finance,Chicago,TAX38933,5887
-C:536,Company536,Retail,San Francisco,TAX40947,7227
-C:537,Company537,Tech,New York,TAX43632,60
-C:538,Company538,Tech,Chicago,TAX69517,2989
-C:539,Company539,Retail,Chicago,TAX42614,1069
-C:540,Company540,Finance,San Francisco,TAX32442,9491
-C:541,Company541,Retail,Los Angeles,TAX16885,5313
-C:542,Company542,Retail,Chicago,TAX16068,6822
-C:543,Company543,Retail,New York,TAX72995,6792
-C:544,Company544,Healthcare,Chicago,TAX22660,867
-C:545,Company545,Tech,Los Angeles,TAX77216,3104
-C:546,Company546,Retail,San Francisco,TAX59518,8497
-C:547,Company547,Finance,Chicago,TAX18484,1900
-C:548,Company548,Finance,Chicago,TAX88221,9692
-C:549,Company549,Finance,Los Angeles,TAX71167,7828
-C:550,Company550,Finance,New York,TAX88967,8683
-C:551,Company551,Tech,San Francisco,TAX35801,8632
-C:552,Company552,Finance,New York,TAX65911,9024
-C:553,Company553,Healthcare,San Francisco,TAX16005,8204
-C:554,Company554,Healthcare,New York,TAX59203,3323
-C:555,Company555,Finance,Chicago,TAX36533,4258
-C:556,Company556,Healthcare,Los Angeles,TAX42706,9587
-C:557,Company557,Finance,Los Angeles,TAX67066,7804
-C:558,Company558,Finance,San Francisco,TAX63467,2783
-C:559,Company559,Finance,San Francisco,TAX10605,5601
-C:560,Company560,Finance,San Francisco,TAX42033,2086
-C:561,Company561,Finance,Los Angeles,TAX87037,7569
-C:562,Company562,Retail,Chicago,TAX16047,6996
-C:563,Company563,Finance,Chicago,TAX49529,2390
-C:564,Company564,Healthcare,San Francisco,TAX79399,6323
-C:565,Company565,Finance,New York,TAX94990,7837
-C:566,Company566,Healthcare,Los Angeles,TAX74609,4494
-C:567,Company567,Finance,San Francisco,TAX19193,9993
-C:568,Company568,Finance,San Francisco,TAX62174,3112
-C:569,Company569,Retail,Los Angeles,TAX85558,177
-C:570,Company570,Retail,Los Angeles,TAX67461,4644
-C:571,Company571,Retail,New York,TAX27592,5683
-C:572,Company572,Healthcare,New York,TAX70114,2137
-C:573,Company573,Finance,San Francisco,TAX42641,6150
-C:574,Company574,Tech,San Francisco,TAX64659,7372
-C:575,Company575,Finance,San Francisco,TAX31570,6853
-C:576,Company576,Tech,New York,TAX94753,2783
-C:577,Company577,Retail,New York,TAX50583,6159
-C:578,Company578,Tech,Los Angeles,TAX43734,9431
-C:579,Company579,Retail,Los Angeles,TAX57773,3737
-C:580,Company580,Healthcare,Los Angeles,TAX53263,1172
-C:581,Company581,Finance,Los Angeles,TAX77166,3693
-C:582,Company582,Tech,Los Angeles,TAX54357,2789
-C:583,Company583,Healthcare,Los Angeles,TAX26059,5813
-C:584,Company584,Finance,New York,TAX40169,4437
-C:585,Company585,Healthcare,San Francisco,TAX84429,632
-C:586,Company586,Retail,Chicago,TAX81852,1059
-C:587,Company587,Healthcare,Los Angeles,TAX92649,1218
-C:588,Company588,Retail,San Francisco,TAX70545,2550
-C:589,Company589,Finance,Chicago,TAX69572,8829
-C:590,Company590,Healthcare,Los Angeles,TAX41984,1678
-C:591,Company591,Healthcare,Chicago,TAX69176,7203
-C:592,Company592,Finance,San Francisco,TAX44192,8733
-C:593,Company593,Tech,Los Angeles,TAX78011,1060
-C:594,Company594,Finance,Chicago,TAX95683,4892
-C:595,Company595,Tech,San Francisco,TAX92400,4511
-C:596,Company596,Retail,San Francisco,TAX88653,269
-C:597,Company597,Retail,Chicago,TAX33631,7765
-C:598,Company598,Retail,San Francisco,TAX48044,9621
-C:599,Company599,Retail,New York,TAX28436,4835
-C:600,Company600,Healthcare,Los Angeles,TAX68431,2680
+C:1,Company1,Tech,Los Angeles,TAX85273,1966
+C:2,Company2,Finance,Chicago,TAX61462,52
+C:3,Company3,Healthcare,Chicago,TAX44845,5530
+C:4,Company4,Tech,Los Angeles,TAX32752,3603
+C:5,Company5,Retail,New York,TAX49506,586
+C:6,Company6,Finance,San Francisco,TAX26350,1977
+C:7,Company7,Tech,Los Angeles,TAX77008,4755
+C:8,Company8,Healthcare,New York,TAX33205,3466
+C:9,Company9,Retail,Los Angeles,TAX41271,7098
+C:10,Company10,Healthcare,New York,TAX31960,6801
+C:11,Company11,Healthcare,New York,TAX40088,4868
+C:12,Company12,Retail,New York,TAX27776,1526
+C:13,Company13,Healthcare,New York,TAX92618,3866
+C:14,Company14,Healthcare,Los Angeles,TAX57543,3198
+C:15,Company15,Retail,New York,TAX39111,6820
+C:16,Company16,Retail,New York,TAX53804,1213
+C:17,Company17,Finance,Los Angeles,TAX64028,8957
+C:18,Company18,Finance,Los Angeles,TAX57169,405
+C:19,Company19,Tech,Los Angeles,TAX85417,1536
+C:20,Company20,Healthcare,San Francisco,TAX16440,445
+C:21,Company21,Healthcare,Los Angeles,TAX85294,5851
+C:22,Company22,Retail,New York,TAX51642,8424
+C:23,Company23,Finance,Chicago,TAX86538,9193
+C:24,Company24,Retail,San Francisco,TAX65455,1165
+C:25,Company25,Finance,Chicago,TAX42043,3484
+C:26,Company26,Retail,Los Angeles,TAX58447,7394
+C:27,Company27,Tech,Chicago,TAX18850,3160
+C:28,Company28,Healthcare,Chicago,TAX99052,3326
+C:29,Company29,Finance,New York,TAX84659,6741
+C:30,Company30,Tech,Chicago,TAX91989,5806
+C:31,Company31,Tech,Los Angeles,TAX95597,1772
+C:32,Company32,Healthcare,Los Angeles,TAX84307,6799
+C:33,Company33,Healthcare,San Francisco,TAX31706,9916
+C:34,Company34,Finance,San Francisco,TAX68556,7017
+C:35,Company35,Tech,New York,TAX84742,1352
+C:36,Company36,Retail,San Francisco,TAX23502,7015
+C:37,Company37,Healthcare,San Francisco,TAX40137,5477
+C:38,Company38,Tech,Chicago,TAX11167,3598
+C:39,Company39,Finance,Chicago,TAX43433,9183
+C:40,Company40,Healthcare,San Francisco,TAX45440,6147
+C:41,Company41,Retail,San Francisco,TAX20729,4521
+C:42,Company42,Finance,New York,TAX93763,2523
+C:43,Company43,Healthcare,San Francisco,TAX22226,649
+C:44,Company44,Finance,Los Angeles,TAX74535,3935
+C:45,Company45,Finance,Chicago,TAX99514,9498
+C:46,Company46,Finance,San Francisco,TAX98908,6296
+C:47,Company47,Tech,Los Angeles,TAX15730,8724
+C:48,Company48,Retail,Los Angeles,TAX50157,1148
+C:49,Company49,Finance,New York,TAX46363,5082
+C:50,Company50,Healthcare,New York,TAX40906,2996
+C:51,Company51,Finance,Los Angeles,TAX39466,364
+C:52,Company52,Tech,Los Angeles,TAX63971,5745
+C:53,Company53,Retail,Chicago,TAX18559,9383
+C:54,Company54,Healthcare,Los Angeles,TAX85131,8163
+C:55,Company55,Tech,Los Angeles,TAX42964,9715
+C:56,Company56,Finance,New York,TAX69683,3238
+C:57,Company57,Finance,New York,TAX39061,8682
+C:58,Company58,Retail,New York,TAX40889,5128
+C:59,Company59,Retail,Chicago,TAX10360,2252
+C:60,Company60,Tech,San Francisco,TAX44083,5166
+C:61,Company61,Finance,Los Angeles,TAX20876,3555
+C:62,Company62,Healthcare,New York,TAX21619,3798
+C:63,Company63,Finance,Los Angeles,TAX40153,5921
+C:64,Company64,Healthcare,Los Angeles,TAX81231,1424
+C:65,Company65,Tech,New York,TAX42547,6227
+C:66,Company66,Finance,Chicago,TAX77758,5552
+C:67,Company67,Tech,New York,TAX58971,6749
+C:68,Company68,Retail,Los Angeles,TAX46759,1300
+C:69,Company69,Retail,Los Angeles,TAX28627,1176
+C:70,Company70,Finance,Los Angeles,TAX92433,4386
+C:71,Company71,Finance,Los Angeles,TAX36705,4900
+C:72,Company72,Retail,New York,TAX69034,1216
+C:73,Company73,Tech,Los Angeles,TAX36193,3414
+C:74,Company74,Finance,Chicago,TAX50084,6761
+C:75,Company75,Retail,New York,TAX99588,2485
+C:76,Company76,Retail,New York,TAX33361,8145
+C:77,Company77,Retail,Los Angeles,TAX68438,7506
+C:78,Company78,Tech,Chicago,TAX71858,5643
+C:79,Company79,Healthcare,San Francisco,TAX94987,4009
+C:80,Company80,Finance,Chicago,TAX29090,2979
+C:81,Company81,Healthcare,San Francisco,TAX11970,3518
+C:82,Company82,Healthcare,Los Angeles,TAX17232,2515
+C:83,Company83,Healthcare,Los Angeles,TAX46916,173
+C:84,Company84,Healthcare,New York,TAX37336,9922
+C:85,Company85,Retail,Chicago,TAX86178,5922
+C:86,Company86,Finance,San Francisco,TAX49701,540
+C:87,Company87,Finance,New York,TAX16591,3074
+C:88,Company88,Retail,San Francisco,TAX35514,4397
+C:89,Company89,Healthcare,San Francisco,TAX36478,4987
+C:90,Company90,Healthcare,San Francisco,TAX62092,9542
+C:91,Company91,Finance,Chicago,TAX65162,8131
+C:92,Company92,Healthcare,Chicago,TAX89722,7317
+C:93,Company93,Retail,Chicago,TAX49158,6931
+C:94,Company94,Retail,San Francisco,TAX34609,900
+C:95,Company95,Tech,San Francisco,TAX35086,1768
+C:96,Company96,Tech,Los Angeles,TAX65046,7349
+C:97,Company97,Finance,Chicago,TAX63308,8015
+C:98,Company98,Tech,Chicago,TAX79769,6584
+C:99,Company99,Healthcare,Los Angeles,TAX83338,4608
+C:100,Company100,Healthcare,New York,TAX60358,2604
+C:101,Company101,Finance,Los Angeles,TAX33717,5142
+C:102,Company102,Tech,Los Angeles,TAX19011,3990
+C:103,Company103,Retail,Los Angeles,TAX42839,8487
+C:104,Company104,Finance,New York,TAX80554,3491
+C:105,Company105,Retail,San Francisco,TAX99858,6987
+C:106,Company106,Tech,New York,TAX49277,2144
+C:107,Company107,Finance,Los Angeles,TAX36843,5947
+C:108,Company108,Retail,Los Angeles,TAX58321,6199
+C:109,Company109,Tech,New York,TAX96104,1558
+C:110,Company110,Finance,Los Angeles,TAX65887,6252
+C:111,Company111,Tech,San Francisco,TAX35539,8417
+C:112,Company112,Healthcare,Chicago,TAX52826,5871
+C:113,Company113,Retail,Los Angeles,TAX95851,9221
+C:114,Company114,Tech,New York,TAX90890,3232
+C:115,Company115,Finance,New York,TAX24970,777
+C:116,Company116,Healthcare,Chicago,TAX87522,8682
+C:117,Company117,Retail,Los Angeles,TAX65898,246
+C:118,Company118,Finance,San Francisco,TAX79067,9266
+C:119,Company119,Healthcare,New York,TAX98051,5203
+C:120,Company120,Tech,New York,TAX23413,5885
+C:121,Company121,Finance,Los Angeles,TAX40428,739
+C:122,Company122,Retail,San Francisco,TAX65707,7052
+C:123,Company123,Healthcare,New York,TAX11490,6110
+C:124,Company124,Retail,San Francisco,TAX10757,4616
+C:125,Company125,Finance,Los Angeles,TAX77229,7625
+C:126,Company126,Finance,New York,TAX96592,5296
+C:127,Company127,Retail,San Francisco,TAX93603,4058
+C:128,Company128,Retail,New York,TAX23873,7543
+C:129,Company129,Finance,New York,TAX18077,1633
+C:130,Company130,Tech,Los Angeles,TAX69250,326
+C:131,Company131,Tech,New York,TAX20699,9572
+C:132,Company132,Finance,Los Angeles,TAX60243,4900
+C:133,Company133,Retail,Los Angeles,TAX80229,2259
+C:134,Company134,Finance,Chicago,TAX98008,8206
+C:135,Company135,Finance,New York,TAX86078,2878
+C:136,Company136,Tech,Chicago,TAX91386,324
+C:137,Company137,Finance,New York,TAX52116,2504
+C:138,Company138,Finance,Chicago,TAX21544,5927
+C:139,Company139,Finance,New York,TAX22640,8498
+C:140,Company140,Retail,Chicago,TAX13215,1404
+C:141,Company141,Finance,Chicago,TAX23385,7727
+C:142,Company142,Tech,San Francisco,TAX94084,6638
+C:143,Company143,Tech,Chicago,TAX78642,5590
+C:144,Company144,Tech,San Francisco,TAX97529,4362
+C:145,Company145,Healthcare,Chicago,TAX48495,3892
+C:146,Company146,Finance,San Francisco,TAX54135,1084
+C:147,Company147,Finance,San Francisco,TAX50740,5330
+C:148,Company148,Finance,San Francisco,TAX89894,2086
+C:149,Company149,Tech,Los Angeles,TAX55451,5231
+C:150,Company150,Healthcare,San Francisco,TAX44746,7250
+C:151,Company151,Tech,Los Angeles,TAX17102,2325
+C:152,Company152,Finance,Los Angeles,TAX42229,5811
+C:153,Company153,Retail,Los Angeles,TAX22230,2172
+C:154,Company154,Retail,Chicago,TAX45327,6589
+C:155,Company155,Retail,San Francisco,TAX18082,3646
+C:156,Company156,Tech,Los Angeles,TAX14832,3120
+C:157,Company157,Tech,New York,TAX95365,6967
+C:158,Company158,Finance,New York,TAX21090,5687
+C:159,Company159,Retail,Chicago,TAX73094,4477
+C:160,Company160,Healthcare,San Francisco,TAX83112,7824
+C:161,Company161,Retail,Los Angeles,TAX60157,626
+C:162,Company162,Retail,San Francisco,TAX90084,2343
+C:163,Company163,Retail,Los Angeles,TAX99998,7704
+C:164,Company164,Healthcare,New York,TAX24657,1605
+C:165,Company165,Healthcare,Chicago,TAX91147,9588
+C:166,Company166,Retail,San Francisco,TAX49729,943
+C:167,Company167,Tech,Chicago,TAX44442,5348
+C:168,Company168,Healthcare,Los Angeles,TAX96784,1711
+C:169,Company169,Finance,San Francisco,TAX80155,9770
+C:170,Company170,Healthcare,San Francisco,TAX87007,6829
+C:171,Company171,Healthcare,Los Angeles,TAX49226,7632
+C:172,Company172,Retail,San Francisco,TAX78164,3227
+C:173,Company173,Tech,New York,TAX12538,3636
+C:174,Company174,Tech,New York,TAX22249,345
+C:175,Company175,Retail,New York,TAX85099,8884
+C:176,Company176,Finance,Los Angeles,TAX98442,253
+C:177,Company177,Retail,New York,TAX66326,1188
+C:178,Company178,Tech,New York,TAX76837,9733
+C:179,Company179,Retail,Los Angeles,TAX21903,4249
+C:180,Company180,Retail,Chicago,TAX91535,2652
+C:181,Company181,Healthcare,San Francisco,TAX13540,6175
+C:182,Company182,Healthcare,San Francisco,TAX17675,4171
+C:183,Company183,Finance,San Francisco,TAX15262,9911
+C:184,Company184,Healthcare,Chicago,TAX56624,1902
+C:185,Company185,Healthcare,Los Angeles,TAX20509,2589
+C:186,Company186,Tech,New York,TAX46137,9331
+C:187,Company187,Retail,New York,TAX82342,8284
+C:188,Company188,Tech,San Francisco,TAX96859,1863
+C:189,Company189,Tech,Chicago,TAX60017,3209
+C:190,Company190,Finance,San Francisco,TAX14780,5698
+C:191,Company191,Tech,New York,TAX63528,6023
+C:192,Company192,Healthcare,New York,TAX80534,3280
+C:193,Company193,Finance,Chicago,TAX61695,4464
+C:194,Company194,Tech,Los Angeles,TAX90460,2429
+C:195,Company195,Healthcare,Los Angeles,TAX56716,1766
+C:196,Company196,Healthcare,San Francisco,TAX25593,3514
+C:197,Company197,Tech,Chicago,TAX33940,4141
+C:198,Company198,Finance,Chicago,TAX73218,3655
+C:199,Company199,Tech,New York,TAX80069,5500
+C:200,Company200,Finance,San Francisco,TAX52303,1698
+C:201,Company201,Retail,Chicago,TAX57821,4107
+C:202,Company202,Finance,New York,TAX24338,5080
+C:203,Company203,Retail,Los Angeles,TAX13943,3715
+C:204,Company204,Tech,Los Angeles,TAX88499,7000
+C:205,Company205,Finance,San Francisco,TAX40814,2271
+C:206,Company206,Retail,Chicago,TAX51440,6447
+C:207,Company207,Healthcare,Los Angeles,TAX20905,4786
+C:208,Company208,Tech,Los Angeles,TAX71283,8783
+C:209,Company209,Tech,San Francisco,TAX89007,9926
+C:210,Company210,Healthcare,San Francisco,TAX92079,1889
+C:211,Company211,Finance,Chicago,TAX79438,8637
+C:212,Company212,Tech,New York,TAX71469,8289
+C:213,Company213,Retail,Los Angeles,TAX43060,4043
+C:214,Company214,Tech,Chicago,TAX76789,2076
+C:215,Company215,Tech,Los Angeles,TAX92012,1411
+C:216,Company216,Tech,Chicago,TAX74738,9563
+C:217,Company217,Tech,Los Angeles,TAX91828,1181
+C:218,Company218,Finance,Chicago,TAX38927,7807
+C:219,Company219,Retail,San Francisco,TAX49355,7897
+C:220,Company220,Tech,San Francisco,TAX61108,2109
+C:221,Company221,Healthcare,Chicago,TAX49568,4779
+C:222,Company222,Tech,Chicago,TAX57590,4550
+C:223,Company223,Tech,Chicago,TAX50001,4634
+C:224,Company224,Retail,Los Angeles,TAX48491,5243
+C:225,Company225,Healthcare,New York,TAX52760,8636
+C:226,Company226,Retail,Chicago,TAX61525,3649
+C:227,Company227,Finance,New York,TAX18404,9130
+C:228,Company228,Tech,San Francisco,TAX21016,4173
+C:229,Company229,Retail,Chicago,TAX15918,4519
+C:230,Company230,Tech,San Francisco,TAX36554,6389
+C:231,Company231,Finance,New York,TAX51458,4299
+C:232,Company232,Finance,San Francisco,TAX87598,7228
+C:233,Company233,Healthcare,Los Angeles,TAX21200,2924
+C:234,Company234,Healthcare,Chicago,TAX68567,7406
+C:235,Company235,Tech,New York,TAX71876,7479
+C:236,Company236,Tech,Chicago,TAX27568,9501
+C:237,Company237,Healthcare,Chicago,TAX43673,2698
+C:238,Company238,Finance,San Francisco,TAX27066,2457
+C:239,Company239,Finance,Chicago,TAX27908,6798
+C:240,Company240,Tech,Chicago,TAX88011,5592
+C:241,Company241,Tech,New York,TAX67590,7055
+C:242,Company242,Finance,San Francisco,TAX86202,447
+C:243,Company243,Tech,San Francisco,TAX54393,7806
+C:244,Company244,Healthcare,Los Angeles,TAX77978,3994
+C:245,Company245,Tech,New York,TAX91574,4664
+C:246,Company246,Tech,New York,TAX47544,3044
+C:247,Company247,Retail,New York,TAX34024,6145
+C:248,Company248,Healthcare,San Francisco,TAX35157,3233
+C:249,Company249,Finance,Los Angeles,TAX17285,2384
+C:250,Company250,Finance,Los Angeles,TAX56484,6240
+C:251,Company251,Finance,New York,TAX10131,4809
+C:252,Company252,Retail,Chicago,TAX67390,800
+C:253,Company253,Tech,New York,TAX68547,6722
+C:254,Company254,Retail,San Francisco,TAX82499,483
+C:255,Company255,Retail,Chicago,TAX18803,5779
+C:256,Company256,Tech,Chicago,TAX76406,2300
+C:257,Company257,Finance,Los Angeles,TAX29827,7748
+C:258,Company258,Retail,Chicago,TAX56956,3571
+C:259,Company259,Healthcare,San Francisco,TAX46460,7570
+C:260,Company260,Tech,New York,TAX16171,306
+C:261,Company261,Retail,Chicago,TAX60293,5968
+C:262,Company262,Finance,Los Angeles,TAX70957,951
+C:263,Company263,Retail,Chicago,TAX33163,418
+C:264,Company264,Tech,Los Angeles,TAX96278,8991
+C:265,Company265,Retail,New York,TAX23866,7120
+C:266,Company266,Healthcare,Los Angeles,TAX43423,3541
+C:267,Company267,Tech,New York,TAX21460,737
+C:268,Company268,Retail,Chicago,TAX54872,5626
+C:269,Company269,Retail,New York,TAX79646,7073
+C:270,Company270,Finance,Los Angeles,TAX28559,9272
+C:271,Company271,Finance,Chicago,TAX18668,951
+C:272,Company272,Tech,Chicago,TAX78184,2014
+C:273,Company273,Finance,Chicago,TAX25692,9727
+C:274,Company274,Healthcare,San Francisco,TAX27206,409
+C:275,Company275,Healthcare,Chicago,TAX71897,7594
+C:276,Company276,Tech,Chicago,TAX26711,3528
+C:277,Company277,Finance,San Francisco,TAX54731,1399
+C:278,Company278,Retail,Los Angeles,TAX81635,2504
+C:279,Company279,Healthcare,Chicago,TAX38068,3164
+C:280,Company280,Finance,San Francisco,TAX16649,8403
+C:281,Company281,Finance,San Francisco,TAX30708,9772
+C:282,Company282,Retail,San Francisco,TAX86041,7791
+C:283,Company283,Healthcare,New York,TAX27621,7716
+C:284,Company284,Retail,Chicago,TAX70695,4020
+C:285,Company285,Healthcare,New York,TAX60462,9763
+C:286,Company286,Retail,Chicago,TAX66562,2859
+C:287,Company287,Finance,Chicago,TAX46471,4462
+C:288,Company288,Retail,Chicago,TAX23622,5884
+C:289,Company289,Tech,New York,TAX14788,4390
+C:290,Company290,Finance,Chicago,TAX77525,7554
+C:291,Company291,Finance,Chicago,TAX63995,7613
+C:292,Company292,Retail,New York,TAX61293,9369
+C:293,Company293,Tech,Los Angeles,TAX42946,4182
+C:294,Company294,Finance,Los Angeles,TAX47319,9471
+C:295,Company295,Retail,New York,TAX44336,9930
+C:296,Company296,Retail,New York,TAX77638,6729
+C:297,Company297,Healthcare,San Francisco,TAX28317,5121
+C:298,Company298,Healthcare,New York,TAX60405,1027
+C:299,Company299,Tech,New York,TAX64617,4046
+C:300,Company300,Tech,Chicago,TAX60531,6946
+C:301,Company301,Retail,San Francisco,TAX94255,4264
+C:302,Company302,Finance,San Francisco,TAX41712,2054
+C:303,Company303,Retail,San Francisco,TAX52420,1292
+C:304,Company304,Tech,New York,TAX11630,7076
+C:305,Company305,Healthcare,Los Angeles,TAX81304,5804
+C:306,Company306,Healthcare,New York,TAX54437,8465
+C:307,Company307,Healthcare,Chicago,TAX13632,5920
+C:308,Company308,Finance,New York,TAX71202,4640
+C:309,Company309,Finance,Los Angeles,TAX19121,3068
+C:310,Company310,Finance,San Francisco,TAX22718,9995
+C:311,Company311,Tech,Chicago,TAX51339,802
+C:312,Company312,Healthcare,Chicago,TAX48990,2665
+C:313,Company313,Retail,Chicago,TAX97126,3803
+C:314,Company314,Healthcare,New York,TAX98027,8414
+C:315,Company315,Healthcare,Los Angeles,TAX87725,1286
+C:316,Company316,Healthcare,Los Angeles,TAX31025,3495
+C:317,Company317,Finance,Los Angeles,TAX60726,2323
+C:318,Company318,Tech,New York,TAX45094,5645
+C:319,Company319,Retail,New York,TAX34996,2461
+C:320,Company320,Finance,Los Angeles,TAX24805,7161
+C:321,Company321,Tech,New York,TAX23348,5693
+C:322,Company322,Healthcare,New York,TAX89938,9927
+C:323,Company323,Tech,Chicago,TAX79824,351
+C:324,Company324,Retail,San Francisco,TAX98166,2102
+C:325,Company325,Retail,New York,TAX34594,5714
+C:326,Company326,Retail,Los Angeles,TAX12020,2756
+C:327,Company327,Healthcare,Los Angeles,TAX81144,7073
+C:328,Company328,Finance,San Francisco,TAX13814,1755
+C:329,Company329,Healthcare,New York,TAX43462,7407
+C:330,Company330,Retail,Chicago,TAX59160,3915
+C:331,Company331,Healthcare,Los Angeles,TAX65367,138
+C:332,Company332,Retail,New York,TAX51711,7397
+C:333,Company333,Healthcare,Chicago,TAX56661,4117
+C:334,Company334,Retail,Chicago,TAX62580,332
+C:335,Company335,Retail,San Francisco,TAX90634,772
+C:336,Company336,Finance,New York,TAX19508,5669
+C:337,Company337,Retail,Los Angeles,TAX12230,5416
+C:338,Company338,Healthcare,Los Angeles,TAX65532,6042
+C:339,Company339,Tech,New York,TAX29031,2014
+C:340,Company340,Retail,Chicago,TAX16282,7472
+C:341,Company341,Retail,Los Angeles,TAX15097,749
+C:342,Company342,Finance,Chicago,TAX70372,182
+C:343,Company343,Healthcare,San Francisco,TAX98513,2030
+C:344,Company344,Tech,Chicago,TAX68780,4349
+C:345,Company345,Finance,San Francisco,TAX87314,9451
+C:346,Company346,Finance,New York,TAX74694,726
+C:347,Company347,Retail,Los Angeles,TAX36467,7360
+C:348,Company348,Finance,Los Angeles,TAX49515,9631
+C:349,Company349,Retail,New York,TAX97713,5684
+C:350,Company350,Healthcare,New York,TAX19796,3382
+C:351,Company351,Finance,New York,TAX80727,358
+C:352,Company352,Tech,Los Angeles,TAX29887,7653
+C:353,Company353,Retail,Chicago,TAX60670,6867
+C:354,Company354,Finance,Chicago,TAX62640,1027
+C:355,Company355,Tech,Los Angeles,TAX10315,2065
+C:356,Company356,Tech,Chicago,TAX59973,196
+C:357,Company357,Tech,Los Angeles,TAX92761,7087
+C:358,Company358,Retail,Los Angeles,TAX79227,1537
+C:359,Company359,Retail,Los Angeles,TAX61497,7081
+C:360,Company360,Healthcare,Los Angeles,TAX82209,7891
+C:361,Company361,Finance,Chicago,TAX64974,2161
+C:362,Company362,Tech,Los Angeles,TAX40456,264
+C:363,Company363,Tech,Chicago,TAX67415,5943
+C:364,Company364,Healthcare,New York,TAX19570,4570
+C:365,Company365,Tech,New York,TAX68747,4980
+C:366,Company366,Tech,San Francisco,TAX74456,4008
+C:367,Company367,Healthcare,San Francisco,TAX24351,387
+C:368,Company368,Healthcare,Los Angeles,TAX12072,485
+C:369,Company369,Retail,New York,TAX98021,8727
+C:370,Company370,Retail,New York,TAX92275,440
+C:371,Company371,Tech,Chicago,TAX22620,6021
+C:372,Company372,Finance,Chicago,TAX28237,3795
+C:373,Company373,Healthcare,Los Angeles,TAX41678,4461
+C:374,Company374,Finance,New York,TAX83716,2621
+C:375,Company375,Retail,Los Angeles,TAX17139,9866
+C:376,Company376,Finance,Chicago,TAX48434,9259
+C:377,Company377,Healthcare,New York,TAX75014,6786
+C:378,Company378,Healthcare,New York,TAX52863,6135
+C:379,Company379,Tech,San Francisco,TAX56474,9328
+C:380,Company380,Healthcare,Chicago,TAX19320,699
+C:381,Company381,Retail,Los Angeles,TAX77414,6617
+C:382,Company382,Tech,Chicago,TAX66491,403
+C:383,Company383,Retail,San Francisco,TAX93199,4985
+C:384,Company384,Tech,San Francisco,TAX44825,1777
+C:385,Company385,Healthcare,Chicago,TAX29560,3071
+C:386,Company386,Healthcare,Chicago,TAX52729,3507
+C:387,Company387,Healthcare,New York,TAX88477,3535
+C:388,Company388,Healthcare,Chicago,TAX56690,1924
+C:389,Company389,Finance,New York,TAX79965,8445
+C:390,Company390,Retail,Chicago,TAX52538,4215
+C:391,Company391,Healthcare,New York,TAX49941,9983
+C:392,Company392,Healthcare,Chicago,TAX97158,4368
+C:393,Company393,Healthcare,Chicago,TAX13275,4788
+C:394,Company394,Retail,Los Angeles,TAX42261,1045
+C:395,Company395,Healthcare,San Francisco,TAX45328,5749
+C:396,Company396,Tech,Los Angeles,TAX94516,265
+C:397,Company397,Healthcare,San Francisco,TAX95482,9466
+C:398,Company398,Retail,New York,TAX37881,1179
+C:399,Company399,Tech,Chicago,TAX72743,5376
+C:400,Company400,Retail,San Francisco,TAX70835,3450
+C:401,Company401,Healthcare,Chicago,TAX88872,5684
+C:402,Company402,Finance,San Francisco,TAX65517,6232
+C:403,Company403,Healthcare,Los Angeles,TAX21130,6137
+C:404,Company404,Finance,New York,TAX57176,8937
+C:405,Company405,Healthcare,Los Angeles,TAX32596,846
+C:406,Company406,Healthcare,Los Angeles,TAX53194,2399
+C:407,Company407,Healthcare,Los Angeles,TAX21336,9824
+C:408,Company408,Tech,New York,TAX92259,3568
+C:409,Company409,Tech,New York,TAX76911,6483
+C:410,Company410,Finance,Los Angeles,TAX61499,6579
+C:411,Company411,Tech,Chicago,TAX67364,8121
+C:412,Company412,Finance,San Francisco,TAX49413,8509
+C:413,Company413,Retail,New York,TAX31255,176
+C:414,Company414,Finance,New York,TAX47364,3069
+C:415,Company415,Finance,Los Angeles,TAX91519,6399
+C:416,Company416,Finance,New York,TAX10756,1968
+C:417,Company417,Tech,Los Angeles,TAX93440,2515
+C:418,Company418,Healthcare,Chicago,TAX54591,4039
+C:419,Company419,Healthcare,New York,TAX32710,1826
+C:420,Company420,Retail,Los Angeles,TAX64290,7743
+C:421,Company421,Finance,Los Angeles,TAX97117,4443
+C:422,Company422,Retail,Chicago,TAX84130,6689
+C:423,Company423,Finance,Los Angeles,TAX62223,7820
+C:424,Company424,Finance,New York,TAX24485,365
+C:425,Company425,Retail,New York,TAX71960,2838
+C:426,Company426,Healthcare,Los Angeles,TAX50301,3910
+C:427,Company427,Finance,Los Angeles,TAX55865,8096
+C:428,Company428,Finance,New York,TAX42825,3317
+C:429,Company429,Retail,New York,TAX17137,9330
+C:430,Company430,Finance,Los Angeles,TAX30581,5778
+C:431,Company431,Retail,New York,TAX98828,4054
+C:432,Company432,Healthcare,Chicago,TAX83651,2552
+C:433,Company433,Healthcare,Los Angeles,TAX12612,290
+C:434,Company434,Finance,Los Angeles,TAX57107,977
+C:435,Company435,Retail,Los Angeles,TAX47689,4076
+C:436,Company436,Finance,San Francisco,TAX85006,2292
+C:437,Company437,Retail,San Francisco,TAX37368,2491
+C:438,Company438,Tech,New York,TAX91745,7821
+C:439,Company439,Healthcare,San Francisco,TAX69595,2613
+C:440,Company440,Tech,San Francisco,TAX97514,3427
+C:441,Company441,Retail,Los Angeles,TAX19194,5610
+C:442,Company442,Retail,Chicago,TAX79873,2988
+C:443,Company443,Finance,Chicago,TAX85789,8993
+C:444,Company444,Retail,Chicago,TAX76654,2392
+C:445,Company445,Tech,Los Angeles,TAX12089,4734
+C:446,Company446,Retail,San Francisco,TAX51671,541
+C:447,Company447,Retail,San Francisco,TAX39568,5187
+C:448,Company448,Healthcare,Los Angeles,TAX63089,3013
+C:449,Company449,Healthcare,Chicago,TAX31936,4784
+C:450,Company450,Tech,San Francisco,TAX30902,558
+C:451,Company451,Healthcare,Los Angeles,TAX29317,4037
+C:452,Company452,Tech,New York,TAX35064,4143
+C:453,Company453,Retail,San Francisco,TAX74914,5804
+C:454,Company454,Retail,Los Angeles,TAX82753,7520
+C:455,Company455,Finance,New York,TAX82630,159
+C:456,Company456,Finance,Chicago,TAX61381,622
+C:457,Company457,Tech,Chicago,TAX45729,1720
+C:458,Company458,Tech,Los Angeles,TAX78442,7019
+C:459,Company459,Healthcare,Chicago,TAX96407,6485
+C:460,Company460,Retail,New York,TAX83450,3656
+C:461,Company461,Tech,Los Angeles,TAX81323,815
+C:462,Company462,Finance,San Francisco,TAX94985,9502
+C:463,Company463,Finance,Los Angeles,TAX48082,290
+C:464,Company464,Retail,San Francisco,TAX63401,6460
+C:465,Company465,Finance,New York,TAX53006,2690
+C:466,Company466,Retail,Los Angeles,TAX99785,9126
+C:467,Company467,Tech,New York,TAX51853,2524
+C:468,Company468,Healthcare,New York,TAX83335,5128
+C:469,Company469,Healthcare,San Francisco,TAX41492,6250
+C:470,Company470,Finance,Chicago,TAX88859,305
+C:471,Company471,Retail,New York,TAX31688,4663
+C:472,Company472,Healthcare,Chicago,TAX48040,9211
+C:473,Company473,Finance,New York,TAX98886,1364
+C:474,Company474,Tech,Los Angeles,TAX68451,6599
+C:475,Company475,Retail,New York,TAX85796,3077
+C:476,Company476,Retail,Los Angeles,TAX98564,1804
+C:477,Company477,Healthcare,San Francisco,TAX12801,6305
+C:478,Company478,Healthcare,Los Angeles,TAX45153,2930
+C:479,Company479,Finance,Chicago,TAX52399,6714
+C:480,Company480,Tech,San Francisco,TAX61293,158
+C:481,Company481,Healthcare,San Francisco,TAX40067,1829
+C:482,Company482,Tech,Chicago,TAX45911,9740
+C:483,Company483,Tech,San Francisco,TAX58615,2047
+C:484,Company484,Tech,New York,TAX12665,8140
+C:485,Company485,Tech,Los Angeles,TAX17237,8826
+C:486,Company486,Retail,Chicago,TAX50628,5096
+C:487,Company487,Retail,San Francisco,TAX38287,7960
+C:488,Company488,Healthcare,Los Angeles,TAX12685,7085
+C:489,Company489,Healthcare,Los Angeles,TAX37646,6080
+C:490,Company490,Healthcare,San Francisco,TAX23389,7620
+C:491,Company491,Finance,New York,TAX84158,505
+C:492,Company492,Healthcare,Chicago,TAX96255,3987
+C:493,Company493,Retail,San Francisco,TAX80347,9866
+C:494,Company494,Tech,San Francisco,TAX23443,9204
+C:495,Company495,Healthcare,San Francisco,TAX69165,6386
+C:496,Company496,Healthcare,Los Angeles,TAX45427,6696
+C:497,Company497,Retail,San Francisco,TAX54735,6345
+C:498,Company498,Finance,Chicago,TAX25803,9894
+C:499,Company499,Tech,San Francisco,TAX69087,1497
+C:500,Company500,Retail,Chicago,TAX14544,9416
+C:501,Company501,Tech,Los Angeles,TAX48355,8277
+C:502,Company502,Retail,San Francisco,TAX19132,4488
+C:503,Company503,Retail,Los Angeles,TAX52826,9447
+C:504,Company504,Finance,Los Angeles,TAX50515,9347
+C:505,Company505,Healthcare,New York,TAX60237,6261
+C:506,Company506,Retail,San Francisco,TAX52882,2186
+C:507,Company507,Tech,New York,TAX72148,4123
+C:508,Company508,Finance,New York,TAX92224,4649
+C:509,Company509,Healthcare,Los Angeles,TAX53060,4043
+C:510,Company510,Tech,New York,TAX75161,3119
+C:511,Company511,Finance,San Francisco,TAX51797,8034
+C:512,Company512,Healthcare,New York,TAX79237,4360
+C:513,Company513,Retail,San Francisco,TAX72162,3988
+C:514,Company514,Healthcare,New York,TAX77490,6389
+C:515,Company515,Healthcare,New York,TAX74630,1715
+C:516,Company516,Tech,Los Angeles,TAX57931,5695
+C:517,Company517,Retail,New York,TAX41994,9203
+C:518,Company518,Finance,Chicago,TAX80133,3891
+C:519,Company519,Tech,New York,TAX69943,2338
+C:520,Company520,Retail,San Francisco,TAX70163,5185
+C:521,Company521,Tech,New York,TAX19702,8087
+C:522,Company522,Retail,Los Angeles,TAX35679,9291
+C:523,Company523,Healthcare,Los Angeles,TAX71870,7149
+C:524,Company524,Tech,Chicago,TAX53173,8455
+C:525,Company525,Healthcare,San Francisco,TAX62733,1836
+C:526,Company526,Tech,Los Angeles,TAX21125,8851
+C:527,Company527,Healthcare,Los Angeles,TAX14499,9582
+C:528,Company528,Healthcare,San Francisco,TAX86900,1940
+C:529,Company529,Tech,Los Angeles,TAX89570,1105
+C:530,Company530,Finance,Los Angeles,TAX62955,7170
+C:531,Company531,Healthcare,San Francisco,TAX51315,338
+C:532,Company532,Tech,San Francisco,TAX44005,6558
+C:533,Company533,Healthcare,San Francisco,TAX60102,4616
+C:534,Company534,Healthcare,New York,TAX70044,2108
+C:535,Company535,Finance,San Francisco,TAX74909,9709
+C:536,Company536,Finance,San Francisco,TAX89341,9840
+C:537,Company537,Tech,San Francisco,TAX36718,2024
+C:538,Company538,Healthcare,Chicago,TAX84377,3391
+C:539,Company539,Healthcare,San Francisco,TAX35613,9500
+C:540,Company540,Healthcare,Chicago,TAX61692,7044
+C:541,Company541,Tech,San Francisco,TAX54945,12
+C:542,Company542,Tech,Chicago,TAX59468,5845
+C:543,Company543,Retail,Chicago,TAX65682,6609
+C:544,Company544,Healthcare,Chicago,TAX83206,7711
+C:545,Company545,Healthcare,New York,TAX14118,8740
+C:546,Company546,Healthcare,Chicago,TAX65280,9170
+C:547,Company547,Retail,Chicago,TAX81312,8140
+C:548,Company548,Finance,New York,TAX58850,5636
+C:549,Company549,Tech,San Francisco,TAX34037,2360
+C:550,Company550,Retail,Chicago,TAX84730,844
+C:551,Company551,Finance,Los Angeles,TAX21751,8166
+C:552,Company552,Finance,New York,TAX52219,2518
+C:553,Company553,Tech,New York,TAX31689,5785
+C:554,Company554,Retail,Los Angeles,TAX11697,5214
+C:555,Company555,Tech,Chicago,TAX73681,6637
+C:556,Company556,Healthcare,Chicago,TAX63355,3125
+C:557,Company557,Finance,Los Angeles,TAX69924,7526
+C:558,Company558,Retail,Los Angeles,TAX45638,2951
+C:559,Company559,Finance,Chicago,TAX10541,7881
+C:560,Company560,Healthcare,Los Angeles,TAX57016,1623
+C:561,Company561,Finance,San Francisco,TAX14039,5209
+C:562,Company562,Finance,San Francisco,TAX38383,8017
+C:563,Company563,Finance,San Francisco,TAX64671,5530
+C:564,Company564,Retail,San Francisco,TAX42049,7616
+C:565,Company565,Tech,San Francisco,TAX65021,2609
+C:566,Company566,Tech,New York,TAX68308,1851
+C:567,Company567,Tech,San Francisco,TAX68700,6514
+C:568,Company568,Finance,Los Angeles,TAX18410,4818
+C:569,Company569,Healthcare,New York,TAX91840,7100
+C:570,Company570,Finance,Los Angeles,TAX32029,5048
+C:571,Company571,Tech,New York,TAX47476,8077
+C:572,Company572,Retail,Los Angeles,TAX69067,9580
+C:573,Company573,Healthcare,San Francisco,TAX77571,7441
+C:574,Company574,Tech,San Francisco,TAX71650,2929
+C:575,Company575,Retail,New York,TAX68208,6292
+C:576,Company576,Tech,Los Angeles,TAX51316,8305
+C:577,Company577,Tech,San Francisco,TAX85891,2587
+C:578,Company578,Healthcare,San Francisco,TAX37346,4772
+C:579,Company579,Healthcare,Los Angeles,TAX39612,5746
+C:580,Company580,Retail,San Francisco,TAX68704,7313
+C:581,Company581,Tech,New York,TAX49447,8373
+C:582,Company582,Tech,Chicago,TAX34388,4556
+C:583,Company583,Healthcare,Los Angeles,TAX21025,5320
+C:584,Company584,Retail,New York,TAX76825,6212
+C:585,Company585,Retail,Chicago,TAX12002,2849
+C:586,Company586,Finance,Los Angeles,TAX61237,7355
+C:587,Company587,Retail,Chicago,TAX20457,5223
+C:588,Company588,Retail,San Francisco,TAX82639,1772
+C:589,Company589,Tech,New York,TAX22577,7364
+C:590,Company590,Finance,New York,TAX59631,27
+C:591,Company591,Finance,New York,TAX66601,2051
+C:592,Company592,Healthcare,San Francisco,TAX26903,3603
+C:593,Company593,Retail,New York,TAX19150,8673
+C:594,Company594,Healthcare,Chicago,TAX45911,5513
+C:595,Company595,Finance,Los Angeles,TAX52999,1825
+C:596,Company596,Retail,San Francisco,TAX19138,9456
+C:597,Company597,Healthcare,New York,TAX52765,458
+C:598,Company598,Healthcare,New York,TAX17823,7892
+C:599,Company599,Retail,New York,TAX34479,3206
+C:600,Company600,Tech,Chicago,TAX73250,1540
