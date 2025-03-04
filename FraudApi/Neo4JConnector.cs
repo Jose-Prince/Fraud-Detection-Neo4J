@@ -378,6 +378,62 @@ public async Task SetRelations(FraudApi.Controllers.Rel_To_Change relations)
     }
 }
 
+
+public async Task SetRelationsMultiple(List<FraudApi.Controllers.Rel_To_Change> relationsList)
+{
+    await using var session = _driver.AsyncSession();
+    try
+    {
+        var parameters = new Dictionary<string, object>();
+
+        // Loop through the list of relations to create dynamic MATCH and SET clauses for each relation
+        foreach (var relations in relationsList)
+        {
+            var attributesRelList = new StringBuilder();
+            foreach (var item in relations.relationAttributes)
+            {
+                string key = item.Key;
+                object value = ConvertJsonElement(item.Value);
+                
+                attributesRelList.Append($"{key}: ${key}_{relations.relationName}, ");
+                parameters[$"{key}_{relations.relationName}"] = value;
+            }
+
+            string attributesFilter = attributesRelList.Length > 0 
+                ? attributesRelList.ToString(0, attributesRelList.Length - 2) 
+                : "";
+
+            // Build SET clause dynamically for each relation
+            var setClause = new StringBuilder();
+            foreach (var kv in relations.To_change)
+            {
+                setClause.Append($"r.{kv.Key} = ${kv.Key}_{relations.relationName}, ");
+                parameters[$"{kv.Key}_{relations.relationName}"] = ConvertJsonElement(kv.Value);
+            }
+
+            string setClauseStr = setClause.Length > 0 
+                ? setClause.ToString(0, setClause.Length - 2) 
+                : "";
+
+            // Build the Cypher query for this particular relation
+            var query = $@"
+                MATCH ()-[r:{relations.relationName} {{ {attributesFilter} }}]->()
+                SET {setClauseStr}
+            ";
+
+            // Run the query for this individual relationship update
+            await session.RunAsync(query, parameters);
+
+            // Clear parameters for the next iteration
+            parameters.Clear();
+        }
+    }
+    finally
+    {
+        await session.CloseAsync();
+    }
+}
+
 // Converts JsonElement to appropriate .NET type
 private object ConvertJsonElement(object value)
 {

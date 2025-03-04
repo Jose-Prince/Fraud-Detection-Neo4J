@@ -123,6 +123,19 @@ public class Controller : ControllerBase
         return Ok("Relations updated successfully");
     }
 
+
+
+    [HttpPut("relations/update_multiple/")]
+    public async Task<IActionResult> SetMultipleRelations([FromBody] List<Rel_To_Change> relations) {
+        if (relations == null) {
+            return BadRequest("No relations provided for deletion.");
+        }
+        await _neo4jConnector.SetRelationsMultiple(relations);
+
+        return Ok("Relations updated successfully");
+    }
+
+
 }
 
 public class Node {
