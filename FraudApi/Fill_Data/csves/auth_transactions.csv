@@ -1,0 +1,1200 @@
+startNode,endNode,relationship,authCode,time,status
+B:525,T:1,AUTHORIZES,AUTH444,2021-07-22T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:343,T:2,AUTHORIZES,AUTH752,2023-03-16T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:191,T:3,AUTHORIZES,AUTH714,2020-11-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:165,T:4,AUTHORIZES,AUTH166,2023-04-10T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:215,T:5,AUTHORIZES,AUTH435,2023-12-30T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:87,T:6,AUTHORIZES,AUTH718,2023-04-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:571,T:7,AUTHORIZES,AUTH321,2021-09-19T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:162,T:8,AUTHORIZES,AUTH832,2025-11-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:503,T:9,AUTHORIZES,AUTH270,2024-02-10T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:132,T:10,AUTHORIZES,AUTH749,2023-05-11T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:71,T:11,AUTHORIZES,AUTH334,2020-02-22T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:333,T:12,AUTHORIZES,AUTH679,2020-07-30T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:530,T:13,AUTHORIZES,AUTH796,2020-03-14T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:482,T:14,AUTHORIZES,AUTH650,2020-06-18T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:122,T:15,AUTHORIZES,AUTH695,2023-10-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:485,T:16,AUTHORIZES,AUTH979,2024-07-04T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:174,T:17,AUTHORIZES,AUTH586,2021-12-20T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:475,T:18,AUTHORIZES,AUTH775,2020-01-06T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:594,T:19,AUTHORIZES,AUTH715,2025-08-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:527,T:20,AUTHORIZES,AUTH686,2024-02-18T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:491,T:21,AUTHORIZES,AUTH191,2020-02-11T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:102,T:22,AUTHORIZES,AUTH758,2025-04-26T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:409,T:23,AUTHORIZES,AUTH804,2023-10-27T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:554,T:24,AUTHORIZES,AUTH934,2021-07-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:509,T:25,AUTHORIZES,AUTH135,2022-12-05T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:128,T:26,AUTHORIZES,AUTH326,2025-12-03T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:108,T:27,AUTHORIZES,AUTH478,2025-09-21T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:3,T:28,AUTHORIZES,AUTH393,2021-09-28T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:84,T:29,AUTHORIZES,AUTH863,2022-06-10T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:276,T:30,AUTHORIZES,AUTH801,2023-05-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:305,T:31,AUTHORIZES,AUTH506,2024-04-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:23,T:32,AUTHORIZES,AUTH847,2023-01-16T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:36,T:33,AUTHORIZES,AUTH805,2021-03-18T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:262,T:34,AUTHORIZES,AUTH168,2025-11-11T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:107,T:35,AUTHORIZES,AUTH179,2023-12-20T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:122,T:36,AUTHORIZES,AUTH599,2023-06-22T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:204,T:37,AUTHORIZES,AUTH601,2025-09-04T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:30,T:38,AUTHORIZES,AUTH149,2022-01-21T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:273,T:39,AUTHORIZES,AUTH601,2025-09-13T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:434,T:40,AUTHORIZES,AUTH839,2021-07-06T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:506,T:41,AUTHORIZES,AUTH724,2023-05-28T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:68,T:42,AUTHORIZES,AUTH480,2025-11-07T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:491,T:43,AUTHORIZES,AUTH554,2024-04-16T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:442,T:44,AUTHORIZES,AUTH434,2024-05-29T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:126,T:45,AUTHORIZES,AUTH922,2024-08-24T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:483,T:46,AUTHORIZES,AUTH910,2022-07-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:315,T:47,AUTHORIZES,AUTH674,2020-10-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:288,T:48,AUTHORIZES,AUTH125,2023-05-08T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:394,T:49,AUTHORIZES,AUTH642,2023-10-25T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:376,T:50,AUTHORIZES,AUTH657,2023-09-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:459,T:51,AUTHORIZES,AUTH748,2024-03-03T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:557,T:52,AUTHORIZES,AUTH669,2022-05-27T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:309,T:53,AUTHORIZES,AUTH299,2023-03-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:558,T:54,AUTHORIZES,AUTH702,2024-07-20T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:290,T:55,AUTHORIZES,AUTH398,2021-03-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:359,T:56,AUTHORIZES,AUTH320,2021-12-10T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:5,T:57,AUTHORIZES,AUTH778,2022-10-14T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:213,T:58,AUTHORIZES,AUTH710,2024-05-11T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:293,T:59,AUTHORIZES,AUTH332,2024-09-26T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:177,T:60,AUTHORIZES,AUTH339,2023-03-27T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:179,T:61,AUTHORIZES,AUTH481,2020-12-18T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:135,T:62,AUTHORIZES,AUTH542,2022-08-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:327,T:63,AUTHORIZES,AUTH109,2020-10-26T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:404,T:64,AUTHORIZES,AUTH931,2020-04-19T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:293,T:65,AUTHORIZES,AUTH512,2025-08-13T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:84,T:66,AUTHORIZES,AUTH840,2025-10-31T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:524,T:67,AUTHORIZES,AUTH808,2023-01-28T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:584,T:68,AUTHORIZES,AUTH929,2023-05-19T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:436,T:69,AUTHORIZES,AUTH955,2020-07-29T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:278,T:70,AUTHORIZES,AUTH158,2020-08-06T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:131,T:71,AUTHORIZES,AUTH297,2022-05-16T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:272,T:72,AUTHORIZES,AUTH690,2024-06-02T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:322,T:73,AUTHORIZES,AUTH828,2023-12-10T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:1,T:74,AUTHORIZES,AUTH893,2025-04-05T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:174,T:75,AUTHORIZES,AUTH242,2023-10-20T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:231,T:76,AUTHORIZES,AUTH568,2024-04-23T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:42,T:77,AUTHORIZES,AUTH705,2024-02-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:216,T:78,AUTHORIZES,AUTH941,2022-08-19T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:337,T:79,AUTHORIZES,AUTH105,2025-10-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:130,T:80,AUTHORIZES,AUTH949,2023-06-02T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:166,T:81,AUTHORIZES,AUTH555,2023-04-17T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:163,T:82,AUTHORIZES,AUTH384,2021-10-12T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:157,T:83,AUTHORIZES,AUTH604,2021-06-24T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:295,T:84,AUTHORIZES,AUTH113,2022-08-09T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:387,T:85,AUTHORIZES,AUTH272,2024-08-28T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:172,T:86,AUTHORIZES,AUTH702,2025-10-21T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:44,T:87,AUTHORIZES,AUTH376,2024-02-04T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:537,T:88,AUTHORIZES,AUTH140,2025-12-07T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:60,T:89,AUTHORIZES,AUTH822,2025-08-11T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:556,T:90,AUTHORIZES,AUTH541,2021-12-31T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:61,T:91,AUTHORIZES,AUTH585,2025-05-25T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:75,T:92,AUTHORIZES,AUTH202,2022-07-08T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:38,T:93,AUTHORIZES,AUTH202,2022-06-18T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:186,T:94,AUTHORIZES,AUTH546,2020-08-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:315,T:95,AUTHORIZES,AUTH976,2024-10-09T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:275,T:96,AUTHORIZES,AUTH209,2022-07-23T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:388,T:97,AUTHORIZES,AUTH453,2020-07-21T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:233,T:98,AUTHORIZES,AUTH311,2025-03-25T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:74,T:99,AUTHORIZES,AUTH410,2021-04-24T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:561,T:100,AUTHORIZES,AUTH221,2023-06-13T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:110,T:101,AUTHORIZES,AUTH560,2022-10-03T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:106,T:102,AUTHORIZES,AUTH636,2022-08-26T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:313,T:103,AUTHORIZES,AUTH192,2023-03-17T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:206,T:104,AUTHORIZES,AUTH332,2023-07-03T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:409,T:105,AUTHORIZES,AUTH359,2020-01-24T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:521,T:106,AUTHORIZES,AUTH900,2025-12-04T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:75,T:107,AUTHORIZES,AUTH923,2021-08-30T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:121,T:108,AUTHORIZES,AUTH866,2024-03-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:175,T:109,AUTHORIZES,AUTH831,2021-12-09T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:560,T:110,AUTHORIZES,AUTH468,2024-09-30T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:582,T:111,AUTHORIZES,AUTH534,2024-03-27T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:22,T:112,AUTHORIZES,AUTH712,2021-12-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:457,T:113,AUTHORIZES,AUTH564,2024-02-25T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:302,T:114,AUTHORIZES,AUTH834,2022-02-28T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:498,T:115,AUTHORIZES,AUTH189,2022-09-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:201,T:116,AUTHORIZES,AUTH942,2020-07-22T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:223,T:117,AUTHORIZES,AUTH381,2021-08-20T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:143,T:118,AUTHORIZES,AUTH245,2020-10-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:252,T:119,AUTHORIZES,AUTH468,2022-02-04T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:317,T:120,AUTHORIZES,AUTH710,2020-04-12T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:165,T:121,AUTHORIZES,AUTH498,2025-04-02T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:268,T:122,AUTHORIZES,AUTH681,2022-09-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:167,T:123,AUTHORIZES,AUTH555,2022-05-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:213,T:124,AUTHORIZES,AUTH128,2021-05-11T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:586,T:125,AUTHORIZES,AUTH936,2021-01-31T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:590,T:126,AUTHORIZES,AUTH813,2024-09-11T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:456,T:127,AUTHORIZES,AUTH981,2023-06-05T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:398,T:128,AUTHORIZES,AUTH339,2021-12-11T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:221,T:129,AUTHORIZES,AUTH681,2022-12-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:191,T:130,AUTHORIZES,AUTH615,2020-10-27T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:102,T:131,AUTHORIZES,AUTH594,2021-10-26T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:411,T:132,AUTHORIZES,AUTH699,2025-05-31T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:104,T:133,AUTHORIZES,AUTH891,2024-11-09T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:143,T:134,AUTHORIZES,AUTH389,2025-04-22T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:147,T:135,AUTHORIZES,AUTH853,2023-10-02T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:297,T:136,AUTHORIZES,AUTH112,2021-08-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:525,T:137,AUTHORIZES,AUTH995,2020-05-22T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:524,T:138,AUTHORIZES,AUTH976,2021-05-24T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:442,T:139,AUTHORIZES,AUTH292,2020-06-17T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:461,T:140,AUTHORIZES,AUTH580,2025-04-17T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:536,T:141,AUTHORIZES,AUTH861,2024-09-23T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:373,T:142,AUTHORIZES,AUTH993,2025-04-02T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:560,T:143,AUTHORIZES,AUTH330,2021-04-22T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:432,T:144,AUTHORIZES,AUTH933,2022-03-07T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:101,T:145,AUTHORIZES,AUTH158,2025-06-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:18,T:146,AUTHORIZES,AUTH516,2022-11-28T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:17,T:147,AUTHORIZES,AUTH488,2021-09-04T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:72,T:148,AUTHORIZES,AUTH856,2025-05-06T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:329,T:149,AUTHORIZES,AUTH424,2021-09-17T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:150,T:150,AUTHORIZES,AUTH107,2024-01-24T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:529,T:151,AUTHORIZES,AUTH697,2023-03-26T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:235,T:152,AUTHORIZES,AUTH579,2023-03-16T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:85,T:153,AUTHORIZES,AUTH567,2023-09-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:398,T:154,AUTHORIZES,AUTH370,2022-07-18T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:99,T:155,AUTHORIZES,AUTH863,2021-04-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:428,T:156,AUTHORIZES,AUTH756,2024-12-10T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:300,T:157,AUTHORIZES,AUTH331,2025-03-02T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:303,T:158,AUTHORIZES,AUTH315,2023-11-26T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:261,T:159,AUTHORIZES,AUTH350,2023-02-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:389,T:160,AUTHORIZES,AUTH829,2022-01-11T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:442,T:161,AUTHORIZES,AUTH128,2022-07-19T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:187,T:162,AUTHORIZES,AUTH229,2020-05-17T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:361,T:163,AUTHORIZES,AUTH622,2021-01-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:176,T:164,AUTHORIZES,AUTH240,2024-12-30T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:460,T:165,AUTHORIZES,AUTH841,2024-08-03T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:268,T:166,AUTHORIZES,AUTH820,2020-04-02T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:253,T:167,AUTHORIZES,AUTH538,2022-03-03T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:425,T:168,AUTHORIZES,AUTH738,2020-01-28T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:500,T:169,AUTHORIZES,AUTH653,2023-02-14T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:286,T:170,AUTHORIZES,AUTH171,2020-06-18T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:498,T:171,AUTHORIZES,AUTH210,2023-08-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:205,T:172,AUTHORIZES,AUTH618,2025-12-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:217,T:173,AUTHORIZES,AUTH124,2025-04-17T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:386,T:174,AUTHORIZES,AUTH125,2021-12-28T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:4,T:175,AUTHORIZES,AUTH188,2022-02-16T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:566,T:176,AUTHORIZES,AUTH787,2023-11-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:470,T:177,AUTHORIZES,AUTH388,2020-01-01T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:523,T:178,AUTHORIZES,AUTH464,2021-03-08T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:278,T:179,AUTHORIZES,AUTH345,2022-09-20T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:545,T:180,AUTHORIZES,AUTH812,2023-07-14T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:437,T:181,AUTHORIZES,AUTH870,2025-01-30T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:173,T:182,AUTHORIZES,AUTH575,2024-01-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:120,T:183,AUTHORIZES,AUTH908,2020-04-30T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:47,T:184,AUTHORIZES,AUTH770,2022-11-20T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:63,T:185,AUTHORIZES,AUTH450,2025-05-09T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:163,T:186,AUTHORIZES,AUTH632,2020-05-12T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:392,T:187,AUTHORIZES,AUTH411,2023-01-04T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:545,T:188,AUTHORIZES,AUTH796,2020-09-21T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:155,T:189,AUTHORIZES,AUTH961,2024-12-19T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:344,T:190,AUTHORIZES,AUTH566,2021-04-16T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:251,T:191,AUTHORIZES,AUTH279,2022-09-17T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:261,T:192,AUTHORIZES,AUTH735,2020-07-05T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:350,T:193,AUTHORIZES,AUTH733,2025-02-25T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:580,T:194,AUTHORIZES,AUTH996,2023-07-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:342,T:195,AUTHORIZES,AUTH420,2023-12-13T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:328,T:196,AUTHORIZES,AUTH537,2025-08-11T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:385,T:197,AUTHORIZES,AUTH974,2021-08-30T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:205,T:198,AUTHORIZES,AUTH643,2020-10-16T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:308,T:199,AUTHORIZES,AUTH649,2021-06-12T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:420,T:200,AUTHORIZES,AUTH760,2024-08-18T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:196,T:201,AUTHORIZES,AUTH932,2025-04-29T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:248,T:202,AUTHORIZES,AUTH598,2021-05-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:566,T:203,AUTHORIZES,AUTH147,2020-10-23T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:78,T:204,AUTHORIZES,AUTH299,2024-12-23T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:474,T:205,AUTHORIZES,AUTH740,2025-10-05T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:255,T:206,AUTHORIZES,AUTH610,2022-05-12T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:451,T:207,AUTHORIZES,AUTH298,2020-09-13T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:400,T:208,AUTHORIZES,AUTH337,2023-02-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:318,T:209,AUTHORIZES,AUTH536,2025-05-04T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:531,T:210,AUTHORIZES,AUTH786,2023-03-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:185,T:211,AUTHORIZES,AUTH659,2021-07-12T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:171,T:212,AUTHORIZES,AUTH561,2025-02-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:390,T:213,AUTHORIZES,AUTH198,2024-08-02T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:362,T:214,AUTHORIZES,AUTH740,2022-03-07T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:426,T:215,AUTHORIZES,AUTH901,2025-09-10T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:412,T:216,AUTHORIZES,AUTH411,2025-06-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:131,T:217,AUTHORIZES,AUTH748,2021-07-14T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:524,T:218,AUTHORIZES,AUTH840,2022-02-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:358,T:219,AUTHORIZES,AUTH515,2025-02-23T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:470,T:220,AUTHORIZES,AUTH880,2020-07-06T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:196,T:221,AUTHORIZES,AUTH304,2021-11-27T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:522,T:222,AUTHORIZES,AUTH811,2024-01-11T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:467,T:223,AUTHORIZES,AUTH581,2024-03-22T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:276,T:224,AUTHORIZES,AUTH184,2021-02-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:167,T:225,AUTHORIZES,AUTH287,2022-02-05T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:456,T:226,AUTHORIZES,AUTH267,2021-09-14T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:17,T:227,AUTHORIZES,AUTH135,2023-08-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:137,T:228,AUTHORIZES,AUTH727,2024-02-09T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:156,T:229,AUTHORIZES,AUTH929,2023-09-10T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:224,T:230,AUTHORIZES,AUTH772,2024-06-11T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:22,T:231,AUTHORIZES,AUTH456,2024-12-26T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:110,T:232,AUTHORIZES,AUTH987,2022-02-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:342,T:233,AUTHORIZES,AUTH255,2023-07-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:478,T:234,AUTHORIZES,AUTH308,2024-12-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:406,T:235,AUTHORIZES,AUTH568,2024-04-13T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:207,T:236,AUTHORIZES,AUTH268,2020-03-05T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:246,T:237,AUTHORIZES,AUTH331,2022-09-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:234,T:238,AUTHORIZES,AUTH327,2022-02-05T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:205,T:239,AUTHORIZES,AUTH369,2022-11-03T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:23,T:240,AUTHORIZES,AUTH237,2020-12-02T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:181,T:241,AUTHORIZES,AUTH273,2022-05-18T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:87,T:242,AUTHORIZES,AUTH508,2024-02-13T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:256,T:243,AUTHORIZES,AUTH465,2022-05-12T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:523,T:244,AUTHORIZES,AUTH468,2021-03-25T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:570,T:245,AUTHORIZES,AUTH572,2024-06-30T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:315,T:246,AUTHORIZES,AUTH225,2025-01-03T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:410,T:247,AUTHORIZES,AUTH740,2021-11-16T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:499,T:248,AUTHORIZES,AUTH469,2024-02-04T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:336,T:249,AUTHORIZES,AUTH454,2021-12-23T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:398,T:250,AUTHORIZES,AUTH665,2022-12-17T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:22,T:251,AUTHORIZES,AUTH353,2023-06-07T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:252,T:252,AUTHORIZES,AUTH973,2023-08-24T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:245,T:253,AUTHORIZES,AUTH668,2023-09-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:104,T:254,AUTHORIZES,AUTH957,2025-10-05T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:16,T:255,AUTHORIZES,AUTH969,2022-05-17T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:564,T:256,AUTHORIZES,AUTH518,2022-11-11T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:534,T:257,AUTHORIZES,AUTH442,2024-01-30T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:368,T:258,AUTHORIZES,AUTH928,2024-05-24T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:304,T:259,AUTHORIZES,AUTH774,2022-04-25T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:82,T:260,AUTHORIZES,AUTH967,2022-06-12T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:573,T:261,AUTHORIZES,AUTH451,2020-01-26T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:437,T:262,AUTHORIZES,AUTH486,2024-05-08T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:370,T:263,AUTHORIZES,AUTH947,2025-09-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:285,T:264,AUTHORIZES,AUTH993,2023-07-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:433,T:265,AUTHORIZES,AUTH995,2023-02-12T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:78,T:266,AUTHORIZES,AUTH422,2025-06-25T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:503,T:267,AUTHORIZES,AUTH146,2024-06-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:15,T:268,AUTHORIZES,AUTH220,2023-08-18T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:249,T:269,AUTHORIZES,AUTH422,2022-05-13T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:305,T:270,AUTHORIZES,AUTH505,2022-10-12T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:378,T:271,AUTHORIZES,AUTH223,2024-11-24T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:304,T:272,AUTHORIZES,AUTH699,2022-12-28T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:382,T:273,AUTHORIZES,AUTH849,2022-01-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:167,T:274,AUTHORIZES,AUTH364,2022-01-16T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:301,T:275,AUTHORIZES,AUTH784,2025-02-04T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:370,T:276,AUTHORIZES,AUTH178,2020-02-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:321,T:277,AUTHORIZES,AUTH738,2021-10-22T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:418,T:278,AUTHORIZES,AUTH316,2024-05-11T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:95,T:279,AUTHORIZES,AUTH397,2021-08-04T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:92,T:280,AUTHORIZES,AUTH351,2020-12-31T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:110,T:281,AUTHORIZES,AUTH352,2024-03-17T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:217,T:282,AUTHORIZES,AUTH596,2024-07-31T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:125,T:283,AUTHORIZES,AUTH273,2025-03-12T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:217,T:284,AUTHORIZES,AUTH977,2023-05-26T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:121,T:285,AUTHORIZES,AUTH102,2020-02-14T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:129,T:286,AUTHORIZES,AUTH100,2024-03-17T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:546,T:287,AUTHORIZES,AUTH125,2022-10-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:99,T:288,AUTHORIZES,AUTH761,2022-10-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:475,T:289,AUTHORIZES,AUTH700,2022-07-18T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:552,T:290,AUTHORIZES,AUTH125,2024-04-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:286,T:291,AUTHORIZES,AUTH698,2021-09-04T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:28,T:292,AUTHORIZES,AUTH304,2023-09-02T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:173,T:293,AUTHORIZES,AUTH984,2025-11-12T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:225,T:294,AUTHORIZES,AUTH873,2022-09-17T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:313,T:295,AUTHORIZES,AUTH991,2021-10-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:215,T:296,AUTHORIZES,AUTH817,2024-08-28T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:409,T:297,AUTHORIZES,AUTH820,2020-10-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:112,T:298,AUTHORIZES,AUTH383,2024-08-29T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:419,T:299,AUTHORIZES,AUTH631,2022-07-12T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:466,T:300,AUTHORIZES,AUTH256,2021-10-06T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:411,T:301,AUTHORIZES,AUTH823,2022-09-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:60,T:302,AUTHORIZES,AUTH112,2023-08-14T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:182,T:303,AUTHORIZES,AUTH660,2022-12-11T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:201,T:304,AUTHORIZES,AUTH541,2024-01-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:552,T:305,AUTHORIZES,AUTH811,2023-12-15T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:568,T:306,AUTHORIZES,AUTH979,2024-05-15T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:484,T:307,AUTHORIZES,AUTH616,2025-04-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:558,T:308,AUTHORIZES,AUTH405,2022-03-04T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:181,T:309,AUTHORIZES,AUTH195,2024-05-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:117,T:310,AUTHORIZES,AUTH370,2024-10-30T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:569,T:311,AUTHORIZES,AUTH851,2024-12-16T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:170,T:312,AUTHORIZES,AUTH232,2024-06-19T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:139,T:313,AUTHORIZES,AUTH921,2024-09-06T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:402,T:314,AUTHORIZES,AUTH545,2022-02-08T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:569,T:315,AUTHORIZES,AUTH238,2021-11-20T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:423,T:316,AUTHORIZES,AUTH634,2021-12-12T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:315,T:317,AUTHORIZES,AUTH735,2023-12-21T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:71,T:318,AUTHORIZES,AUTH672,2024-07-17T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:274,T:319,AUTHORIZES,AUTH553,2021-05-04T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:88,T:320,AUTHORIZES,AUTH989,2021-04-13T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:365,T:321,AUTHORIZES,AUTH266,2022-01-29T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:180,T:322,AUTHORIZES,AUTH260,2020-10-11T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:301,T:323,AUTHORIZES,AUTH758,2020-05-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:9,T:324,AUTHORIZES,AUTH328,2022-02-01T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:365,T:325,AUTHORIZES,AUTH611,2022-11-06T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:215,T:326,AUTHORIZES,AUTH337,2022-02-09T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:44,T:327,AUTHORIZES,AUTH150,2020-09-23T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:330,T:328,AUTHORIZES,AUTH990,2022-01-09T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:94,T:329,AUTHORIZES,AUTH973,2021-06-01T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:550,T:330,AUTHORIZES,AUTH997,2022-10-04T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:336,T:331,AUTHORIZES,AUTH258,2021-09-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:503,T:332,AUTHORIZES,AUTH595,2020-07-17T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:27,T:333,AUTHORIZES,AUTH835,2022-09-21T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:413,T:334,AUTHORIZES,AUTH282,2023-08-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:265,T:335,AUTHORIZES,AUTH684,2023-10-24T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:325,T:336,AUTHORIZES,AUTH561,2021-01-30T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:27,T:337,AUTHORIZES,AUTH255,2023-05-25T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:363,T:338,AUTHORIZES,AUTH103,2025-07-13T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:572,T:339,AUTHORIZES,AUTH721,2025-04-16T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:86,T:340,AUTHORIZES,AUTH189,2024-11-15T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:223,T:341,AUTHORIZES,AUTH697,2021-11-13T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:365,T:342,AUTHORIZES,AUTH270,2023-04-17T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:438,T:343,AUTHORIZES,AUTH225,2023-06-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:52,T:344,AUTHORIZES,AUTH578,2022-12-19T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:439,T:345,AUTHORIZES,AUTH369,2021-01-31T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:595,T:346,AUTHORIZES,AUTH137,2022-10-08T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:223,T:347,AUTHORIZES,AUTH506,2021-02-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:441,T:348,AUTHORIZES,AUTH709,2022-03-19T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:83,T:349,AUTHORIZES,AUTH525,2023-11-03T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:239,T:350,AUTHORIZES,AUTH289,2020-10-21T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:367,T:351,AUTHORIZES,AUTH268,2021-06-10T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:248,T:352,AUTHORIZES,AUTH902,2022-07-13T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:156,T:353,AUTHORIZES,AUTH874,2023-03-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:45,T:354,AUTHORIZES,AUTH712,2024-03-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:214,T:355,AUTHORIZES,AUTH507,2025-09-16T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:336,T:356,AUTHORIZES,AUTH612,2021-12-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:423,T:357,AUTHORIZES,AUTH255,2021-12-06T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:518,T:358,AUTHORIZES,AUTH530,2025-12-17T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:178,T:359,AUTHORIZES,AUTH583,2022-09-18T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:104,T:360,AUTHORIZES,AUTH652,2020-10-31T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:74,T:361,AUTHORIZES,AUTH617,2021-10-25T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:81,T:362,AUTHORIZES,AUTH240,2024-05-18T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:92,T:363,AUTHORIZES,AUTH186,2023-05-23T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:318,T:364,AUTHORIZES,AUTH454,2022-04-28T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:382,T:365,AUTHORIZES,AUTH603,2022-08-28T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:524,T:366,AUTHORIZES,AUTH359,2024-04-04T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:403,T:367,AUTHORIZES,AUTH574,2025-11-12T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:112,T:368,AUTHORIZES,AUTH903,2021-07-17T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:468,T:369,AUTHORIZES,AUTH181,2025-05-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:159,T:370,AUTHORIZES,AUTH833,2020-10-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:444,T:371,AUTHORIZES,AUTH976,2021-01-05T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:585,T:372,AUTHORIZES,AUTH408,2024-06-24T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:53,T:373,AUTHORIZES,AUTH297,2023-08-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:310,T:374,AUTHORIZES,AUTH450,2024-07-15T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:345,T:375,AUTHORIZES,AUTH516,2024-08-10T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:480,T:376,AUTHORIZES,AUTH186,2021-01-27T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:82,T:377,AUTHORIZES,AUTH999,2022-02-23T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:346,T:378,AUTHORIZES,AUTH380,2024-05-08T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:7,T:379,AUTHORIZES,AUTH642,2020-10-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:373,T:380,AUTHORIZES,AUTH901,2024-01-01T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:474,T:381,AUTHORIZES,AUTH632,2022-03-26T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:449,T:382,AUTHORIZES,AUTH199,2020-01-13T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:492,T:383,AUTHORIZES,AUTH976,2020-03-22T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:282,T:384,AUTHORIZES,AUTH610,2022-10-28T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:183,T:385,AUTHORIZES,AUTH260,2024-04-27T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:89,T:386,AUTHORIZES,AUTH653,2025-11-05T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:463,T:387,AUTHORIZES,AUTH893,2023-07-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:514,T:388,AUTHORIZES,AUTH378,2020-09-19T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:166,T:389,AUTHORIZES,AUTH825,2023-11-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:168,T:390,AUTHORIZES,AUTH359,2022-12-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:410,T:391,AUTHORIZES,AUTH717,2023-09-26T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:459,T:392,AUTHORIZES,AUTH719,2024-11-27T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:252,T:393,AUTHORIZES,AUTH643,2024-09-30T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:314,T:394,AUTHORIZES,AUTH370,2023-01-20T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:213,T:395,AUTHORIZES,AUTH648,2023-05-11T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:344,T:396,AUTHORIZES,AUTH749,2024-08-13T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:228,T:397,AUTHORIZES,AUTH122,2020-02-14T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:126,T:398,AUTHORIZES,AUTH175,2024-05-06T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:518,T:399,AUTHORIZES,AUTH570,2022-05-09T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:360,T:400,AUTHORIZES,AUTH642,2023-07-19T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:280,T:401,AUTHORIZES,AUTH281,2021-11-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:93,T:402,AUTHORIZES,AUTH243,2025-07-01T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:263,T:403,AUTHORIZES,AUTH409,2023-10-07T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:60,T:404,AUTHORIZES,AUTH409,2025-04-11T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:416,T:405,AUTHORIZES,AUTH120,2022-10-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:257,T:406,AUTHORIZES,AUTH349,2025-12-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:93,T:407,AUTHORIZES,AUTH840,2021-10-25T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:72,T:408,AUTHORIZES,AUTH756,2022-02-04T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:309,T:409,AUTHORIZES,AUTH535,2023-02-19T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:175,T:410,AUTHORIZES,AUTH478,2022-08-07T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:38,T:411,AUTHORIZES,AUTH222,2024-03-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:347,T:412,AUTHORIZES,AUTH295,2023-10-08T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:14,T:413,AUTHORIZES,AUTH781,2021-06-12T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:145,T:414,AUTHORIZES,AUTH151,2023-04-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:381,T:415,AUTHORIZES,AUTH244,2024-10-28T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:460,T:416,AUTHORIZES,AUTH460,2022-08-14T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:243,T:417,AUTHORIZES,AUTH808,2022-01-22T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:330,T:418,AUTHORIZES,AUTH537,2020-08-09T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:333,T:419,AUTHORIZES,AUTH914,2023-06-21T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:119,T:420,AUTHORIZES,AUTH251,2022-07-04T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:525,T:421,AUTHORIZES,AUTH984,2024-05-22T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:288,T:422,AUTHORIZES,AUTH856,2023-02-03T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:598,T:423,AUTHORIZES,AUTH270,2025-08-24T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:151,T:424,AUTHORIZES,AUTH656,2025-10-01T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:570,T:425,AUTHORIZES,AUTH877,2021-05-12T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:497,T:426,AUTHORIZES,AUTH318,2023-09-07T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:413,T:427,AUTHORIZES,AUTH381,2025-05-10T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:74,T:428,AUTHORIZES,AUTH656,2020-11-05T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:547,T:429,AUTHORIZES,AUTH613,2023-04-28T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:575,T:430,AUTHORIZES,AUTH712,2022-07-27T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:191,T:431,AUTHORIZES,AUTH809,2021-07-03T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:106,T:432,AUTHORIZES,AUTH243,2023-12-22T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:350,T:433,AUTHORIZES,AUTH267,2022-11-22T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:23,T:434,AUTHORIZES,AUTH398,2023-10-24T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:72,T:435,AUTHORIZES,AUTH266,2024-06-03T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:87,T:436,AUTHORIZES,AUTH143,2023-07-09T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:391,T:437,AUTHORIZES,AUTH323,2020-12-20T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:144,T:438,AUTHORIZES,AUTH232,2023-02-03T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:419,T:439,AUTHORIZES,AUTH254,2022-04-04T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:160,T:440,AUTHORIZES,AUTH594,2021-11-12T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:235,T:441,AUTHORIZES,AUTH744,2023-05-29T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:428,T:442,AUTHORIZES,AUTH212,2023-11-01T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:471,T:443,AUTHORIZES,AUTH375,2025-01-16T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:198,T:444,AUTHORIZES,AUTH343,2022-06-13T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:410,T:445,AUTHORIZES,AUTH922,2021-06-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:459,T:446,AUTHORIZES,AUTH442,2020-10-22T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:577,T:447,AUTHORIZES,AUTH330,2023-07-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:201,T:448,AUTHORIZES,AUTH524,2023-07-11T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:372,T:449,AUTHORIZES,AUTH326,2022-02-13T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:434,T:450,AUTHORIZES,AUTH481,2023-09-15T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:467,T:451,AUTHORIZES,AUTH854,2020-11-24T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:218,T:452,AUTHORIZES,AUTH843,2025-07-28T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:161,T:453,AUTHORIZES,AUTH517,2020-08-26T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:479,T:454,AUTHORIZES,AUTH560,2020-03-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:33,T:455,AUTHORIZES,AUTH258,2023-12-27T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:72,T:456,AUTHORIZES,AUTH830,2021-10-30T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:165,T:457,AUTHORIZES,AUTH585,2021-07-03T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:478,T:458,AUTHORIZES,AUTH870,2023-03-09T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:210,T:459,AUTHORIZES,AUTH391,2023-12-21T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:177,T:460,AUTHORIZES,AUTH253,2021-11-30T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:116,T:461,AUTHORIZES,AUTH907,2020-08-20T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:31,T:462,AUTHORIZES,AUTH839,2024-12-01T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:333,T:463,AUTHORIZES,AUTH559,2022-08-31T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:303,T:464,AUTHORIZES,AUTH682,2022-03-07T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:48,T:465,AUTHORIZES,AUTH330,2022-05-12T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:384,T:466,AUTHORIZES,AUTH382,2020-10-28T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:571,T:467,AUTHORIZES,AUTH676,2025-05-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:84,T:468,AUTHORIZES,AUTH975,2024-01-05T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:365,T:469,AUTHORIZES,AUTH178,2024-05-02T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:554,T:470,AUTHORIZES,AUTH997,2020-01-07T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:333,T:471,AUTHORIZES,AUTH970,2024-06-01T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:164,T:472,AUTHORIZES,AUTH943,2025-04-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:144,T:473,AUTHORIZES,AUTH453,2021-06-08T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:465,T:474,AUTHORIZES,AUTH230,2022-03-16T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:7,T:475,AUTHORIZES,AUTH239,2022-11-04T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:425,T:476,AUTHORIZES,AUTH365,2020-07-01T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:115,T:477,AUTHORIZES,AUTH728,2020-01-18T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:114,T:478,AUTHORIZES,AUTH707,2023-04-24T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:279,T:479,AUTHORIZES,AUTH701,2020-02-16T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:130,T:480,AUTHORIZES,AUTH993,2025-03-20T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:556,T:481,AUTHORIZES,AUTH737,2023-02-06T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:361,T:482,AUTHORIZES,AUTH200,2020-01-07T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:13,T:483,AUTHORIZES,AUTH379,2024-01-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:154,T:484,AUTHORIZES,AUTH225,2020-08-10T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:282,T:485,AUTHORIZES,AUTH489,2021-05-26T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:356,T:486,AUTHORIZES,AUTH605,2024-04-29T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:519,T:487,AUTHORIZES,AUTH172,2020-08-07T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:436,T:488,AUTHORIZES,AUTH680,2023-11-11T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:491,T:489,AUTHORIZES,AUTH480,2023-09-05T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:494,T:490,AUTHORIZES,AUTH958,2020-01-14T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:218,T:491,AUTHORIZES,AUTH342,2024-08-13T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:302,T:492,AUTHORIZES,AUTH883,2020-01-05T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:460,T:493,AUTHORIZES,AUTH538,2023-08-21T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:594,T:494,AUTHORIZES,AUTH456,2022-03-19T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:389,T:495,AUTHORIZES,AUTH253,2021-10-31T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:351,T:496,AUTHORIZES,AUTH412,2020-03-13T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:126,T:497,AUTHORIZES,AUTH897,2022-04-30T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:540,T:498,AUTHORIZES,AUTH331,2023-01-22T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:93,T:499,AUTHORIZES,AUTH166,2020-04-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:189,T:500,AUTHORIZES,AUTH262,2021-12-03T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:159,T:501,AUTHORIZES,AUTH831,2020-01-11T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:26,T:502,AUTHORIZES,AUTH167,2021-10-21T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:117,T:503,AUTHORIZES,AUTH861,2021-06-12T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:431,T:504,AUTHORIZES,AUTH635,2024-09-18T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:353,T:505,AUTHORIZES,AUTH512,2023-12-23T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:439,T:506,AUTHORIZES,AUTH645,2022-10-14T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:198,T:507,AUTHORIZES,AUTH665,2022-11-25T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:561,T:508,AUTHORIZES,AUTH342,2022-11-24T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:118,T:509,AUTHORIZES,AUTH462,2020-12-31T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:132,T:510,AUTHORIZES,AUTH579,2020-10-11T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:493,T:511,AUTHORIZES,AUTH275,2023-09-25T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:257,T:512,AUTHORIZES,AUTH352,2024-09-24T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:77,T:513,AUTHORIZES,AUTH378,2024-12-18T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:470,T:514,AUTHORIZES,AUTH469,2020-11-02T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:182,T:515,AUTHORIZES,AUTH549,2021-08-19T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:279,T:516,AUTHORIZES,AUTH894,2025-12-21T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:147,T:517,AUTHORIZES,AUTH538,2024-06-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:88,T:518,AUTHORIZES,AUTH840,2022-02-23T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:357,T:519,AUTHORIZES,AUTH314,2025-05-21T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:119,T:520,AUTHORIZES,AUTH160,2025-05-03T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:180,T:521,AUTHORIZES,AUTH351,2020-11-03T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:114,T:522,AUTHORIZES,AUTH620,2020-05-14T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:548,T:523,AUTHORIZES,AUTH552,2023-04-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:524,T:524,AUTHORIZES,AUTH719,2024-11-12T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:56,T:525,AUTHORIZES,AUTH187,2021-08-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:64,T:526,AUTHORIZES,AUTH560,2023-07-05T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:131,T:527,AUTHORIZES,AUTH441,2024-10-02T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:311,T:528,AUTHORIZES,AUTH211,2024-06-12T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:402,T:529,AUTHORIZES,AUTH664,2023-03-22T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:438,T:530,AUTHORIZES,AUTH230,2025-03-25T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:191,T:531,AUTHORIZES,AUTH406,2021-12-31T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:192,T:532,AUTHORIZES,AUTH290,2024-04-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:314,T:533,AUTHORIZES,AUTH256,2021-11-08T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:388,T:534,AUTHORIZES,AUTH212,2022-09-13T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:39,T:535,AUTHORIZES,AUTH481,2020-09-06T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:40,T:536,AUTHORIZES,AUTH682,2024-02-01T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:474,T:537,AUTHORIZES,AUTH120,2024-09-28T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:13,T:538,AUTHORIZES,AUTH768,2023-05-21T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:117,T:539,AUTHORIZES,AUTH588,2021-10-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:122,T:540,AUTHORIZES,AUTH650,2025-05-22T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:199,T:541,AUTHORIZES,AUTH637,2023-11-15T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:312,T:542,AUTHORIZES,AUTH474,2025-12-10T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:198,T:543,AUTHORIZES,AUTH709,2025-02-14T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:62,T:544,AUTHORIZES,AUTH730,2022-10-29T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:520,T:545,AUTHORIZES,AUTH957,2024-02-22T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:291,T:546,AUTHORIZES,AUTH505,2021-10-20T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:504,T:547,AUTHORIZES,AUTH435,2022-07-09T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:353,T:548,AUTHORIZES,AUTH615,2024-12-26T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:95,T:549,AUTHORIZES,AUTH723,2024-04-01T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:50,T:550,AUTHORIZES,AUTH413,2023-09-02T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:108,T:551,AUTHORIZES,AUTH978,2024-03-07T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:337,T:552,AUTHORIZES,AUTH456,2024-09-17T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:229,T:553,AUTHORIZES,AUTH701,2020-07-22T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:290,T:554,AUTHORIZES,AUTH556,2020-11-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:238,T:555,AUTHORIZES,AUTH825,2022-12-18T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:122,T:556,AUTHORIZES,AUTH249,2020-05-15T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:548,T:557,AUTHORIZES,AUTH507,2025-09-01T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:396,T:558,AUTHORIZES,AUTH437,2022-03-17T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:481,T:559,AUTHORIZES,AUTH196,2021-01-03T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:166,T:560,AUTHORIZES,AUTH775,2024-01-17T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:178,T:561,AUTHORIZES,AUTH565,2025-06-19T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:298,T:562,AUTHORIZES,AUTH153,2023-09-27T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:594,T:563,AUTHORIZES,AUTH458,2025-07-06T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:524,T:564,AUTHORIZES,AUTH371,2020-12-27T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:231,T:565,AUTHORIZES,AUTH224,2023-12-27T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:475,T:566,AUTHORIZES,AUTH791,2020-01-19T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:304,T:567,AUTHORIZES,AUTH937,2024-02-05T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:441,T:568,AUTHORIZES,AUTH750,2025-01-10T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:412,T:569,AUTHORIZES,AUTH282,2025-10-18T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:115,T:570,AUTHORIZES,AUTH553,2022-07-01T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:63,T:571,AUTHORIZES,AUTH532,2024-08-15T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:82,T:572,AUTHORIZES,AUTH236,2022-12-13T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:565,T:573,AUTHORIZES,AUTH917,2025-07-11T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:250,T:574,AUTHORIZES,AUTH464,2021-06-20T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:76,T:575,AUTHORIZES,AUTH349,2025-08-27T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:41,T:576,AUTHORIZES,AUTH676,2022-12-09T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:333,T:577,AUTHORIZES,AUTH816,2021-03-14T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:556,T:578,AUTHORIZES,AUTH784,2023-06-10T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:10,T:579,AUTHORIZES,AUTH781,2025-05-31T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:570,T:580,AUTHORIZES,AUTH970,2025-06-17T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:369,T:581,AUTHORIZES,AUTH459,2021-10-28T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:546,T:582,AUTHORIZES,AUTH126,2022-08-23T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:128,T:583,AUTHORIZES,AUTH271,2023-11-01T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:408,T:584,AUTHORIZES,AUTH783,2022-11-18T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:381,T:585,AUTHORIZES,AUTH520,2025-09-05T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:564,T:586,AUTHORIZES,AUTH654,2022-05-22T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:214,T:587,AUTHORIZES,AUTH989,2020-10-09T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:456,T:588,AUTHORIZES,AUTH419,2023-12-22T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:430,T:589,AUTHORIZES,AUTH183,2023-03-24T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:585,T:590,AUTHORIZES,AUTH899,2024-09-25T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:81,T:591,AUTHORIZES,AUTH480,2023-02-06T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:427,T:592,AUTHORIZES,AUTH988,2024-06-20T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:569,T:593,AUTHORIZES,AUTH536,2020-03-07T00:00:00,In Process
+startNode,endNode,relationship,authCode,time,status
+B:239,T:594,AUTHORIZES,AUTH469,2021-01-04T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:564,T:595,AUTHORIZES,AUTH597,2023-07-10T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:235,T:596,AUTHORIZES,AUTH708,2020-02-29T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:452,T:597,AUTHORIZES,AUTH828,2022-05-06T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:366,T:598,AUTHORIZES,AUTH499,2025-01-03T00:00:00,Success
+startNode,endNode,relationship,authCode,time,status
+B:400,T:599,AUTHORIZES,AUTH256,2021-05-10T00:00:00,Fail
+startNode,endNode,relationship,authCode,time,status
+B:359,T:600,AUTHORIZES,AUTH821,2021-05-28T00:00:00,Success

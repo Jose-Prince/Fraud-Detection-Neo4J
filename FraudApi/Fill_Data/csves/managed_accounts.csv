@@ -1,0 +1,1200 @@
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:1,C:212,MANAGED_BY,2021-11-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:2,C:481,MANAGED_BY,2024-07-22,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:3,C:600,MANAGED_BY,2025-09-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:4,C:404,MANAGED_BY,2021-11-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:5,C:455,MANAGED_BY,2024-06-04,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:6,C:527,MANAGED_BY,2020-12-06,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:7,C:569,MANAGED_BY,2024-07-04,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:8,C:329,MANAGED_BY,2024-06-21,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:9,C:16,MANAGED_BY,2023-10-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:10,C:311,MANAGED_BY,2021-12-03,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:11,C:164,MANAGED_BY,2022-02-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:12,C:466,MANAGED_BY,2020-01-01,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:13,C:597,MANAGED_BY,2021-10-01,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:14,C:492,MANAGED_BY,2024-09-27,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:15,C:212,MANAGED_BY,2024-10-13,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:16,C:85,MANAGED_BY,2020-02-24,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:17,C:126,MANAGED_BY,2025-08-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:18,C:300,MANAGED_BY,2024-10-20,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:19,C:103,MANAGED_BY,2021-12-13,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:20,C:360,MANAGED_BY,2021-09-23,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:21,C:175,MANAGED_BY,2025-08-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:22,C:379,MANAGED_BY,2023-07-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:23,C:93,MANAGED_BY,2021-01-03,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:24,C:575,MANAGED_BY,2020-01-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:25,C:340,MANAGED_BY,2024-04-06,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:26,C:11,MANAGED_BY,2023-06-10,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:27,C:575,MANAGED_BY,2020-09-10,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:28,C:472,MANAGED_BY,2020-04-10,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:29,C:300,MANAGED_BY,2023-04-20,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:30,C:10,MANAGED_BY,2021-03-25,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:31,C:359,MANAGED_BY,2021-11-07,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:32,C:352,MANAGED_BY,2021-12-14,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:33,C:45,MANAGED_BY,2023-01-21,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:34,C:256,MANAGED_BY,2024-05-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:35,C:409,MANAGED_BY,2025-06-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:36,C:113,MANAGED_BY,2024-05-18,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:37,C:19,MANAGED_BY,2023-05-08,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:38,C:116,MANAGED_BY,2023-07-29,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:39,C:458,MANAGED_BY,2022-01-16,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:40,C:361,MANAGED_BY,2024-10-04,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:41,C:95,MANAGED_BY,2023-12-24,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:42,C:126,MANAGED_BY,2021-09-18,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:43,C:599,MANAGED_BY,2021-06-29,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:44,C:204,MANAGED_BY,2025-05-19,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:45,C:359,MANAGED_BY,2020-09-24,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:46,C:152,MANAGED_BY,2022-08-26,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:47,C:133,MANAGED_BY,2025-07-12,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:48,C:455,MANAGED_BY,2021-01-30,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:49,C:595,MANAGED_BY,2021-06-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:50,C:291,MANAGED_BY,2023-12-29,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:51,C:105,MANAGED_BY,2024-07-18,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:52,C:214,MANAGED_BY,2024-05-07,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:53,C:288,MANAGED_BY,2023-12-04,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:54,C:328,MANAGED_BY,2020-10-24,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:55,C:197,MANAGED_BY,2021-05-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:56,C:472,MANAGED_BY,2022-07-18,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:57,C:437,MANAGED_BY,2021-08-06,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:58,C:204,MANAGED_BY,2020-05-05,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:59,C:12,MANAGED_BY,2025-10-29,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:60,C:199,MANAGED_BY,2020-03-18,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:61,C:240,MANAGED_BY,2023-04-03,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:62,C:158,MANAGED_BY,2024-03-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:63,C:249,MANAGED_BY,2023-12-13,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:64,C:193,MANAGED_BY,2025-07-14,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:65,C:275,MANAGED_BY,2024-05-25,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:66,C:266,MANAGED_BY,2021-04-04,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:67,C:477,MANAGED_BY,2025-05-11,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:68,C:19,MANAGED_BY,2022-08-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:69,C:352,MANAGED_BY,2024-05-04,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:70,C:70,MANAGED_BY,2021-07-27,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:71,C:412,MANAGED_BY,2024-09-14,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:72,C:414,MANAGED_BY,2022-10-16,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:73,C:505,MANAGED_BY,2020-06-01,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:74,C:468,MANAGED_BY,2020-05-08,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:75,C:425,MANAGED_BY,2020-06-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:76,C:264,MANAGED_BY,2022-08-28,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:77,C:235,MANAGED_BY,2020-03-10,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:78,C:138,MANAGED_BY,2025-01-10,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:79,C:297,MANAGED_BY,2025-09-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:80,C:289,MANAGED_BY,2024-09-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:81,C:191,MANAGED_BY,2025-07-24,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:82,C:567,MANAGED_BY,2020-04-29,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:83,C:569,MANAGED_BY,2024-10-16,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:84,C:496,MANAGED_BY,2024-01-01,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:85,C:79,MANAGED_BY,2023-11-06,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:86,C:586,MANAGED_BY,2022-11-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:87,C:582,MANAGED_BY,2023-09-11,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:88,C:7,MANAGED_BY,2023-09-14,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:89,C:597,MANAGED_BY,2022-08-05,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:90,C:325,MANAGED_BY,2024-03-16,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:91,C:512,MANAGED_BY,2024-04-26,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:92,C:223,MANAGED_BY,2025-04-28,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:93,C:577,MANAGED_BY,2020-11-26,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:94,C:176,MANAGED_BY,2025-02-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:95,C:365,MANAGED_BY,2025-02-23,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:96,C:551,MANAGED_BY,2022-04-04,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:97,C:236,MANAGED_BY,2023-09-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:98,C:598,MANAGED_BY,2024-07-21,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:99,C:302,MANAGED_BY,2022-11-28,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:100,C:153,MANAGED_BY,2022-05-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:101,C:419,MANAGED_BY,2023-02-06,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:102,C:188,MANAGED_BY,2022-11-01,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:103,C:324,MANAGED_BY,2024-06-11,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:104,C:290,MANAGED_BY,2022-07-02,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:105,C:158,MANAGED_BY,2025-10-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:106,C:149,MANAGED_BY,2021-03-31,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:107,C:74,MANAGED_BY,2025-10-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:108,C:41,MANAGED_BY,2023-09-13,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:109,C:517,MANAGED_BY,2020-03-04,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:110,C:558,MANAGED_BY,2020-07-12,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:111,C:580,MANAGED_BY,2025-04-25,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:112,C:343,MANAGED_BY,2022-10-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:113,C:175,MANAGED_BY,2020-11-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:114,C:323,MANAGED_BY,2024-09-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:115,C:48,MANAGED_BY,2025-09-14,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:116,C:151,MANAGED_BY,2024-10-21,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:117,C:201,MANAGED_BY,2023-09-19,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:118,C:3,MANAGED_BY,2022-11-02,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:119,C:388,MANAGED_BY,2023-01-29,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:120,C:403,MANAGED_BY,2022-06-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:121,C:597,MANAGED_BY,2025-07-07,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:122,C:578,MANAGED_BY,2020-02-22,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:123,C:301,MANAGED_BY,2020-08-30,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:124,C:248,MANAGED_BY,2024-09-23,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:125,C:71,MANAGED_BY,2024-06-23,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:126,C:1,MANAGED_BY,2025-02-13,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:127,C:197,MANAGED_BY,2021-11-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:128,C:362,MANAGED_BY,2020-01-30,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:129,C:306,MANAGED_BY,2021-12-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:130,C:340,MANAGED_BY,2025-12-15,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:131,C:87,MANAGED_BY,2021-03-25,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:132,C:50,MANAGED_BY,2023-07-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:133,C:231,MANAGED_BY,2020-05-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:134,C:208,MANAGED_BY,2020-03-13,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:135,C:213,MANAGED_BY,2021-10-06,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:136,C:428,MANAGED_BY,2023-01-03,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:137,C:144,MANAGED_BY,2025-02-15,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:138,C:417,MANAGED_BY,2022-06-12,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:139,C:547,MANAGED_BY,2021-03-26,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:140,C:228,MANAGED_BY,2021-10-24,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:141,C:73,MANAGED_BY,2020-06-26,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:142,C:114,MANAGED_BY,2023-12-18,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:143,C:284,MANAGED_BY,2020-12-31,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:144,C:363,MANAGED_BY,2022-04-07,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:145,C:27,MANAGED_BY,2023-02-12,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:146,C:493,MANAGED_BY,2025-01-25,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:147,C:72,MANAGED_BY,2021-06-09,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:148,C:475,MANAGED_BY,2020-11-29,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:149,C:343,MANAGED_BY,2023-03-29,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:150,C:460,MANAGED_BY,2025-02-28,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:151,C:21,MANAGED_BY,2025-09-25,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:152,C:463,MANAGED_BY,2022-03-09,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:153,C:522,MANAGED_BY,2021-10-15,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:154,C:160,MANAGED_BY,2020-04-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:155,C:348,MANAGED_BY,2024-09-18,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:156,C:111,MANAGED_BY,2025-05-18,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:157,C:478,MANAGED_BY,2020-12-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:158,C:259,MANAGED_BY,2024-11-30,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:159,C:29,MANAGED_BY,2025-01-05,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:160,C:183,MANAGED_BY,2024-10-16,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:161,C:130,MANAGED_BY,2024-11-14,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:162,C:58,MANAGED_BY,2023-02-23,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:163,C:275,MANAGED_BY,2020-06-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:164,C:63,MANAGED_BY,2020-09-05,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:165,C:578,MANAGED_BY,2023-08-14,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:166,C:85,MANAGED_BY,2025-12-21,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:167,C:158,MANAGED_BY,2020-02-15,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:168,C:367,MANAGED_BY,2020-10-28,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:169,C:304,MANAGED_BY,2023-03-08,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:170,C:351,MANAGED_BY,2022-06-01,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:171,C:62,MANAGED_BY,2025-02-26,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:172,C:95,MANAGED_BY,2023-11-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:173,C:135,MANAGED_BY,2022-08-16,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:174,C:130,MANAGED_BY,2021-10-09,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:175,C:493,MANAGED_BY,2021-04-12,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:176,C:563,MANAGED_BY,2022-06-03,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:177,C:228,MANAGED_BY,2021-02-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:178,C:496,MANAGED_BY,2023-12-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:179,C:236,MANAGED_BY,2023-09-12,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:180,C:399,MANAGED_BY,2023-12-18,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:181,C:317,MANAGED_BY,2021-03-16,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:182,C:459,MANAGED_BY,2025-10-06,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:183,C:130,MANAGED_BY,2020-05-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:184,C:186,MANAGED_BY,2025-01-20,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:185,C:36,MANAGED_BY,2024-08-11,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:186,C:228,MANAGED_BY,2020-09-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:187,C:3,MANAGED_BY,2025-07-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:188,C:528,MANAGED_BY,2020-10-31,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:189,C:43,MANAGED_BY,2025-05-04,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:190,C:410,MANAGED_BY,2020-06-19,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:191,C:379,MANAGED_BY,2021-09-15,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:192,C:266,MANAGED_BY,2023-10-29,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:193,C:557,MANAGED_BY,2020-05-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:194,C:563,MANAGED_BY,2021-05-09,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:195,C:66,MANAGED_BY,2022-12-27,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:196,C:16,MANAGED_BY,2022-09-24,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:197,C:558,MANAGED_BY,2025-12-16,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:198,C:491,MANAGED_BY,2023-11-20,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:199,C:474,MANAGED_BY,2024-04-25,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:200,C:384,MANAGED_BY,2025-10-31,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:201,C:101,MANAGED_BY,2020-02-02,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:202,C:86,MANAGED_BY,2021-07-04,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:203,C:584,MANAGED_BY,2022-11-11,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:204,C:446,MANAGED_BY,2020-10-30,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:205,C:489,MANAGED_BY,2025-10-13,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:206,C:87,MANAGED_BY,2022-08-16,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:207,C:551,MANAGED_BY,2021-04-17,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:208,C:340,MANAGED_BY,2025-10-28,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:209,C:527,MANAGED_BY,2020-11-08,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:210,C:175,MANAGED_BY,2022-08-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:211,C:582,MANAGED_BY,2025-09-26,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:212,C:480,MANAGED_BY,2022-01-15,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:213,C:460,MANAGED_BY,2022-12-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:214,C:365,MANAGED_BY,2021-08-21,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:215,C:307,MANAGED_BY,2023-04-11,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:216,C:48,MANAGED_BY,2023-09-29,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:217,C:285,MANAGED_BY,2022-05-13,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:218,C:280,MANAGED_BY,2024-03-25,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:219,C:513,MANAGED_BY,2020-01-18,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:220,C:88,MANAGED_BY,2021-09-02,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:221,C:405,MANAGED_BY,2025-07-26,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:222,C:69,MANAGED_BY,2020-12-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:223,C:341,MANAGED_BY,2020-04-20,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:224,C:351,MANAGED_BY,2023-11-27,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:225,C:239,MANAGED_BY,2022-05-03,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:226,C:324,MANAGED_BY,2024-01-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:227,C:51,MANAGED_BY,2021-05-15,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:228,C:501,MANAGED_BY,2021-10-31,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:229,C:578,MANAGED_BY,2020-12-29,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:230,C:429,MANAGED_BY,2021-01-18,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:231,C:373,MANAGED_BY,2021-09-25,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:232,C:530,MANAGED_BY,2020-07-12,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:233,C:311,MANAGED_BY,2023-04-01,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:234,C:186,MANAGED_BY,2022-12-30,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:235,C:59,MANAGED_BY,2022-05-05,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:236,C:64,MANAGED_BY,2023-12-27,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:237,C:192,MANAGED_BY,2024-11-12,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:238,C:536,MANAGED_BY,2025-03-28,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:239,C:360,MANAGED_BY,2020-10-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:240,C:436,MANAGED_BY,2025-09-16,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:241,C:12,MANAGED_BY,2024-04-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:242,C:560,MANAGED_BY,2022-05-23,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:243,C:155,MANAGED_BY,2021-10-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:244,C:348,MANAGED_BY,2023-02-01,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:245,C:224,MANAGED_BY,2021-11-19,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:246,C:292,MANAGED_BY,2020-01-01,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:247,C:351,MANAGED_BY,2022-01-12,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:248,C:306,MANAGED_BY,2021-06-12,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:249,C:174,MANAGED_BY,2021-11-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:250,C:321,MANAGED_BY,2021-01-04,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:251,C:16,MANAGED_BY,2023-05-17,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:252,C:42,MANAGED_BY,2024-05-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:253,C:33,MANAGED_BY,2022-09-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:254,C:251,MANAGED_BY,2020-11-10,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:255,C:278,MANAGED_BY,2022-12-05,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:256,C:394,MANAGED_BY,2022-06-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:257,C:515,MANAGED_BY,2022-10-31,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:258,C:495,MANAGED_BY,2024-05-05,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:259,C:526,MANAGED_BY,2023-07-27,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:260,C:28,MANAGED_BY,2021-01-04,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:261,C:152,MANAGED_BY,2022-08-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:262,C:595,MANAGED_BY,2023-04-25,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:263,C:204,MANAGED_BY,2021-05-09,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:264,C:359,MANAGED_BY,2021-07-10,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:265,C:105,MANAGED_BY,2025-11-12,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:266,C:590,MANAGED_BY,2022-10-03,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:267,C:346,MANAGED_BY,2024-06-16,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:268,C:217,MANAGED_BY,2024-04-27,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:269,C:120,MANAGED_BY,2021-10-30,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:270,C:235,MANAGED_BY,2025-09-01,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:271,C:108,MANAGED_BY,2022-09-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:272,C:43,MANAGED_BY,2022-06-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:273,C:16,MANAGED_BY,2023-10-10,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:274,C:124,MANAGED_BY,2021-06-16,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:275,C:250,MANAGED_BY,2020-12-31,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:276,C:192,MANAGED_BY,2020-07-28,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:277,C:210,MANAGED_BY,2025-12-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:278,C:284,MANAGED_BY,2023-01-27,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:279,C:600,MANAGED_BY,2021-01-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:280,C:429,MANAGED_BY,2020-08-06,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:281,C:222,MANAGED_BY,2022-10-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:282,C:349,MANAGED_BY,2024-12-06,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:283,C:417,MANAGED_BY,2021-06-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:284,C:516,MANAGED_BY,2023-04-26,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:285,C:117,MANAGED_BY,2022-03-29,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:286,C:581,MANAGED_BY,2020-06-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:287,C:342,MANAGED_BY,2020-07-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:288,C:218,MANAGED_BY,2020-05-22,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:289,C:146,MANAGED_BY,2022-09-26,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:290,C:318,MANAGED_BY,2022-09-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:291,C:95,MANAGED_BY,2021-06-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:292,C:555,MANAGED_BY,2022-01-11,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:293,C:405,MANAGED_BY,2020-02-29,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:294,C:393,MANAGED_BY,2025-10-29,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:295,C:315,MANAGED_BY,2023-04-09,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:296,C:317,MANAGED_BY,2025-10-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:297,C:60,MANAGED_BY,2020-01-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:298,C:89,MANAGED_BY,2020-12-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:299,C:2,MANAGED_BY,2022-08-26,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:300,C:9,MANAGED_BY,2025-05-03,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:301,C:155,MANAGED_BY,2025-07-18,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:302,C:480,MANAGED_BY,2021-07-10,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:303,C:22,MANAGED_BY,2023-04-11,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:304,C:100,MANAGED_BY,2022-05-23,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:305,C:52,MANAGED_BY,2021-09-14,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:306,C:515,MANAGED_BY,2024-04-03,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:307,C:528,MANAGED_BY,2022-03-28,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:308,C:398,MANAGED_BY,2023-10-02,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:309,C:147,MANAGED_BY,2022-07-30,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:310,C:282,MANAGED_BY,2024-09-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:311,C:420,MANAGED_BY,2022-06-12,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:312,C:348,MANAGED_BY,2020-10-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:313,C:394,MANAGED_BY,2024-10-14,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:314,C:107,MANAGED_BY,2023-04-15,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:315,C:199,MANAGED_BY,2022-05-26,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:316,C:32,MANAGED_BY,2022-04-26,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:317,C:165,MANAGED_BY,2020-10-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:318,C:131,MANAGED_BY,2025-02-09,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:319,C:233,MANAGED_BY,2025-07-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:320,C:595,MANAGED_BY,2022-06-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:321,C:414,MANAGED_BY,2021-04-30,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:322,C:241,MANAGED_BY,2020-03-21,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:323,C:500,MANAGED_BY,2020-05-12,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:324,C:15,MANAGED_BY,2025-11-13,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:325,C:501,MANAGED_BY,2021-12-15,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:326,C:267,MANAGED_BY,2022-03-21,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:327,C:556,MANAGED_BY,2020-01-21,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:328,C:565,MANAGED_BY,2021-11-11,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:329,C:290,MANAGED_BY,2020-04-13,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:330,C:30,MANAGED_BY,2024-06-28,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:331,C:457,MANAGED_BY,2023-10-25,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:332,C:480,MANAGED_BY,2021-08-28,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:333,C:126,MANAGED_BY,2022-07-27,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:334,C:43,MANAGED_BY,2020-03-12,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:335,C:152,MANAGED_BY,2022-06-25,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:336,C:263,MANAGED_BY,2025-02-08,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:337,C:157,MANAGED_BY,2023-08-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:338,C:516,MANAGED_BY,2023-04-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:339,C:531,MANAGED_BY,2025-09-11,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:340,C:385,MANAGED_BY,2021-02-25,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:341,C:224,MANAGED_BY,2025-06-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:342,C:174,MANAGED_BY,2021-06-26,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:343,C:562,MANAGED_BY,2024-07-11,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:344,C:454,MANAGED_BY,2025-02-22,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:345,C:195,MANAGED_BY,2021-10-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:346,C:403,MANAGED_BY,2025-03-04,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:347,C:63,MANAGED_BY,2024-04-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:348,C:386,MANAGED_BY,2025-10-15,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:349,C:319,MANAGED_BY,2022-11-05,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:350,C:401,MANAGED_BY,2024-02-21,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:351,C:441,MANAGED_BY,2024-10-28,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:352,C:447,MANAGED_BY,2021-09-27,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:353,C:29,MANAGED_BY,2023-06-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:354,C:562,MANAGED_BY,2024-07-06,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:355,C:528,MANAGED_BY,2024-08-09,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:356,C:8,MANAGED_BY,2024-07-13,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:357,C:40,MANAGED_BY,2022-05-17,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:358,C:111,MANAGED_BY,2024-04-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:359,C:36,MANAGED_BY,2022-02-16,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:360,C:494,MANAGED_BY,2024-08-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:361,C:203,MANAGED_BY,2025-04-19,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:362,C:502,MANAGED_BY,2024-01-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:363,C:452,MANAGED_BY,2020-07-05,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:364,C:419,MANAGED_BY,2020-04-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:365,C:309,MANAGED_BY,2021-06-12,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:366,C:103,MANAGED_BY,2021-01-22,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:367,C:583,MANAGED_BY,2025-04-05,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:368,C:155,MANAGED_BY,2023-06-08,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:369,C:300,MANAGED_BY,2023-02-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:370,C:111,MANAGED_BY,2024-08-24,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:371,C:180,MANAGED_BY,2024-12-12,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:372,C:269,MANAGED_BY,2025-10-18,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:373,C:153,MANAGED_BY,2022-11-19,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:374,C:554,MANAGED_BY,2024-12-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:375,C:258,MANAGED_BY,2020-05-01,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:376,C:516,MANAGED_BY,2020-05-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:377,C:63,MANAGED_BY,2024-07-26,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:378,C:84,MANAGED_BY,2020-11-10,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:379,C:536,MANAGED_BY,2025-01-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:380,C:307,MANAGED_BY,2022-08-15,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:381,C:353,MANAGED_BY,2025-10-11,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:382,C:17,MANAGED_BY,2023-11-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:383,C:84,MANAGED_BY,2022-09-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:384,C:491,MANAGED_BY,2020-11-10,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:385,C:594,MANAGED_BY,2024-03-16,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:386,C:511,MANAGED_BY,2020-06-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:387,C:449,MANAGED_BY,2020-03-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:388,C:61,MANAGED_BY,2022-07-15,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:389,C:71,MANAGED_BY,2021-10-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:390,C:560,MANAGED_BY,2020-10-14,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:391,C:513,MANAGED_BY,2023-02-06,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:392,C:207,MANAGED_BY,2024-06-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:393,C:551,MANAGED_BY,2025-06-29,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:394,C:486,MANAGED_BY,2025-09-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:395,C:505,MANAGED_BY,2025-08-08,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:396,C:503,MANAGED_BY,2022-11-02,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:397,C:218,MANAGED_BY,2020-11-07,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:398,C:256,MANAGED_BY,2020-09-12,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:399,C:407,MANAGED_BY,2024-04-12,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:400,C:377,MANAGED_BY,2023-12-11,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:401,C:544,MANAGED_BY,2021-08-01,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:402,C:494,MANAGED_BY,2024-02-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:403,C:534,MANAGED_BY,2021-02-23,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:404,C:490,MANAGED_BY,2023-10-06,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:405,C:20,MANAGED_BY,2022-02-19,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:406,C:305,MANAGED_BY,2020-12-03,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:407,C:62,MANAGED_BY,2025-07-23,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:408,C:17,MANAGED_BY,2020-01-14,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:409,C:550,MANAGED_BY,2023-10-29,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:410,C:586,MANAGED_BY,2025-07-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:411,C:144,MANAGED_BY,2022-11-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:412,C:147,MANAGED_BY,2021-01-12,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:413,C:485,MANAGED_BY,2022-02-06,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:414,C:280,MANAGED_BY,2025-10-13,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:415,C:349,MANAGED_BY,2023-01-10,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:416,C:580,MANAGED_BY,2023-08-24,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:417,C:44,MANAGED_BY,2025-03-06,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:418,C:157,MANAGED_BY,2022-09-06,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:419,C:209,MANAGED_BY,2021-02-16,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:420,C:279,MANAGED_BY,2024-02-17,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:421,C:100,MANAGED_BY,2020-06-21,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:422,C:255,MANAGED_BY,2023-12-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:423,C:117,MANAGED_BY,2023-02-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:424,C:24,MANAGED_BY,2023-08-10,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:425,C:310,MANAGED_BY,2025-04-07,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:426,C:237,MANAGED_BY,2020-08-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:427,C:73,MANAGED_BY,2023-11-26,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:428,C:400,MANAGED_BY,2025-11-13,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:429,C:63,MANAGED_BY,2024-08-11,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:430,C:38,MANAGED_BY,2025-10-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:431,C:318,MANAGED_BY,2021-06-20,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:432,C:365,MANAGED_BY,2023-11-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:433,C:39,MANAGED_BY,2025-07-24,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:434,C:354,MANAGED_BY,2022-06-09,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:435,C:100,MANAGED_BY,2020-11-28,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:436,C:263,MANAGED_BY,2025-11-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:437,C:16,MANAGED_BY,2020-05-09,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:438,C:569,MANAGED_BY,2022-07-06,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:439,C:142,MANAGED_BY,2025-11-13,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:440,C:216,MANAGED_BY,2020-10-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:441,C:246,MANAGED_BY,2022-06-14,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:442,C:131,MANAGED_BY,2022-04-02,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:443,C:454,MANAGED_BY,2022-10-14,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:444,C:424,MANAGED_BY,2023-06-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:445,C:304,MANAGED_BY,2025-04-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:446,C:575,MANAGED_BY,2020-10-04,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:447,C:495,MANAGED_BY,2024-01-30,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:448,C:82,MANAGED_BY,2021-08-04,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:449,C:152,MANAGED_BY,2025-03-28,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:450,C:4,MANAGED_BY,2024-09-19,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:451,C:211,MANAGED_BY,2025-09-05,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:452,C:469,MANAGED_BY,2023-08-27,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:453,C:8,MANAGED_BY,2023-04-24,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:454,C:574,MANAGED_BY,2025-08-27,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:455,C:204,MANAGED_BY,2024-04-03,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:456,C:350,MANAGED_BY,2020-12-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:457,C:533,MANAGED_BY,2024-04-19,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:458,C:440,MANAGED_BY,2022-12-03,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:459,C:243,MANAGED_BY,2023-04-21,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:460,C:317,MANAGED_BY,2024-09-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:461,C:143,MANAGED_BY,2022-07-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:462,C:173,MANAGED_BY,2022-03-18,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:463,C:543,MANAGED_BY,2022-03-20,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:464,C:140,MANAGED_BY,2021-12-15,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:465,C:481,MANAGED_BY,2021-02-03,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:466,C:144,MANAGED_BY,2023-07-11,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:467,C:178,MANAGED_BY,2020-11-29,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:468,C:314,MANAGED_BY,2023-07-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:469,C:240,MANAGED_BY,2021-03-19,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:470,C:342,MANAGED_BY,2023-02-07,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:471,C:404,MANAGED_BY,2023-06-25,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:472,C:554,MANAGED_BY,2022-04-24,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:473,C:483,MANAGED_BY,2024-09-18,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:474,C:469,MANAGED_BY,2022-10-10,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:475,C:220,MANAGED_BY,2020-10-23,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:476,C:127,MANAGED_BY,2024-10-10,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:477,C:482,MANAGED_BY,2020-05-08,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:478,C:6,MANAGED_BY,2022-07-25,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:479,C:266,MANAGED_BY,2022-01-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:480,C:400,MANAGED_BY,2021-05-16,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:481,C:211,MANAGED_BY,2023-01-30,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:482,C:405,MANAGED_BY,2021-09-07,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:483,C:484,MANAGED_BY,2022-12-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:484,C:403,MANAGED_BY,2022-08-18,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:485,C:541,MANAGED_BY,2020-10-04,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:486,C:237,MANAGED_BY,2022-07-07,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:487,C:22,MANAGED_BY,2025-01-05,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:488,C:151,MANAGED_BY,2021-02-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:489,C:237,MANAGED_BY,2021-07-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:490,C:164,MANAGED_BY,2024-09-14,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:491,C:275,MANAGED_BY,2021-10-08,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:492,C:160,MANAGED_BY,2022-10-06,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:493,C:296,MANAGED_BY,2022-06-10,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:494,C:43,MANAGED_BY,2024-05-19,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:495,C:80,MANAGED_BY,2021-02-06,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:496,C:203,MANAGED_BY,2021-06-09,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:497,C:283,MANAGED_BY,2025-02-01,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:498,C:6,MANAGED_BY,2021-09-10,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:499,C:191,MANAGED_BY,2024-04-19,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:500,C:329,MANAGED_BY,2020-11-27,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:501,C:180,MANAGED_BY,2025-05-23,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:502,C:569,MANAGED_BY,2023-04-10,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:503,C:276,MANAGED_BY,2021-05-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:504,C:442,MANAGED_BY,2024-03-07,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:505,C:288,MANAGED_BY,2020-03-30,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:506,C:130,MANAGED_BY,2023-11-17,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:507,C:419,MANAGED_BY,2025-11-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:508,C:523,MANAGED_BY,2025-02-16,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:509,C:83,MANAGED_BY,2022-03-11,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:510,C:589,MANAGED_BY,2024-09-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:511,C:357,MANAGED_BY,2024-04-11,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:512,C:570,MANAGED_BY,2022-03-19,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:513,C:356,MANAGED_BY,2022-04-22,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:514,C:503,MANAGED_BY,2025-08-23,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:515,C:539,MANAGED_BY,2025-10-11,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:516,C:351,MANAGED_BY,2022-01-26,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:517,C:420,MANAGED_BY,2022-10-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:518,C:269,MANAGED_BY,2024-12-01,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:519,C:378,MANAGED_BY,2021-09-20,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:520,C:364,MANAGED_BY,2024-11-06,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:521,C:135,MANAGED_BY,2025-01-25,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:522,C:473,MANAGED_BY,2020-04-30,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:523,C:70,MANAGED_BY,2024-03-01,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:524,C:229,MANAGED_BY,2024-07-30,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:525,C:122,MANAGED_BY,2024-08-13,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:526,C:561,MANAGED_BY,2020-10-22,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:527,C:244,MANAGED_BY,2020-10-13,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:528,C:423,MANAGED_BY,2025-05-13,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:529,C:277,MANAGED_BY,2025-05-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:530,C:517,MANAGED_BY,2021-04-14,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:531,C:237,MANAGED_BY,2024-01-10,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:532,C:9,MANAGED_BY,2025-05-17,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:533,C:264,MANAGED_BY,2021-08-05,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:534,C:498,MANAGED_BY,2021-11-29,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:535,C:550,MANAGED_BY,2025-10-29,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:536,C:47,MANAGED_BY,2021-06-03,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:537,C:49,MANAGED_BY,2024-10-12,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:538,C:325,MANAGED_BY,2023-04-11,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:539,C:49,MANAGED_BY,2023-12-15,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:540,C:211,MANAGED_BY,2022-01-08,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:541,C:497,MANAGED_BY,2021-12-26,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:542,C:136,MANAGED_BY,2022-01-04,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:543,C:342,MANAGED_BY,2021-08-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:544,C:427,MANAGED_BY,2023-01-30,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:545,C:111,MANAGED_BY,2021-02-27,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:546,C:180,MANAGED_BY,2023-03-26,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:547,C:226,MANAGED_BY,2020-06-06,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:548,C:95,MANAGED_BY,2020-03-15,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:549,C:513,MANAGED_BY,2025-06-10,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:550,C:409,MANAGED_BY,2025-03-05,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:551,C:504,MANAGED_BY,2023-10-26,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:552,C:128,MANAGED_BY,2024-07-15,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:553,C:393,MANAGED_BY,2024-10-23,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:554,C:166,MANAGED_BY,2024-06-16,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:555,C:188,MANAGED_BY,2024-07-03,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:556,C:416,MANAGED_BY,2020-03-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:557,C:300,MANAGED_BY,2024-04-26,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:558,C:577,MANAGED_BY,2021-08-05,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:559,C:105,MANAGED_BY,2022-05-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:560,C:262,MANAGED_BY,2023-12-13,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:561,C:89,MANAGED_BY,2025-10-21,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:562,C:490,MANAGED_BY,2023-06-03,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:563,C:495,MANAGED_BY,2025-09-04,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:564,C:298,MANAGED_BY,2020-09-24,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:565,C:511,MANAGED_BY,2024-10-26,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:566,C:284,MANAGED_BY,2020-01-02,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:567,C:166,MANAGED_BY,2023-06-17,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:568,C:106,MANAGED_BY,2022-02-12,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:569,C:451,MANAGED_BY,2020-07-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:570,C:142,MANAGED_BY,2021-01-19,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:571,C:428,MANAGED_BY,2022-02-01,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:572,C:506,MANAGED_BY,2024-01-02,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:573,C:295,MANAGED_BY,2025-12-22,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:574,C:192,MANAGED_BY,2024-04-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:575,C:574,MANAGED_BY,2021-09-30,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:576,C:133,MANAGED_BY,2024-05-09,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:577,C:472,MANAGED_BY,2023-08-17,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:578,C:530,MANAGED_BY,2024-07-15,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:579,C:548,MANAGED_BY,2022-09-05,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:580,C:418,MANAGED_BY,2021-03-23,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:581,C:531,MANAGED_BY,2022-05-30,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:582,C:166,MANAGED_BY,2025-12-09,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:583,C:414,MANAGED_BY,2023-11-03,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:584,C:506,MANAGED_BY,2020-12-01,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:585,C:142,MANAGED_BY,2023-04-28,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:586,C:524,MANAGED_BY,2025-02-25,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:587,C:438,MANAGED_BY,2025-07-06,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:588,C:39,MANAGED_BY,2024-12-19,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:589,C:466,MANAGED_BY,2022-05-25,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:590,C:206,MANAGED_BY,2022-11-16,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:591,C:341,MANAGED_BY,2021-06-08,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:592,C:381,MANAGED_BY,2022-07-22,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:593,C:599,MANAGED_BY,2022-10-05,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:594,C:416,MANAGED_BY,2020-10-20,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:595,C:494,MANAGED_BY,2024-05-15,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:596,C:212,MANAGED_BY,2024-01-23,Corporate Expenses,C
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:597,C:399,MANAGED_BY,2024-08-03,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:598,C:360,MANAGED_BY,2025-04-28,Corporate Expenses,B
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:599,C:180,MANAGED_BY,2020-01-27,Corporate Expenses,A
+startNode,endNode,relationship,managementStart,accountPurpose,auditRating
+ACC:600,C:179,MANAGED_BY,2020-11-29,Corporate Expenses,C

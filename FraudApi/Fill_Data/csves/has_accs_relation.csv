@@ -1,0 +1,1200 @@
+startNode,endNode,relationship,opened,branch,status
+B:574,ACC:1,HAS_ACCOUNT,2001-04-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:521,ACC:2,HAS_ACCOUNT,2009-03-05,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:36,ACC:3,HAS_ACCOUNT,2004-05-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:355,ACC:4,HAS_ACCOUNT,2000-04-16,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:444,ACC:5,HAS_ACCOUNT,2010-05-15,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:223,ACC:6,HAS_ACCOUNT,2021-11-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:228,ACC:7,HAS_ACCOUNT,2021-10-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:249,ACC:8,HAS_ACCOUNT,2015-10-09,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:88,ACC:9,HAS_ACCOUNT,2020-12-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:379,ACC:10,HAS_ACCOUNT,2006-05-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:302,ACC:11,HAS_ACCOUNT,2010-01-09,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:62,ACC:12,HAS_ACCOUNT,2018-05-05,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:435,ACC:13,HAS_ACCOUNT,2014-06-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:249,ACC:14,HAS_ACCOUNT,2020-09-12,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:365,ACC:15,HAS_ACCOUNT,2001-03-31,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:217,ACC:16,HAS_ACCOUNT,2014-05-28,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:483,ACC:17,HAS_ACCOUNT,2000-05-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:281,ACC:18,HAS_ACCOUNT,2008-12-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:275,ACC:19,HAS_ACCOUNT,2011-02-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:560,ACC:20,HAS_ACCOUNT,2021-03-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:29,ACC:21,HAS_ACCOUNT,2009-12-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:261,ACC:22,HAS_ACCOUNT,2020-01-30,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:349,ACC:23,HAS_ACCOUNT,2022-07-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:287,ACC:24,HAS_ACCOUNT,2001-06-20,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:173,ACC:25,HAS_ACCOUNT,2021-12-22,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:52,ACC:26,HAS_ACCOUNT,2019-10-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:102,ACC:27,HAS_ACCOUNT,2007-01-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:171,ACC:28,HAS_ACCOUNT,2017-03-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:63,ACC:29,HAS_ACCOUNT,2018-12-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:1,ACC:30,HAS_ACCOUNT,2021-09-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:72,ACC:31,HAS_ACCOUNT,2017-09-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:180,ACC:32,HAS_ACCOUNT,2000-12-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:522,ACC:33,HAS_ACCOUNT,2009-06-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:135,ACC:34,HAS_ACCOUNT,2018-10-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:397,ACC:35,HAS_ACCOUNT,2008-06-20,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:473,ACC:36,HAS_ACCOUNT,2015-09-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:227,ACC:37,HAS_ACCOUNT,2016-01-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:296,ACC:38,HAS_ACCOUNT,2006-07-19,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:221,ACC:39,HAS_ACCOUNT,2011-03-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:224,ACC:40,HAS_ACCOUNT,2011-02-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:477,ACC:41,HAS_ACCOUNT,2003-07-15,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:369,ACC:42,HAS_ACCOUNT,2005-11-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:167,ACC:43,HAS_ACCOUNT,2004-03-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:286,ACC:44,HAS_ACCOUNT,2004-10-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:114,ACC:45,HAS_ACCOUNT,2012-02-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:89,ACC:46,HAS_ACCOUNT,2019-09-08,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:326,ACC:47,HAS_ACCOUNT,2008-02-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:543,ACC:48,HAS_ACCOUNT,2006-04-12,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:203,ACC:49,HAS_ACCOUNT,2013-07-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:148,ACC:50,HAS_ACCOUNT,2013-05-16,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:282,ACC:51,HAS_ACCOUNT,2019-03-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:424,ACC:52,HAS_ACCOUNT,2011-05-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:206,ACC:53,HAS_ACCOUNT,2008-06-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:141,ACC:54,HAS_ACCOUNT,2012-07-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:177,ACC:55,HAS_ACCOUNT,2011-08-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:56,ACC:56,HAS_ACCOUNT,2001-12-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:20,ACC:57,HAS_ACCOUNT,2010-09-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:335,ACC:58,HAS_ACCOUNT,2012-03-27,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:440,ACC:59,HAS_ACCOUNT,2011-04-28,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:16,ACC:60,HAS_ACCOUNT,2011-04-11,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:237,ACC:61,HAS_ACCOUNT,2014-01-14,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:290,ACC:62,HAS_ACCOUNT,2012-08-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:551,ACC:63,HAS_ACCOUNT,2019-09-29,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:486,ACC:64,HAS_ACCOUNT,2020-04-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:433,ACC:65,HAS_ACCOUNT,2019-02-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:332,ACC:66,HAS_ACCOUNT,2008-05-24,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:137,ACC:67,HAS_ACCOUNT,2013-01-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:28,ACC:68,HAS_ACCOUNT,2007-06-30,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:124,ACC:69,HAS_ACCOUNT,2008-01-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:185,ACC:70,HAS_ACCOUNT,2021-03-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:294,ACC:71,HAS_ACCOUNT,2022-02-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:112,ACC:72,HAS_ACCOUNT,2021-03-12,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:245,ACC:73,HAS_ACCOUNT,2014-12-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:431,ACC:74,HAS_ACCOUNT,2021-08-12,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:60,ACC:75,HAS_ACCOUNT,2011-09-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:460,ACC:76,HAS_ACCOUNT,2014-08-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:519,ACC:77,HAS_ACCOUNT,2008-11-21,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:575,ACC:78,HAS_ACCOUNT,2000-04-02,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:483,ACC:79,HAS_ACCOUNT,2014-08-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:433,ACC:80,HAS_ACCOUNT,2012-08-01,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:531,ACC:81,HAS_ACCOUNT,2019-02-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:276,ACC:82,HAS_ACCOUNT,2022-08-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:27,ACC:83,HAS_ACCOUNT,2013-01-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:63,ACC:84,HAS_ACCOUNT,2010-09-30,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:444,ACC:85,HAS_ACCOUNT,2011-09-13,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:199,ACC:86,HAS_ACCOUNT,2011-03-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:5,ACC:87,HAS_ACCOUNT,2021-09-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:394,ACC:88,HAS_ACCOUNT,2022-04-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:148,ACC:89,HAS_ACCOUNT,2020-03-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:270,ACC:90,HAS_ACCOUNT,2013-03-31,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:600,ACC:91,HAS_ACCOUNT,2014-11-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:144,ACC:92,HAS_ACCOUNT,2014-01-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:81,ACC:93,HAS_ACCOUNT,2001-11-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:223,ACC:94,HAS_ACCOUNT,2006-08-01,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:520,ACC:95,HAS_ACCOUNT,2018-06-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:188,ACC:96,HAS_ACCOUNT,2004-11-17,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:115,ACC:97,HAS_ACCOUNT,2019-05-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:207,ACC:98,HAS_ACCOUNT,2021-06-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:188,ACC:99,HAS_ACCOUNT,2004-09-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:351,ACC:100,HAS_ACCOUNT,2019-08-29,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:517,ACC:101,HAS_ACCOUNT,2007-12-23,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:590,ACC:102,HAS_ACCOUNT,2001-03-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:129,ACC:103,HAS_ACCOUNT,2013-03-19,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:204,ACC:104,HAS_ACCOUNT,2011-05-22,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:348,ACC:105,HAS_ACCOUNT,2002-09-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:315,ACC:106,HAS_ACCOUNT,2009-08-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:40,ACC:107,HAS_ACCOUNT,2008-11-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:425,ACC:108,HAS_ACCOUNT,2006-12-01,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:461,ACC:109,HAS_ACCOUNT,2008-03-31,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:413,ACC:110,HAS_ACCOUNT,2017-12-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:94,ACC:111,HAS_ACCOUNT,2021-05-09,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:246,ACC:112,HAS_ACCOUNT,2014-01-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:242,ACC:113,HAS_ACCOUNT,2021-05-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:105,ACC:114,HAS_ACCOUNT,2003-06-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:91,ACC:115,HAS_ACCOUNT,2002-10-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:441,ACC:116,HAS_ACCOUNT,2000-12-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:300,ACC:117,HAS_ACCOUNT,2012-06-20,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:132,ACC:118,HAS_ACCOUNT,2000-02-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:466,ACC:119,HAS_ACCOUNT,2009-06-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:247,ACC:120,HAS_ACCOUNT,2014-04-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:491,ACC:121,HAS_ACCOUNT,2010-02-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:78,ACC:122,HAS_ACCOUNT,2021-01-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:338,ACC:123,HAS_ACCOUNT,2020-09-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:549,ACC:124,HAS_ACCOUNT,2019-07-10,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:580,ACC:125,HAS_ACCOUNT,2013-11-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:580,ACC:126,HAS_ACCOUNT,2001-01-16,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:346,ACC:127,HAS_ACCOUNT,2010-09-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:407,ACC:128,HAS_ACCOUNT,2020-12-29,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:101,ACC:129,HAS_ACCOUNT,2002-04-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:305,ACC:130,HAS_ACCOUNT,2002-12-18,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:252,ACC:131,HAS_ACCOUNT,2007-01-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:509,ACC:132,HAS_ACCOUNT,2018-10-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:52,ACC:133,HAS_ACCOUNT,2018-05-31,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:253,ACC:134,HAS_ACCOUNT,2009-04-30,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:433,ACC:135,HAS_ACCOUNT,2018-06-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:477,ACC:136,HAS_ACCOUNT,2004-09-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:232,ACC:137,HAS_ACCOUNT,2012-08-02,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:210,ACC:138,HAS_ACCOUNT,2011-10-15,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:210,ACC:139,HAS_ACCOUNT,2017-03-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:55,ACC:140,HAS_ACCOUNT,2006-03-06,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:526,ACC:141,HAS_ACCOUNT,2016-12-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:223,ACC:142,HAS_ACCOUNT,2020-10-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:71,ACC:143,HAS_ACCOUNT,2022-11-11,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:376,ACC:144,HAS_ACCOUNT,2011-09-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:251,ACC:145,HAS_ACCOUNT,2008-08-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:451,ACC:146,HAS_ACCOUNT,2014-02-08,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:116,ACC:147,HAS_ACCOUNT,2021-07-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:247,ACC:148,HAS_ACCOUNT,2018-01-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:367,ACC:149,HAS_ACCOUNT,2006-08-27,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:225,ACC:150,HAS_ACCOUNT,2005-01-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:396,ACC:151,HAS_ACCOUNT,2013-01-16,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:498,ACC:152,HAS_ACCOUNT,2019-11-18,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:407,ACC:153,HAS_ACCOUNT,2014-07-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:25,ACC:154,HAS_ACCOUNT,2005-10-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:380,ACC:155,HAS_ACCOUNT,2021-08-11,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:225,ACC:156,HAS_ACCOUNT,2000-11-18,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:205,ACC:157,HAS_ACCOUNT,2000-11-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:506,ACC:158,HAS_ACCOUNT,2008-08-10,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:268,ACC:159,HAS_ACCOUNT,2018-09-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:277,ACC:160,HAS_ACCOUNT,2004-07-28,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:11,ACC:161,HAS_ACCOUNT,2006-03-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:575,ACC:162,HAS_ACCOUNT,2005-03-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:29,ACC:163,HAS_ACCOUNT,2006-03-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:104,ACC:164,HAS_ACCOUNT,2010-03-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:258,ACC:165,HAS_ACCOUNT,2007-03-13,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:101,ACC:166,HAS_ACCOUNT,2004-10-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:170,ACC:167,HAS_ACCOUNT,2010-03-18,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:408,ACC:168,HAS_ACCOUNT,2019-09-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:432,ACC:169,HAS_ACCOUNT,2003-01-16,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:333,ACC:170,HAS_ACCOUNT,2007-03-04,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:74,ACC:171,HAS_ACCOUNT,2002-01-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:241,ACC:172,HAS_ACCOUNT,2019-10-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:238,ACC:173,HAS_ACCOUNT,2011-08-07,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:432,ACC:174,HAS_ACCOUNT,2000-08-09,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:455,ACC:175,HAS_ACCOUNT,2015-03-28,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:312,ACC:176,HAS_ACCOUNT,2002-11-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:101,ACC:177,HAS_ACCOUNT,2018-10-16,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:89,ACC:178,HAS_ACCOUNT,2022-05-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:454,ACC:179,HAS_ACCOUNT,2007-06-15,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:168,ACC:180,HAS_ACCOUNT,2001-11-29,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:299,ACC:181,HAS_ACCOUNT,2010-04-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:503,ACC:182,HAS_ACCOUNT,2008-02-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:291,ACC:183,HAS_ACCOUNT,2013-02-18,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:286,ACC:184,HAS_ACCOUNT,2008-07-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:417,ACC:185,HAS_ACCOUNT,2007-10-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:566,ACC:186,HAS_ACCOUNT,2018-08-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:32,ACC:187,HAS_ACCOUNT,2014-02-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:461,ACC:188,HAS_ACCOUNT,2018-01-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:235,ACC:189,HAS_ACCOUNT,2010-01-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:539,ACC:190,HAS_ACCOUNT,2022-07-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:281,ACC:191,HAS_ACCOUNT,2005-09-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:227,ACC:192,HAS_ACCOUNT,2002-02-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:256,ACC:193,HAS_ACCOUNT,2003-11-15,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:44,ACC:194,HAS_ACCOUNT,2022-05-07,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:597,ACC:195,HAS_ACCOUNT,2006-01-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:115,ACC:196,HAS_ACCOUNT,2014-04-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:256,ACC:197,HAS_ACCOUNT,2018-02-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:363,ACC:198,HAS_ACCOUNT,2021-07-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:573,ACC:199,HAS_ACCOUNT,2005-06-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:600,ACC:200,HAS_ACCOUNT,2001-10-29,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:331,ACC:201,HAS_ACCOUNT,2003-08-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:517,ACC:202,HAS_ACCOUNT,2001-02-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:241,ACC:203,HAS_ACCOUNT,2012-10-06,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:461,ACC:204,HAS_ACCOUNT,2009-11-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:456,ACC:205,HAS_ACCOUNT,2007-08-09,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:563,ACC:206,HAS_ACCOUNT,2002-12-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:159,ACC:207,HAS_ACCOUNT,2002-12-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:253,ACC:208,HAS_ACCOUNT,2016-12-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:454,ACC:209,HAS_ACCOUNT,2011-03-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:600,ACC:210,HAS_ACCOUNT,2008-09-23,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:117,ACC:211,HAS_ACCOUNT,2022-11-30,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:193,ACC:212,HAS_ACCOUNT,2007-07-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:422,ACC:213,HAS_ACCOUNT,2022-06-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:248,ACC:214,HAS_ACCOUNT,2017-07-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:566,ACC:215,HAS_ACCOUNT,2004-05-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:14,ACC:216,HAS_ACCOUNT,2009-08-30,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:214,ACC:217,HAS_ACCOUNT,2005-11-17,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:583,ACC:218,HAS_ACCOUNT,2012-07-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:193,ACC:219,HAS_ACCOUNT,2005-05-16,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:533,ACC:220,HAS_ACCOUNT,2018-12-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:593,ACC:221,HAS_ACCOUNT,2007-05-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:14,ACC:222,HAS_ACCOUNT,2008-11-19,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:369,ACC:223,HAS_ACCOUNT,2006-03-09,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:542,ACC:224,HAS_ACCOUNT,2009-04-30,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:155,ACC:225,HAS_ACCOUNT,2019-07-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:522,ACC:226,HAS_ACCOUNT,2021-06-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:374,ACC:227,HAS_ACCOUNT,2016-02-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:42,ACC:228,HAS_ACCOUNT,2011-02-16,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:337,ACC:229,HAS_ACCOUNT,2013-07-13,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:93,ACC:230,HAS_ACCOUNT,2021-02-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:101,ACC:231,HAS_ACCOUNT,2017-07-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:409,ACC:232,HAS_ACCOUNT,2002-10-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:361,ACC:233,HAS_ACCOUNT,2018-11-28,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:266,ACC:234,HAS_ACCOUNT,2014-09-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:553,ACC:235,HAS_ACCOUNT,2012-02-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:204,ACC:236,HAS_ACCOUNT,2002-11-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:33,ACC:237,HAS_ACCOUNT,2017-10-30,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:589,ACC:238,HAS_ACCOUNT,2016-06-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:343,ACC:239,HAS_ACCOUNT,2015-03-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:264,ACC:240,HAS_ACCOUNT,2003-05-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:347,ACC:241,HAS_ACCOUNT,2022-01-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:286,ACC:242,HAS_ACCOUNT,2002-07-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:461,ACC:243,HAS_ACCOUNT,2020-12-08,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:5,ACC:244,HAS_ACCOUNT,2005-01-26,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:100,ACC:245,HAS_ACCOUNT,2015-02-16,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:555,ACC:246,HAS_ACCOUNT,2011-06-30,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:157,ACC:247,HAS_ACCOUNT,2016-08-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:313,ACC:248,HAS_ACCOUNT,2000-08-05,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:511,ACC:249,HAS_ACCOUNT,2013-11-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:497,ACC:250,HAS_ACCOUNT,2002-09-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:99,ACC:251,HAS_ACCOUNT,2006-04-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:314,ACC:252,HAS_ACCOUNT,2009-01-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:84,ACC:253,HAS_ACCOUNT,2014-05-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:32,ACC:254,HAS_ACCOUNT,2006-12-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:142,ACC:255,HAS_ACCOUNT,2020-01-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:567,ACC:256,HAS_ACCOUNT,2018-06-18,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:117,ACC:257,HAS_ACCOUNT,2008-08-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:467,ACC:258,HAS_ACCOUNT,2013-03-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:397,ACC:259,HAS_ACCOUNT,2004-05-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:54,ACC:260,HAS_ACCOUNT,2005-06-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:167,ACC:261,HAS_ACCOUNT,2017-05-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:389,ACC:262,HAS_ACCOUNT,2009-09-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:397,ACC:263,HAS_ACCOUNT,2018-01-11,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:389,ACC:264,HAS_ACCOUNT,2000-07-16,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:219,ACC:265,HAS_ACCOUNT,2006-06-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:254,ACC:266,HAS_ACCOUNT,2018-11-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:315,ACC:267,HAS_ACCOUNT,2003-10-04,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:373,ACC:268,HAS_ACCOUNT,2004-11-11,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:29,ACC:269,HAS_ACCOUNT,2006-07-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:322,ACC:270,HAS_ACCOUNT,2013-05-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:506,ACC:271,HAS_ACCOUNT,2008-09-14,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:147,ACC:272,HAS_ACCOUNT,2016-06-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:479,ACC:273,HAS_ACCOUNT,2022-06-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:55,ACC:274,HAS_ACCOUNT,2020-07-04,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:539,ACC:275,HAS_ACCOUNT,2021-04-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:584,ACC:276,HAS_ACCOUNT,2000-01-28,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:78,ACC:277,HAS_ACCOUNT,2021-08-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:155,ACC:278,HAS_ACCOUNT,2015-03-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:179,ACC:279,HAS_ACCOUNT,2021-04-06,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:553,ACC:280,HAS_ACCOUNT,2005-07-04,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:57,ACC:281,HAS_ACCOUNT,2009-03-29,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:433,ACC:282,HAS_ACCOUNT,2018-09-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:186,ACC:283,HAS_ACCOUNT,2018-07-06,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:411,ACC:284,HAS_ACCOUNT,2011-02-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:136,ACC:285,HAS_ACCOUNT,2014-11-09,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:374,ACC:286,HAS_ACCOUNT,2018-06-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:415,ACC:287,HAS_ACCOUNT,2006-01-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:460,ACC:288,HAS_ACCOUNT,2000-02-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:14,ACC:289,HAS_ACCOUNT,2003-10-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:96,ACC:290,HAS_ACCOUNT,2013-09-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:129,ACC:291,HAS_ACCOUNT,2004-08-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:357,ACC:292,HAS_ACCOUNT,2020-05-31,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:108,ACC:293,HAS_ACCOUNT,2021-10-24,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:326,ACC:294,HAS_ACCOUNT,2012-09-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:428,ACC:295,HAS_ACCOUNT,2003-01-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:507,ACC:296,HAS_ACCOUNT,2018-06-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:18,ACC:297,HAS_ACCOUNT,2016-10-30,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:418,ACC:298,HAS_ACCOUNT,2013-11-19,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:142,ACC:299,HAS_ACCOUNT,2016-10-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:410,ACC:300,HAS_ACCOUNT,2015-09-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:288,ACC:301,HAS_ACCOUNT,2021-11-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:143,ACC:302,HAS_ACCOUNT,2016-08-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:250,ACC:303,HAS_ACCOUNT,2018-06-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:568,ACC:304,HAS_ACCOUNT,2006-02-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:63,ACC:305,HAS_ACCOUNT,2021-02-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:439,ACC:306,HAS_ACCOUNT,2009-02-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:193,ACC:307,HAS_ACCOUNT,2019-12-31,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:349,ACC:308,HAS_ACCOUNT,2012-11-13,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:386,ACC:309,HAS_ACCOUNT,2009-07-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:158,ACC:310,HAS_ACCOUNT,2019-03-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:382,ACC:311,HAS_ACCOUNT,2004-11-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:71,ACC:312,HAS_ACCOUNT,2006-01-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:330,ACC:313,HAS_ACCOUNT,2022-09-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:421,ACC:314,HAS_ACCOUNT,2002-01-22,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:96,ACC:315,HAS_ACCOUNT,2009-05-27,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:456,ACC:316,HAS_ACCOUNT,2002-04-05,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:311,ACC:317,HAS_ACCOUNT,2007-08-04,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:426,ACC:318,HAS_ACCOUNT,2006-10-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:66,ACC:319,HAS_ACCOUNT,2004-06-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:599,ACC:320,HAS_ACCOUNT,2022-01-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:289,ACC:321,HAS_ACCOUNT,2005-08-22,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:470,ACC:322,HAS_ACCOUNT,2011-08-26,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:476,ACC:323,HAS_ACCOUNT,2000-03-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:397,ACC:324,HAS_ACCOUNT,2000-08-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:70,ACC:325,HAS_ACCOUNT,2001-12-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:532,ACC:326,HAS_ACCOUNT,2003-10-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:182,ACC:327,HAS_ACCOUNT,2003-10-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:184,ACC:328,HAS_ACCOUNT,2010-06-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:39,ACC:329,HAS_ACCOUNT,2022-10-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:109,ACC:330,HAS_ACCOUNT,2008-04-07,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:333,ACC:331,HAS_ACCOUNT,2011-05-14,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:249,ACC:332,HAS_ACCOUNT,2014-05-23,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:143,ACC:333,HAS_ACCOUNT,2007-02-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:83,ACC:334,HAS_ACCOUNT,2008-04-12,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:127,ACC:335,HAS_ACCOUNT,2002-07-17,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:492,ACC:336,HAS_ACCOUNT,2008-11-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:221,ACC:337,HAS_ACCOUNT,2019-02-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:461,ACC:338,HAS_ACCOUNT,2020-04-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:303,ACC:339,HAS_ACCOUNT,2004-09-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:70,ACC:340,HAS_ACCOUNT,2007-08-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:145,ACC:341,HAS_ACCOUNT,2001-03-31,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:127,ACC:342,HAS_ACCOUNT,2016-03-23,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:126,ACC:343,HAS_ACCOUNT,2012-04-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:103,ACC:344,HAS_ACCOUNT,2014-05-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:176,ACC:345,HAS_ACCOUNT,2004-08-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:324,ACC:346,HAS_ACCOUNT,2001-03-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:103,ACC:347,HAS_ACCOUNT,2003-11-24,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:438,ACC:348,HAS_ACCOUNT,2013-11-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:321,ACC:349,HAS_ACCOUNT,2017-10-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:434,ACC:350,HAS_ACCOUNT,2011-01-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:572,ACC:351,HAS_ACCOUNT,2019-04-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:21,ACC:352,HAS_ACCOUNT,2020-07-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:301,ACC:353,HAS_ACCOUNT,2001-11-26,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:149,ACC:354,HAS_ACCOUNT,2012-09-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:38,ACC:355,HAS_ACCOUNT,2008-08-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:29,ACC:356,HAS_ACCOUNT,2014-08-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:265,ACC:357,HAS_ACCOUNT,2015-02-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:502,ACC:358,HAS_ACCOUNT,2017-07-22,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:175,ACC:359,HAS_ACCOUNT,2001-10-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:126,ACC:360,HAS_ACCOUNT,2021-01-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:477,ACC:361,HAS_ACCOUNT,2022-12-30,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:337,ACC:362,HAS_ACCOUNT,2014-08-24,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:172,ACC:363,HAS_ACCOUNT,2018-08-29,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:352,ACC:364,HAS_ACCOUNT,2001-01-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:33,ACC:365,HAS_ACCOUNT,2010-08-16,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:220,ACC:366,HAS_ACCOUNT,2006-01-31,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:525,ACC:367,HAS_ACCOUNT,2008-03-15,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:162,ACC:368,HAS_ACCOUNT,2012-07-15,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:146,ACC:369,HAS_ACCOUNT,2005-12-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:195,ACC:370,HAS_ACCOUNT,2022-11-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:4,ACC:371,HAS_ACCOUNT,2002-02-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:571,ACC:372,HAS_ACCOUNT,2009-12-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:90,ACC:373,HAS_ACCOUNT,2002-06-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:38,ACC:374,HAS_ACCOUNT,2015-10-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:144,ACC:375,HAS_ACCOUNT,2003-11-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:502,ACC:376,HAS_ACCOUNT,2011-09-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:147,ACC:377,HAS_ACCOUNT,2016-07-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:291,ACC:378,HAS_ACCOUNT,2013-10-19,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:252,ACC:379,HAS_ACCOUNT,2008-09-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:232,ACC:380,HAS_ACCOUNT,2003-06-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:316,ACC:381,HAS_ACCOUNT,2016-10-09,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:541,ACC:382,HAS_ACCOUNT,2016-03-21,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:76,ACC:383,HAS_ACCOUNT,2022-10-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:497,ACC:384,HAS_ACCOUNT,2017-03-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:441,ACC:385,HAS_ACCOUNT,2000-11-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:358,ACC:386,HAS_ACCOUNT,2022-04-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:17,ACC:387,HAS_ACCOUNT,2014-05-04,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:461,ACC:388,HAS_ACCOUNT,2018-10-30,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:581,ACC:389,HAS_ACCOUNT,2005-03-18,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:56,ACC:390,HAS_ACCOUNT,2011-09-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:564,ACC:391,HAS_ACCOUNT,2000-11-05,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:429,ACC:392,HAS_ACCOUNT,2022-05-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:207,ACC:393,HAS_ACCOUNT,2020-01-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:488,ACC:394,HAS_ACCOUNT,2012-10-01,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:84,ACC:395,HAS_ACCOUNT,2014-03-07,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:444,ACC:396,HAS_ACCOUNT,2003-05-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:262,ACC:397,HAS_ACCOUNT,2002-10-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:522,ACC:398,HAS_ACCOUNT,2001-01-06,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:47,ACC:399,HAS_ACCOUNT,2014-12-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:120,ACC:400,HAS_ACCOUNT,2004-01-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:52,ACC:401,HAS_ACCOUNT,2013-03-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:405,ACC:402,HAS_ACCOUNT,2006-12-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:151,ACC:403,HAS_ACCOUNT,2016-10-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:48,ACC:404,HAS_ACCOUNT,2008-09-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:424,ACC:405,HAS_ACCOUNT,2007-10-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:245,ACC:406,HAS_ACCOUNT,2021-08-05,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:259,ACC:407,HAS_ACCOUNT,2020-08-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:374,ACC:408,HAS_ACCOUNT,2017-12-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:463,ACC:409,HAS_ACCOUNT,2011-05-26,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:400,ACC:410,HAS_ACCOUNT,2010-10-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:580,ACC:411,HAS_ACCOUNT,2015-11-17,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:269,ACC:412,HAS_ACCOUNT,2013-04-07,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:512,ACC:413,HAS_ACCOUNT,2015-01-25,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:170,ACC:414,HAS_ACCOUNT,2011-10-10,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:483,ACC:415,HAS_ACCOUNT,2018-03-03,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:1,ACC:416,HAS_ACCOUNT,2017-11-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:425,ACC:417,HAS_ACCOUNT,2002-12-11,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:178,ACC:418,HAS_ACCOUNT,2006-11-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:328,ACC:419,HAS_ACCOUNT,2012-03-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:233,ACC:420,HAS_ACCOUNT,2009-06-16,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:235,ACC:421,HAS_ACCOUNT,2017-02-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:283,ACC:422,HAS_ACCOUNT,2019-09-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:74,ACC:423,HAS_ACCOUNT,2018-09-13,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:478,ACC:424,HAS_ACCOUNT,2010-01-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:553,ACC:425,HAS_ACCOUNT,2015-05-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:311,ACC:426,HAS_ACCOUNT,2005-08-29,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:435,ACC:427,HAS_ACCOUNT,2020-09-14,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:359,ACC:428,HAS_ACCOUNT,2008-03-02,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:239,ACC:429,HAS_ACCOUNT,2008-10-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:542,ACC:430,HAS_ACCOUNT,2016-05-16,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:248,ACC:431,HAS_ACCOUNT,2001-09-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:19,ACC:432,HAS_ACCOUNT,2021-03-01,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:596,ACC:433,HAS_ACCOUNT,2021-08-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:514,ACC:434,HAS_ACCOUNT,2005-02-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:541,ACC:435,HAS_ACCOUNT,2009-07-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:214,ACC:436,HAS_ACCOUNT,2015-03-30,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:349,ACC:437,HAS_ACCOUNT,2018-03-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:47,ACC:438,HAS_ACCOUNT,2012-01-20,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:503,ACC:439,HAS_ACCOUNT,2008-01-11,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:103,ACC:440,HAS_ACCOUNT,2010-06-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:109,ACC:441,HAS_ACCOUNT,2014-02-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:245,ACC:442,HAS_ACCOUNT,2018-07-05,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:452,ACC:443,HAS_ACCOUNT,2012-02-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:293,ACC:444,HAS_ACCOUNT,2019-07-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:586,ACC:445,HAS_ACCOUNT,2009-06-20,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:83,ACC:446,HAS_ACCOUNT,2011-11-26,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:295,ACC:447,HAS_ACCOUNT,2019-02-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:492,ACC:448,HAS_ACCOUNT,2022-04-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:50,ACC:449,HAS_ACCOUNT,2006-08-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:131,ACC:450,HAS_ACCOUNT,2001-03-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:576,ACC:451,HAS_ACCOUNT,2021-03-22,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:417,ACC:452,HAS_ACCOUNT,2006-02-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:325,ACC:453,HAS_ACCOUNT,2007-11-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:121,ACC:454,HAS_ACCOUNT,2001-07-23,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:374,ACC:455,HAS_ACCOUNT,2009-01-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:342,ACC:456,HAS_ACCOUNT,2015-08-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:177,ACC:457,HAS_ACCOUNT,2011-09-01,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:165,ACC:458,HAS_ACCOUNT,2007-05-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:50,ACC:459,HAS_ACCOUNT,2022-12-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:259,ACC:460,HAS_ACCOUNT,2018-09-07,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:266,ACC:461,HAS_ACCOUNT,2021-07-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:348,ACC:462,HAS_ACCOUNT,2021-02-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:222,ACC:463,HAS_ACCOUNT,2003-03-07,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:264,ACC:464,HAS_ACCOUNT,2017-01-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:62,ACC:465,HAS_ACCOUNT,2011-03-06,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:525,ACC:466,HAS_ACCOUNT,2004-12-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:307,ACC:467,HAS_ACCOUNT,2001-12-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:147,ACC:468,HAS_ACCOUNT,2000-08-30,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:136,ACC:469,HAS_ACCOUNT,2002-12-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:128,ACC:470,HAS_ACCOUNT,2011-10-27,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:398,ACC:471,HAS_ACCOUNT,2012-03-27,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:565,ACC:472,HAS_ACCOUNT,2001-07-13,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:398,ACC:473,HAS_ACCOUNT,2022-10-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:586,ACC:474,HAS_ACCOUNT,2018-07-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:336,ACC:475,HAS_ACCOUNT,2009-10-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:235,ACC:476,HAS_ACCOUNT,2000-04-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:260,ACC:477,HAS_ACCOUNT,2003-09-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:165,ACC:478,HAS_ACCOUNT,2004-01-25,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:15,ACC:479,HAS_ACCOUNT,2011-03-27,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:325,ACC:480,HAS_ACCOUNT,2007-04-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:594,ACC:481,HAS_ACCOUNT,2007-07-26,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:296,ACC:482,HAS_ACCOUNT,2021-12-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:179,ACC:483,HAS_ACCOUNT,2002-07-29,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:249,ACC:484,HAS_ACCOUNT,2019-03-29,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:402,ACC:485,HAS_ACCOUNT,2000-10-18,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:550,ACC:486,HAS_ACCOUNT,2001-02-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:288,ACC:487,HAS_ACCOUNT,2004-08-14,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:7,ACC:488,HAS_ACCOUNT,2022-04-05,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:195,ACC:489,HAS_ACCOUNT,2016-08-16,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:534,ACC:490,HAS_ACCOUNT,2015-02-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:418,ACC:491,HAS_ACCOUNT,2016-06-23,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:340,ACC:492,HAS_ACCOUNT,2003-02-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:205,ACC:493,HAS_ACCOUNT,2019-07-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:90,ACC:494,HAS_ACCOUNT,2017-11-23,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:300,ACC:495,HAS_ACCOUNT,2014-05-02,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:372,ACC:496,HAS_ACCOUNT,2015-03-31,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:480,ACC:497,HAS_ACCOUNT,2014-06-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:333,ACC:498,HAS_ACCOUNT,2017-12-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:122,ACC:499,HAS_ACCOUNT,2005-05-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:205,ACC:500,HAS_ACCOUNT,2010-08-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:202,ACC:501,HAS_ACCOUNT,2000-06-19,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:555,ACC:502,HAS_ACCOUNT,2003-10-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:522,ACC:503,HAS_ACCOUNT,2019-12-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:402,ACC:504,HAS_ACCOUNT,2018-12-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:336,ACC:505,HAS_ACCOUNT,2020-12-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:543,ACC:506,HAS_ACCOUNT,2022-11-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:464,ACC:507,HAS_ACCOUNT,2021-06-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:489,ACC:508,HAS_ACCOUNT,2017-07-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:450,ACC:509,HAS_ACCOUNT,2000-01-28,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:364,ACC:510,HAS_ACCOUNT,2012-08-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:93,ACC:511,HAS_ACCOUNT,2012-11-26,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:385,ACC:512,HAS_ACCOUNT,2005-01-21,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:145,ACC:513,HAS_ACCOUNT,2006-12-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:70,ACC:514,HAS_ACCOUNT,2017-02-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:290,ACC:515,HAS_ACCOUNT,2008-11-02,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:284,ACC:516,HAS_ACCOUNT,2006-09-12,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:406,ACC:517,HAS_ACCOUNT,2018-07-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:208,ACC:518,HAS_ACCOUNT,2007-10-31,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:526,ACC:519,HAS_ACCOUNT,2006-06-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:168,ACC:520,HAS_ACCOUNT,2004-02-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:126,ACC:521,HAS_ACCOUNT,2001-12-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:379,ACC:522,HAS_ACCOUNT,2016-06-26,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:92,ACC:523,HAS_ACCOUNT,2013-10-04,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:299,ACC:524,HAS_ACCOUNT,2022-02-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:361,ACC:525,HAS_ACCOUNT,2009-10-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:198,ACC:526,HAS_ACCOUNT,2013-08-28,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:470,ACC:527,HAS_ACCOUNT,2001-01-22,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:400,ACC:528,HAS_ACCOUNT,2004-03-31,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:80,ACC:529,HAS_ACCOUNT,2006-08-18,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:21,ACC:530,HAS_ACCOUNT,2008-05-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:564,ACC:531,HAS_ACCOUNT,2010-05-31,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:104,ACC:532,HAS_ACCOUNT,2009-07-05,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:462,ACC:533,HAS_ACCOUNT,2002-05-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:460,ACC:534,HAS_ACCOUNT,2012-08-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:168,ACC:535,HAS_ACCOUNT,2012-11-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:2,ACC:536,HAS_ACCOUNT,2002-08-31,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:525,ACC:537,HAS_ACCOUNT,2003-03-03,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:287,ACC:538,HAS_ACCOUNT,2004-04-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:504,ACC:539,HAS_ACCOUNT,2014-09-20,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:120,ACC:540,HAS_ACCOUNT,2008-09-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:241,ACC:541,HAS_ACCOUNT,2007-08-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:298,ACC:542,HAS_ACCOUNT,2009-12-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:74,ACC:543,HAS_ACCOUNT,2007-10-25,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:87,ACC:544,HAS_ACCOUNT,2007-03-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:475,ACC:545,HAS_ACCOUNT,2004-07-29,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:58,ACC:546,HAS_ACCOUNT,2019-12-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:80,ACC:547,HAS_ACCOUNT,2008-10-01,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:473,ACC:548,HAS_ACCOUNT,2009-10-09,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:339,ACC:549,HAS_ACCOUNT,2008-08-17,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:448,ACC:550,HAS_ACCOUNT,2004-12-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:76,ACC:551,HAS_ACCOUNT,2007-05-21,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:561,ACC:552,HAS_ACCOUNT,2012-07-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:560,ACC:553,HAS_ACCOUNT,2019-09-27,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:414,ACC:554,HAS_ACCOUNT,2009-12-11,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:282,ACC:555,HAS_ACCOUNT,2006-03-12,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:98,ACC:556,HAS_ACCOUNT,2015-08-24,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:140,ACC:557,HAS_ACCOUNT,2005-05-02,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:586,ACC:558,HAS_ACCOUNT,2005-06-29,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:136,ACC:559,HAS_ACCOUNT,2008-05-01,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:38,ACC:560,HAS_ACCOUNT,2008-04-21,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:391,ACC:561,HAS_ACCOUNT,2005-12-19,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:106,ACC:562,HAS_ACCOUNT,2009-02-08,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:402,ACC:563,HAS_ACCOUNT,2006-12-25,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:227,ACC:564,HAS_ACCOUNT,2009-08-15,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:587,ACC:565,HAS_ACCOUNT,2016-02-14,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:317,ACC:566,HAS_ACCOUNT,2004-08-20,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:216,ACC:567,HAS_ACCOUNT,2003-01-31,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:478,ACC:568,HAS_ACCOUNT,2008-01-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:312,ACC:569,HAS_ACCOUNT,2005-04-27,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:341,ACC:570,HAS_ACCOUNT,2021-03-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:117,ACC:571,HAS_ACCOUNT,2015-07-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:52,ACC:572,HAS_ACCOUNT,2014-06-21,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:409,ACC:573,HAS_ACCOUNT,2021-04-18,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:164,ACC:574,HAS_ACCOUNT,2001-11-06,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:201,ACC:575,HAS_ACCOUNT,2009-09-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:241,ACC:576,HAS_ACCOUNT,2020-01-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:379,ACC:577,HAS_ACCOUNT,2021-06-16,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:124,ACC:578,HAS_ACCOUNT,2009-05-09,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:473,ACC:579,HAS_ACCOUNT,2019-11-27,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:459,ACC:580,HAS_ACCOUNT,2006-10-12,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:224,ACC:581,HAS_ACCOUNT,2018-04-19,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:321,ACC:582,HAS_ACCOUNT,2018-01-31,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:582,ACC:583,HAS_ACCOUNT,2000-03-25,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:325,ACC:584,HAS_ACCOUNT,2004-12-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:221,ACC:585,HAS_ACCOUNT,2013-02-07,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:187,ACC:586,HAS_ACCOUNT,2003-01-04,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:279,ACC:587,HAS_ACCOUNT,2000-03-30,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:514,ACC:588,HAS_ACCOUNT,2011-09-10,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:115,ACC:589,HAS_ACCOUNT,2005-08-27,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:106,ACC:590,HAS_ACCOUNT,2019-09-22,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:119,ACC:591,HAS_ACCOUNT,2016-08-31,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:222,ACC:592,HAS_ACCOUNT,2000-05-10,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:214,ACC:593,HAS_ACCOUNT,2022-06-28,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:442,ACC:594,HAS_ACCOUNT,2007-08-19,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:86,ACC:595,HAS_ACCOUNT,2011-09-13,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:308,ACC:596,HAS_ACCOUNT,2020-12-12,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:557,ACC:597,HAS_ACCOUNT,2007-07-03,Main Office,Inactive
+startNode,endNode,relationship,opened,branch,status
+B:348,ACC:598,HAS_ACCOUNT,2003-11-21,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:483,ACC:599,HAS_ACCOUNT,2001-05-07,Main Office,Active
+startNode,endNode,relationship,opened,branch,status
+B:447,ACC:600,HAS_ACCOUNT,2005-01-15,Main Office,Active

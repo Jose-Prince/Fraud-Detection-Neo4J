@@ -1,0 +1,600 @@
+startNode,endNode,relationship,date,linkType,reason
+ACC:412,ACC:405,LINKED_TO,2022-06-06,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:321,ACC:177,LINKED_TO,2023-02-27,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:181,ACC:433,LINKED_TO,2022-04-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:489,ACC:583,LINKED_TO,2025-02-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:318,ACC:400,LINKED_TO,2022-04-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:470,ACC:381,LINKED_TO,2024-05-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:73,ACC:548,LINKED_TO,2024-09-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:317,ACC:82,LINKED_TO,2025-03-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:125,ACC:462,LINKED_TO,2020-05-14,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:106,ACC:160,LINKED_TO,2025-04-20,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:98,ACC:242,LINKED_TO,2020-05-24,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:176,ACC:115,LINKED_TO,2020-01-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:272,ACC:201,LINKED_TO,2023-06-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:197,ACC:421,LINKED_TO,2025-12-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:308,ACC:454,LINKED_TO,2020-11-19,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:239,ACC:424,LINKED_TO,2024-08-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:368,ACC:369,LINKED_TO,2025-04-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:464,ACC:401,LINKED_TO,2020-05-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:11,ACC:503,LINKED_TO,2023-09-22,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:175,ACC:100,LINKED_TO,2021-06-13,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:499,ACC:276,LINKED_TO,2020-02-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:21,ACC:191,LINKED_TO,2025-04-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:586,ACC:544,LINKED_TO,2025-01-27,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:489,ACC:40,LINKED_TO,2024-05-13,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:251,ACC:116,LINKED_TO,2021-11-26,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:200,ACC:184,LINKED_TO,2023-04-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:289,ACC:33,LINKED_TO,2024-02-19,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:198,ACC:28,LINKED_TO,2020-07-26,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:53,ACC:7,LINKED_TO,2023-03-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:591,ACC:94,LINKED_TO,2021-05-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:389,ACC:532,LINKED_TO,2023-12-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:375,ACC:398,LINKED_TO,2022-06-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:526,ACC:493,LINKED_TO,2025-05-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:421,ACC:452,LINKED_TO,2025-06-06,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:520,ACC:310,LINKED_TO,2020-02-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:231,ACC:560,LINKED_TO,2023-05-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:165,ACC:195,LINKED_TO,2021-03-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:162,ACC:595,LINKED_TO,2025-12-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:460,ACC:486,LINKED_TO,2023-07-10,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:438,ACC:9,LINKED_TO,2020-02-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:494,ACC:414,LINKED_TO,2024-07-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:415,ACC:254,LINKED_TO,2021-08-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:587,ACC:503,LINKED_TO,2021-03-06,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:127,ACC:63,LINKED_TO,2020-03-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:350,ACC:250,LINKED_TO,2021-08-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:255,ACC:389,LINKED_TO,2022-01-19,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:95,ACC:332,LINKED_TO,2022-10-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:184,ACC:506,LINKED_TO,2022-03-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:137,ACC:167,LINKED_TO,2025-03-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:3,ACC:177,LINKED_TO,2021-01-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:48,ACC:466,LINKED_TO,2025-04-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:232,ACC:565,LINKED_TO,2023-10-24,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:361,ACC:76,LINKED_TO,2021-08-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:595,ACC:593,LINKED_TO,2024-04-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:534,ACC:425,LINKED_TO,2023-04-19,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:38,ACC:24,LINKED_TO,2025-03-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:415,ACC:173,LINKED_TO,2024-09-24,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:410,ACC:390,LINKED_TO,2023-10-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:242,ACC:302,LINKED_TO,2023-03-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:274,ACC:542,LINKED_TO,2021-06-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:379,ACC:15,LINKED_TO,2020-08-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:499,ACC:55,LINKED_TO,2024-09-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:25,ACC:340,LINKED_TO,2021-06-27,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:329,ACC:381,LINKED_TO,2023-06-27,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:52,ACC:84,LINKED_TO,2020-02-13,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:481,ACC:97,LINKED_TO,2023-05-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:17,ACC:275,LINKED_TO,2025-09-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:82,ACC:17,LINKED_TO,2020-06-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:96,ACC:77,LINKED_TO,2024-11-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:12,ACC:367,LINKED_TO,2020-08-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:10,ACC:373,LINKED_TO,2025-11-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:468,ACC:39,LINKED_TO,2022-05-31,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:282,ACC:312,LINKED_TO,2023-07-28,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:1,ACC:151,LINKED_TO,2024-02-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:443,ACC:130,LINKED_TO,2024-04-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:254,ACC:506,LINKED_TO,2022-12-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:537,ACC:190,LINKED_TO,2021-03-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:347,ACC:133,LINKED_TO,2025-08-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:378,ACC:539,LINKED_TO,2020-12-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:200,ACC:163,LINKED_TO,2020-03-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:234,ACC:206,LINKED_TO,2020-07-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:522,ACC:529,LINKED_TO,2020-04-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:431,ACC:212,LINKED_TO,2023-08-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:461,ACC:52,LINKED_TO,2022-01-28,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:127,ACC:187,LINKED_TO,2023-09-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:187,ACC:530,LINKED_TO,2025-08-22,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:240,ACC:421,LINKED_TO,2024-08-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:430,ACC:388,LINKED_TO,2023-11-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:36,ACC:139,LINKED_TO,2022-01-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:588,ACC:197,LINKED_TO,2025-05-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:438,ACC:47,LINKED_TO,2023-07-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:445,ACC:193,LINKED_TO,2020-10-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:544,ACC:17,LINKED_TO,2024-04-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:430,ACC:102,LINKED_TO,2022-09-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:460,ACC:7,LINKED_TO,2024-01-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:529,ACC:385,LINKED_TO,2024-02-10,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:586,ACC:198,LINKED_TO,2020-03-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:567,ACC:387,LINKED_TO,2024-07-01,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:340,ACC:588,LINKED_TO,2024-05-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:592,ACC:523,LINKED_TO,2024-09-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:67,ACC:235,LINKED_TO,2023-08-20,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:464,ACC:359,LINKED_TO,2021-08-13,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:368,ACC:102,LINKED_TO,2025-09-28,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:588,ACC:389,LINKED_TO,2025-07-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:112,ACC:477,LINKED_TO,2021-08-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:264,ACC:211,LINKED_TO,2021-01-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:384,ACC:312,LINKED_TO,2023-09-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:130,ACC:146,LINKED_TO,2025-10-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:318,ACC:133,LINKED_TO,2021-12-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:164,ACC:464,LINKED_TO,2023-12-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:259,ACC:469,LINKED_TO,2022-10-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:356,ACC:563,LINKED_TO,2023-08-22,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:411,ACC:332,LINKED_TO,2020-01-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:372,ACC:402,LINKED_TO,2024-01-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:527,ACC:49,LINKED_TO,2021-01-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:251,ACC:182,LINKED_TO,2021-09-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:38,ACC:498,LINKED_TO,2022-10-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:382,ACC:531,LINKED_TO,2022-10-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:345,ACC:47,LINKED_TO,2021-05-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:136,ACC:325,LINKED_TO,2022-08-01,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:474,ACC:23,LINKED_TO,2022-10-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:238,ACC:63,LINKED_TO,2025-05-22,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:555,ACC:80,LINKED_TO,2024-04-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:227,ACC:427,LINKED_TO,2025-08-06,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:460,ACC:523,LINKED_TO,2024-12-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:502,ACC:339,LINKED_TO,2025-07-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:287,ACC:135,LINKED_TO,2025-03-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:456,ACC:207,LINKED_TO,2021-07-19,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:10,ACC:390,LINKED_TO,2024-06-27,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:108,ACC:575,LINKED_TO,2024-09-01,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:528,ACC:118,LINKED_TO,2022-04-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:454,ACC:131,LINKED_TO,2025-12-31,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:21,ACC:183,LINKED_TO,2022-09-20,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:518,ACC:175,LINKED_TO,2024-01-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:527,ACC:141,LINKED_TO,2022-06-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:366,ACC:508,LINKED_TO,2023-02-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:588,ACC:383,LINKED_TO,2021-07-19,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:92,ACC:405,LINKED_TO,2025-07-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:523,ACC:390,LINKED_TO,2020-05-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:472,ACC:544,LINKED_TO,2023-03-31,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:541,ACC:390,LINKED_TO,2023-08-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:540,ACC:392,LINKED_TO,2024-04-14,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:304,ACC:433,LINKED_TO,2024-09-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:320,ACC:304,LINKED_TO,2023-11-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:548,ACC:4,LINKED_TO,2021-01-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:312,ACC:85,LINKED_TO,2021-03-14,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:141,ACC:280,LINKED_TO,2025-04-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:532,ACC:545,LINKED_TO,2023-05-25,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:401,ACC:475,LINKED_TO,2020-07-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:39,ACC:325,LINKED_TO,2022-03-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:407,ACC:42,LINKED_TO,2024-09-10,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:302,ACC:335,LINKED_TO,2025-06-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:497,ACC:211,LINKED_TO,2023-07-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:66,ACC:264,LINKED_TO,2023-06-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:515,ACC:155,LINKED_TO,2024-05-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:65,ACC:299,LINKED_TO,2021-06-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:241,ACC:132,LINKED_TO,2025-11-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:582,ACC:185,LINKED_TO,2024-07-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:593,ACC:25,LINKED_TO,2020-08-25,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:260,ACC:410,LINKED_TO,2025-04-13,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:596,ACC:472,LINKED_TO,2021-09-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:142,ACC:413,LINKED_TO,2025-12-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:9,ACC:461,LINKED_TO,2021-09-14,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:567,ACC:343,LINKED_TO,2022-08-01,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:131,ACC:176,LINKED_TO,2022-08-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:439,ACC:74,LINKED_TO,2020-09-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:370,ACC:118,LINKED_TO,2022-02-06,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:296,ACC:482,LINKED_TO,2023-05-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:185,ACC:187,LINKED_TO,2025-05-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:131,ACC:576,LINKED_TO,2022-09-01,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:536,ACC:2,LINKED_TO,2025-10-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:353,ACC:470,LINKED_TO,2025-12-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:145,ACC:291,LINKED_TO,2021-11-22,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:354,ACC:526,LINKED_TO,2020-06-19,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:444,ACC:396,LINKED_TO,2021-04-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:331,ACC:274,LINKED_TO,2021-12-28,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:286,ACC:32,LINKED_TO,2025-10-13,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:462,ACC:328,LINKED_TO,2022-11-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:144,ACC:575,LINKED_TO,2024-02-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:38,ACC:122,LINKED_TO,2024-04-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:231,ACC:495,LINKED_TO,2022-06-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:588,ACC:496,LINKED_TO,2023-08-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:275,ACC:218,LINKED_TO,2023-03-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:163,ACC:144,LINKED_TO,2020-12-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:27,ACC:261,LINKED_TO,2022-12-25,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:96,ACC:548,LINKED_TO,2024-03-01,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:288,ACC:479,LINKED_TO,2021-03-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:431,ACC:153,LINKED_TO,2025-12-28,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:422,ACC:538,LINKED_TO,2024-05-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:58,ACC:128,LINKED_TO,2020-02-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:161,ACC:496,LINKED_TO,2024-11-26,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:396,ACC:347,LINKED_TO,2022-11-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:125,ACC:441,LINKED_TO,2021-08-14,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:301,ACC:461,LINKED_TO,2025-11-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:333,ACC:36,LINKED_TO,2021-03-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:412,ACC:2,LINKED_TO,2022-02-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:356,ACC:493,LINKED_TO,2022-03-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:487,ACC:66,LINKED_TO,2021-12-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:302,ACC:23,LINKED_TO,2024-08-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:372,ACC:20,LINKED_TO,2022-10-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:585,ACC:28,LINKED_TO,2023-10-13,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:63,ACC:490,LINKED_TO,2025-09-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:545,ACC:591,LINKED_TO,2023-10-14,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:306,ACC:144,LINKED_TO,2025-07-01,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:125,ACC:375,LINKED_TO,2023-11-02,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:450,ACC:175,LINKED_TO,2023-07-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:314,ACC:134,LINKED_TO,2025-09-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:384,ACC:260,LINKED_TO,2021-03-10,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:112,ACC:526,LINKED_TO,2022-03-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:262,ACC:523,LINKED_TO,2021-07-27,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:39,ACC:559,LINKED_TO,2020-02-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:522,ACC:224,LINKED_TO,2022-01-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:452,ACC:69,LINKED_TO,2024-03-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:160,ACC:384,LINKED_TO,2020-01-14,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:222,ACC:24,LINKED_TO,2023-09-26,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:489,ACC:562,LINKED_TO,2025-11-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:302,ACC:141,LINKED_TO,2023-06-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:136,ACC:352,LINKED_TO,2025-06-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:355,ACC:161,LINKED_TO,2020-07-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:473,ACC:461,LINKED_TO,2024-12-28,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:266,ACC:598,LINKED_TO,2020-10-31,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:33,ACC:402,LINKED_TO,2024-08-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:23,ACC:511,LINKED_TO,2024-09-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:531,ACC:10,LINKED_TO,2022-07-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:217,ACC:153,LINKED_TO,2022-01-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:6,ACC:237,LINKED_TO,2025-05-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:559,ACC:313,LINKED_TO,2025-05-24,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:288,ACC:165,LINKED_TO,2022-03-01,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:358,ACC:397,LINKED_TO,2021-08-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:155,ACC:446,LINKED_TO,2020-06-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:460,ACC:358,LINKED_TO,2025-04-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:503,ACC:238,LINKED_TO,2022-02-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:237,ACC:80,LINKED_TO,2023-03-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:318,ACC:325,LINKED_TO,2023-10-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:56,ACC:565,LINKED_TO,2025-11-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:75,ACC:346,LINKED_TO,2022-09-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:407,ACC:303,LINKED_TO,2022-12-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:511,ACC:437,LINKED_TO,2025-02-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:187,ACC:567,LINKED_TO,2022-01-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:308,ACC:493,LINKED_TO,2020-06-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:345,ACC:388,LINKED_TO,2023-12-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:345,ACC:56,LINKED_TO,2023-06-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:371,ACC:442,LINKED_TO,2023-01-13,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:332,ACC:318,LINKED_TO,2022-10-25,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:354,ACC:413,LINKED_TO,2022-01-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:161,ACC:517,LINKED_TO,2025-05-04,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:390,ACC:326,LINKED_TO,2024-02-28,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:541,ACC:521,LINKED_TO,2023-08-15,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:471,ACC:377,LINKED_TO,2023-10-22,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:401,ACC:226,LINKED_TO,2024-03-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:500,ACC:125,LINKED_TO,2021-12-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:411,ACC:376,LINKED_TO,2021-11-24,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:80,ACC:473,LINKED_TO,2024-09-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:274,ACC:93,LINKED_TO,2023-11-25,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:312,ACC:177,LINKED_TO,2025-07-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:26,ACC:234,LINKED_TO,2025-08-25,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:130,ACC:421,LINKED_TO,2021-08-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:578,ACC:335,LINKED_TO,2023-01-07,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:274,ACC:84,LINKED_TO,2020-09-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:538,ACC:39,LINKED_TO,2020-08-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:39,ACC:148,LINKED_TO,2021-09-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:272,ACC:397,LINKED_TO,2021-04-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:325,ACC:405,LINKED_TO,2021-05-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:281,ACC:177,LINKED_TO,2022-02-22,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:331,ACC:255,LINKED_TO,2022-04-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:118,ACC:6,LINKED_TO,2023-12-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:532,ACC:45,LINKED_TO,2023-03-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:490,ACC:66,LINKED_TO,2022-03-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:268,ACC:381,LINKED_TO,2024-05-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:260,ACC:565,LINKED_TO,2023-07-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:53,ACC:537,LINKED_TO,2023-08-09,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:328,ACC:122,LINKED_TO,2021-11-18,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:120,ACC:145,LINKED_TO,2024-06-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:274,ACC:450,LINKED_TO,2020-02-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:300,ACC:35,LINKED_TO,2023-02-26,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:262,ACC:149,LINKED_TO,2020-05-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:552,ACC:84,LINKED_TO,2024-06-24,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:477,ACC:517,LINKED_TO,2022-07-28,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:507,ACC:411,LINKED_TO,2025-09-17,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:375,ACC:438,LINKED_TO,2020-04-26,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:481,ACC:374,LINKED_TO,2022-08-03,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:421,ACC:178,LINKED_TO,2020-02-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:427,ACC:38,LINKED_TO,2021-04-23,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:62,ACC:439,LINKED_TO,2022-03-30,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:561,ACC:148,LINKED_TO,2020-07-27,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:177,ACC:59,LINKED_TO,2021-11-14,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:342,ACC:13,LINKED_TO,2020-02-19,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:177,ACC:390,LINKED_TO,2022-03-01,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:583,ACC:373,LINKED_TO,2020-05-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:194,ACC:236,LINKED_TO,2025-01-10,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:582,ACC:418,LINKED_TO,2025-08-29,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:188,ACC:411,LINKED_TO,2020-07-16,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:489,ACC:468,LINKED_TO,2022-12-08,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:2,ACC:183,LINKED_TO,2024-06-21,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:309,ACC:431,LINKED_TO,2024-11-12,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:495,ACC:212,LINKED_TO,2021-08-05,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:552,ACC:332,LINKED_TO,2020-01-06,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:168,ACC:239,LINKED_TO,2024-01-11,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:144,ACC:352,LINKED_TO,2020-08-27,Joint Account,Shared household expenses
+startNode,endNode,relationship,date,linkType,reason
+ACC:246,ACC:513,LINKED_TO,2025-05-31,Joint Account,Shared household expenses

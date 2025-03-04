@@ -1,0 +1,601 @@
+merchantID,name,category,location,country
+M1,Merchant1,Electronics,New York,France
+M2,Merchant2,Clothing,New York,France
+M3,Merchant3,Restaurant,Chicago,USA
+M4,Merchant4,Grocery,New York,France
+M5,Merchant5,Electronics,New York,France
+M6,Merchant6,Restaurant,San Francisco,France
+M7,Merchant7,Restaurant,Chicago,UK
+M8,Merchant8,Electronics,San Francisco,Germany
+M9,Merchant9,Grocery,Chicago,France
+M10,Merchant10,Restaurant,Chicago,UK
+M11,Merchant11,Electronics,Chicago,UK
+M12,Merchant12,Electronics,San Francisco,Germany
+M13,Merchant13,Clothing,San Francisco,USA
+M14,Merchant14,Grocery,Los Angeles,UK
+M15,Merchant15,Grocery,San Francisco,USA
+M16,Merchant16,Grocery,Los Angeles,UK
+M17,Merchant17,Electronics,Chicago,Germany
+M18,Merchant18,Restaurant,Los Angeles,USA
+M19,Merchant19,Restaurant,San Francisco,UK
+M20,Merchant20,Grocery,Chicago,USA
+M21,Merchant21,Clothing,San Francisco,Germany
+M22,Merchant22,Clothing,San Francisco,USA
+M23,Merchant23,Electronics,Chicago,UK
+M24,Merchant24,Grocery,San Francisco,Germany
+M25,Merchant25,Electronics,Chicago,UK
+M26,Merchant26,Grocery,San Francisco,France
+M27,Merchant27,Clothing,Los Angeles,UK
+M28,Merchant28,Grocery,Los Angeles,France
+M29,Merchant29,Clothing,Los Angeles,Germany
+M30,Merchant30,Clothing,Chicago,UK
+M31,Merchant31,Grocery,Los Angeles,France
+M32,Merchant32,Restaurant,Chicago,Germany
+M33,Merchant33,Grocery,Los Angeles,Germany
+M34,Merchant34,Restaurant,New York,UK
+M35,Merchant35,Clothing,Chicago,USA
+M36,Merchant36,Grocery,New York,UK
+M37,Merchant37,Grocery,San Francisco,Germany
+M38,Merchant38,Electronics,New York,UK
+M39,Merchant39,Electronics,Chicago,Germany
+M40,Merchant40,Electronics,Chicago,USA
+M41,Merchant41,Clothing,San Francisco,USA
+M42,Merchant42,Restaurant,Los Angeles,Germany
+M43,Merchant43,Clothing,New York,Germany
+M44,Merchant44,Electronics,Chicago,Germany
+M45,Merchant45,Grocery,Chicago,Germany
+M46,Merchant46,Grocery,Chicago,USA
+M47,Merchant47,Restaurant,New York,France
+M48,Merchant48,Grocery,Los Angeles,France
+M49,Merchant49,Restaurant,San Francisco,France
+M50,Merchant50,Restaurant,Chicago,France
+M51,Merchant51,Electronics,Los Angeles,UK
+M52,Merchant52,Grocery,New York,France
+M53,Merchant53,Grocery,Chicago,France
+M54,Merchant54,Restaurant,Los Angeles,UK
+M55,Merchant55,Clothing,Chicago,France
+M56,Merchant56,Restaurant,New York,Germany
+M57,Merchant57,Grocery,San Francisco,UK
+M58,Merchant58,Restaurant,New York,France
+M59,Merchant59,Restaurant,Chicago,UK
+M60,Merchant60,Electronics,Chicago,Germany
+M61,Merchant61,Restaurant,New York,Germany
+M62,Merchant62,Clothing,Chicago,UK
+M63,Merchant63,Grocery,San Francisco,Germany
+M64,Merchant64,Grocery,Los Angeles,Germany
+M65,Merchant65,Clothing,Los Angeles,UK
+M66,Merchant66,Clothing,Chicago,USA
+M67,Merchant67,Restaurant,San Francisco,France
+M68,Merchant68,Electronics,San Francisco,Germany
+M69,Merchant69,Clothing,San Francisco,Germany
+M70,Merchant70,Electronics,San Francisco,France
+M71,Merchant71,Electronics,San Francisco,Germany
+M72,Merchant72,Restaurant,Los Angeles,Germany
+M73,Merchant73,Clothing,Los Angeles,France
+M74,Merchant74,Grocery,New York,UK
+M75,Merchant75,Restaurant,Chicago,France
+M76,Merchant76,Electronics,New York,UK
+M77,Merchant77,Grocery,Los Angeles,Germany
+M78,Merchant78,Electronics,Los Angeles,Germany
+M79,Merchant79,Electronics,Los Angeles,Germany
+M80,Merchant80,Restaurant,New York,Germany
+M81,Merchant81,Clothing,Chicago,Germany
+M82,Merchant82,Clothing,Chicago,France
+M83,Merchant83,Restaurant,Los Angeles,France
+M84,Merchant84,Restaurant,San Francisco,USA
+M85,Merchant85,Electronics,San Francisco,Germany
+M86,Merchant86,Restaurant,San Francisco,UK
+M87,Merchant87,Electronics,San Francisco,UK
+M88,Merchant88,Clothing,Los Angeles,Germany
+M89,Merchant89,Grocery,Chicago,UK
+M90,Merchant90,Electronics,New York,France
+M91,Merchant91,Electronics,San Francisco,Germany
+M92,Merchant92,Grocery,Chicago,France
+M93,Merchant93,Grocery,San Francisco,UK
+M94,Merchant94,Electronics,Los Angeles,USA
+M95,Merchant95,Restaurant,Los Angeles,UK
+M96,Merchant96,Clothing,Chicago,France
+M97,Merchant97,Restaurant,New York,UK
+M98,Merchant98,Restaurant,New York,USA
+M99,Merchant99,Restaurant,New York,France
+M100,Merchant100,Electronics,San Francisco,France
+M101,Merchant101,Clothing,San Francisco,UK
+M102,Merchant102,Grocery,Los Angeles,Germany
+M103,Merchant103,Clothing,Los Angeles,France
+M104,Merchant104,Electronics,New York,Germany
+M105,Merchant105,Grocery,New York,Germany
+M106,Merchant106,Electronics,San Francisco,USA
+M107,Merchant107,Clothing,San Francisco,UK
+M108,Merchant108,Restaurant,San Francisco,UK
+M109,Merchant109,Electronics,Chicago,Germany
+M110,Merchant110,Clothing,San Francisco,UK
+M111,Merchant111,Restaurant,Chicago,UK
+M112,Merchant112,Clothing,New York,France
+M113,Merchant113,Restaurant,New York,USA
+M114,Merchant114,Electronics,Los Angeles,France
+M115,Merchant115,Restaurant,Los Angeles,Germany
+M116,Merchant116,Restaurant,San Francisco,USA
+M117,Merchant117,Restaurant,San Francisco,France
+M118,Merchant118,Grocery,New York,USA
+M119,Merchant119,Restaurant,Los Angeles,USA
+M120,Merchant120,Grocery,Chicago,France
+M121,Merchant121,Clothing,New York,France
+M122,Merchant122,Clothing,Los Angeles,UK
+M123,Merchant123,Clothing,Chicago,USA
+M124,Merchant124,Grocery,San Francisco,France
+M125,Merchant125,Electronics,San Francisco,USA
+M126,Merchant126,Grocery,Chicago,France
+M127,Merchant127,Restaurant,New York,Germany
+M128,Merchant128,Grocery,New York,USA
+M129,Merchant129,Grocery,New York,UK
+M130,Merchant130,Clothing,Chicago,Germany
+M131,Merchant131,Clothing,New York,USA
+M132,Merchant132,Clothing,Chicago,Germany
+M133,Merchant133,Clothing,Los Angeles,USA
+M134,Merchant134,Clothing,San Francisco,USA
+M135,Merchant135,Restaurant,Los Angeles,Germany
+M136,Merchant136,Restaurant,New York,France
+M137,Merchant137,Electronics,San Francisco,Germany
+M138,Merchant138,Clothing,New York,France
+M139,Merchant139,Electronics,Los Angeles,Germany
+M140,Merchant140,Electronics,Chicago,UK
+M141,Merchant141,Grocery,New York,Germany
+M142,Merchant142,Clothing,Los Angeles,Germany
+M143,Merchant143,Electronics,New York,France
+M144,Merchant144,Grocery,Chicago,USA
+M145,Merchant145,Restaurant,Chicago,Germany
+M146,Merchant146,Electronics,New York,Germany
+M147,Merchant147,Electronics,Los Angeles,UK
+M148,Merchant148,Grocery,San Francisco,USA
+M149,Merchant149,Electronics,San Francisco,France
+M150,Merchant150,Electronics,San Francisco,Germany
+M151,Merchant151,Electronics,New York,Germany
+M152,Merchant152,Restaurant,New York,USA
+M153,Merchant153,Grocery,San Francisco,UK
+M154,Merchant154,Clothing,Chicago,Germany
+M155,Merchant155,Restaurant,Chicago,Germany
+M156,Merchant156,Grocery,San Francisco,France
+M157,Merchant157,Grocery,San Francisco,France
+M158,Merchant158,Clothing,New York,Germany
+M159,Merchant159,Clothing,San Francisco,USA
+M160,Merchant160,Clothing,Chicago,USA
+M161,Merchant161,Grocery,New York,France
+M162,Merchant162,Grocery,San Francisco,Germany
+M163,Merchant163,Clothing,New York,USA
+M164,Merchant164,Grocery,New York,France
+M165,Merchant165,Restaurant,San Francisco,USA
+M166,Merchant166,Clothing,Los Angeles,France
+M167,Merchant167,Grocery,Chicago,Germany
+M168,Merchant168,Grocery,Los Angeles,Germany
+M169,Merchant169,Restaurant,Los Angeles,Germany
+M170,Merchant170,Restaurant,New York,Germany
+M171,Merchant171,Grocery,Los Angeles,USA
+M172,Merchant172,Clothing,Los Angeles,Germany
+M173,Merchant173,Grocery,Chicago,Germany
+M174,Merchant174,Electronics,Chicago,France
+M175,Merchant175,Restaurant,Chicago,France
+M176,Merchant176,Electronics,Los Angeles,Germany
+M177,Merchant177,Restaurant,Los Angeles,UK
+M178,Merchant178,Clothing,Los Angeles,UK
+M179,Merchant179,Clothing,Los Angeles,USA
+M180,Merchant180,Restaurant,San Francisco,UK
+M181,Merchant181,Clothing,New York,France
+M182,Merchant182,Electronics,San Francisco,France
+M183,Merchant183,Restaurant,Chicago,France
+M184,Merchant184,Electronics,Los Angeles,France
+M185,Merchant185,Clothing,New York,Germany
+M186,Merchant186,Restaurant,New York,USA
+M187,Merchant187,Electronics,New York,USA
+M188,Merchant188,Grocery,New York,France
+M189,Merchant189,Restaurant,Los Angeles,Germany
+M190,Merchant190,Electronics,Chicago,UK
+M191,Merchant191,Restaurant,Los Angeles,UK
+M192,Merchant192,Clothing,San Francisco,Germany
+M193,Merchant193,Restaurant,New York,USA
+M194,Merchant194,Clothing,Los Angeles,USA
+M195,Merchant195,Restaurant,Los Angeles,Germany
+M196,Merchant196,Clothing,New York,UK
+M197,Merchant197,Restaurant,Los Angeles,USA
+M198,Merchant198,Grocery,New York,France
+M199,Merchant199,Electronics,Chicago,USA
+M200,Merchant200,Electronics,Los Angeles,Germany
+M201,Merchant201,Grocery,San Francisco,UK
+M202,Merchant202,Clothing,New York,UK
+M203,Merchant203,Restaurant,Chicago,USA
+M204,Merchant204,Restaurant,San Francisco,USA
+M205,Merchant205,Clothing,Los Angeles,USA
+M206,Merchant206,Grocery,Chicago,Germany
+M207,Merchant207,Restaurant,Chicago,France
+M208,Merchant208,Restaurant,New York,USA
+M209,Merchant209,Grocery,New York,USA
+M210,Merchant210,Electronics,San Francisco,UK
+M211,Merchant211,Grocery,Los Angeles,UK
+M212,Merchant212,Grocery,Los Angeles,UK
+M213,Merchant213,Grocery,San Francisco,UK
+M214,Merchant214,Electronics,San Francisco,France
+M215,Merchant215,Restaurant,San Francisco,France
+M216,Merchant216,Grocery,New York,Germany
+M217,Merchant217,Grocery,Chicago,France
+M218,Merchant218,Clothing,San Francisco,France
+M219,Merchant219,Restaurant,San Francisco,UK
+M220,Merchant220,Restaurant,Los Angeles,USA
+M221,Merchant221,Clothing,San Francisco,USA
+M222,Merchant222,Restaurant,Los Angeles,France
+M223,Merchant223,Clothing,New York,USA
+M224,Merchant224,Electronics,San Francisco,France
+M225,Merchant225,Restaurant,Chicago,France
+M226,Merchant226,Clothing,New York,USA
+M227,Merchant227,Grocery,Los Angeles,France
+M228,Merchant228,Clothing,San Francisco,France
+M229,Merchant229,Clothing,San Francisco,UK
+M230,Merchant230,Restaurant,San Francisco,France
+M231,Merchant231,Restaurant,New York,France
+M232,Merchant232,Clothing,New York,France
+M233,Merchant233,Grocery,New York,USA
+M234,Merchant234,Restaurant,New York,USA
+M235,Merchant235,Electronics,San Francisco,UK
+M236,Merchant236,Restaurant,New York,UK
+M237,Merchant237,Restaurant,Chicago,Germany
+M238,Merchant238,Clothing,Los Angeles,Germany
+M239,Merchant239,Electronics,Chicago,Germany
+M240,Merchant240,Clothing,San Francisco,USA
+M241,Merchant241,Grocery,New York,USA
+M242,Merchant242,Grocery,Los Angeles,USA
+M243,Merchant243,Grocery,Los Angeles,UK
+M244,Merchant244,Restaurant,Los Angeles,USA
+M245,Merchant245,Electronics,San Francisco,UK
+M246,Merchant246,Restaurant,Chicago,France
+M247,Merchant247,Clothing,New York,Germany
+M248,Merchant248,Restaurant,Los Angeles,USA
+M249,Merchant249,Clothing,Los Angeles,UK
+M250,Merchant250,Grocery,Los Angeles,UK
+M251,Merchant251,Electronics,Chicago,UK
+M252,Merchant252,Electronics,Chicago,France
+M253,Merchant253,Grocery,Chicago,USA
+M254,Merchant254,Clothing,Chicago,UK
+M255,Merchant255,Grocery,Los Angeles,France
+M256,Merchant256,Restaurant,San Francisco,UK
+M257,Merchant257,Clothing,San Francisco,UK
+M258,Merchant258,Restaurant,New York,Germany
+M259,Merchant259,Clothing,Los Angeles,Germany
+M260,Merchant260,Clothing,New York,USA
+M261,Merchant261,Electronics,Chicago,France
+M262,Merchant262,Clothing,Chicago,Germany
+M263,Merchant263,Clothing,Los Angeles,Germany
+M264,Merchant264,Restaurant,Los Angeles,UK
+M265,Merchant265,Restaurant,Chicago,Germany
+M266,Merchant266,Clothing,San Francisco,France
+M267,Merchant267,Electronics,San Francisco,USA
+M268,Merchant268,Clothing,New York,Germany
+M269,Merchant269,Clothing,Los Angeles,Germany
+M270,Merchant270,Electronics,Chicago,France
+M271,Merchant271,Restaurant,San Francisco,UK
+M272,Merchant272,Restaurant,Los Angeles,UK
+M273,Merchant273,Electronics,San Francisco,Germany
+M274,Merchant274,Grocery,New York,Germany
+M275,Merchant275,Electronics,San Francisco,UK
+M276,Merchant276,Grocery,Chicago,UK
+M277,Merchant277,Clothing,Chicago,France
+M278,Merchant278,Grocery,New York,France
+M279,Merchant279,Restaurant,New York,Germany
+M280,Merchant280,Restaurant,Los Angeles,France
+M281,Merchant281,Grocery,Los Angeles,USA
+M282,Merchant282,Restaurant,San Francisco,Germany
+M283,Merchant283,Electronics,San Francisco,France
+M284,Merchant284,Grocery,Los Angeles,France
+M285,Merchant285,Grocery,New York,USA
+M286,Merchant286,Clothing,Los Angeles,Germany
+M287,Merchant287,Restaurant,Chicago,France
+M288,Merchant288,Electronics,Chicago,UK
+M289,Merchant289,Clothing,Los Angeles,UK
+M290,Merchant290,Clothing,Los Angeles,UK
+M291,Merchant291,Grocery,New York,France
+M292,Merchant292,Clothing,San Francisco,France
+M293,Merchant293,Electronics,San Francisco,France
+M294,Merchant294,Grocery,San Francisco,Germany
+M295,Merchant295,Electronics,San Francisco,UK
+M296,Merchant296,Restaurant,Los Angeles,Germany
+M297,Merchant297,Grocery,San Francisco,USA
+M298,Merchant298,Clothing,Chicago,France
+M299,Merchant299,Grocery,New York,USA
+M300,Merchant300,Electronics,Chicago,Germany
+M301,Merchant301,Electronics,Chicago,Germany
+M302,Merchant302,Restaurant,Chicago,France
+M303,Merchant303,Clothing,Chicago,France
+M304,Merchant304,Clothing,Los Angeles,UK
+M305,Merchant305,Clothing,Los Angeles,UK
+M306,Merchant306,Grocery,New York,Germany
+M307,Merchant307,Electronics,Chicago,France
+M308,Merchant308,Electronics,New York,USA
+M309,Merchant309,Grocery,San Francisco,France
+M310,Merchant310,Electronics,Los Angeles,France
+M311,Merchant311,Grocery,San Francisco,France
+M312,Merchant312,Grocery,San Francisco,UK
+M313,Merchant313,Electronics,Chicago,UK
+M314,Merchant314,Grocery,Chicago,USA
+M315,Merchant315,Grocery,New York,UK
+M316,Merchant316,Restaurant,Chicago,USA
+M317,Merchant317,Electronics,Los Angeles,Germany
+M318,Merchant318,Restaurant,Chicago,UK
+M319,Merchant319,Clothing,San Francisco,France
+M320,Merchant320,Electronics,San Francisco,Germany
+M321,Merchant321,Grocery,Chicago,Germany
+M322,Merchant322,Grocery,Chicago,Germany
+M323,Merchant323,Grocery,New York,UK
+M324,Merchant324,Restaurant,Los Angeles,Germany
+M325,Merchant325,Electronics,Los Angeles,Germany
+M326,Merchant326,Grocery,San Francisco,France
+M327,Merchant327,Grocery,Chicago,USA
+M328,Merchant328,Clothing,Los Angeles,France
+M329,Merchant329,Grocery,Chicago,USA
+M330,Merchant330,Clothing,Los Angeles,USA
+M331,Merchant331,Restaurant,San Francisco,USA
+M332,Merchant332,Grocery,New York,France
+M333,Merchant333,Electronics,San Francisco,France
+M334,Merchant334,Clothing,Los Angeles,Germany
+M335,Merchant335,Electronics,New York,USA
+M336,Merchant336,Restaurant,New York,Germany
+M337,Merchant337,Electronics,New York,USA
+M338,Merchant338,Grocery,New York,France
+M339,Merchant339,Grocery,Los Angeles,USA
+M340,Merchant340,Grocery,Chicago,France
+M341,Merchant341,Electronics,New York,Germany
+M342,Merchant342,Clothing,New York,UK
+M343,Merchant343,Restaurant,San Francisco,France
+M344,Merchant344,Electronics,Los Angeles,Germany
+M345,Merchant345,Restaurant,Chicago,USA
+M346,Merchant346,Restaurant,San Francisco,UK
+M347,Merchant347,Electronics,San Francisco,Germany
+M348,Merchant348,Restaurant,San Francisco,USA
+M349,Merchant349,Grocery,San Francisco,USA
+M350,Merchant350,Clothing,Chicago,UK
+M351,Merchant351,Electronics,San Francisco,France
+M352,Merchant352,Electronics,Los Angeles,Germany
+M353,Merchant353,Grocery,Chicago,Germany
+M354,Merchant354,Electronics,San Francisco,Germany
+M355,Merchant355,Electronics,Chicago,USA
+M356,Merchant356,Grocery,Los Angeles,UK
+M357,Merchant357,Electronics,New York,Germany
+M358,Merchant358,Restaurant,Los Angeles,USA
+M359,Merchant359,Clothing,Chicago,UK
+M360,Merchant360,Restaurant,San Francisco,Germany
+M361,Merchant361,Grocery,New York,USA
+M362,Merchant362,Grocery,San Francisco,UK
+M363,Merchant363,Clothing,New York,France
+M364,Merchant364,Electronics,New York,Germany
+M365,Merchant365,Restaurant,New York,USA
+M366,Merchant366,Clothing,San Francisco,USA
+M367,Merchant367,Clothing,New York,Germany
+M368,Merchant368,Electronics,San Francisco,France
+M369,Merchant369,Restaurant,Chicago,France
+M370,Merchant370,Grocery,New York,UK
+M371,Merchant371,Clothing,Los Angeles,UK
+M372,Merchant372,Clothing,Chicago,France
+M373,Merchant373,Electronics,Chicago,France
+M374,Merchant374,Electronics,San Francisco,Germany
+M375,Merchant375,Restaurant,New York,France
+M376,Merchant376,Clothing,Los Angeles,USA
+M377,Merchant377,Restaurant,San Francisco,France
+M378,Merchant378,Restaurant,New York,Germany
+M379,Merchant379,Restaurant,Los Angeles,UK
+M380,Merchant380,Restaurant,Los Angeles,UK
+M381,Merchant381,Restaurant,Los Angeles,France
+M382,Merchant382,Restaurant,Los Angeles,Germany
+M383,Merchant383,Grocery,New York,Germany
+M384,Merchant384,Electronics,San Francisco,UK
+M385,Merchant385,Restaurant,Chicago,USA
+M386,Merchant386,Restaurant,San Francisco,USA
+M387,Merchant387,Grocery,Los Angeles,USA
+M388,Merchant388,Grocery,New York,Germany
+M389,Merchant389,Clothing,Chicago,UK
+M390,Merchant390,Clothing,Los Angeles,Germany
+M391,Merchant391,Clothing,San Francisco,Germany
+M392,Merchant392,Grocery,San Francisco,Germany
+M393,Merchant393,Grocery,San Francisco,USA
+M394,Merchant394,Restaurant,San Francisco,UK
+M395,Merchant395,Electronics,New York,Germany
+M396,Merchant396,Restaurant,New York,USA
+M397,Merchant397,Grocery,Los Angeles,USA
+M398,Merchant398,Grocery,San Francisco,UK
+M399,Merchant399,Clothing,Los Angeles,UK
+M400,Merchant400,Clothing,San Francisco,USA
+M401,Merchant401,Grocery,San Francisco,France
+M402,Merchant402,Grocery,Los Angeles,UK
+M403,Merchant403,Electronics,Los Angeles,UK
+M404,Merchant404,Restaurant,Chicago,Germany
+M405,Merchant405,Grocery,Los Angeles,USA
+M406,Merchant406,Restaurant,San Francisco,USA
+M407,Merchant407,Grocery,Chicago,France
+M408,Merchant408,Grocery,Chicago,Germany
+M409,Merchant409,Restaurant,San Francisco,France
+M410,Merchant410,Electronics,New York,France
+M411,Merchant411,Grocery,New York,Germany
+M412,Merchant412,Grocery,New York,Germany
+M413,Merchant413,Grocery,New York,Germany
+M414,Merchant414,Grocery,San Francisco,France
+M415,Merchant415,Electronics,New York,Germany
+M416,Merchant416,Clothing,San Francisco,UK
+M417,Merchant417,Electronics,New York,France
+M418,Merchant418,Grocery,Los Angeles,UK
+M419,Merchant419,Grocery,New York,France
+M420,Merchant420,Electronics,Chicago,UK
+M421,Merchant421,Restaurant,Los Angeles,USA
+M422,Merchant422,Grocery,Los Angeles,USA
+M423,Merchant423,Grocery,San Francisco,UK
+M424,Merchant424,Grocery,Los Angeles,USA
+M425,Merchant425,Clothing,New York,UK
+M426,Merchant426,Grocery,Chicago,Germany
+M427,Merchant427,Grocery,Los Angeles,Germany
+M428,Merchant428,Electronics,Los Angeles,Germany
+M429,Merchant429,Restaurant,Chicago,UK
+M430,Merchant430,Restaurant,San Francisco,France
+M431,Merchant431,Grocery,Chicago,USA
+M432,Merchant432,Electronics,Chicago,UK
+M433,Merchant433,Grocery,Chicago,France
+M434,Merchant434,Electronics,San Francisco,UK
+M435,Merchant435,Grocery,San Francisco,USA
+M436,Merchant436,Electronics,Chicago,France
+M437,Merchant437,Grocery,San Francisco,Germany
+M438,Merchant438,Restaurant,San Francisco,USA
+M439,Merchant439,Clothing,Chicago,UK
+M440,Merchant440,Clothing,San Francisco,Germany
+M441,Merchant441,Restaurant,New York,USA
+M442,Merchant442,Grocery,New York,UK
+M443,Merchant443,Restaurant,Los Angeles,Germany
+M444,Merchant444,Restaurant,Chicago,Germany
+M445,Merchant445,Clothing,Los Angeles,Germany
+M446,Merchant446,Clothing,Los Angeles,France
+M447,Merchant447,Electronics,New York,Germany
+M448,Merchant448,Grocery,Chicago,Germany
+M449,Merchant449,Grocery,San Francisco,Germany
+M450,Merchant450,Electronics,Chicago,France
+M451,Merchant451,Restaurant,Chicago,UK
+M452,Merchant452,Clothing,Chicago,France
+M453,Merchant453,Electronics,San Francisco,USA
+M454,Merchant454,Clothing,Los Angeles,France
+M455,Merchant455,Electronics,San Francisco,France
+M456,Merchant456,Restaurant,New York,USA
+M457,Merchant457,Restaurant,Los Angeles,UK
+M458,Merchant458,Electronics,New York,France
+M459,Merchant459,Clothing,New York,France
+M460,Merchant460,Grocery,Chicago,Germany
+M461,Merchant461,Grocery,Chicago,France
+M462,Merchant462,Electronics,Los Angeles,Germany
+M463,Merchant463,Electronics,New York,France
+M464,Merchant464,Clothing,Chicago,UK
+M465,Merchant465,Restaurant,Los Angeles,France
+M466,Merchant466,Restaurant,Chicago,Germany
+M467,Merchant467,Grocery,San Francisco,Germany
+M468,Merchant468,Clothing,San Francisco,UK
+M469,Merchant469,Clothing,Los Angeles,USA
+M470,Merchant470,Grocery,Chicago,France
+M471,Merchant471,Restaurant,Los Angeles,USA
+M472,Merchant472,Restaurant,New York,UK
+M473,Merchant473,Electronics,San Francisco,Germany
+M474,Merchant474,Electronics,Chicago,France
+M475,Merchant475,Restaurant,Chicago,Germany
+M476,Merchant476,Grocery,Los Angeles,USA
+M477,Merchant477,Restaurant,Los Angeles,France
+M478,Merchant478,Electronics,San Francisco,France
+M479,Merchant479,Restaurant,San Francisco,Germany
+M480,Merchant480,Electronics,Chicago,USA
+M481,Merchant481,Clothing,San Francisco,USA
+M482,Merchant482,Restaurant,New York,Germany
+M483,Merchant483,Electronics,San Francisco,France
+M484,Merchant484,Restaurant,New York,UK
+M485,Merchant485,Clothing,Los Angeles,UK
+M486,Merchant486,Electronics,Chicago,France
+M487,Merchant487,Restaurant,New York,UK
+M488,Merchant488,Electronics,Los Angeles,UK
+M489,Merchant489,Electronics,Chicago,UK
+M490,Merchant490,Electronics,Los Angeles,France
+M491,Merchant491,Restaurant,New York,France
+M492,Merchant492,Clothing,San Francisco,UK
+M493,Merchant493,Restaurant,San Francisco,France
+M494,Merchant494,Grocery,San Francisco,Germany
+M495,Merchant495,Clothing,Los Angeles,Germany
+M496,Merchant496,Clothing,New York,USA
+M497,Merchant497,Restaurant,New York,France
+M498,Merchant498,Clothing,Chicago,France
+M499,Merchant499,Restaurant,San Francisco,France
+M500,Merchant500,Electronics,Los Angeles,France
+M501,Merchant501,Clothing,San Francisco,USA
+M502,Merchant502,Grocery,Los Angeles,Germany
+M503,Merchant503,Clothing,New York,Germany
+M504,Merchant504,Clothing,New York,Germany
+M505,Merchant505,Restaurant,New York,USA
+M506,Merchant506,Clothing,Chicago,UK
+M507,Merchant507,Clothing,Chicago,Germany
+M508,Merchant508,Restaurant,Chicago,Germany
+M509,Merchant509,Clothing,Chicago,USA
+M510,Merchant510,Restaurant,Chicago,UK
+M511,Merchant511,Electronics,Chicago,USA
+M512,Merchant512,Restaurant,New York,France
+M513,Merchant513,Clothing,Los Angeles,USA
+M514,Merchant514,Restaurant,Los Angeles,Germany
+M515,Merchant515,Electronics,New York,USA
+M516,Merchant516,Electronics,New York,Germany
+M517,Merchant517,Electronics,Los Angeles,Germany
+M518,Merchant518,Electronics,San Francisco,USA
+M519,Merchant519,Clothing,Chicago,France
+M520,Merchant520,Restaurant,Los Angeles,France
+M521,Merchant521,Grocery,New York,Germany
+M522,Merchant522,Electronics,New York,Germany
+M523,Merchant523,Electronics,San Francisco,France
+M524,Merchant524,Restaurant,New York,UK
+M525,Merchant525,Electronics,Chicago,Germany
+M526,Merchant526,Electronics,Chicago,France
+M527,Merchant527,Electronics,Los Angeles,France
+M528,Merchant528,Clothing,Chicago,UK
+M529,Merchant529,Grocery,Chicago,Germany
+M530,Merchant530,Electronics,San Francisco,Germany
+M531,Merchant531,Restaurant,San Francisco,France
+M532,Merchant532,Restaurant,Chicago,UK
+M533,Merchant533,Clothing,New York,Germany
+M534,Merchant534,Electronics,San Francisco,France
+M535,Merchant535,Clothing,Chicago,France
+M536,Merchant536,Clothing,Chicago,USA
+M537,Merchant537,Restaurant,Los Angeles,USA
+M538,Merchant538,Grocery,Los Angeles,UK
+M539,Merchant539,Grocery,Chicago,UK
+M540,Merchant540,Electronics,San Francisco,Germany
+M541,Merchant541,Electronics,Los Angeles,France
+M542,Merchant542,Electronics,Los Angeles,France
+M543,Merchant543,Electronics,New York,France
+M544,Merchant544,Restaurant,San Francisco,France
+M545,Merchant545,Clothing,Los Angeles,France
+M546,Merchant546,Restaurant,Chicago,France
+M547,Merchant547,Electronics,New York,France
+M548,Merchant548,Clothing,Los Angeles,UK
+M549,Merchant549,Restaurant,San Francisco,UK
+M550,Merchant550,Clothing,Los Angeles,Germany
+M551,Merchant551,Restaurant,Los Angeles,USA
+M552,Merchant552,Restaurant,New York,Germany
+M553,Merchant553,Restaurant,Los Angeles,UK
+M554,Merchant554,Electronics,Chicago,UK
+M555,Merchant555,Electronics,New York,USA
+M556,Merchant556,Grocery,Los Angeles,France
+M557,Merchant557,Clothing,Chicago,France
+M558,Merchant558,Electronics,New York,UK
+M559,Merchant559,Electronics,Chicago,UK
+M560,Merchant560,Electronics,New York,UK
+M561,Merchant561,Restaurant,New York,France
+M562,Merchant562,Grocery,New York,Germany
+M563,Merchant563,Restaurant,Chicago,France
+M564,Merchant564,Grocery,Los Angeles,USA
+M565,Merchant565,Grocery,New York,USA
+M566,Merchant566,Grocery,San Francisco,Germany
+M567,Merchant567,Clothing,New York,USA
+M568,Merchant568,Grocery,Los Angeles,France
+M569,Merchant569,Clothing,New York,Germany
+M570,Merchant570,Restaurant,San Francisco,Germany
+M571,Merchant571,Grocery,Los Angeles,Germany
+M572,Merchant572,Grocery,New York,Germany
+M573,Merchant573,Clothing,New York,Germany
+M574,Merchant574,Grocery,Los Angeles,Germany
+M575,Merchant575,Clothing,New York,USA
+M576,Merchant576,Electronics,Chicago,UK
+M577,Merchant577,Restaurant,Los Angeles,France
+M578,Merchant578,Clothing,San Francisco,Germany
+M579,Merchant579,Grocery,Los Angeles,UK
+M580,Merchant580,Clothing,San Francisco,UK
+M581,Merchant581,Restaurant,Chicago,USA
+M582,Merchant582,Restaurant,Los Angeles,USA
+M583,Merchant583,Electronics,San Francisco,UK
+M584,Merchant584,Electronics,Chicago,France
+M585,Merchant585,Clothing,New York,France
+M586,Merchant586,Electronics,Chicago,UK
+M587,Merchant587,Grocery,Chicago,Germany
+M588,Merchant588,Grocery,New York,Germany
+M589,Merchant589,Grocery,New York,USA
+M590,Merchant590,Grocery,New York,Germany
+M591,Merchant591,Restaurant,San Francisco,Germany
+M592,Merchant592,Restaurant,New York,Germany
+M593,Merchant593,Restaurant,San Francisco,USA
+M594,Merchant594,Electronics,Chicago,USA
+M595,Merchant595,Grocery,Los Angeles,France
+M596,Merchant596,Grocery,Los Angeles,France
+M597,Merchant597,Grocery,New York,UK
+M598,Merchant598,Grocery,Los Angeles,UK
+M599,Merchant599,Electronics,San Francisco,USA
+M600,Merchant600,Grocery,San Francisco,USA

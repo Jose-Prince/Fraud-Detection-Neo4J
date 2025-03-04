@@ -197,7 +197,6 @@ def generate_relationships(users, accounts, banks, companies, devices):
         
     contador = 0
     for account in accounts:
-        
         transaction = transactions[contador]
 
         # Bank has an account
@@ -267,9 +266,9 @@ def generate_relationships(users, accounts, banks, companies, devices):
         write_relationships_to_csv([uses_card], 'Fill_Data/csves/uses_card.csv')
         
 
-
+    contador = 0
     for transaction in transactions:
-        bank = random.choice(banks)
+        bank = banks[contador]
         auth_relationship = {
             "startNode": bank["bankID"],
             "endNode": transaction["transactionID"],
@@ -278,6 +277,7 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "time": random_date(2020, 2025).strftime("%Y-%m-%dT%H:%M:%S"),
             "status": random.choice(["In Process", "Fail", "Success"])
         }
+        contador = contador + 1
         write_relationships_to_csv([auth_relationship], 'Fill_Data/csves/auth_transactions.csv')
 
 
