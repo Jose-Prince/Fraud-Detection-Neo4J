@@ -136,6 +136,27 @@ public class Controller : ControllerBase
     }
 
 
+    [HttpPut("node/update_multiple/")]
+    public async Task<IActionResult> SetNodesMultiple([FromBody] List<Rel_To_Change> relations) {
+        if (relations == null) {
+            return BadRequest("No relations provided for deletion.");
+        }
+        await _neo4jConnector.SetRelationsMultiple(relations);
+
+        return Ok("Relations updated successfully");
+    }
+
+    [HttpPut("relations/update/")]
+    public async Task<IActionResult> SetNodes([FromBody] Rel_To_Change relations) {
+        if (relations == null) {
+            return BadRequest("No relations provided for deletion.");
+        }
+        await _neo4jConnector.SetRelations(relations);
+
+        return Ok("Relations updated successfully");
+    }
+
+
 }
 
 public class Node {
@@ -174,8 +195,17 @@ public class RelationToDelete {
 
 public class Rel_To_Change {
 
-
     public string relationName { get; set; } 
     public Dictionary<string, object> relationAttributes { get; set; }
     public Dictionary<string, object> To_change { get; set; } 
+}
+
+
+
+public class Node_To_Change {
+    public string label { get; set; }
+    public Dictionary<string, object> attributes { get; set; }
+
+    public string target_label { get; set; }
+    public Dictionary<string, object> attributes_to_change { get; set; }
 }
