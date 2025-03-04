@@ -1,1200 +1,1200 @@
 startNode,endNode,relationship,time,appUsed,reason
-T:1,M84,PURCHASED_AT,2025-08-21T00:00:00,Phone Wallet,payment 
+T:1,M299,PURCHASED_AT,2022-08-07T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:2,M38,PURCHASED_AT,2020-03-09T00:00:00,Phone Wallet,In need of product
+T:2,M297,PURCHASED_AT,2023-09-08T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:3,M367,PURCHASED_AT,2021-10-11T00:00:00,other,sale
+T:3,M553,PURCHASED_AT,2024-10-28T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:4,M487,PURCHASED_AT,2023-09-23T00:00:00,Phone Wallet,In need of product
+T:4,M216,PURCHASED_AT,2020-02-10T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:5,M552,PURCHASED_AT,2022-03-05T00:00:00,Banking App,In need of product
+T:5,M44,PURCHASED_AT,2022-08-17T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:6,M120,PURCHASED_AT,2022-10-15T00:00:00,Banking App,sale
+T:6,M292,PURCHASED_AT,2020-03-16T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:7,M154,PURCHASED_AT,2024-04-24T00:00:00,Banking App,In need of product
+T:7,M502,PURCHASED_AT,2023-03-01T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:8,M88,PURCHASED_AT,2025-06-04T00:00:00,Phone Wallet,fee
+T:8,M339,PURCHASED_AT,2023-10-16T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:9,M226,PURCHASED_AT,2022-12-25T00:00:00,other,sale
+T:9,M176,PURCHASED_AT,2025-12-27T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:10,M186,PURCHASED_AT,2020-11-18T00:00:00,other,In need of product
+T:10,M537,PURCHASED_AT,2023-09-01T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:11,M136,PURCHASED_AT,2020-08-02T00:00:00,other,In need of product
+T:11,M587,PURCHASED_AT,2020-06-30T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:12,M250,PURCHASED_AT,2020-09-09T00:00:00,Banking App,fee
+T:12,M414,PURCHASED_AT,2023-03-29T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:13,M35,PURCHASED_AT,2023-05-26T00:00:00,Banking App,payment 
+T:13,M102,PURCHASED_AT,2023-01-04T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:14,M440,PURCHASED_AT,2025-01-23T00:00:00,Banking App,In need of product
+T:14,M499,PURCHASED_AT,2023-07-11T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:15,M529,PURCHASED_AT,2023-10-28T00:00:00,Banking App,sale
+T:15,M163,PURCHASED_AT,2024-08-09T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:16,M293,PURCHASED_AT,2023-08-18T00:00:00,Phone Wallet,fee
+T:16,M169,PURCHASED_AT,2024-03-06T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:17,M174,PURCHASED_AT,2023-11-01T00:00:00,Banking App,fee
+T:17,M500,PURCHASED_AT,2025-04-04T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:18,M405,PURCHASED_AT,2022-03-04T00:00:00,Banking App,In need of product
+T:18,M5,PURCHASED_AT,2023-02-20T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:19,M238,PURCHASED_AT,2023-05-15T00:00:00,Phone Wallet,fee
+T:19,M319,PURCHASED_AT,2025-03-28T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:20,M254,PURCHASED_AT,2025-04-03T00:00:00,other,sale
+T:20,M485,PURCHASED_AT,2024-02-22T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:21,M316,PURCHASED_AT,2022-08-13T00:00:00,Phone Wallet,payment 
+T:21,M47,PURCHASED_AT,2023-05-13T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:22,M256,PURCHASED_AT,2022-12-29T00:00:00,Phone Wallet,fee
+T:22,M569,PURCHASED_AT,2023-01-18T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:23,M365,PURCHASED_AT,2024-10-16T00:00:00,Phone Wallet,fee
+T:23,M7,PURCHASED_AT,2022-01-16T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:24,M502,PURCHASED_AT,2021-08-23T00:00:00,other,In need of product
+T:24,M463,PURCHASED_AT,2024-11-06T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:25,M138,PURCHASED_AT,2021-02-25T00:00:00,Phone Wallet,fee
+T:25,M425,PURCHASED_AT,2024-12-30T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:26,M589,PURCHASED_AT,2021-11-25T00:00:00,other,fee
+T:26,M245,PURCHASED_AT,2020-12-23T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:27,M202,PURCHASED_AT,2020-03-09T00:00:00,other,fee
+T:27,M83,PURCHASED_AT,2024-10-02T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:28,M478,PURCHASED_AT,2021-04-12T00:00:00,Phone Wallet,payment 
+T:28,M126,PURCHASED_AT,2021-10-14T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:29,M425,PURCHASED_AT,2024-08-03T00:00:00,Phone Wallet,payment 
+T:29,M4,PURCHASED_AT,2020-01-15T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:30,M276,PURCHASED_AT,2024-08-03T00:00:00,other,payment 
+T:30,M151,PURCHASED_AT,2025-01-28T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:31,M24,PURCHASED_AT,2025-01-25T00:00:00,other,fee
+T:31,M143,PURCHASED_AT,2021-09-02T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:32,M18,PURCHASED_AT,2022-02-10T00:00:00,Banking App,sale
+T:32,M342,PURCHASED_AT,2020-02-11T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:33,M545,PURCHASED_AT,2021-01-11T00:00:00,Phone Wallet,payment 
+T:33,M224,PURCHASED_AT,2024-08-28T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:34,M558,PURCHASED_AT,2020-01-14T00:00:00,Banking App,fee
+T:34,M148,PURCHASED_AT,2021-06-02T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:35,M487,PURCHASED_AT,2023-07-10T00:00:00,other,sale
+T:35,M597,PURCHASED_AT,2025-12-29T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:36,M431,PURCHASED_AT,2020-07-21T00:00:00,Phone Wallet,sale
+T:36,M136,PURCHASED_AT,2024-07-04T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:37,M140,PURCHASED_AT,2020-12-22T00:00:00,other,payment 
+T:37,M266,PURCHASED_AT,2021-09-11T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:38,M247,PURCHASED_AT,2024-05-10T00:00:00,Banking App,payment 
+T:38,M130,PURCHASED_AT,2021-11-29T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:39,M89,PURCHASED_AT,2022-04-18T00:00:00,Phone Wallet,fee
+T:39,M544,PURCHASED_AT,2025-12-21T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:40,M106,PURCHASED_AT,2021-01-04T00:00:00,other,In need of product
+T:40,M524,PURCHASED_AT,2025-12-16T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:41,M594,PURCHASED_AT,2022-11-18T00:00:00,other,sale
+T:41,M173,PURCHASED_AT,2020-12-02T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:42,M160,PURCHASED_AT,2023-07-21T00:00:00,other,payment 
+T:42,M269,PURCHASED_AT,2025-09-01T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:43,M451,PURCHASED_AT,2023-04-27T00:00:00,other,payment 
+T:43,M357,PURCHASED_AT,2022-09-22T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:44,M300,PURCHASED_AT,2024-12-12T00:00:00,other,payment 
+T:44,M373,PURCHASED_AT,2021-01-04T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:45,M531,PURCHASED_AT,2020-07-14T00:00:00,Banking App,sale
+T:45,M586,PURCHASED_AT,2024-02-26T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:46,M418,PURCHASED_AT,2024-12-11T00:00:00,Phone Wallet,payment 
+T:46,M191,PURCHASED_AT,2021-08-19T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:47,M5,PURCHASED_AT,2020-09-17T00:00:00,other,payment 
+T:47,M431,PURCHASED_AT,2024-01-12T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:48,M26,PURCHASED_AT,2021-05-03T00:00:00,Banking App,sale
+T:48,M577,PURCHASED_AT,2025-03-04T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:49,M331,PURCHASED_AT,2020-10-21T00:00:00,Banking App,sale
+T:49,M517,PURCHASED_AT,2023-11-26T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:50,M559,PURCHASED_AT,2023-12-15T00:00:00,Phone Wallet,sale
+T:50,M543,PURCHASED_AT,2023-09-25T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:51,M100,PURCHASED_AT,2021-09-15T00:00:00,Phone Wallet,payment 
+T:51,M378,PURCHASED_AT,2023-08-07T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:52,M143,PURCHASED_AT,2025-06-14T00:00:00,other,payment 
+T:52,M459,PURCHASED_AT,2025-07-24T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:53,M155,PURCHASED_AT,2025-01-22T00:00:00,other,sale
+T:53,M269,PURCHASED_AT,2021-09-18T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:54,M131,PURCHASED_AT,2021-01-23T00:00:00,other,sale
+T:54,M5,PURCHASED_AT,2025-03-12T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:55,M259,PURCHASED_AT,2023-06-03T00:00:00,Banking App,payment 
+T:55,M482,PURCHASED_AT,2020-06-26T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:56,M77,PURCHASED_AT,2023-08-20T00:00:00,Banking App,payment 
+T:56,M72,PURCHASED_AT,2021-07-25T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:57,M459,PURCHASED_AT,2021-02-04T00:00:00,Phone Wallet,In need of product
+T:57,M426,PURCHASED_AT,2023-07-14T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:58,M450,PURCHASED_AT,2020-04-18T00:00:00,Banking App,fee
+T:58,M359,PURCHASED_AT,2024-02-03T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:59,M239,PURCHASED_AT,2021-02-10T00:00:00,Phone Wallet,sale
+T:59,M54,PURCHASED_AT,2021-04-30T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:60,M383,PURCHASED_AT,2025-04-14T00:00:00,Phone Wallet,sale
+T:60,M216,PURCHASED_AT,2022-09-25T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:61,M87,PURCHASED_AT,2023-04-02T00:00:00,other,sale
+T:61,M478,PURCHASED_AT,2025-03-03T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:62,M485,PURCHASED_AT,2024-07-09T00:00:00,Banking App,In need of product
+T:62,M251,PURCHASED_AT,2025-03-12T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:63,M194,PURCHASED_AT,2021-06-01T00:00:00,other,fee
+T:63,M421,PURCHASED_AT,2025-12-21T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:64,M64,PURCHASED_AT,2025-12-21T00:00:00,Banking App,sale
+T:64,M347,PURCHASED_AT,2022-03-09T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:65,M318,PURCHASED_AT,2020-09-20T00:00:00,other,fee
+T:65,M272,PURCHASED_AT,2022-06-01T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:66,M551,PURCHASED_AT,2024-10-01T00:00:00,Banking App,In need of product
+T:66,M407,PURCHASED_AT,2024-05-16T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:67,M549,PURCHASED_AT,2023-06-17T00:00:00,Phone Wallet,payment 
+T:67,M147,PURCHASED_AT,2025-08-31T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:68,M174,PURCHASED_AT,2023-01-08T00:00:00,Banking App,fee
+T:68,M364,PURCHASED_AT,2025-07-11T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:69,M94,PURCHASED_AT,2022-05-11T00:00:00,Phone Wallet,In need of product
+T:69,M508,PURCHASED_AT,2024-07-10T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:70,M90,PURCHASED_AT,2025-05-19T00:00:00,other,payment 
+T:70,M538,PURCHASED_AT,2021-04-06T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:71,M241,PURCHASED_AT,2022-04-14T00:00:00,Phone Wallet,In need of product
+T:71,M353,PURCHASED_AT,2024-02-07T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:72,M349,PURCHASED_AT,2021-10-05T00:00:00,Phone Wallet,sale
+T:72,M358,PURCHASED_AT,2021-05-20T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:73,M209,PURCHASED_AT,2023-07-25T00:00:00,other,sale
+T:73,M203,PURCHASED_AT,2025-01-25T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:74,M70,PURCHASED_AT,2024-08-11T00:00:00,other,fee
+T:74,M10,PURCHASED_AT,2022-10-14T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:75,M505,PURCHASED_AT,2020-12-27T00:00:00,Phone Wallet,payment 
+T:75,M144,PURCHASED_AT,2020-07-02T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:76,M478,PURCHASED_AT,2022-12-09T00:00:00,Phone Wallet,payment 
+T:76,M83,PURCHASED_AT,2021-03-30T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:77,M446,PURCHASED_AT,2023-10-01T00:00:00,Banking App,payment 
+T:77,M582,PURCHASED_AT,2024-06-30T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:78,M35,PURCHASED_AT,2025-05-21T00:00:00,Phone Wallet,sale
+T:78,M81,PURCHASED_AT,2024-06-06T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:79,M260,PURCHASED_AT,2024-07-07T00:00:00,other,payment 
+T:79,M242,PURCHASED_AT,2021-10-22T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:80,M371,PURCHASED_AT,2023-03-03T00:00:00,Phone Wallet,fee
+T:80,M286,PURCHASED_AT,2023-11-18T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:81,M251,PURCHASED_AT,2021-09-06T00:00:00,Phone Wallet,sale
+T:81,M360,PURCHASED_AT,2021-06-30T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:82,M284,PURCHASED_AT,2020-02-04T00:00:00,Phone Wallet,payment 
+T:82,M524,PURCHASED_AT,2020-01-01T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:83,M148,PURCHASED_AT,2020-04-02T00:00:00,Banking App,sale
+T:83,M576,PURCHASED_AT,2020-11-18T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:84,M194,PURCHASED_AT,2021-10-31T00:00:00,other,payment 
+T:84,M295,PURCHASED_AT,2022-07-27T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:85,M389,PURCHASED_AT,2022-01-18T00:00:00,Phone Wallet,payment 
+T:85,M82,PURCHASED_AT,2023-07-10T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:86,M11,PURCHASED_AT,2021-05-25T00:00:00,other,sale
+T:86,M377,PURCHASED_AT,2020-08-13T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:87,M13,PURCHASED_AT,2025-05-14T00:00:00,other,fee
+T:87,M166,PURCHASED_AT,2024-07-17T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:88,M118,PURCHASED_AT,2025-05-03T00:00:00,other,fee
+T:88,M434,PURCHASED_AT,2020-06-14T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:89,M590,PURCHASED_AT,2025-10-17T00:00:00,other,fee
+T:89,M337,PURCHASED_AT,2024-01-31T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:90,M518,PURCHASED_AT,2024-05-11T00:00:00,Banking App,sale
+T:90,M305,PURCHASED_AT,2025-05-21T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:91,M422,PURCHASED_AT,2025-03-05T00:00:00,Phone Wallet,sale
+T:91,M265,PURCHASED_AT,2023-05-10T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:92,M176,PURCHASED_AT,2021-09-03T00:00:00,other,fee
+T:92,M221,PURCHASED_AT,2025-06-21T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:93,M590,PURCHASED_AT,2020-06-02T00:00:00,other,fee
+T:93,M159,PURCHASED_AT,2021-05-08T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:94,M232,PURCHASED_AT,2023-06-30T00:00:00,other,fee
+T:94,M384,PURCHASED_AT,2024-02-03T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:95,M594,PURCHASED_AT,2020-09-18T00:00:00,Phone Wallet,fee
+T:95,M284,PURCHASED_AT,2020-05-30T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:96,M167,PURCHASED_AT,2023-11-11T00:00:00,Banking App,fee
+T:96,M466,PURCHASED_AT,2023-07-09T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:97,M5,PURCHASED_AT,2022-04-29T00:00:00,other,payment 
+T:97,M32,PURCHASED_AT,2020-03-27T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:98,M230,PURCHASED_AT,2021-02-18T00:00:00,Banking App,payment 
+T:98,M269,PURCHASED_AT,2020-10-30T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:99,M207,PURCHASED_AT,2021-09-24T00:00:00,Banking App,payment 
+T:99,M295,PURCHASED_AT,2024-11-03T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:100,M168,PURCHASED_AT,2020-01-19T00:00:00,Phone Wallet,sale
+T:100,M381,PURCHASED_AT,2022-07-22T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:101,M329,PURCHASED_AT,2025-10-10T00:00:00,Phone Wallet,In need of product
+T:101,M347,PURCHASED_AT,2025-08-01T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:102,M8,PURCHASED_AT,2023-05-26T00:00:00,Phone Wallet,fee
+T:102,M435,PURCHASED_AT,2024-07-08T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:103,M544,PURCHASED_AT,2024-04-17T00:00:00,Banking App,fee
+T:103,M122,PURCHASED_AT,2023-11-26T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:104,M549,PURCHASED_AT,2021-08-24T00:00:00,Phone Wallet,In need of product
+T:104,M63,PURCHASED_AT,2025-10-20T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:105,M181,PURCHASED_AT,2021-08-22T00:00:00,other,In need of product
+T:105,M529,PURCHASED_AT,2023-09-18T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:106,M578,PURCHASED_AT,2023-08-22T00:00:00,Phone Wallet,payment 
+T:106,M368,PURCHASED_AT,2021-06-16T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:107,M407,PURCHASED_AT,2020-11-04T00:00:00,other,In need of product
+T:107,M77,PURCHASED_AT,2021-07-25T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:108,M263,PURCHASED_AT,2022-05-09T00:00:00,Banking App,fee
+T:108,M252,PURCHASED_AT,2022-01-24T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:109,M384,PURCHASED_AT,2023-06-02T00:00:00,other,In need of product
+T:109,M295,PURCHASED_AT,2025-09-17T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:110,M578,PURCHASED_AT,2025-04-08T00:00:00,Banking App,fee
+T:110,M208,PURCHASED_AT,2024-02-25T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:111,M594,PURCHASED_AT,2020-07-04T00:00:00,other,sale
+T:111,M339,PURCHASED_AT,2024-05-28T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:112,M143,PURCHASED_AT,2020-05-09T00:00:00,Phone Wallet,sale
+T:112,M248,PURCHASED_AT,2021-09-06T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:113,M170,PURCHASED_AT,2021-04-06T00:00:00,Phone Wallet,payment 
+T:113,M566,PURCHASED_AT,2022-10-16T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:114,M558,PURCHASED_AT,2024-05-27T00:00:00,Phone Wallet,payment 
+T:114,M568,PURCHASED_AT,2025-03-21T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:115,M313,PURCHASED_AT,2022-04-28T00:00:00,Banking App,sale
+T:115,M189,PURCHASED_AT,2023-04-23T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:116,M511,PURCHASED_AT,2022-06-15T00:00:00,Phone Wallet,sale
+T:116,M309,PURCHASED_AT,2024-09-29T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:117,M243,PURCHASED_AT,2021-03-12T00:00:00,other,payment 
+T:117,M226,PURCHASED_AT,2020-10-28T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:118,M118,PURCHASED_AT,2025-02-12T00:00:00,other,sale
+T:118,M174,PURCHASED_AT,2020-08-07T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:119,M346,PURCHASED_AT,2024-03-18T00:00:00,other,sale
+T:119,M140,PURCHASED_AT,2025-06-14T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:120,M452,PURCHASED_AT,2020-05-24T00:00:00,Banking App,payment 
+T:120,M66,PURCHASED_AT,2021-10-31T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:121,M417,PURCHASED_AT,2020-09-05T00:00:00,Phone Wallet,sale
+T:121,M201,PURCHASED_AT,2025-04-06T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:122,M370,PURCHASED_AT,2025-01-19T00:00:00,Banking App,fee
+T:122,M455,PURCHASED_AT,2025-09-25T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:123,M424,PURCHASED_AT,2020-07-03T00:00:00,Banking App,payment 
+T:123,M23,PURCHASED_AT,2022-05-07T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:124,M342,PURCHASED_AT,2025-10-06T00:00:00,other,fee
+T:124,M20,PURCHASED_AT,2024-07-23T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:125,M350,PURCHASED_AT,2023-08-13T00:00:00,other,sale
+T:125,M411,PURCHASED_AT,2022-12-20T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:126,M339,PURCHASED_AT,2023-02-14T00:00:00,Banking App,fee
+T:126,M562,PURCHASED_AT,2020-08-25T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:127,M263,PURCHASED_AT,2021-04-01T00:00:00,Phone Wallet,fee
+T:127,M506,PURCHASED_AT,2025-07-08T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:128,M77,PURCHASED_AT,2020-10-07T00:00:00,Banking App,In need of product
+T:128,M20,PURCHASED_AT,2021-10-19T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:129,M40,PURCHASED_AT,2021-08-04T00:00:00,other,fee
+T:129,M75,PURCHASED_AT,2023-10-07T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:130,M232,PURCHASED_AT,2023-09-08T00:00:00,other,payment 
+T:130,M274,PURCHASED_AT,2022-06-02T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:131,M571,PURCHASED_AT,2021-06-21T00:00:00,other,In need of product
+T:131,M551,PURCHASED_AT,2022-01-04T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:132,M4,PURCHASED_AT,2024-03-02T00:00:00,Banking App,fee
+T:132,M107,PURCHASED_AT,2022-02-23T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:133,M165,PURCHASED_AT,2022-06-06T00:00:00,Phone Wallet,In need of product
+T:133,M72,PURCHASED_AT,2024-10-06T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:134,M562,PURCHASED_AT,2024-08-19T00:00:00,Phone Wallet,fee
+T:134,M313,PURCHASED_AT,2021-03-08T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:135,M483,PURCHASED_AT,2020-12-20T00:00:00,Phone Wallet,sale
+T:135,M257,PURCHASED_AT,2021-10-27T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:136,M490,PURCHASED_AT,2020-09-05T00:00:00,Banking App,In need of product
+T:136,M159,PURCHASED_AT,2020-10-28T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:137,M141,PURCHASED_AT,2025-07-29T00:00:00,Banking App,payment 
+T:137,M337,PURCHASED_AT,2025-06-01T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:138,M232,PURCHASED_AT,2024-01-06T00:00:00,other,fee
+T:138,M78,PURCHASED_AT,2020-07-13T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:139,M29,PURCHASED_AT,2022-02-27T00:00:00,other,sale
+T:139,M517,PURCHASED_AT,2022-04-21T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:140,M73,PURCHASED_AT,2021-12-13T00:00:00,other,fee
+T:140,M588,PURCHASED_AT,2020-09-20T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:141,M561,PURCHASED_AT,2020-03-27T00:00:00,Banking App,payment 
+T:141,M493,PURCHASED_AT,2023-12-13T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:142,M523,PURCHASED_AT,2021-07-09T00:00:00,Banking App,In need of product
+T:142,M463,PURCHASED_AT,2025-03-08T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:143,M203,PURCHASED_AT,2021-03-02T00:00:00,Phone Wallet,fee
+T:143,M570,PURCHASED_AT,2022-07-15T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:144,M350,PURCHASED_AT,2025-08-17T00:00:00,Banking App,In need of product
+T:144,M93,PURCHASED_AT,2024-12-29T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:145,M218,PURCHASED_AT,2024-03-15T00:00:00,Banking App,payment 
+T:145,M291,PURCHASED_AT,2025-09-25T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:146,M435,PURCHASED_AT,2024-11-23T00:00:00,other,fee
+T:146,M78,PURCHASED_AT,2023-09-21T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:147,M221,PURCHASED_AT,2025-10-04T00:00:00,Banking App,fee
+T:147,M573,PURCHASED_AT,2025-11-18T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:148,M163,PURCHASED_AT,2025-04-05T00:00:00,Phone Wallet,fee
+T:148,M570,PURCHASED_AT,2020-02-06T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:149,M542,PURCHASED_AT,2020-07-02T00:00:00,Phone Wallet,In need of product
+T:149,M574,PURCHASED_AT,2021-03-03T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:150,M600,PURCHASED_AT,2023-06-10T00:00:00,other,In need of product
+T:150,M398,PURCHASED_AT,2024-05-19T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:151,M334,PURCHASED_AT,2024-11-06T00:00:00,other,sale
+T:151,M199,PURCHASED_AT,2022-04-04T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:152,M587,PURCHASED_AT,2025-07-06T00:00:00,other,In need of product
+T:152,M413,PURCHASED_AT,2025-04-22T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:153,M412,PURCHASED_AT,2024-06-06T00:00:00,Phone Wallet,sale
+T:153,M542,PURCHASED_AT,2024-05-14T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:154,M415,PURCHASED_AT,2023-08-31T00:00:00,Banking App,payment 
+T:154,M360,PURCHASED_AT,2021-04-12T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:155,M89,PURCHASED_AT,2024-01-23T00:00:00,Phone Wallet,sale
+T:155,M460,PURCHASED_AT,2020-08-04T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:156,M384,PURCHASED_AT,2025-11-25T00:00:00,Banking App,payment 
+T:156,M298,PURCHASED_AT,2024-03-17T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:157,M28,PURCHASED_AT,2021-02-23T00:00:00,Phone Wallet,In need of product
+T:157,M176,PURCHASED_AT,2024-03-22T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:158,M421,PURCHASED_AT,2024-08-16T00:00:00,other,fee
+T:158,M420,PURCHASED_AT,2023-08-02T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:159,M358,PURCHASED_AT,2024-08-25T00:00:00,Phone Wallet,payment 
+T:159,M434,PURCHASED_AT,2020-11-14T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:160,M122,PURCHASED_AT,2022-03-16T00:00:00,other,In need of product
+T:160,M52,PURCHASED_AT,2022-11-20T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:161,M144,PURCHASED_AT,2020-01-28T00:00:00,Phone Wallet,payment 
+T:161,M485,PURCHASED_AT,2023-04-02T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:162,M190,PURCHASED_AT,2022-01-22T00:00:00,Phone Wallet,payment 
+T:162,M560,PURCHASED_AT,2024-05-06T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:163,M150,PURCHASED_AT,2020-12-04T00:00:00,other,sale
+T:163,M292,PURCHASED_AT,2023-03-08T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:164,M589,PURCHASED_AT,2025-09-30T00:00:00,Banking App,fee
+T:164,M62,PURCHASED_AT,2021-04-01T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:165,M422,PURCHASED_AT,2025-02-08T00:00:00,Phone Wallet,payment 
+T:165,M572,PURCHASED_AT,2024-06-08T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:166,M127,PURCHASED_AT,2025-10-20T00:00:00,other,In need of product
+T:166,M500,PURCHASED_AT,2025-07-23T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:167,M237,PURCHASED_AT,2021-02-25T00:00:00,Banking App,fee
+T:167,M566,PURCHASED_AT,2022-07-26T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:168,M524,PURCHASED_AT,2022-07-27T00:00:00,other,sale
+T:168,M103,PURCHASED_AT,2020-06-02T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:169,M417,PURCHASED_AT,2023-10-31T00:00:00,Banking App,fee
+T:169,M50,PURCHASED_AT,2023-07-21T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:170,M490,PURCHASED_AT,2023-03-18T00:00:00,Banking App,sale
+T:170,M574,PURCHASED_AT,2022-05-16T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:171,M191,PURCHASED_AT,2022-12-11T00:00:00,other,In need of product
+T:171,M529,PURCHASED_AT,2020-12-27T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:172,M5,PURCHASED_AT,2022-08-22T00:00:00,Banking App,payment 
+T:172,M470,PURCHASED_AT,2025-12-15T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:173,M419,PURCHASED_AT,2025-12-03T00:00:00,Banking App,payment 
+T:173,M551,PURCHASED_AT,2020-03-20T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:174,M232,PURCHASED_AT,2020-12-26T00:00:00,Banking App,In need of product
+T:174,M495,PURCHASED_AT,2024-04-10T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:175,M484,PURCHASED_AT,2025-02-13T00:00:00,Phone Wallet,In need of product
+T:175,M176,PURCHASED_AT,2020-12-13T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:176,M108,PURCHASED_AT,2022-09-25T00:00:00,Banking App,In need of product
+T:176,M499,PURCHASED_AT,2021-11-19T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:177,M281,PURCHASED_AT,2020-06-03T00:00:00,Banking App,In need of product
+T:177,M542,PURCHASED_AT,2021-02-09T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:178,M478,PURCHASED_AT,2023-11-01T00:00:00,Phone Wallet,fee
+T:178,M377,PURCHASED_AT,2024-01-31T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:179,M491,PURCHASED_AT,2022-04-02T00:00:00,Phone Wallet,sale
+T:179,M73,PURCHASED_AT,2023-09-24T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:180,M394,PURCHASED_AT,2024-02-23T00:00:00,Phone Wallet,sale
+T:180,M430,PURCHASED_AT,2023-09-30T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:181,M59,PURCHASED_AT,2021-03-26T00:00:00,Phone Wallet,sale
+T:181,M506,PURCHASED_AT,2025-05-15T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:182,M75,PURCHASED_AT,2021-12-22T00:00:00,Phone Wallet,In need of product
+T:182,M355,PURCHASED_AT,2024-04-12T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:183,M107,PURCHASED_AT,2021-02-28T00:00:00,Phone Wallet,sale
+T:183,M169,PURCHASED_AT,2024-03-30T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:184,M75,PURCHASED_AT,2022-06-29T00:00:00,other,sale
+T:184,M150,PURCHASED_AT,2023-06-11T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:185,M148,PURCHASED_AT,2025-04-25T00:00:00,Banking App,sale
+T:185,M492,PURCHASED_AT,2024-12-04T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:186,M456,PURCHASED_AT,2022-12-23T00:00:00,Phone Wallet,In need of product
+T:186,M571,PURCHASED_AT,2023-04-11T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:187,M311,PURCHASED_AT,2022-10-17T00:00:00,Phone Wallet,payment 
+T:187,M31,PURCHASED_AT,2020-04-01T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:188,M387,PURCHASED_AT,2021-03-15T00:00:00,Phone Wallet,In need of product
+T:188,M332,PURCHASED_AT,2020-04-13T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:189,M236,PURCHASED_AT,2021-12-05T00:00:00,Banking App,fee
+T:189,M248,PURCHASED_AT,2024-03-16T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:190,M475,PURCHASED_AT,2025-11-04T00:00:00,Banking App,In need of product
+T:190,M354,PURCHASED_AT,2024-11-23T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:191,M1,PURCHASED_AT,2022-05-13T00:00:00,Phone Wallet,fee
+T:191,M368,PURCHASED_AT,2025-04-19T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:192,M341,PURCHASED_AT,2020-09-21T00:00:00,Phone Wallet,sale
+T:192,M463,PURCHASED_AT,2024-10-24T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:193,M78,PURCHASED_AT,2025-11-22T00:00:00,other,In need of product
+T:193,M63,PURCHASED_AT,2024-06-02T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:194,M396,PURCHASED_AT,2024-01-22T00:00:00,other,payment 
+T:194,M395,PURCHASED_AT,2021-11-10T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:195,M584,PURCHASED_AT,2024-03-20T00:00:00,Banking App,payment 
+T:195,M225,PURCHASED_AT,2022-01-24T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:196,M411,PURCHASED_AT,2020-08-01T00:00:00,other,fee
+T:196,M183,PURCHASED_AT,2021-07-01T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:197,M128,PURCHASED_AT,2020-08-02T00:00:00,Phone Wallet,sale
+T:197,M380,PURCHASED_AT,2022-05-09T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:198,M102,PURCHASED_AT,2022-10-10T00:00:00,other,sale
+T:198,M344,PURCHASED_AT,2022-11-03T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:199,M413,PURCHASED_AT,2024-06-12T00:00:00,other,In need of product
+T:199,M540,PURCHASED_AT,2021-09-24T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:200,M92,PURCHASED_AT,2025-01-09T00:00:00,Banking App,payment 
+T:200,M272,PURCHASED_AT,2025-07-05T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:201,M16,PURCHASED_AT,2023-05-17T00:00:00,Phone Wallet,sale
+T:201,M505,PURCHASED_AT,2021-02-26T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:202,M54,PURCHASED_AT,2021-02-17T00:00:00,other,sale
+T:202,M222,PURCHASED_AT,2021-07-05T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:203,M251,PURCHASED_AT,2020-04-05T00:00:00,Phone Wallet,payment 
+T:203,M5,PURCHASED_AT,2025-08-28T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:204,M57,PURCHASED_AT,2025-05-25T00:00:00,Banking App,fee
+T:204,M549,PURCHASED_AT,2020-10-16T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:205,M443,PURCHASED_AT,2021-04-11T00:00:00,Banking App,payment 
+T:205,M183,PURCHASED_AT,2025-03-28T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:206,M296,PURCHASED_AT,2020-07-27T00:00:00,Phone Wallet,sale
+T:206,M91,PURCHASED_AT,2025-07-27T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:207,M247,PURCHASED_AT,2025-11-01T00:00:00,Banking App,In need of product
+T:207,M231,PURCHASED_AT,2024-08-14T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:208,M329,PURCHASED_AT,2025-03-16T00:00:00,other,payment 
+T:208,M252,PURCHASED_AT,2022-08-14T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:209,M378,PURCHASED_AT,2022-05-10T00:00:00,Phone Wallet,fee
+T:209,M594,PURCHASED_AT,2022-02-02T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:210,M435,PURCHASED_AT,2020-05-22T00:00:00,other,sale
+T:210,M77,PURCHASED_AT,2024-11-28T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:211,M435,PURCHASED_AT,2025-06-21T00:00:00,Banking App,In need of product
+T:211,M485,PURCHASED_AT,2025-07-15T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:212,M181,PURCHASED_AT,2021-06-17T00:00:00,other,payment 
+T:212,M156,PURCHASED_AT,2024-01-29T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:213,M50,PURCHASED_AT,2024-08-08T00:00:00,Phone Wallet,payment 
+T:213,M540,PURCHASED_AT,2021-11-23T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:214,M112,PURCHASED_AT,2022-02-21T00:00:00,Banking App,sale
+T:214,M445,PURCHASED_AT,2020-01-02T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:215,M415,PURCHASED_AT,2024-06-14T00:00:00,Phone Wallet,In need of product
+T:215,M15,PURCHASED_AT,2024-04-26T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:216,M561,PURCHASED_AT,2020-03-11T00:00:00,Banking App,fee
+T:216,M62,PURCHASED_AT,2025-08-16T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:217,M78,PURCHASED_AT,2020-12-25T00:00:00,Phone Wallet,payment 
+T:217,M532,PURCHASED_AT,2021-10-07T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:218,M108,PURCHASED_AT,2024-05-23T00:00:00,Banking App,payment 
+T:218,M357,PURCHASED_AT,2022-09-28T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:219,M355,PURCHASED_AT,2024-01-17T00:00:00,Phone Wallet,sale
+T:219,M523,PURCHASED_AT,2022-04-05T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:220,M204,PURCHASED_AT,2025-07-26T00:00:00,Phone Wallet,In need of product
+T:220,M310,PURCHASED_AT,2024-10-20T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:221,M292,PURCHASED_AT,2021-11-05T00:00:00,Banking App,payment 
+T:221,M382,PURCHASED_AT,2022-03-12T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:222,M217,PURCHASED_AT,2021-09-15T00:00:00,Phone Wallet,payment 
+T:222,M521,PURCHASED_AT,2024-03-09T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:223,M235,PURCHASED_AT,2021-02-02T00:00:00,Banking App,payment 
+T:223,M202,PURCHASED_AT,2025-04-27T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:224,M546,PURCHASED_AT,2021-12-18T00:00:00,Phone Wallet,In need of product
+T:224,M395,PURCHASED_AT,2020-09-02T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:225,M115,PURCHASED_AT,2024-04-30T00:00:00,Banking App,payment 
+T:225,M91,PURCHASED_AT,2022-02-12T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:226,M93,PURCHASED_AT,2025-05-24T00:00:00,other,payment 
+T:226,M227,PURCHASED_AT,2024-08-17T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:227,M84,PURCHASED_AT,2025-06-12T00:00:00,Banking App,sale
+T:227,M566,PURCHASED_AT,2021-01-24T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:228,M285,PURCHASED_AT,2024-02-08T00:00:00,Banking App,In need of product
+T:228,M413,PURCHASED_AT,2023-01-28T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:229,M184,PURCHASED_AT,2024-08-19T00:00:00,other,fee
+T:229,M262,PURCHASED_AT,2020-11-04T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:230,M21,PURCHASED_AT,2025-11-21T00:00:00,Phone Wallet,sale
+T:230,M409,PURCHASED_AT,2023-02-01T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:231,M433,PURCHASED_AT,2021-05-23T00:00:00,Phone Wallet,sale
+T:231,M41,PURCHASED_AT,2020-06-01T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:232,M258,PURCHASED_AT,2022-06-17T00:00:00,Banking App,fee
+T:232,M134,PURCHASED_AT,2025-01-25T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:233,M372,PURCHASED_AT,2022-09-29T00:00:00,Phone Wallet,fee
+T:233,M131,PURCHASED_AT,2020-04-24T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:234,M306,PURCHASED_AT,2021-03-29T00:00:00,other,fee
+T:234,M211,PURCHASED_AT,2024-08-12T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:235,M18,PURCHASED_AT,2024-08-02T00:00:00,Phone Wallet,payment 
+T:235,M279,PURCHASED_AT,2021-12-25T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:236,M33,PURCHASED_AT,2025-08-15T00:00:00,Banking App,payment 
+T:236,M242,PURCHASED_AT,2021-03-05T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:237,M545,PURCHASED_AT,2023-11-03T00:00:00,Phone Wallet,sale
+T:237,M422,PURCHASED_AT,2025-05-29T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:238,M190,PURCHASED_AT,2020-11-15T00:00:00,Banking App,In need of product
+T:238,M590,PURCHASED_AT,2023-03-14T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:239,M236,PURCHASED_AT,2023-12-28T00:00:00,other,payment 
+T:239,M160,PURCHASED_AT,2020-09-17T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:240,M152,PURCHASED_AT,2021-01-26T00:00:00,Banking App,fee
+T:240,M7,PURCHASED_AT,2025-06-13T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:241,M364,PURCHASED_AT,2021-08-01T00:00:00,Phone Wallet,payment 
+T:241,M575,PURCHASED_AT,2020-12-13T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:242,M216,PURCHASED_AT,2024-12-12T00:00:00,Phone Wallet,fee
+T:242,M122,PURCHASED_AT,2021-07-11T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:243,M30,PURCHASED_AT,2025-12-31T00:00:00,Phone Wallet,In need of product
+T:243,M543,PURCHASED_AT,2025-07-15T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:244,M347,PURCHASED_AT,2021-03-06T00:00:00,Banking App,sale
+T:244,M437,PURCHASED_AT,2021-07-07T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:245,M70,PURCHASED_AT,2025-09-18T00:00:00,Banking App,sale
+T:245,M511,PURCHASED_AT,2025-01-01T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:246,M60,PURCHASED_AT,2025-12-17T00:00:00,Phone Wallet,payment 
+T:246,M235,PURCHASED_AT,2020-05-19T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:247,M128,PURCHASED_AT,2025-05-08T00:00:00,other,In need of product
+T:247,M93,PURCHASED_AT,2020-12-17T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:248,M376,PURCHASED_AT,2025-12-27T00:00:00,Banking App,payment 
+T:248,M587,PURCHASED_AT,2022-07-16T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:249,M520,PURCHASED_AT,2023-08-04T00:00:00,Phone Wallet,In need of product
+T:249,M174,PURCHASED_AT,2023-03-30T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:250,M59,PURCHASED_AT,2021-09-03T00:00:00,Phone Wallet,sale
+T:250,M228,PURCHASED_AT,2020-05-08T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:251,M426,PURCHASED_AT,2020-05-16T00:00:00,Phone Wallet,In need of product
+T:251,M403,PURCHASED_AT,2020-08-27T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:252,M552,PURCHASED_AT,2023-08-07T00:00:00,Phone Wallet,In need of product
+T:252,M468,PURCHASED_AT,2024-01-26T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:253,M239,PURCHASED_AT,2024-11-16T00:00:00,Phone Wallet,In need of product
+T:253,M433,PURCHASED_AT,2020-03-01T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:254,M268,PURCHASED_AT,2020-11-01T00:00:00,Banking App,payment 
+T:254,M169,PURCHASED_AT,2020-12-09T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:255,M264,PURCHASED_AT,2022-01-21T00:00:00,other,sale
+T:255,M531,PURCHASED_AT,2021-12-22T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:256,M33,PURCHASED_AT,2022-01-15T00:00:00,Phone Wallet,fee
+T:256,M231,PURCHASED_AT,2021-06-05T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:257,M295,PURCHASED_AT,2023-05-07T00:00:00,Banking App,In need of product
+T:257,M581,PURCHASED_AT,2025-01-24T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:258,M389,PURCHASED_AT,2021-12-30T00:00:00,other,payment 
+T:258,M588,PURCHASED_AT,2024-10-30T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:259,M118,PURCHASED_AT,2023-01-21T00:00:00,Phone Wallet,fee
+T:259,M86,PURCHASED_AT,2025-12-16T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:260,M314,PURCHASED_AT,2024-11-01T00:00:00,other,sale
+T:260,M195,PURCHASED_AT,2025-01-02T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:261,M291,PURCHASED_AT,2020-12-15T00:00:00,Banking App,sale
+T:261,M493,PURCHASED_AT,2021-10-04T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:262,M452,PURCHASED_AT,2022-03-23T00:00:00,other,In need of product
+T:262,M370,PURCHASED_AT,2023-06-30T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:263,M484,PURCHASED_AT,2025-08-10T00:00:00,Phone Wallet,fee
+T:263,M209,PURCHASED_AT,2024-01-02T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:264,M343,PURCHASED_AT,2021-05-20T00:00:00,Banking App,sale
+T:264,M79,PURCHASED_AT,2020-06-06T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:265,M546,PURCHASED_AT,2023-08-15T00:00:00,Phone Wallet,payment 
+T:265,M298,PURCHASED_AT,2025-05-24T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:266,M558,PURCHASED_AT,2024-12-10T00:00:00,Banking App,payment 
+T:266,M483,PURCHASED_AT,2022-07-24T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:267,M74,PURCHASED_AT,2025-06-14T00:00:00,Phone Wallet,In need of product
+T:267,M83,PURCHASED_AT,2024-05-20T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:268,M504,PURCHASED_AT,2025-05-17T00:00:00,other,fee
+T:268,M112,PURCHASED_AT,2022-08-06T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:269,M239,PURCHASED_AT,2024-01-16T00:00:00,Phone Wallet,sale
+T:269,M327,PURCHASED_AT,2020-06-08T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:270,M94,PURCHASED_AT,2024-06-05T00:00:00,Banking App,payment 
+T:270,M435,PURCHASED_AT,2020-09-24T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:271,M453,PURCHASED_AT,2020-04-29T00:00:00,other,sale
+T:271,M100,PURCHASED_AT,2021-06-16T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:272,M370,PURCHASED_AT,2024-12-08T00:00:00,other,sale
+T:272,M451,PURCHASED_AT,2021-06-13T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:273,M88,PURCHASED_AT,2021-08-23T00:00:00,other,sale
+T:273,M90,PURCHASED_AT,2022-03-19T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:274,M129,PURCHASED_AT,2022-02-08T00:00:00,other,In need of product
+T:274,M487,PURCHASED_AT,2020-03-17T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:275,M115,PURCHASED_AT,2020-12-04T00:00:00,other,In need of product
+T:275,M565,PURCHASED_AT,2025-09-08T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:276,M387,PURCHASED_AT,2020-01-27T00:00:00,Banking App,In need of product
+T:276,M182,PURCHASED_AT,2024-11-16T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:277,M313,PURCHASED_AT,2023-02-05T00:00:00,Banking App,fee
+T:277,M317,PURCHASED_AT,2022-05-28T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:278,M306,PURCHASED_AT,2023-11-16T00:00:00,other,In need of product
+T:278,M285,PURCHASED_AT,2023-03-19T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:279,M491,PURCHASED_AT,2025-11-26T00:00:00,Banking App,sale
+T:279,M122,PURCHASED_AT,2023-11-21T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:280,M40,PURCHASED_AT,2025-03-10T00:00:00,other,payment 
+T:280,M267,PURCHASED_AT,2023-04-02T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:281,M304,PURCHASED_AT,2024-01-04T00:00:00,Banking App,In need of product
+T:281,M11,PURCHASED_AT,2024-01-19T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:282,M91,PURCHASED_AT,2024-12-08T00:00:00,Banking App,fee
+T:282,M29,PURCHASED_AT,2020-12-30T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:283,M418,PURCHASED_AT,2021-02-03T00:00:00,Banking App,In need of product
+T:283,M417,PURCHASED_AT,2021-07-07T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:284,M484,PURCHASED_AT,2021-02-22T00:00:00,other,sale
+T:284,M73,PURCHASED_AT,2024-06-06T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:285,M502,PURCHASED_AT,2024-06-15T00:00:00,Phone Wallet,fee
+T:285,M559,PURCHASED_AT,2022-09-19T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:286,M573,PURCHASED_AT,2024-01-16T00:00:00,Phone Wallet,payment 
+T:286,M273,PURCHASED_AT,2024-10-09T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:287,M498,PURCHASED_AT,2023-09-28T00:00:00,Banking App,fee
+T:287,M249,PURCHASED_AT,2022-04-09T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:288,M483,PURCHASED_AT,2023-06-26T00:00:00,Phone Wallet,sale
+T:288,M43,PURCHASED_AT,2022-01-24T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:289,M520,PURCHASED_AT,2021-09-02T00:00:00,other,payment 
+T:289,M284,PURCHASED_AT,2023-02-04T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:290,M524,PURCHASED_AT,2022-11-21T00:00:00,Banking App,sale
+T:290,M448,PURCHASED_AT,2023-04-15T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:291,M134,PURCHASED_AT,2025-11-06T00:00:00,Banking App,sale
+T:291,M454,PURCHASED_AT,2023-06-18T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:292,M512,PURCHASED_AT,2021-12-13T00:00:00,Banking App,In need of product
+T:292,M480,PURCHASED_AT,2025-05-18T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:293,M417,PURCHASED_AT,2020-01-13T00:00:00,Banking App,fee
+T:293,M473,PURCHASED_AT,2022-06-10T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:294,M197,PURCHASED_AT,2024-10-11T00:00:00,other,In need of product
+T:294,M52,PURCHASED_AT,2023-10-17T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:295,M205,PURCHASED_AT,2020-03-24T00:00:00,Phone Wallet,sale
+T:295,M200,PURCHASED_AT,2025-03-17T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:296,M1,PURCHASED_AT,2020-09-20T00:00:00,Phone Wallet,In need of product
+T:296,M496,PURCHASED_AT,2022-10-19T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:297,M208,PURCHASED_AT,2023-12-26T00:00:00,Phone Wallet,fee
+T:297,M297,PURCHASED_AT,2022-01-10T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:298,M168,PURCHASED_AT,2022-01-04T00:00:00,Phone Wallet,sale
+T:298,M420,PURCHASED_AT,2023-03-09T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:299,M587,PURCHASED_AT,2020-10-06T00:00:00,Phone Wallet,payment 
+T:299,M509,PURCHASED_AT,2024-09-30T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:300,M355,PURCHASED_AT,2020-06-06T00:00:00,Phone Wallet,sale
+T:300,M45,PURCHASED_AT,2020-07-06T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:301,M95,PURCHASED_AT,2020-03-13T00:00:00,other,fee
+T:301,M333,PURCHASED_AT,2022-03-06T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:302,M444,PURCHASED_AT,2025-02-24T00:00:00,Banking App,payment 
+T:302,M178,PURCHASED_AT,2020-02-13T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:303,M132,PURCHASED_AT,2023-08-05T00:00:00,Banking App,sale
+T:303,M26,PURCHASED_AT,2021-01-19T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:304,M199,PURCHASED_AT,2023-07-29T00:00:00,other,In need of product
+T:304,M308,PURCHASED_AT,2024-02-20T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:305,M504,PURCHASED_AT,2022-05-07T00:00:00,Phone Wallet,In need of product
+T:305,M79,PURCHASED_AT,2024-07-14T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:306,M71,PURCHASED_AT,2023-08-24T00:00:00,Phone Wallet,payment 
+T:306,M339,PURCHASED_AT,2024-12-21T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:307,M441,PURCHASED_AT,2022-07-01T00:00:00,other,In need of product
+T:307,M536,PURCHASED_AT,2025-01-07T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:308,M16,PURCHASED_AT,2024-09-05T00:00:00,Banking App,sale
+T:308,M291,PURCHASED_AT,2020-08-22T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:309,M75,PURCHASED_AT,2025-12-15T00:00:00,Phone Wallet,payment 
+T:309,M25,PURCHASED_AT,2020-04-07T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:310,M1,PURCHASED_AT,2022-05-17T00:00:00,other,payment 
+T:310,M293,PURCHASED_AT,2021-12-07T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:311,M467,PURCHASED_AT,2021-11-17T00:00:00,Banking App,fee
+T:311,M236,PURCHASED_AT,2024-06-25T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:312,M7,PURCHASED_AT,2022-03-17T00:00:00,Phone Wallet,sale
+T:312,M332,PURCHASED_AT,2020-01-16T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:313,M464,PURCHASED_AT,2020-07-22T00:00:00,Banking App,fee
+T:313,M577,PURCHASED_AT,2023-04-11T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:314,M593,PURCHASED_AT,2020-07-16T00:00:00,other,fee
+T:314,M199,PURCHASED_AT,2025-07-09T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:315,M263,PURCHASED_AT,2022-07-25T00:00:00,Phone Wallet,payment 
+T:315,M328,PURCHASED_AT,2025-09-21T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:316,M268,PURCHASED_AT,2023-10-19T00:00:00,other,sale
+T:316,M268,PURCHASED_AT,2020-02-15T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:317,M265,PURCHASED_AT,2020-11-20T00:00:00,Phone Wallet,In need of product
+T:317,M104,PURCHASED_AT,2022-11-03T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:318,M398,PURCHASED_AT,2022-01-23T00:00:00,other,payment 
+T:318,M263,PURCHASED_AT,2022-03-30T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:319,M53,PURCHASED_AT,2022-12-03T00:00:00,Phone Wallet,payment 
+T:319,M74,PURCHASED_AT,2020-12-24T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:320,M155,PURCHASED_AT,2022-08-17T00:00:00,other,In need of product
+T:320,M6,PURCHASED_AT,2020-04-25T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:321,M435,PURCHASED_AT,2025-11-06T00:00:00,other,payment 
+T:321,M12,PURCHASED_AT,2024-03-20T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:322,M325,PURCHASED_AT,2020-04-06T00:00:00,Phone Wallet,payment 
+T:322,M124,PURCHASED_AT,2024-03-08T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:323,M259,PURCHASED_AT,2021-10-14T00:00:00,Banking App,fee
+T:323,M575,PURCHASED_AT,2024-04-03T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:324,M373,PURCHASED_AT,2022-02-24T00:00:00,Phone Wallet,sale
+T:324,M5,PURCHASED_AT,2021-04-01T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:325,M409,PURCHASED_AT,2025-01-12T00:00:00,Banking App,payment 
+T:325,M97,PURCHASED_AT,2024-07-16T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:326,M205,PURCHASED_AT,2020-02-22T00:00:00,Banking App,fee
+T:326,M533,PURCHASED_AT,2020-02-03T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:327,M291,PURCHASED_AT,2024-06-12T00:00:00,other,fee
+T:327,M213,PURCHASED_AT,2023-10-15T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:328,M116,PURCHASED_AT,2024-10-09T00:00:00,Phone Wallet,fee
+T:328,M5,PURCHASED_AT,2024-04-23T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:329,M39,PURCHASED_AT,2021-08-05T00:00:00,Phone Wallet,In need of product
+T:329,M40,PURCHASED_AT,2021-11-01T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:330,M3,PURCHASED_AT,2023-01-06T00:00:00,other,sale
+T:330,M99,PURCHASED_AT,2022-04-13T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:331,M507,PURCHASED_AT,2025-06-23T00:00:00,Phone Wallet,payment 
+T:331,M420,PURCHASED_AT,2025-09-04T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:332,M175,PURCHASED_AT,2022-02-22T00:00:00,Banking App,In need of product
+T:332,M204,PURCHASED_AT,2023-01-12T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:333,M327,PURCHASED_AT,2021-01-18T00:00:00,Banking App,fee
+T:333,M386,PURCHASED_AT,2022-07-29T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:334,M506,PURCHASED_AT,2022-05-09T00:00:00,Phone Wallet,sale
+T:334,M1,PURCHASED_AT,2025-12-31T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:335,M299,PURCHASED_AT,2022-01-28T00:00:00,Phone Wallet,payment 
+T:335,M66,PURCHASED_AT,2024-06-17T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:336,M364,PURCHASED_AT,2021-12-08T00:00:00,Phone Wallet,In need of product
+T:336,M405,PURCHASED_AT,2022-10-18T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:337,M128,PURCHASED_AT,2024-06-25T00:00:00,other,fee
+T:337,M129,PURCHASED_AT,2022-11-10T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:338,M92,PURCHASED_AT,2022-08-03T00:00:00,Banking App,payment 
+T:338,M285,PURCHASED_AT,2022-01-10T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:339,M135,PURCHASED_AT,2020-07-15T00:00:00,other,payment 
+T:339,M390,PURCHASED_AT,2022-11-25T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:340,M117,PURCHASED_AT,2023-04-02T00:00:00,other,payment 
+T:340,M585,PURCHASED_AT,2023-08-31T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:341,M153,PURCHASED_AT,2024-12-28T00:00:00,Phone Wallet,sale
+T:341,M280,PURCHASED_AT,2025-12-26T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:342,M309,PURCHASED_AT,2020-04-21T00:00:00,Banking App,payment 
+T:342,M36,PURCHASED_AT,2024-04-20T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:343,M452,PURCHASED_AT,2020-03-20T00:00:00,Phone Wallet,payment 
+T:343,M373,PURCHASED_AT,2023-05-16T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:344,M136,PURCHASED_AT,2024-11-29T00:00:00,Banking App,payment 
+T:344,M329,PURCHASED_AT,2022-06-26T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:345,M154,PURCHASED_AT,2020-02-08T00:00:00,other,In need of product
+T:345,M467,PURCHASED_AT,2025-10-14T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:346,M439,PURCHASED_AT,2022-09-12T00:00:00,Phone Wallet,sale
+T:346,M527,PURCHASED_AT,2021-02-17T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:347,M444,PURCHASED_AT,2025-01-25T00:00:00,Banking App,sale
+T:347,M110,PURCHASED_AT,2025-03-19T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:348,M81,PURCHASED_AT,2025-08-28T00:00:00,other,fee
+T:348,M405,PURCHASED_AT,2024-02-29T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:349,M225,PURCHASED_AT,2025-11-02T00:00:00,Phone Wallet,sale
+T:349,M21,PURCHASED_AT,2022-09-30T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:350,M382,PURCHASED_AT,2020-07-26T00:00:00,Phone Wallet,payment 
+T:350,M93,PURCHASED_AT,2021-08-25T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:351,M83,PURCHASED_AT,2020-02-09T00:00:00,Banking App,payment 
+T:351,M108,PURCHASED_AT,2020-04-06T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:352,M530,PURCHASED_AT,2022-03-31T00:00:00,other,payment 
+T:352,M57,PURCHASED_AT,2024-10-06T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:353,M552,PURCHASED_AT,2025-05-17T00:00:00,Phone Wallet,fee
+T:353,M503,PURCHASED_AT,2021-09-08T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:354,M375,PURCHASED_AT,2021-11-09T00:00:00,Banking App,payment 
+T:354,M106,PURCHASED_AT,2021-02-01T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:355,M17,PURCHASED_AT,2025-12-21T00:00:00,Phone Wallet,fee
+T:355,M361,PURCHASED_AT,2023-09-07T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:356,M462,PURCHASED_AT,2024-08-29T00:00:00,other,sale
+T:356,M293,PURCHASED_AT,2020-10-30T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:357,M87,PURCHASED_AT,2022-08-03T00:00:00,Phone Wallet,sale
+T:357,M491,PURCHASED_AT,2025-12-11T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:358,M149,PURCHASED_AT,2020-07-21T00:00:00,other,payment 
+T:358,M45,PURCHASED_AT,2021-01-19T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:359,M191,PURCHASED_AT,2024-03-12T00:00:00,Banking App,fee
+T:359,M547,PURCHASED_AT,2024-12-30T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:360,M49,PURCHASED_AT,2025-06-03T00:00:00,Phone Wallet,payment 
+T:360,M577,PURCHASED_AT,2024-06-24T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:361,M583,PURCHASED_AT,2023-12-20T00:00:00,other,fee
+T:361,M65,PURCHASED_AT,2023-12-15T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:362,M262,PURCHASED_AT,2023-04-07T00:00:00,other,payment 
+T:362,M249,PURCHASED_AT,2024-05-07T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:363,M11,PURCHASED_AT,2020-11-23T00:00:00,Banking App,In need of product
+T:363,M316,PURCHASED_AT,2021-08-21T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:364,M28,PURCHASED_AT,2023-04-02T00:00:00,Phone Wallet,In need of product
+T:364,M367,PURCHASED_AT,2025-03-01T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:365,M249,PURCHASED_AT,2021-05-11T00:00:00,other,In need of product
+T:365,M83,PURCHASED_AT,2024-04-02T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:366,M517,PURCHASED_AT,2022-05-02T00:00:00,Banking App,In need of product
+T:366,M338,PURCHASED_AT,2024-09-14T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:367,M468,PURCHASED_AT,2020-06-15T00:00:00,other,In need of product
+T:367,M183,PURCHASED_AT,2022-09-13T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:368,M203,PURCHASED_AT,2022-11-03T00:00:00,Phone Wallet,In need of product
+T:368,M154,PURCHASED_AT,2024-07-31T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:369,M232,PURCHASED_AT,2025-04-07T00:00:00,Banking App,payment 
+T:369,M297,PURCHASED_AT,2024-02-22T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:370,M304,PURCHASED_AT,2025-10-15T00:00:00,other,fee
+T:370,M221,PURCHASED_AT,2025-10-11T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:371,M456,PURCHASED_AT,2020-01-31T00:00:00,Phone Wallet,sale
+T:371,M261,PURCHASED_AT,2023-07-03T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:372,M278,PURCHASED_AT,2020-05-10T00:00:00,Banking App,fee
+T:372,M10,PURCHASED_AT,2020-09-19T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:373,M201,PURCHASED_AT,2022-06-10T00:00:00,Phone Wallet,sale
+T:373,M222,PURCHASED_AT,2025-04-16T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:374,M330,PURCHASED_AT,2025-01-02T00:00:00,Banking App,sale
+T:374,M122,PURCHASED_AT,2023-10-09T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:375,M574,PURCHASED_AT,2020-06-02T00:00:00,other,In need of product
+T:375,M282,PURCHASED_AT,2021-02-02T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:376,M16,PURCHASED_AT,2024-04-13T00:00:00,Phone Wallet,payment 
+T:376,M316,PURCHASED_AT,2023-03-15T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:377,M488,PURCHASED_AT,2023-07-04T00:00:00,Phone Wallet,sale
+T:377,M45,PURCHASED_AT,2025-09-09T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:378,M197,PURCHASED_AT,2021-01-25T00:00:00,Phone Wallet,fee
+T:378,M589,PURCHASED_AT,2023-11-11T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:379,M428,PURCHASED_AT,2022-01-08T00:00:00,other,In need of product
+T:379,M359,PURCHASED_AT,2021-05-08T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:380,M100,PURCHASED_AT,2021-05-29T00:00:00,other,In need of product
+T:380,M123,PURCHASED_AT,2023-10-05T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:381,M400,PURCHASED_AT,2021-06-25T00:00:00,other,In need of product
+T:381,M377,PURCHASED_AT,2020-05-24T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:382,M17,PURCHASED_AT,2022-10-04T00:00:00,Banking App,In need of product
+T:382,M275,PURCHASED_AT,2022-09-22T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:383,M291,PURCHASED_AT,2024-10-15T00:00:00,Phone Wallet,sale
+T:383,M12,PURCHASED_AT,2024-02-11T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:384,M172,PURCHASED_AT,2020-10-19T00:00:00,Phone Wallet,fee
+T:384,M100,PURCHASED_AT,2021-04-23T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:385,M156,PURCHASED_AT,2024-02-27T00:00:00,Phone Wallet,sale
+T:385,M582,PURCHASED_AT,2023-01-01T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:386,M341,PURCHASED_AT,2021-04-03T00:00:00,other,In need of product
+T:386,M37,PURCHASED_AT,2020-10-18T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:387,M211,PURCHASED_AT,2024-03-29T00:00:00,Phone Wallet,payment 
+T:387,M462,PURCHASED_AT,2023-01-01T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:388,M292,PURCHASED_AT,2021-04-05T00:00:00,Banking App,payment 
+T:388,M599,PURCHASED_AT,2024-12-08T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:389,M296,PURCHASED_AT,2023-09-19T00:00:00,other,fee
+T:389,M536,PURCHASED_AT,2025-02-12T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:390,M593,PURCHASED_AT,2021-12-10T00:00:00,Banking App,In need of product
+T:390,M541,PURCHASED_AT,2020-09-28T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:391,M115,PURCHASED_AT,2021-07-27T00:00:00,other,In need of product
+T:391,M467,PURCHASED_AT,2022-10-22T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:392,M450,PURCHASED_AT,2025-05-21T00:00:00,other,payment 
+T:392,M265,PURCHASED_AT,2022-01-20T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:393,M569,PURCHASED_AT,2023-04-27T00:00:00,Banking App,In need of product
+T:393,M100,PURCHASED_AT,2025-04-01T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:394,M35,PURCHASED_AT,2022-10-10T00:00:00,Banking App,sale
+T:394,M537,PURCHASED_AT,2023-05-01T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:395,M468,PURCHASED_AT,2025-12-16T00:00:00,Phone Wallet,sale
+T:395,M399,PURCHASED_AT,2024-03-05T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:396,M290,PURCHASED_AT,2021-08-23T00:00:00,Banking App,sale
+T:396,M585,PURCHASED_AT,2021-03-12T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:397,M250,PURCHASED_AT,2022-03-05T00:00:00,Phone Wallet,fee
+T:397,M564,PURCHASED_AT,2023-01-22T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:398,M69,PURCHASED_AT,2021-03-14T00:00:00,Phone Wallet,fee
+T:398,M57,PURCHASED_AT,2024-10-16T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:399,M239,PURCHASED_AT,2025-08-19T00:00:00,Banking App,In need of product
+T:399,M181,PURCHASED_AT,2023-04-19T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:400,M548,PURCHASED_AT,2025-12-04T00:00:00,Banking App,In need of product
+T:400,M375,PURCHASED_AT,2022-01-25T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:401,M56,PURCHASED_AT,2022-11-01T00:00:00,Banking App,payment 
+T:401,M379,PURCHASED_AT,2021-07-29T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:402,M368,PURCHASED_AT,2022-06-06T00:00:00,Banking App,payment 
+T:402,M226,PURCHASED_AT,2020-09-30T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:403,M91,PURCHASED_AT,2020-04-11T00:00:00,other,In need of product
+T:403,M509,PURCHASED_AT,2023-12-26T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:404,M273,PURCHASED_AT,2023-10-09T00:00:00,other,payment 
+T:404,M429,PURCHASED_AT,2024-04-27T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:405,M440,PURCHASED_AT,2022-07-22T00:00:00,Banking App,sale
+T:405,M169,PURCHASED_AT,2023-11-19T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:406,M498,PURCHASED_AT,2023-10-20T00:00:00,Phone Wallet,payment 
+T:406,M541,PURCHASED_AT,2021-12-21T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:407,M184,PURCHASED_AT,2023-07-03T00:00:00,other,sale
+T:407,M249,PURCHASED_AT,2022-01-10T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:408,M381,PURCHASED_AT,2023-05-03T00:00:00,Banking App,payment 
+T:408,M450,PURCHASED_AT,2020-08-20T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:409,M343,PURCHASED_AT,2024-04-01T00:00:00,Banking App,In need of product
+T:409,M597,PURCHASED_AT,2020-03-12T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:410,M282,PURCHASED_AT,2025-02-05T00:00:00,other,payment 
+T:410,M110,PURCHASED_AT,2025-12-27T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:411,M245,PURCHASED_AT,2022-03-25T00:00:00,Banking App,payment 
+T:411,M62,PURCHASED_AT,2025-05-01T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:412,M515,PURCHASED_AT,2021-01-12T00:00:00,Phone Wallet,sale
+T:412,M274,PURCHASED_AT,2021-04-13T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:413,M40,PURCHASED_AT,2024-04-12T00:00:00,Banking App,In need of product
+T:413,M241,PURCHASED_AT,2025-09-25T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:414,M78,PURCHASED_AT,2025-12-02T00:00:00,other,In need of product
+T:414,M201,PURCHASED_AT,2025-01-14T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:415,M235,PURCHASED_AT,2020-06-24T00:00:00,other,sale
+T:415,M456,PURCHASED_AT,2020-11-08T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:416,M251,PURCHASED_AT,2025-04-01T00:00:00,Banking App,payment 
+T:416,M324,PURCHASED_AT,2024-11-07T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:417,M414,PURCHASED_AT,2021-09-21T00:00:00,Banking App,fee
+T:417,M23,PURCHASED_AT,2021-10-10T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:418,M67,PURCHASED_AT,2020-04-30T00:00:00,Banking App,payment 
+T:418,M270,PURCHASED_AT,2025-03-17T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:419,M91,PURCHASED_AT,2023-01-16T00:00:00,Banking App,sale
+T:419,M523,PURCHASED_AT,2023-05-22T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:420,M90,PURCHASED_AT,2025-11-12T00:00:00,Banking App,In need of product
+T:420,M317,PURCHASED_AT,2020-01-02T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:421,M567,PURCHASED_AT,2024-04-09T00:00:00,Banking App,payment 
+T:421,M285,PURCHASED_AT,2023-08-22T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:422,M461,PURCHASED_AT,2021-02-11T00:00:00,other,fee
+T:422,M324,PURCHASED_AT,2023-03-23T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:423,M564,PURCHASED_AT,2025-06-26T00:00:00,other,payment 
+T:423,M582,PURCHASED_AT,2025-11-25T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:424,M558,PURCHASED_AT,2022-07-05T00:00:00,other,sale
+T:424,M517,PURCHASED_AT,2023-09-08T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:425,M102,PURCHASED_AT,2023-06-26T00:00:00,Banking App,fee
+T:425,M9,PURCHASED_AT,2020-12-14T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:426,M122,PURCHASED_AT,2020-12-15T00:00:00,Banking App,fee
+T:426,M320,PURCHASED_AT,2025-01-29T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:427,M496,PURCHASED_AT,2020-06-07T00:00:00,Phone Wallet,payment 
+T:427,M395,PURCHASED_AT,2020-06-02T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:428,M159,PURCHASED_AT,2024-10-25T00:00:00,Banking App,fee
+T:428,M119,PURCHASED_AT,2021-05-01T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:429,M251,PURCHASED_AT,2022-03-24T00:00:00,Phone Wallet,payment 
+T:429,M293,PURCHASED_AT,2024-12-06T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:430,M371,PURCHASED_AT,2022-01-02T00:00:00,Phone Wallet,fee
+T:430,M567,PURCHASED_AT,2023-08-30T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:431,M302,PURCHASED_AT,2024-10-06T00:00:00,Banking App,fee
+T:431,M415,PURCHASED_AT,2020-09-04T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:432,M264,PURCHASED_AT,2025-02-02T00:00:00,Phone Wallet,fee
+T:432,M403,PURCHASED_AT,2020-06-20T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:433,M313,PURCHASED_AT,2023-12-20T00:00:00,other,In need of product
+T:433,M124,PURCHASED_AT,2020-08-28T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:434,M313,PURCHASED_AT,2024-11-09T00:00:00,Banking App,payment 
+T:434,M428,PURCHASED_AT,2022-10-20T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:435,M151,PURCHASED_AT,2022-07-10T00:00:00,Phone Wallet,In need of product
+T:435,M577,PURCHASED_AT,2021-04-12T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:436,M42,PURCHASED_AT,2025-08-07T00:00:00,Phone Wallet,sale
+T:436,M346,PURCHASED_AT,2021-07-02T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:437,M383,PURCHASED_AT,2024-10-04T00:00:00,Banking App,fee
+T:437,M233,PURCHASED_AT,2023-06-20T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:438,M180,PURCHASED_AT,2024-02-12T00:00:00,other,fee
+T:438,M170,PURCHASED_AT,2024-06-02T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:439,M147,PURCHASED_AT,2020-01-05T00:00:00,Phone Wallet,payment 
+T:439,M269,PURCHASED_AT,2025-04-16T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:440,M1,PURCHASED_AT,2023-03-31T00:00:00,Banking App,payment 
+T:440,M210,PURCHASED_AT,2025-01-29T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:441,M123,PURCHASED_AT,2022-08-14T00:00:00,other,sale
+T:441,M461,PURCHASED_AT,2021-09-21T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:442,M458,PURCHASED_AT,2022-06-19T00:00:00,other,sale
+T:442,M243,PURCHASED_AT,2024-02-09T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:443,M425,PURCHASED_AT,2024-03-04T00:00:00,Banking App,fee
+T:443,M146,PURCHASED_AT,2020-07-04T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:444,M403,PURCHASED_AT,2023-03-20T00:00:00,other,fee
+T:444,M256,PURCHASED_AT,2024-08-26T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:445,M487,PURCHASED_AT,2020-01-29T00:00:00,other,fee
+T:445,M562,PURCHASED_AT,2025-06-14T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:446,M557,PURCHASED_AT,2025-03-02T00:00:00,Phone Wallet,payment 
+T:446,M249,PURCHASED_AT,2020-08-05T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:447,M95,PURCHASED_AT,2022-09-09T00:00:00,Banking App,fee
+T:447,M237,PURCHASED_AT,2024-07-23T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:448,M48,PURCHASED_AT,2022-05-04T00:00:00,other,In need of product
+T:448,M399,PURCHASED_AT,2021-11-21T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:449,M167,PURCHASED_AT,2020-07-08T00:00:00,Phone Wallet,payment 
+T:449,M228,PURCHASED_AT,2025-06-17T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:450,M175,PURCHASED_AT,2023-04-08T00:00:00,Phone Wallet,In need of product
+T:450,M568,PURCHASED_AT,2024-01-13T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:451,M50,PURCHASED_AT,2024-12-15T00:00:00,other,In need of product
+T:451,M267,PURCHASED_AT,2020-08-24T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:452,M202,PURCHASED_AT,2025-08-22T00:00:00,other,payment 
+T:452,M93,PURCHASED_AT,2021-11-19T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:453,M334,PURCHASED_AT,2024-07-17T00:00:00,Phone Wallet,payment 
+T:453,M300,PURCHASED_AT,2022-09-15T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:454,M548,PURCHASED_AT,2025-06-06T00:00:00,Banking App,sale
+T:454,M55,PURCHASED_AT,2024-09-15T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:455,M563,PURCHASED_AT,2024-04-15T00:00:00,Banking App,In need of product
+T:455,M284,PURCHASED_AT,2021-04-14T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:456,M493,PURCHASED_AT,2025-11-24T00:00:00,other,fee
+T:456,M111,PURCHASED_AT,2024-06-01T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:457,M571,PURCHASED_AT,2023-09-23T00:00:00,other,payment 
+T:457,M549,PURCHASED_AT,2022-09-20T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:458,M147,PURCHASED_AT,2024-01-19T00:00:00,other,fee
+T:458,M8,PURCHASED_AT,2024-11-04T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:459,M429,PURCHASED_AT,2022-04-22T00:00:00,Phone Wallet,fee
+T:459,M337,PURCHASED_AT,2022-09-27T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:460,M277,PURCHASED_AT,2024-05-12T00:00:00,Banking App,In need of product
+T:460,M225,PURCHASED_AT,2025-12-13T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:461,M22,PURCHASED_AT,2023-09-30T00:00:00,other,sale
+T:461,M303,PURCHASED_AT,2025-04-12T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:462,M531,PURCHASED_AT,2020-11-09T00:00:00,other,sale
+T:462,M204,PURCHASED_AT,2023-04-01T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:463,M334,PURCHASED_AT,2024-03-03T00:00:00,Banking App,sale
+T:463,M349,PURCHASED_AT,2025-12-20T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:464,M80,PURCHASED_AT,2020-05-14T00:00:00,Banking App,sale
+T:464,M173,PURCHASED_AT,2020-04-07T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:465,M44,PURCHASED_AT,2021-08-24T00:00:00,Banking App,payment 
+T:465,M6,PURCHASED_AT,2020-01-20T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:466,M445,PURCHASED_AT,2022-11-05T00:00:00,Phone Wallet,In need of product
+T:466,M476,PURCHASED_AT,2025-08-03T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:467,M230,PURCHASED_AT,2021-08-10T00:00:00,other,In need of product
+T:467,M191,PURCHASED_AT,2024-11-18T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:468,M318,PURCHASED_AT,2023-10-25T00:00:00,Banking App,In need of product
+T:468,M62,PURCHASED_AT,2024-08-29T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:469,M243,PURCHASED_AT,2021-10-02T00:00:00,Banking App,In need of product
+T:469,M425,PURCHASED_AT,2024-05-27T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:470,M150,PURCHASED_AT,2023-01-28T00:00:00,Banking App,payment 
+T:470,M198,PURCHASED_AT,2020-04-05T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:471,M173,PURCHASED_AT,2022-05-16T00:00:00,other,payment 
+T:471,M570,PURCHASED_AT,2025-01-29T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:472,M429,PURCHASED_AT,2025-02-03T00:00:00,Banking App,In need of product
+T:472,M486,PURCHASED_AT,2024-10-03T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:473,M319,PURCHASED_AT,2025-05-28T00:00:00,Phone Wallet,fee
+T:473,M118,PURCHASED_AT,2023-10-03T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:474,M68,PURCHASED_AT,2022-10-16T00:00:00,other,payment 
+T:474,M7,PURCHASED_AT,2023-10-10T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:475,M134,PURCHASED_AT,2024-05-30T00:00:00,Banking App,payment 
+T:475,M397,PURCHASED_AT,2025-09-05T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:476,M20,PURCHASED_AT,2021-02-23T00:00:00,other,fee
+T:476,M188,PURCHASED_AT,2024-09-20T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:477,M173,PURCHASED_AT,2024-10-29T00:00:00,Phone Wallet,payment 
+T:477,M414,PURCHASED_AT,2020-12-20T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:478,M232,PURCHASED_AT,2022-02-15T00:00:00,Banking App,In need of product
+T:478,M595,PURCHASED_AT,2024-08-23T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:479,M502,PURCHASED_AT,2020-11-12T00:00:00,Banking App,fee
+T:479,M280,PURCHASED_AT,2020-06-06T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:480,M72,PURCHASED_AT,2023-06-10T00:00:00,Phone Wallet,payment 
+T:480,M254,PURCHASED_AT,2025-08-30T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:481,M317,PURCHASED_AT,2023-03-28T00:00:00,Phone Wallet,payment 
+T:481,M558,PURCHASED_AT,2025-10-28T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:482,M370,PURCHASED_AT,2020-09-09T00:00:00,Banking App,sale
+T:482,M311,PURCHASED_AT,2020-05-25T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:483,M333,PURCHASED_AT,2024-06-18T00:00:00,Phone Wallet,In need of product
+T:483,M119,PURCHASED_AT,2021-08-15T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:484,M139,PURCHASED_AT,2024-09-13T00:00:00,Phone Wallet,fee
+T:484,M391,PURCHASED_AT,2023-04-30T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:485,M565,PURCHASED_AT,2020-02-23T00:00:00,other,sale
+T:485,M599,PURCHASED_AT,2022-07-24T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:486,M279,PURCHASED_AT,2023-12-05T00:00:00,Banking App,fee
+T:486,M199,PURCHASED_AT,2021-07-22T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:487,M524,PURCHASED_AT,2021-01-01T00:00:00,other,fee
+T:487,M207,PURCHASED_AT,2024-06-30T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:488,M256,PURCHASED_AT,2025-10-18T00:00:00,Phone Wallet,sale
+T:488,M459,PURCHASED_AT,2025-05-04T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:489,M1,PURCHASED_AT,2022-11-20T00:00:00,Phone Wallet,In need of product
+T:489,M13,PURCHASED_AT,2024-12-27T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:490,M597,PURCHASED_AT,2024-01-07T00:00:00,Banking App,fee
+T:490,M69,PURCHASED_AT,2025-10-19T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:491,M23,PURCHASED_AT,2025-01-29T00:00:00,other,sale
+T:491,M330,PURCHASED_AT,2022-02-22T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:492,M421,PURCHASED_AT,2025-09-30T00:00:00,Phone Wallet,sale
+T:492,M444,PURCHASED_AT,2021-11-20T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:493,M381,PURCHASED_AT,2020-10-14T00:00:00,Banking App,fee
+T:493,M387,PURCHASED_AT,2020-01-19T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:494,M531,PURCHASED_AT,2024-02-17T00:00:00,other,fee
+T:494,M141,PURCHASED_AT,2025-11-17T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:495,M262,PURCHASED_AT,2022-12-23T00:00:00,Banking App,payment 
+T:495,M109,PURCHASED_AT,2022-07-24T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:496,M562,PURCHASED_AT,2020-10-14T00:00:00,Phone Wallet,sale
+T:496,M591,PURCHASED_AT,2023-10-18T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:497,M349,PURCHASED_AT,2020-09-05T00:00:00,Phone Wallet,In need of product
+T:497,M418,PURCHASED_AT,2022-07-29T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:498,M564,PURCHASED_AT,2023-04-11T00:00:00,other,sale
+T:498,M441,PURCHASED_AT,2024-04-19T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:499,M401,PURCHASED_AT,2023-03-16T00:00:00,other,fee
+T:499,M477,PURCHASED_AT,2022-02-25T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:500,M44,PURCHASED_AT,2025-05-31T00:00:00,Phone Wallet,payment 
+T:500,M289,PURCHASED_AT,2022-08-01T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:501,M76,PURCHASED_AT,2022-02-12T00:00:00,Phone Wallet,sale
+T:501,M136,PURCHASED_AT,2020-06-01T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:502,M488,PURCHASED_AT,2024-10-03T00:00:00,Banking App,In need of product
+T:502,M329,PURCHASED_AT,2022-01-13T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:503,M382,PURCHASED_AT,2022-06-20T00:00:00,other,In need of product
+T:503,M151,PURCHASED_AT,2025-10-22T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:504,M339,PURCHASED_AT,2021-10-22T00:00:00,other,fee
+T:504,M575,PURCHASED_AT,2024-05-13T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:505,M445,PURCHASED_AT,2023-07-03T00:00:00,other,In need of product
+T:505,M459,PURCHASED_AT,2020-08-05T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:506,M469,PURCHASED_AT,2025-11-05T00:00:00,Phone Wallet,In need of product
+T:506,M303,PURCHASED_AT,2024-10-14T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:507,M31,PURCHASED_AT,2024-05-31T00:00:00,other,In need of product
+T:507,M243,PURCHASED_AT,2020-07-15T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:508,M499,PURCHASED_AT,2024-07-20T00:00:00,Banking App,sale
+T:508,M40,PURCHASED_AT,2021-10-19T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:509,M434,PURCHASED_AT,2022-07-25T00:00:00,other,payment 
+T:509,M485,PURCHASED_AT,2022-07-24T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:510,M443,PURCHASED_AT,2020-11-21T00:00:00,other,sale
+T:510,M405,PURCHASED_AT,2023-12-26T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:511,M473,PURCHASED_AT,2022-10-01T00:00:00,other,In need of product
+T:511,M27,PURCHASED_AT,2022-12-24T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:512,M160,PURCHASED_AT,2021-04-02T00:00:00,other,fee
+T:512,M182,PURCHASED_AT,2020-01-13T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:513,M419,PURCHASED_AT,2025-02-20T00:00:00,Phone Wallet,fee
+T:513,M567,PURCHASED_AT,2024-06-09T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:514,M592,PURCHASED_AT,2022-08-02T00:00:00,other,payment 
+T:514,M546,PURCHASED_AT,2021-05-18T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:515,M73,PURCHASED_AT,2025-01-20T00:00:00,other,In need of product
+T:515,M222,PURCHASED_AT,2023-05-26T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:516,M6,PURCHASED_AT,2020-04-26T00:00:00,other,fee
+T:516,M561,PURCHASED_AT,2023-08-04T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:517,M372,PURCHASED_AT,2024-07-26T00:00:00,Phone Wallet,payment 
+T:517,M504,PURCHASED_AT,2025-05-03T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:518,M256,PURCHASED_AT,2020-10-30T00:00:00,Banking App,In need of product
+T:518,M85,PURCHASED_AT,2021-11-04T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:519,M448,PURCHASED_AT,2024-08-25T00:00:00,Phone Wallet,sale
+T:519,M360,PURCHASED_AT,2020-07-13T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:520,M121,PURCHASED_AT,2025-03-18T00:00:00,other,In need of product
+T:520,M525,PURCHASED_AT,2024-11-17T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:521,M346,PURCHASED_AT,2023-11-27T00:00:00,Phone Wallet,fee
+T:521,M225,PURCHASED_AT,2023-03-04T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:522,M376,PURCHASED_AT,2022-09-09T00:00:00,other,sale
+T:522,M111,PURCHASED_AT,2021-11-10T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:523,M109,PURCHASED_AT,2025-02-04T00:00:00,Banking App,payment 
+T:523,M40,PURCHASED_AT,2025-01-04T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:524,M305,PURCHASED_AT,2023-08-25T00:00:00,other,In need of product
+T:524,M441,PURCHASED_AT,2022-02-12T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:525,M315,PURCHASED_AT,2025-08-17T00:00:00,other,payment 
+T:525,M595,PURCHASED_AT,2020-01-15T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:526,M307,PURCHASED_AT,2024-06-24T00:00:00,Banking App,payment 
+T:526,M146,PURCHASED_AT,2022-10-17T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:527,M311,PURCHASED_AT,2025-04-13T00:00:00,Banking App,In need of product
+T:527,M532,PURCHASED_AT,2020-12-14T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:528,M106,PURCHASED_AT,2020-06-13T00:00:00,other,fee
+T:528,M572,PURCHASED_AT,2021-12-15T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:529,M409,PURCHASED_AT,2020-09-13T00:00:00,Banking App,fee
+T:529,M93,PURCHASED_AT,2023-03-05T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:530,M388,PURCHASED_AT,2023-02-17T00:00:00,Banking App,In need of product
+T:530,M542,PURCHASED_AT,2020-11-14T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:531,M193,PURCHASED_AT,2022-01-01T00:00:00,Banking App,sale
+T:531,M516,PURCHASED_AT,2024-02-14T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:532,M196,PURCHASED_AT,2022-02-20T00:00:00,Phone Wallet,fee
+T:532,M422,PURCHASED_AT,2020-01-11T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:533,M369,PURCHASED_AT,2021-08-12T00:00:00,Banking App,fee
+T:533,M150,PURCHASED_AT,2021-12-20T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:534,M39,PURCHASED_AT,2023-04-22T00:00:00,Banking App,In need of product
+T:534,M121,PURCHASED_AT,2025-12-26T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:535,M279,PURCHASED_AT,2022-03-07T00:00:00,Phone Wallet,payment 
+T:535,M60,PURCHASED_AT,2020-02-13T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:536,M367,PURCHASED_AT,2022-07-14T00:00:00,other,payment 
+T:536,M289,PURCHASED_AT,2020-11-12T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:537,M107,PURCHASED_AT,2024-02-01T00:00:00,Banking App,In need of product
+T:537,M287,PURCHASED_AT,2023-03-10T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:538,M561,PURCHASED_AT,2022-06-19T00:00:00,Phone Wallet,fee
+T:538,M114,PURCHASED_AT,2022-02-23T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:539,M289,PURCHASED_AT,2023-07-21T00:00:00,Banking App,payment 
+T:539,M101,PURCHASED_AT,2023-08-27T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:540,M155,PURCHASED_AT,2022-01-16T00:00:00,other,sale
+T:540,M565,PURCHASED_AT,2021-11-05T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:541,M167,PURCHASED_AT,2022-12-20T00:00:00,other,payment 
+T:541,M199,PURCHASED_AT,2025-01-15T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:542,M298,PURCHASED_AT,2022-11-25T00:00:00,other,payment 
+T:542,M535,PURCHASED_AT,2023-11-03T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:543,M26,PURCHASED_AT,2025-07-20T00:00:00,Banking App,payment 
+T:543,M361,PURCHASED_AT,2021-07-30T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:544,M514,PURCHASED_AT,2023-08-17T00:00:00,other,sale
+T:544,M166,PURCHASED_AT,2025-03-31T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:545,M578,PURCHASED_AT,2022-02-23T00:00:00,Banking App,payment 
+T:545,M205,PURCHASED_AT,2021-01-25T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:546,M581,PURCHASED_AT,2025-02-28T00:00:00,Banking App,fee
+T:546,M155,PURCHASED_AT,2021-09-20T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:547,M421,PURCHASED_AT,2021-11-19T00:00:00,Phone Wallet,In need of product
+T:547,M29,PURCHASED_AT,2023-04-19T00:00:00,other,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:548,M402,PURCHASED_AT,2020-01-23T00:00:00,Phone Wallet,In need of product
+T:548,M416,PURCHASED_AT,2022-01-13T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:549,M103,PURCHASED_AT,2024-07-04T00:00:00,other,sale
+T:549,M329,PURCHASED_AT,2024-12-22T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:550,M237,PURCHASED_AT,2024-01-09T00:00:00,other,sale
+T:550,M235,PURCHASED_AT,2021-08-06T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:551,M520,PURCHASED_AT,2020-05-05T00:00:00,other,fee
+T:551,M228,PURCHASED_AT,2025-07-10T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:552,M17,PURCHASED_AT,2024-06-24T00:00:00,other,fee
+T:552,M97,PURCHASED_AT,2020-01-12T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:553,M3,PURCHASED_AT,2023-08-27T00:00:00,Phone Wallet,fee
+T:553,M430,PURCHASED_AT,2022-06-21T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:554,M593,PURCHASED_AT,2022-12-01T00:00:00,Phone Wallet,payment 
+T:554,M454,PURCHASED_AT,2022-12-28T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:555,M403,PURCHASED_AT,2025-07-21T00:00:00,other,In need of product
+T:555,M528,PURCHASED_AT,2024-12-26T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:556,M344,PURCHASED_AT,2020-03-14T00:00:00,Banking App,fee
+T:556,M241,PURCHASED_AT,2024-11-14T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:557,M543,PURCHASED_AT,2020-04-24T00:00:00,Phone Wallet,In need of product
+T:557,M433,PURCHASED_AT,2022-12-09T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:558,M54,PURCHASED_AT,2021-04-27T00:00:00,other,payment 
+T:558,M440,PURCHASED_AT,2025-03-12T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:559,M212,PURCHASED_AT,2023-04-22T00:00:00,Phone Wallet,payment 
+T:559,M150,PURCHASED_AT,2025-10-27T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:560,M341,PURCHASED_AT,2023-11-10T00:00:00,other,fee
+T:560,M468,PURCHASED_AT,2020-03-07T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:561,M68,PURCHASED_AT,2022-02-05T00:00:00,Phone Wallet,In need of product
+T:561,M200,PURCHASED_AT,2023-08-29T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:562,M2,PURCHASED_AT,2022-11-27T00:00:00,Banking App,sale
+T:562,M443,PURCHASED_AT,2023-10-28T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:563,M8,PURCHASED_AT,2021-11-26T00:00:00,Phone Wallet,sale
+T:563,M382,PURCHASED_AT,2020-02-28T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:564,M237,PURCHASED_AT,2022-11-14T00:00:00,Banking App,fee
+T:564,M402,PURCHASED_AT,2024-10-04T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:565,M106,PURCHASED_AT,2023-10-16T00:00:00,other,In need of product
+T:565,M473,PURCHASED_AT,2024-10-27T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:566,M299,PURCHASED_AT,2023-11-08T00:00:00,other,payment 
+T:566,M67,PURCHASED_AT,2022-10-18T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:567,M591,PURCHASED_AT,2022-01-01T00:00:00,other,In need of product
+T:567,M184,PURCHASED_AT,2025-02-15T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:568,M457,PURCHASED_AT,2021-07-21T00:00:00,Phone Wallet,sale
+T:568,M153,PURCHASED_AT,2023-06-10T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:569,M312,PURCHASED_AT,2022-11-23T00:00:00,other,payment 
+T:569,M405,PURCHASED_AT,2020-03-12T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:570,M309,PURCHASED_AT,2024-05-19T00:00:00,Banking App,fee
+T:570,M372,PURCHASED_AT,2023-11-25T00:00:00,Banking App,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:571,M204,PURCHASED_AT,2023-06-23T00:00:00,Banking App,fee
+T:571,M78,PURCHASED_AT,2021-04-04T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:572,M318,PURCHASED_AT,2025-10-30T00:00:00,Banking App,payment 
+T:572,M170,PURCHASED_AT,2022-10-05T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:573,M358,PURCHASED_AT,2024-02-24T00:00:00,other,fee
+T:573,M250,PURCHASED_AT,2020-07-07T00:00:00,Phone Wallet,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:574,M579,PURCHASED_AT,2024-04-22T00:00:00,Banking App,In need of product
+T:574,M318,PURCHASED_AT,2024-06-30T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:575,M379,PURCHASED_AT,2020-01-19T00:00:00,other,fee
+T:575,M134,PURCHASED_AT,2020-12-06T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:576,M358,PURCHASED_AT,2021-08-03T00:00:00,other,sale
+T:576,M211,PURCHASED_AT,2024-12-15T00:00:00,other,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:577,M218,PURCHASED_AT,2022-09-03T00:00:00,Banking App,In need of product
+T:577,M99,PURCHASED_AT,2020-11-24T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:578,M213,PURCHASED_AT,2025-02-02T00:00:00,Phone Wallet,fee
+T:578,M518,PURCHASED_AT,2025-07-31T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:579,M151,PURCHASED_AT,2021-01-07T00:00:00,other,sale
+T:579,M248,PURCHASED_AT,2023-04-20T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:580,M569,PURCHASED_AT,2023-11-06T00:00:00,Phone Wallet,fee
+T:580,M212,PURCHASED_AT,2022-11-16T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:581,M123,PURCHASED_AT,2025-11-22T00:00:00,Phone Wallet,sale
+T:581,M552,PURCHASED_AT,2022-08-21T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:582,M475,PURCHASED_AT,2022-11-18T00:00:00,Banking App,fee
+T:582,M500,PURCHASED_AT,2022-07-17T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:583,M150,PURCHASED_AT,2024-05-09T00:00:00,Banking App,payment 
+T:583,M275,PURCHASED_AT,2022-05-29T00:00:00,Phone Wallet,sale
 startNode,endNode,relationship,time,appUsed,reason
-T:584,M578,PURCHASED_AT,2024-01-30T00:00:00,Banking App,payment 
+T:584,M503,PURCHASED_AT,2024-04-13T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:585,M395,PURCHASED_AT,2021-06-16T00:00:00,Banking App,fee
+T:585,M126,PURCHASED_AT,2020-03-18T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:586,M189,PURCHASED_AT,2021-08-10T00:00:00,Banking App,In need of product
+T:586,M45,PURCHASED_AT,2024-03-06T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:587,M389,PURCHASED_AT,2022-12-10T00:00:00,other,sale
+T:587,M200,PURCHASED_AT,2023-08-01T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:588,M396,PURCHASED_AT,2022-11-11T00:00:00,Banking App,payment 
+T:588,M479,PURCHASED_AT,2021-08-25T00:00:00,Banking App,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:589,M269,PURCHASED_AT,2022-08-08T00:00:00,Phone Wallet,In need of product
+T:589,M423,PURCHASED_AT,2025-07-21T00:00:00,Phone Wallet,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:590,M121,PURCHASED_AT,2022-10-01T00:00:00,other,fee
+T:590,M210,PURCHASED_AT,2024-05-12T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:591,M19,PURCHASED_AT,2021-11-30T00:00:00,Banking App,In need of product
+T:591,M255,PURCHASED_AT,2024-07-14T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:592,M483,PURCHASED_AT,2021-12-12T00:00:00,other,sale
+T:592,M394,PURCHASED_AT,2023-09-21T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:593,M419,PURCHASED_AT,2021-02-24T00:00:00,Phone Wallet,sale
+T:593,M473,PURCHASED_AT,2023-10-12T00:00:00,Phone Wallet,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:594,M540,PURCHASED_AT,2022-07-31T00:00:00,other,payment 
+T:594,M429,PURCHASED_AT,2025-04-03T00:00:00,other,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:595,M158,PURCHASED_AT,2022-07-26T00:00:00,Phone Wallet,payment 
+T:595,M39,PURCHASED_AT,2025-03-05T00:00:00,other,fee
 startNode,endNode,relationship,time,appUsed,reason
-T:596,M181,PURCHASED_AT,2020-05-18T00:00:00,Banking App,sale
+T:596,M522,PURCHASED_AT,2020-01-17T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:597,M170,PURCHASED_AT,2022-05-28T00:00:00,Phone Wallet,sale
+T:597,M5,PURCHASED_AT,2025-10-31T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:598,M467,PURCHASED_AT,2023-07-14T00:00:00,other,sale
+T:598,M122,PURCHASED_AT,2023-11-30T00:00:00,Banking App,In need of product
 startNode,endNode,relationship,time,appUsed,reason
-T:599,M397,PURCHASED_AT,2022-05-14T00:00:00,Phone Wallet,payment 
+T:599,M200,PURCHASED_AT,2020-04-02T00:00:00,Banking App,payment 
 startNode,endNode,relationship,time,appUsed,reason
-T:600,M193,PURCHASED_AT,2024-01-11T00:00:00,Banking App,In need of product
+T:600,M64,PURCHASED_AT,2022-07-10T00:00:00,Phone Wallet,sale

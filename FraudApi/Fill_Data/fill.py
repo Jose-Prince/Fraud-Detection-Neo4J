@@ -304,9 +304,9 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "startNode": account["accountID"],
             "endNode": atm["atmID"],
             "relationship": "Withdraws-AT",
-            "managementStart": random_date(2020, 2025).strftime("%Y-%m-%d"),
-            "accountPurpose": "Corporate Expenses",
-            "auditRating": random.choice(["A", "B", "C"])
+            "time": random_date(2020, 2025).strftime("%Y-%m-%d"),
+            "amount": round(random.uniform(0.0, 1000.0), 2),
+            "AT":  account["accountID"]
         }
         write_relationships_to_csv([Withdraws_AT], 'Fill_Data/csves/Withdraws_AT.csv')
 
