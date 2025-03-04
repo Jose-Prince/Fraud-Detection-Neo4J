@@ -250,7 +250,6 @@ def generate_relationships(users, accounts, banks, companies, devices):
         
 
 
-
     for transaction in transactions:
         bank = random.choice(banks)
         auth_relationship = {
@@ -298,6 +297,19 @@ def generate_relationships(users, accounts, banks, companies, devices):
             "auditRating": random.choice(["A", "B", "C"])
         }
         write_relationships_to_csv([managed_relationship], 'Fill_Data/csves/managed_accounts.csv')
+
+    for account in accounts:
+        atm = random.choice(atms)
+        Withdraws_AT = {
+            "startNode": account["accountID"],
+            "endNode": atm["atmID"],
+            "relationship": "Withdraws-AT",
+            "managementStart": random_date(2020, 2025).strftime("%Y-%m-%d"),
+            "accountPurpose": "Corporate Expenses",
+            "auditRating": random.choice(["A", "B", "C"])
+        }
+        write_relationships_to_csv([Withdraws_AT], 'Fill_Data/csves/Withdraws_AT.csv')
+
 
 
 # Generate random data and save to CSV
