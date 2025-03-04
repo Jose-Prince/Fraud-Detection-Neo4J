@@ -410,7 +410,7 @@ public async Task SetRelationsMultiple(List<FraudApi.Controllers.Rel_To_Change> 
 
             // Build the Cypher query for this particular relation
             var query = $@"
-                MATCH ()-[r:{relations.relationName} {{ {attributesFilter} }}]->()
+                MATCH (r:{relations.relationName} {{ {attributesFilter} }})
                 SET {setClauseStr}
             ";
 
